@@ -36,13 +36,6 @@
                     "title": "Buy Kotak",
                     "description": "Buy Kotak bank at base prcie 1100",
                     "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
-                },
-               {
-                    "key": 6,
-                    "title": "Buy test",
-                    "description": "Buy Kotak bank at base prcie 1100",
-                    "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
-                },
-              
+                }
             ]
     }
