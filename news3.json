@@ -10,8 +10,8 @@
                 },
                 {
                     "key": 1,
-                    "title": "Buy Yes",
-                    "description": "Buy Yes bank at base prcie 300",
+                    "title": "Sell Yes Bank",
+                    "description": "Buy Yes bank at base prcie 50",
                     "imageUrl": "https://images.livemint.com/img/2020/03/11/600x338/20200307102L_1583670274687_1583941538339.jpg"
                 },
                 {
@@ -37,6 +37,12 @@
                     "title": "MF to look for",
                     "description": "Nippon India Mutal Fund house",
                     "imageUrl": "https://d28wu8o6itv89t.cloudfront.net/images/NipponIndiaMutualFundjpg-1576762780152.jpeg"
+                },
+               {
+                    "key": 6,
+                    "title": "Top stocks to for",
+                    "description": "Cadilac health, Sun Pharam & HUL are stocks look for today",
+                    "imageUrl": "https://i.ytimg.com/vi/J8rWF_L6b3E/maxresdefault.jpg"
                 }
             ]
     }
