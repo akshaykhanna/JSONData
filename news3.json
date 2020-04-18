@@ -5,37 +5,38 @@
                     "key": 0,
                     "title": "Buy HDFC",
                     "description": "Buy HDFC bank at base prcie 2300",
-                    "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
+                    "imageUrl": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_850x478/public/2020/03/03/113149-hdfc-bank-reuters.jpg?itok=q9jQISM1&c=ac83f34b40e4bc8abdd6dfb5abca35b0"
+             
                 },
                 {
                     "key": 1,
                     "title": "Buy Yes",
                     "description": "Buy Yes bank at base prcie 300",
-                    "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
+                    "imageUrl": "https://images.livemint.com/img/2020/03/11/600x338/20200307102L_1583670274687_1583941538339.jpg"
                 },
                 {
                     "key": 2,
                     "title": "Buy Kotak",
                     "description": "Buy Kotak bank at base prcie 1100",
-                    "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
+                    "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-04/29/full/1493409396-1484.jpg"
                 },
                 {
                     "key": 3,
-                    "title": "Buy HDFC",
-                    "description": "Buy HDFC bank at base prcie 2300",
-                    "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
+                    "title": "Buy Sun Pharma",
+                    "description": "Buy HDFC bank at base prcie 450",
+                    "imageUrl": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period1/2014/04/09/Photos/sun%20pharma--621x414.jpg"
                 },
                 {
                     "key": 4,
-                    "title": "Buy Yes",
-                    "description": "Buy Yes bank at base prcie 300",
-                    "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
+                    "title": "IPO to look for",
+                    "description": "SBI IPO launching by may end, a definate buy",
+                    "imageUrl": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/ipo2_660_240120045407.jpg"
                 },
                 {
                     "key": 5,
-                    "title": "Buy Kotak",
-                    "description": "Buy Kotak bank at base prcie 1100",
-                    "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
+                    "title": "MF to look for",
+                    "description": "Nippon India Mutal Fund house",
+                    "imageUrl": "https://d28wu8o6itv89t.cloudfront.net/images/NipponIndiaMutualFundjpg-1576762780152.jpeg"
                 }
             ]
     }
