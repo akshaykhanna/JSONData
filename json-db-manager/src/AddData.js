@@ -11,8 +11,20 @@ const AddData = (props) => {
     const [description, setDesc] = useState(dummyData.desc);
     const [imageUrl, setImgLink] = useState(dummyData.imgLink);
     const id = props.listCount;
+    const validateInput = () => {
+        if (title === '' || imageUrl === '' || description === '') {
+            alert("Invalid input: Empty title or image link or description");
+            return false;
+        }
+        if (getWordCount(description) > 60) {
+            alert("Invalid input: Description more than 60 words");
+            return false;
+        }
+        return true;
+    }
     const onFormSubmit = () => {
         debugger;
+        if (!validateInput()) return;
         const data = { 'id': id, 'title': title, 'description': description, 'imageUrl': imageUrl };
         const apiUrl = apiLink;
 
@@ -53,7 +65,7 @@ const AddData = (props) => {
                 </Form.Group>
 
                 <Form.Group as={Row} controlId="exampleForm.ControlTextarea1">
-                    <Form.Label>Description</Form.Label>
+                    <Form.Label>Description(Words: {getWordCount(description)}/60)</Form.Label>
                     <Form.Control as="textarea" rows="10" col="6" onChange={onDescChange}
                         value={description} />
                 </Form.Group>
@@ -84,3 +96,7 @@ const AddData = (props) => {
 };
 
 export default AddData;
+
+function getWordCount(description) {
+    return description.split(" ").length;
+}
