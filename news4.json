@@ -1,39 +1,57 @@
 {
   "News": [
     {
-      "key": 0,
+      "id": 0,
       "title": "Buy HDFC",
       "description": "Buy HDFC bank at base prcie 2300",
       "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
     },
     {
-      "key": 1,
+      "id": 1,
       "title": "Buy Yes",
       "description": "Buy Yes bank at base prcie 300",
       "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
     },
     {
-      "key": 2,
+      "id": 2,
       "title": "Buy Kotak",
       "description": "Buy Kotak bank at base prcie 1100",
       "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
     },
     {
-      "key": 3,
+      "id": 3,
       "title": "Buy HDFC",
       "description": "Buy HDFC bank at base prcie 2300",
       "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
     },
     {
-      "key": 4,
+      "id": 4,
       "title": "Buy Yes",
       "description": "Buy Yes bank at base prcie 300",
       "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
     },
     {
-      "key": 5,
+      "id": 5,
       "title": "Buy Kotak",
       "description": "Buy Kotak bank at base prcie 1100",
+      "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
+    },
+    {
+      "id": 6,
+      "title": "patch  again Buy Ashok Ley",
+      "description": "Buy Kotak bank at base prcie 1100",
+      "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
+    },
+    {
+      "id": 7,
+      "title": "dummyTitle",
+      "description": "It has been quite a few years I am coding. Many times we get old or partial code to continue. I realised that it is very difficult to work with such codes as mostly we don't have any contacts with the earlier devs who worked on them. In such cases, I do miss all UML diagrams which we earlier read in colleges (class diagrams, sequence diagrams, deployment diagrams..) and sometimes we do scribble them while dev-huddles but mostly erase them. So just a thought - Won't it be great if there are tools to maintain UMLs with code and especially if with auto-sync option? ",
+      "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
+    },
+    {
+      "id": 8,
+      "title": "Chal Bay",
+      "description": "It has",
       "imageUrl": "https://facebook.github.io/react-native/img/tiny_logo.png"
     }
   ]

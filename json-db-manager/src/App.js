@@ -1,26 +1,34 @@
 import './App.css';
 
-import React from 'react';
-import logo from './logo.svg';
+import { Col, Container, Row } from 'react-bootstrap';
+import React, { useEffect, useState } from 'react';
+
+import AddData from "./AddData";
+import ListData from "./ListData";
+import { apiLink } from './config';
 
 function App() {
+  const [dataList, setDataList] = useState([]);
+  function fetchUserData() {
+    fetch(apiLink)
+      .then(res => res.json())
+      .then(res => setDataList(res))
+  }
+
+  useEffect(() => {
+    fetchUserData();
+  }, []);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container fluid className="App-header" >
+      <Row>
+        <Col xs={6}>
+          <ListData dataList={dataList} />
+        </Col>
+        <Col>
+          <AddData listCount={dataList.length} />
+        </Col>
+      </Row>
+    </Container>
   );
 }
 
