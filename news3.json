@@ -1,10 +1,16 @@
 {
   "News": [
     {
-      "id": 1,
+      "id": 0,
       "title": "LUPIN POSITIVE FACTS DURING A COVID-19 PANDEMIC",
       "description": " Lupin has received an Establishment Inspection Report (EIR) from the USFDA for its manufacturing plant in Nagpur, Aurangabad and Mandideep with no action indicated.  Lupin has launched generic Mycophenolic acid delayed-release tablets of 180 mg and 360 mg. It is used to prevent organ rejection in patients receiving kidney transplants in the US market. ",
       "imageUrl": "https://www.dsij.in/Portals/0/EasyDNNNews/12279/600600p10163EDNmainimg-img-Lupin.jpg"
+    },
+    {
+      "id": 1,
+      "title": "FMCG LEADER “HUL” INITIATIVES AGAINST CORONA VIRUS",
+      "description": "HUL has committed Rs 100 crore to help in the fight against coronavirus. The company will also donate 2 crores pieces of Lifebuoy soaps and donate Rs 10 crore to upgrade the health care facilities in testing centers and hospitals. Hindustan Unilever has collaborated with UNICEF for a mass communication campaign to inform the public against the COVID-19 pandemic. ",
+      "imageUrl": "https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1543907601/1543907600.jpg"
     }
   ]
 }
