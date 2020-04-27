@@ -2,12 +2,12 @@
 
 ## Run json server
 
-npx json-server --watch news3.json --port=3002
-
-## Change dir
-
-cd .\json-db-manager\
+npm run jsonDb
 
 ## run app
 
 npm start
+
+## run all in one
+
+npm run addData
