@@ -8,7 +8,7 @@ const ListData = (props) => {
         return "loading...";
     }
     return (
-        <Container>
+        <Container style={{ maxHeight: '700px', overflow: 'auto' }}>
             <ul className="list-unstyled">
                 {dataList.map(news => (
                     <Media as="li" key={news.key}>
