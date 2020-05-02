@@ -1,3 +1,4 @@
+import { Container, Row } from 'react-bootstrap';
 import React, { useState } from 'react';
 
 import FormView from './FormView';
@@ -15,6 +16,7 @@ const AddData = (props) => {
 
         addItem(data)
             .then(result => {
+                props.refresh();
                 setResponse(JSON.stringify(result))
             },
                 (error) => {
@@ -24,8 +26,11 @@ const AddData = (props) => {
     }
 
     return (
-        <FormView response={response} item={{ ...dummyData, id }} onFormSubmit={onAddItem}
-        ></FormView>
+        <Container>
+            <Row> <h2> Add item </h2> </Row>
+            <FormView response={response} item={{ ...dummyData, id }} onFormSubmit={onAddItem}
+            ></FormView>
+        </Container>
     );
 };
 

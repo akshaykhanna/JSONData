@@ -26,7 +26,7 @@ const FormView = (props) => {
                 </Form.Group>
                 <Form.Group as={Row} >
                     <Form.Label>Description(Words: {getWordCount(item.description)}/60)</Form.Label>
-                    <Form.Control as="textarea" rows="10" col="6" onChange={onDescChange} value={item.description} />
+                    <Form.Control as="textarea" rows="6" col="6" onChange={onDescChange} value={item.description} />
                 </Form.Group>
                 <Form.Group as={Row} >
                     <Form.Label column sm="2"> Image link </Form.Label>
@@ -34,7 +34,11 @@ const FormView = (props) => {
                         <Form.Control type="input" placeholder="url" onChange={onImgLinkChange} value={item.imageUrl} />
                     </Col>
                 </Form.Group>
-                <Button variant="primary" onClick={() => props.onFormSubmit(item)}> {!props.isEditForm ? 'Add' : 'Udpate'} </Button>
+                <Row>
+                    <Button variant="primary" onClick={() => props.onFormSubmit(item)}> {!props.isEditForm ? 'Add' : 'Udpate'} </Button>
+                    {props.isEditForm && <Button variant="danger" onClick={props.onDiscard}> Discard </Button>}
+                </Row>
+
             </Form>
             {props.response &&
                 <Container>

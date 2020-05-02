@@ -1,3 +1,4 @@
+import { Container, Row } from 'react-bootstrap';
 import React, { useState } from 'react';
 
 import FormView from './FormView';
@@ -12,6 +13,8 @@ const EditData = (props) => {
 
         updateItem(item)
             .then(result => {
+                props.refresh();
+                props.onDiscard();
                 setResponse(JSON.stringify(result))
             },
                 (error) => {
@@ -21,8 +24,13 @@ const EditData = (props) => {
     }
 
     return (
-        <FormView response={response} isEditForm={true} item={props.editItem} onFormSubmit={onEditItem}
-        ></FormView>
+        <Container>
+            <Row> <h2> Edit item </h2> </Row>
+            <FormView response={response} isEditForm={true} item={props.editItem} onFormSubmit={onEditItem}
+                onDiscard={props.onDiscard}
+            ></FormView>
+        </Container>
+
     );
 };
 

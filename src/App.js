@@ -26,6 +26,7 @@ function App() {
   const updateItem = (id) => {
     setEditItem(dataList.find(item => item.id === id))
   }
+  const discardEdit = () => (setEditItem(null))
   return (
     <Container fluid className="App-header" >
       <Row>
@@ -33,7 +34,9 @@ function App() {
           <ListData dataList={dataList} edit={updateItem} />
         </Col>
         <Col>
-          {!editItem ? <AddData listCount={dataList.length} /> : <EditData editItem={editItem} />}
+          {!editItem ?
+            <AddData refresh={fetchUserData} listCount={dataList.length} /> :
+            <EditData refresh={fetchUserData} editItem={editItem} onDiscard={discardEdit} />}
         </Col>
       </Row>
     </Container>
