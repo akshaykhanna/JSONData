@@ -7,10 +7,13 @@ import AddData from "./AddData";
 import ListData from "./ListData";
 import { apiLink } from './config';
 
+const sortQueryString = '?_sort=id&_order=desc';
 function App() {
   const [dataList, setDataList] = useState([]);
+  const [editItem, setEditItem] = useState({});
+
   function fetchUserData() {
-    fetch(apiLink)
+    fetch(apiLink + sortQueryString)
       .then(res => res.json())
       .then(res => setDataList(res))
   }
@@ -18,11 +21,15 @@ function App() {
   useEffect(() => {
     fetchUserData();
   }, []);
+
+  const updateItem = (id) => {
+    setEditItem(dataList.find(item => item.id === id))
+  }
   return (
     <Container fluid className="App-header" >
       <Row>
         <Col xs={6}>
-          <ListData dataList={dataList} />
+          <ListData dataList={dataList} edit={updateItem} />
         </Col>
         <Col>
           <AddData listCount={dataList.length} />

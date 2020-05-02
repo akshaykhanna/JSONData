@@ -1,4 +1,4 @@
-import { Container, Media } from 'react-bootstrap';
+import { Button, Container, Media } from 'react-bootstrap';
 
 import React from 'react';
 
@@ -9,7 +9,7 @@ const ListData = (props) => {
     }
     return (
         <Container style={{ maxHeight: '700px', overflow: 'auto' }}>
-            <ul className="list-unstyled">
+            <ol className="list-unstyled">
                 {dataList.map(news => (
                     <Media as="li" key={news.key}>
                         <img
@@ -22,10 +22,11 @@ const ListData = (props) => {
                         <Media.Body>
                             <h5>{news.title}</h5>
                             <p>{news.description}</p>
+                            <Button variant="secondary" onClick={() => props.edit(news.id)}>Edit</Button>
                         </Media.Body>
                     </Media>
                 ))}
-            </ul>
+            </ol>
         </Container>
     );
 };
