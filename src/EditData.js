@@ -1,19 +1,16 @@
 import React, { useState } from 'react';
 
 import FormView from './FormView';
-import { addItem } from './api';
-import { dummyData } from './dummyData';
+import { updateItem } from './api';
 import { validateInput } from './util';
 
-const AddData = (props) => {
-    const id = props.listCount;
+const EditData = (props) => {
     const [response, setResponse] = useState('');
 
-    const onAddItem = (item) => {
+    const onEditItem = (item) => {
         if (item && !validateInput(item)) return;
-        const data = { id, ...item };
 
-        addItem(data)
+        updateItem(item)
             .then(result => {
                 setResponse(JSON.stringify(result))
             },
@@ -24,10 +21,10 @@ const AddData = (props) => {
     }
 
     return (
-        <FormView response={response} item={{ ...dummyData, id }} onFormSubmit={onAddItem}
+        <FormView response={response} isEditForm={true} item={props.editItem} onFormSubmit={onEditItem}
         ></FormView>
     );
 };
 
-export default AddData;
+export default EditData;
 
