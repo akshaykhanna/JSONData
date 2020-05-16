@@ -1,6 +1,7 @@
 import { Button, Container, Media } from 'react-bootstrap';
 
 import React from 'react';
+import DelDialog from "./DelDialog";
 
 const ListData = (props) => {
     const dataList = props.dataList
@@ -23,6 +24,7 @@ const ListData = (props) => {
                             <h5>{news.title}</h5>
                             <p>{news.description}</p>
                             <Button variant="secondary" onClick={() => props.edit(news.id)}>Edit</Button>
+                            <DelDialog refresh={props.refresh} item={news} />
                         </Media.Body>
                     </Media>
                 ))}

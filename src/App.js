@@ -31,7 +31,7 @@ function App() {
     <Container fluid className="App-header" >
       <Row>
         <Col xs={6}>
-          <ListData dataList={dataList} edit={updateItem} />
+          <ListData refresh={fetchUserData} dataList={dataList} edit={updateItem} />
         </Col>
         <Col>
           {!editItem ?

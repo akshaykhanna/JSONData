@@ -15,3 +15,10 @@ export const updateItem = (data) => {
     };
     return fetch(apiLink + '/' + data.id, options)
 }
+export const delItem = async (id) => {
+    const options = {
+        method: 'DELETE',
+        headers: { "Content-Type": "application/json" }
+    };
+    return await fetch(apiLink + '/' + id, options)
+}
