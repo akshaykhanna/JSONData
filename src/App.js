@@ -7,6 +7,7 @@ import AddData from "./AddData";
 import EditData from "./EditData";
 import ListData from "./ListData";
 import { apiLink } from './config';
+import { getNewItemId } from "./util";
 
 const sortQueryString = '?_sort=id&_order=desc';
 function App() {
@@ -35,7 +36,7 @@ function App() {
         </Col>
         <Col>
           {!editItem ?
-            <AddData refresh={fetchUserData} listCount={dataList.length} /> :
+            <AddData refresh={fetchUserData} listCount={getNewItemId(dataList)} /> :
             <EditData refresh={fetchUserData} editItem={editItem} onDiscard={discardEdit} />}
         </Col>
       </Row>

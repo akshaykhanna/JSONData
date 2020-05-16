@@ -12,7 +12,7 @@ const ListData = (props) => {
         <Container style={{ maxHeight: '700px', overflow: 'auto' }}>
             <ol className="list-unstyled">
                 {dataList.map(news => (
-                    <Media as="li" key={news.key}>
+                    <Media as="li" key={news.id}>
                         <img
                             width={64}
                             height={64}
@@ -21,7 +21,7 @@ const ListData = (props) => {
                             alt="Generic placeholder"
                         />
                         <Media.Body>
-                            <h5>{news.title}</h5>
+                            <h5>{news.id + '. ' + news.title}</h5>
                             <p>{news.description}</p>
                             <Button variant="secondary" onClick={() => props.edit(news.id)}>Edit</Button>
                             <DelDialog refresh={props.refresh} item={news} />

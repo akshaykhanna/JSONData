@@ -27,7 +27,7 @@ const AddData = (props) => {
 
     return (
         <Container>
-            <Row> <h2> Add item </h2> </Row>
+            <Row> <h2> Add item ({id})</h2> </Row>
             <FormView response={response} item={{ ...dummyData, id }} onFormSubmit={onAddItem}
             ></FormView>
         </Container>

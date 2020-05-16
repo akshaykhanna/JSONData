@@ -13,3 +13,8 @@ export const validateInput = (item) => {
 export function getWordCount(description) {
     return description ? description.split(" ").length : 0;
 }
+
+export const getNewItemId = (dataList) =>
+    (dataList && dataList.length > 0
+        ? (+dataList.map(p => p.id).reduce((a, b) => a > b ? a : b) + 1) :
+        0);

@@ -25,7 +25,7 @@ const EditData = (props) => {
 
     return (
         <Container>
-            <Row> <h2> Edit item </h2> </Row>
+            <Row> <h2> Edit item ({props.editItem.id}) </h2> </Row>
             <FormView response={response} isEditForm={true} item={props.editItem} onFormSubmit={onEditItem}
                 onDiscard={props.onDiscard}
             ></FormView>

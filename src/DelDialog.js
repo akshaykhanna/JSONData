@@ -18,7 +18,7 @@ const DelDialog = ({ item, refresh }) => {
                 Delete
         </Button>
 
-            <Modal show={show} onHide={handleDel}>
+            <Modal show={show} onHide={close}>
                 <Modal.Header closeButton>
                     <Modal.Title>Confirm delete item id : {item.id}</Modal.Title>
                 </Modal.Header>
