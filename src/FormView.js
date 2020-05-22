@@ -1,7 +1,7 @@
 import { Button, Col, Container, Form, Row } from 'react-bootstrap';
-import React, { useState } from "react";
-
-import { getWordCount } from './util';
+import React, { useState, useEffect } from "react";
+import { appConstans } from './config';
+import { getWordCount, getCharacterCount } from './util';
 
 const FormView = (props) => {
     const [item, setItem] = useState(props.item);
@@ -25,7 +25,7 @@ const FormView = (props) => {
                     <Form.Control type="title" placeholder="Enter title" onChange={onTitleChange} value={item.title} />
                 </Form.Group>
                 <Form.Group as={Row} >
-                    <Form.Label>Description(Words: {getWordCount(item.description)}/60)</Form.Label>
+                    <Form.Label>Description(Words: {getWordCount(item.description)} | Characters: {getCharacterCount(item.description)}/{appConstans.MAX_DESC_CHARS})</Form.Label>
                     <Form.Control as="textarea" rows="6" col="6" onChange={onDescChange} value={item.description} />
                 </Form.Group>
                 <Form.Group as={Row} >
