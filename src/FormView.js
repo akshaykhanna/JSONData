@@ -5,6 +5,10 @@ import { getWordCount, getCharacterCount } from './util';
 
 const FormView = (props) => {
     const [item, setItem] = useState(props.item);
+    useEffect(() => {
+        setItem(props.item)
+    }, [props.item])
+
     const onTitleChange = (e) => {
         const title = e.target.value;
         setItem({ ...item, title })
