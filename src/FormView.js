@@ -1,4 +1,4 @@
-import { Button, Col, Container, Form, Row } from 'react-bootstrap';
+import { Button, Col, Container, Form, Row, Dropdown } from 'react-bootstrap';
 import React, { useState, useEffect } from "react";
 import { appConstans } from './config';
 import { getWordCount, getCharacterCount } from './util';
@@ -25,6 +25,9 @@ const FormView = (props) => {
         const fullArticleLink = e.target.value;
         setItem({ ...item, fullArticleLink })
     };
+    const onTypeSelect = (type) => {
+        setItem({ ...item, type })
+    };
     return (
         <Container fluid>
             <Form>
@@ -47,6 +50,20 @@ const FormView = (props) => {
                     <Col sm="10">
                         <Form.Control type="input" placeholder="fullArticleLink" onChange={fullArticleLinkChange} value={item.fullArticleLink} />
                     </Col>
+                </Form.Group>
+                <Form.Group as={Row} >
+                    <Form.Label column sm="2"> Type </Form.Label>
+                    <Dropdown>
+                        <Dropdown.Toggle variant="success" id="dropdown-basic">
+                          {item.type || 'Select Type'}
+                        </Dropdown.Toggle>
+
+                        <Dropdown.Menu>
+                            <Dropdown.Item  onSelect={onTypeSelect} active={'news' === item.type} eventKey="news">News</Dropdown.Item>
+                            <Dropdown.Item onSelect={onTypeSelect} active={'call' === item.type}  eventKey="call">Call</Dropdown.Item>
+                            <Dropdown.Item onSelect={onTypeSelect} active={'learn' === item.type}  eventKey="learn">Learn</Dropdown.Item>
+                        </Dropdown.Menu>
+                    </Dropdown>
                 </Form.Group>
                 <Row>
                     <Button variant="primary" onClick={() => props.onFormSubmit(item)}> {!props.isEditForm ? 'Add' : 'Udpate'} </Button>
