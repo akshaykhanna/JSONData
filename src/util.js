@@ -8,6 +8,10 @@ export const validateInput = (item) => {
         alert(`Invalid input: Description has more than ${appConstans.MAX_DESC_CHARS} characters`);
         return false;
     }
+    if (item.title.length > appConstans.MAX_TITLE_CHARS) {
+        alert(`Invalid input: Title has more than ${appConstans.MAX_TITLE_CHARS} characters`);
+        return false;
+    }
     return true;
 }
 

@@ -25,11 +25,11 @@ const FormView = (props) => {
         <Container fluid>
             <Form>
                 <Form.Group as={Row} row  >
-                    <Form.Label>Title</Form.Label>
+                    <Form.Label>Title (Words: {getWordCount(item.title)} | Characters: {getCharacterCount(item.title)}/{appConstans.MAX_TITLE_CHARS})</Form.Label>
                     <Form.Control type="title" placeholder="Enter title" onChange={onTitleChange} value={item.title} />
                 </Form.Group>
                 <Form.Group as={Row} >
-                    <Form.Label>Description(Words: {getWordCount(item.description)} | Characters: {getCharacterCount(item.description)}/{appConstans.MAX_DESC_CHARS})</Form.Label>
+                    <Form.Label>Description (Words: {getWordCount(item.description)} | Characters: {getCharacterCount(item.description)}/{appConstans.MAX_DESC_CHARS})</Form.Label>
                     <Form.Control as="textarea" rows="6" col="6" onChange={onDescChange} value={item.description} />
                 </Form.Group>
                 <Form.Group as={Row} >

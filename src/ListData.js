@@ -12,7 +12,8 @@ const ListData = (props) => {
         <Container style={{ maxHeight: '700px', overflow: 'auto' }}>
             <ol className="list-unstyled">
                 {dataList.map(news => (
-                    <Media as="li" key={news.id}>
+                    <Media as="li" key={news.id} style={{borderBottom: '2px solid white', margin:'10px 0', 
+                    padding:'10px 0'}}>
                         <img
                             width={64}
                             height={64}
