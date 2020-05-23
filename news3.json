@@ -241,6 +241,14 @@
       "description": "1) It has a fixed maturity date.\n2) It achieves to track the returns provided by the Nifty BHARAT Bond Index.\n3) This bond has no lock-in period.\n4) It provides relatively stable returns with lower taxes over the maturity period.\n5) The minimum and maximum investment amount is Rs.1000 and Rs 2,00,000 for the retail investors.\n6) Its managed at 0.0005% cost.",
       "imageUrl": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_850x478/public/2020/01/08/108663-bharat-bond-etf-1.jpg?itok=00WPsONh&c=c5af8c0f92ccc8e249257bf0f1cb18e8",
       "type": "news"
+    },
+    {
+      "id": 40,
+      "title": "WHAT IS AN ETF?",
+      "description": "An exchange-traded fund (ETF) is a basket of securities that trade on an exchange, just like a stock. ETF share prices fluctuate all day as the ETF is bought and sold; this is different from mutual funds that only trade once a day after the market closes. ETFs offer low managed costs and fewer broker commissions than buying the stocks.",
+      "imageUrl": "https://images.financialexpress.com/2019/07/ETF-1.jpg",
+      "type": "learn",
+      "fullArticleLink": "https://www.investopedia.com/terms/e/etf.asp"
     }
   ]
 }
