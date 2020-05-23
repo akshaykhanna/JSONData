@@ -21,6 +21,10 @@ const FormView = (props) => {
         const imageUrl = e.target.value;
         setItem({ ...item, imageUrl })
     };
+    const fullArticleLinkChange = (e) => {
+        const fullArticleLink = e.target.value;
+        setItem({ ...item, fullArticleLink })
+    };
     return (
         <Container fluid>
             <Form>
@@ -36,6 +40,12 @@ const FormView = (props) => {
                     <Form.Label column sm="2"> Image link </Form.Label>
                     <Col sm="10">
                         <Form.Control type="input" placeholder="url" onChange={onImgLinkChange} value={item.imageUrl} />
+                    </Col>
+                </Form.Group>
+                <Form.Group as={Row} >
+                    <Form.Label column sm="2"> Article link </Form.Label>
+                    <Col sm="10">
+                        <Form.Control type="input" placeholder="fullArticleLink" onChange={fullArticleLinkChange} value={item.fullArticleLink} />
                     </Col>
                 </Form.Group>
                 <Row>
