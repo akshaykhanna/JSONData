@@ -265,6 +265,14 @@
       "imageUrl": "https://www.nextbigbrand.in/wp-content/uploads/2019/05/dmart.jpg",
       "type": "news",
       "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/avenue-supermarts-q4-results-profit-jumps-42-yoy-to-rs-272-crore-revenue-rises-24/articleshow/75917933.cms"
+    },
+    {
+      "id": 43,
+      "title": "WHAT IS A NET PROFIT MARGIN ?",
+      "description": "The net profit margin is the ratio of net profit to revenue for a company that is multiplied by 100. Net profit is the gross profit minus operating expenses and all other expenses, such as taxes and interest paid on debt. Its formulas are-:\nNet Profit Margin= (NP/R)*100.\nNet Profit(NP)=Gross Profit-OE-O-I-T\nR=Revenue\nOE=Operating expenses\nO=Other expenses\n I=Interest\n T=Taxes\n​\t\n\n\n\n​\t\n​\t  \n\n​\t \n\n​\t",
+      "imageUrl": "https://www.partner.mojix.com/wp-content/uploads/2017/02/Profit01.jpg",
+      "type": "learn",
+      "fullArticleLink": "https://www.investopedia.com/ask/answers/021215/what-difference-between-gross-profit-margin-and-net-profit-margin.asp"
     }
   ]
 }
