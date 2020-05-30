@@ -25,6 +25,10 @@ const FormView = (props) => {
         const fullArticleLink = e.target.value;
         setItem({ ...item, fullArticleLink })
     };
+    const fullArticleNameChange = (e) => {
+        const fullArticleName = e.target.value;
+        setItem({ ...item, fullArticleName })
+    };
     const onTypeSelect = (type) => {
         setItem({ ...item, type })
     };
@@ -43,6 +47,12 @@ const FormView = (props) => {
                     <Form.Label column sm="2"> Image link </Form.Label>
                     <Col sm="10">
                         <Form.Control type="input" placeholder="url" onChange={onImgLinkChange} value={item.imageUrl} />
+                    </Col>
+                </Form.Group>
+                <Form.Group as={Row} >
+                    <Form.Label column sm="3"> Article Name </Form.Label>
+                    <Col sm="9">
+                        <Form.Control type="input" placeholder="fullArticleLinkName" onChange={fullArticleNameChange} value={item.fullArticleName} />
                     </Col>
                 </Form.Group>
                 <Form.Group as={Row} >
