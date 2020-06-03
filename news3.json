@@ -326,6 +326,15 @@
       "type": "news",
       "fullArticleName": "Economic Times",
       "fullArticleLink": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/over-1000-non-swadeshi-products-junked-from-capf-canteens/articleshow/76133733.cms"
+    },
+    {
+      "id": 50,
+      "title": "ICICI BANK CUTS INTEREST RATE",
+      "description": "ICICI Bank has cut the interest rates on saving deposits by 25 basis points (bps). The private sector lender has cut the interest rates on all deposits of less than Rs 50 lakh to 3 percent, as against the existing 3.25 percent. Likewise, for deposits of Rs 50 lakh and above, the account holders will earn an interest of 3.50 percent, down from 3.75 percent currently.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Icici-bandra_kurla_complex.jpg",
+      "type": "news",
+      "fullArticleName": "Economic Times",
+      "fullArticleLink": "https://economictimes.indiatimes.com/industry/banking/finance/banking/icici-bank-cuts-interest-rate-on-saving-deposits-by-25-bps/articleshow/76161027.cms"
     }
   ]
 }
