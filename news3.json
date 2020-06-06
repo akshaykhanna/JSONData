@@ -353,6 +353,15 @@
       "type": "news",
       "fullArticleName": "Moneycontrol.com",
       "fullArticleLink": "https://www.moneycontrol.com/news/business/companies/bharat-biotech-secures-funding-from-cepi-for-developing-chikungunya-vaccine-5353911.html"
+    },
+    {
+      "id": 53,
+      "title": "RAGHAVA LIFE SCIENCES DEVELOPED COVID DRUG",
+      "description": "Active pharmaceutical ingredients manufacturer Raghava Life Sciences (RLS), which claims to have developed bulk drug Favipiravir that showed positive results in trials treating the novel Coronavirus disease. Favipiravir, a generic version of Avigan that is used to treat influenza in Japan, is being studied as an experimental drug in treating the novel Coronavirus disease in India, Russia, China, Japan, Turkey, Thailand, and others.",
+      "imageUrl": "https://media.defense.gov/2020/Mar/09/2002265190/780/780/0/200309-D-HN545-003.JPG",
+      "type": "news",
+      "fullArticleLink": "https://www.business-standard.com/article/companies/hyderabad-s-raghav-life-sciences-develops-favipiravir-for-covid-19-patients-120060500792_1.html",
+      "fullArticleName": "Business Standard"
     }
   ]
 }
