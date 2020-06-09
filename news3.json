@@ -380,6 +380,22 @@
       "type": "news",
       "fullArticleLink": "https://www.ndtv.com/business/coronavirus-pandemic-news-sun-pharma-testing-plant-based-drug-aqch-as-potential-covid-19-treatment-2241164",
       "fullArticleName": "NDTV"
+    },
+    {
+      "id": 56,
+      "title": "Stocks to look for high gains",
+      "description": "Castrol India is fluctuating around it is low (Rs 125) & have slowly started regaining its pace. Further oil demand is likely to bounce back once industries open and vehicles start running on the road. \nReliance Industries: Multiple investors like Silver Lake, Facebook & Abu Dhabi Investment Authority (ADIA) have invested in its  Jio Platforms.  All these investment values Jio at an equity value of Rs 4.91 lakh crore.(Price ₹1,571.8)",
+      "imageUrl": "https://p1.pxfuel.com/preview/319/313/80/stocks-graph-abstract-accounting-analysis-banking-royalty-free-thumbnail.jpg",
+      "type": "call"
+    },
+    {
+      "id": 57,
+      "title": "PVR experiencing huge losses due to COVID-19",
+      "description": "PVR Ltd reported a net loss of Rs 74.61 crore for the Q4. Due to the coronavirus outbreak in India, theatres had stopped operations since the second week of March which led to 0 collections. Further cinemas are in the last phase of unlocking and even dates of reopening will be decided after assessing the situation. Cinema business in  March have suffered losses of around Rs 800 crore & many release have delayed like Sooryavanshi, Radhe.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/PVR_Plaza_No_poster_for_Padmaavati.jpg",
+      "type": "news",
+      "fullArticleName": "moneycontrol.com",
+      "fullArticleLink": "https://www.moneycontrol.com/news/business/earnings/pvr-feels-lockdown-pain-slumps-to-q4-loss-of-rs-74-61-crore-5376301.html"
     }
   ]
 }
