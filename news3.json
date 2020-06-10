@@ -391,11 +391,29 @@
     {
       "id": 57,
       "title": "PVR experiencing huge losses due to COVID-19",
-      "description": "PVR Ltd reported a net loss of Rs 74.61 crore for the Q4. Due to the coronavirus outbreak in India, theatres had stopped operations since the second week of March which led to 0 collections. Further cinemas are in the last phase of unlocking and even dates of reopening will be decided after assessing the situation. Cinema business in  March have suffered losses of around Rs800 crore & many releases have delayed like Sooryavanshi, Radhe.",
+      "description": "bPVR Ltd reported a net loss of Rs 74.61 crore for the Q4. Due to the coronavirus outbreak in India, theatres had stopped operations since the second week of March which led to 0 collections. Further cinemas are in the last phase of unlocking and even dates of reopening will be decided after assessing the situation. Cinema business in  March have suffered losses of around Rs800 crore & many releases have delayed like Sooryavanshi, Radhe.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/PVR_Plaza_No_poster_for_Padmaavati.jpg",
       "type": "news",
       "fullArticleName": "moneycontrol.com",
       "fullArticleLink": "https://www.moneycontrol.com/news/business/earnings/pvr-feels-lockdown-pain-slumps-to-q4-loss-of-rs-74-61-crore-5376301.html"
+    },
+    {
+      "id": 58,
+      "title": "Hero MotoCorp started selling there bikes online",
+      "description": "In the current times of maintaining social distancing, Hero MotoCorp has started online eSHOP to buy & book two-wheeler from the home. Via eShop user can select the variant of 2 Wheeler colour, city, choose dealer & make payment. After doc verification, the vehicle would be delivered & there a representative will collect physical sign ( that is RTO mandate). Companies who had previously done the same are Harley-Davidson, Suzuki and KTM.",
+      "imageUrl": "https://c.pxhere.com/photos/95/ef/photo-89751.jpg!d",
+      "type": "news",
+      "fullArticleName": "Time Now",
+      "fullArticleLink": "https://www.timesnownews.com/auto/bike-news/article/hero-motocorp-eshop-now-buy-hero-scooters-and-bikes-online/603778"
+    },
+    {
+      "id": 59,
+      "title": "Court orders Franklin Templeton to suspend e-vote",
+      "description": "Franklin Templeton created panic in MF markets in April when it announced of closing 6 funds which invested in lower-rated debt in return of higher yields. This effected $3bn of customers funds & they ask for approval before shutting these. The fund house purposed investor to e-vote on the decision whether it be managed by them or third party. But high court said that the vote could not go until an audit of the 6 funds is made public.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_Ben_Head.jpg/800px-Logo_Ben_Head.jpg",
+      "type": "news",
+      "fullArticleLink": "https://economictimes.indiatimes.com/mf/mf-news/franklin-templeton-mutual-fund-suspends-e-vote-on-winding-up-of-six-schemes/articleshow/76272003.cms",
+      "fullArticleName": "economictimes"
     }
   ]
 }
