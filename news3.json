@@ -441,6 +441,33 @@
       "type": "news",
       "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-sets-floor-price-of-rs-725-for-ofs-to-divest-2-1-stake-in-sbi-life-insurance/articleshow/76325803.cms",
       "fullArticleName": "Economic Times"
+    },
+    {
+      "id": 63,
+      "title": "Books to eliminate fear of stock market volatility",
+      "description": "'Warren Buffett's Ground Rules,' by Jeremy C. Miller: curated from the compilation of letter sent by buffet on conservative investing. \"I Will Teach You To Be Rich\" talks about prioritizing spending, reducing debt & automate financing. Mastering The Market Cycle,' by Howard Marks: focuses on the cyclical nature of investing and markets. 'Unshakeable: Your Financial Freedom Playbook: deals to keep money solid through the ups and downs.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Books_HD_%288314929977%29.jpg",
+      "type": "learn",
+      "fullArticleLink": "https://www.businessinsider.in/stock-market/news/6-of-the-best-personal-finance-books-to-read-if-youre-freaking-out-about-the-stock-market/articleshow/74748076.cms",
+      "fullArticleName": "businessinsider"
+    },
+    {
+      "id": 64,
+      "title": "Reliance Jio got 10 investment deals in 2 months",
+      "description": "New investments to the bandwagon of investment in reliance Jio is by global alternative asset firm TPG which would invest Rs 4,546.80 crore and L Catterton Rs 1,894.50 crore at an enterprise value of Rs 5.16 lakh crore. Previous eight investment deals were by Facebook, Silver Lake, Vista Equity Partners, General Atlantic, KKR, Mubadala, ADIA, and TPG which since April 22 brought in Rs 104,326.95 crore.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jio_sim.jpg",
+      "type": "news",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/10-deals-in-2-months-ril-says-tpg-l-catterton-will-invest-rs-6441-cr-in-jio-platforms/articleshow/76363719.cms",
+      "fullArticleName": "economictimes"
+    },
+    {
+      "id": 65,
+      "title": "RBI decision can bring bad news for kotak bank ",
+      "description": "RBI plans to limit the tenure of the CEO of Kotak Mahindra bank. RBI suggested that the tenure of promoter CEOs should be limited to 10 & Non-promoter for 15 years. Currently, Uday Kotak, is the promoter and CEO of the bank, has been in this position since inception. The stock price could show some volatility due to this. RBI reason behind this is his bad experience with promoters of other banks like Bank of Rajasthan, GTB & Yes Bank",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kotak_Mahindra_Bank_ATM.JPG",
+      "type": "news",
+      "fullArticleLink": "https://www.livemint.com/industry/banking/rbi-s-plan-to-hit-kotak-mahindra-the-hardest-11591982061499.html",
+      "fullArticleName": "livemint"
     }
   ]
 }
