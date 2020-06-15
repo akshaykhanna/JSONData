@@ -468,6 +468,15 @@
       "type": "news",
       "fullArticleLink": "https://www.livemint.com/industry/banking/rbi-s-plan-to-hit-kotak-mahindra-the-hardest-11591982061499.html",
       "fullArticleName": "livemint"
+    },
+    {
+      "id": 66,
+      "title": "TATA MOTORS DISCONTINUE JTP BRAND",
+      "description": "Tata Motors will discontinue its Jayem Tata Performance(JTP) brand of performance cars due to reduced demand for such vehicles in the consequences of the Covid-19 pandemic. JT Special Vehicles (JTSV), a 50:50 joint venture between Jayem Automotives and Tata Motors, made high-performance versions of Tata Motors’ passenger cars. The venture had so far developed and marketed the Tiago JTP and Tigor JTP.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Tiago_Test_Drive_Car_Bengaluru.jpg",
+      "type": "news",
+      "fullArticleLink": "https://www.cnbctv18.com/auto/tata-motors-to-discontinue-jtp-performance-cars-will-acquire-jayem-automotives-stake-in-jt-special-vehicles-6133101.htm",
+      "fullArticleName": "Cnbctv18"
     }
   ]
 }
