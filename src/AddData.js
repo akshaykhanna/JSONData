@@ -12,7 +12,7 @@ const AddData = (props) => {
 
     const onAddItem = (item) => {
         if (item && !validateInput(item)) return;
-        const data = { id, ...item };
+        const data = { id, date: new Date().toDateString(), ...item };
 
         addItem(data)
             .then(result => {
@@ -23,7 +23,7 @@ const AddData = (props) => {
                     setResponse(JSON.stringify(error))
                 }
             )
-    }
+    } 
 
     return (
         <Container>
