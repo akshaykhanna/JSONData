@@ -531,6 +531,16 @@
       "type": "news",
       "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/pidilite-industries-q4-results-reports-33-dip-in-net-profit/articleshow/76430598.cms",
       "fullArticleName": "Economic Times"
+    },
+    {
+      "id": 72,
+      "date": "Thu Jun 18 2020",
+      "title": "Mahindra & Mahindra launched Supro Ambulance",
+      "description": "Mahindra & Mahindra has launched the Supro ambulance in two variants, LX and ZX at Rs 6.94 lakh. The first batch of the Supro has been produced exclusively for the Maharashtra government to meet the ambulance requirements in their fight against Coronavirus. It is powered by a BS-VI compliant 909cc diesel engine that produces 47PS and 100 Newton Metre (Nm) of torque and is connected to a 5-speed manual gearbox.",
+      "imageUrl": "https://get.pxhere.com/photo/car-van-transport-vehicle-yellow-bus-trauma-minibus-ambulance-commercial-vehicle-paramedic-automobile-make-emergency-vehicle-549456.jpg",
+      "type": "news",
+      "fullArticleLink": "https://www.moneycontrol.com/news/technology/auto/mahindra-supro-ambulance-launched-at-rs-6-94-lakh-first-batch-manufactured-for-maharashtra-5422241.html",
+      "fullArticleName": "Moneycontrol"
     }
   ]
 }
