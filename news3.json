@@ -551,6 +551,16 @@
       "type": "news",
       "fullArticleLink": "https://indianexpress.com/article/business/companies/mukesh-ambani-reliance-industries-ril-net-debt-free-jio-platforms-rights-issue-6465968/",
       "fullArticleName": "Indian Express"
+    },
+    {
+      "id": 74,
+      "date": "Fri Jun 19 2020",
+      "title": "Grants permission to sell Favipiravir Covid drug ",
+      "description": "The Drug Controller General of India (DCGI) has granted permission to manufacture and sell Glenmark pharmaceuticals Favipiravir for COVID-19. The approval has been given under “restricted use” in mild to moderate cases of Covid-19 infection. Its every strip containing 34 tablets will come at an approximate MRP of Rs 3500. For the treatment, 122 tablets will be required for 14 days.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Covid_19_vaccins.jpg",
+      "type": "news",
+      "fullArticleLink": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dcgi-grants-permission-to-manufacture-and-sell-glenmark-pharmaceuticals-favipiravir-for-covid-19/articleshow/76468590.cms",
+      "fullArticleName": "Economic Times"
     }
   ]
 }
