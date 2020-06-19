@@ -10,4 +10,4 @@ npm start
 
 ## run all in one
 
-npm run addData
+    npm run addData
