@@ -561,6 +561,16 @@
       "type": "news",
       "fullArticleLink": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dcgi-grants-permission-to-manufacture-and-sell-glenmark-pharmaceuticals-favipiravir-for-covid-19/articleshow/76468590.cms",
       "fullArticleName": "Economic Times"
+    },
+    {
+      "id": 75,
+      "date": "Sat Jun 20 2020",
+      "title": "Bajaj Auto launches split seat Pulsar 125",
+      "description": "Bajaj Auto launches a split seat variant of Pulsar 125, priced at Rs 79,091. The new Pulsar 125 split seat is powered by 125cc BS6 DTS-i engine and comes with features such a 5-speed gearbox with a primary kick to enable the rider start the bike in any gear, clip-on handlebars on a 31mm front fork, a wide digital console with trip meter and an anti-skid braking system.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Pulsar_ug3.JPG",
+      "type": "news",
+      "fullArticleLink": "https://www.carandbike.com/news/bajaj-pulsar-125-split-seat-variant-launched-in-india-priced-at-rs-79-091-2248231",
+      "fullArticleName": "Car and bike"
     }
   ]
 }
