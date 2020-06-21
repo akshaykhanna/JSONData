@@ -591,6 +591,16 @@
       "type": "news",
       "fullArticleName": "Economic Times",
       "fullArticleLink": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-launches-generic-remdesivir-for-covid-19-patients/articleshow/76498277.cms"
+    },
+    {
+      "id": 78,
+      "date": "Mon Jun 21 2020",
+      "title": "Dr Reddy's launches drug for prostate cancer",
+      "description": "Pharma major Dr. Reddy's Laboratories has launched generic Abiraterone Acetate tablets, used for the treatment of prostate cancer, in the US market. The company has launched Abiraterone Acetate tablets in the strength of 250 mg, after the approval from the United States Food and Drug Administration (USFDA). The product is a generic version of Johnson & Johnson's Zytiga tablets.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Dr_reddys_logo_%281%29.jpg",
+      "type": "news",
+      "fullArticleName": "Business Standard",
+      "fullArticleLink": "https://www.business-standard.com/article/companies/dr-reddy-s-launches-cancer-drug-abiraterone-acetate-in-us-market-120061900983_1.html"
     }
   ]
 }
