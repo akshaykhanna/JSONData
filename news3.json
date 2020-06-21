@@ -581,6 +581,16 @@
       "type": "news",
       "fullArticleLink": "https://www.moneycontrol.com/news/business/earnings/punjab-national-bank-narrows-q4-loss-to-rs-697-crore-as-bad-loans-ease-5433521.html",
       "fullArticleName": "Moneycontrol"
+    },
+    {
+      "id": 77,
+      "date": "Sun Jun 21 2020",
+      "title": "Cipla launches remdesivir drug for COVID-19",
+      "description": "Homegrown pharma major Cipla Ltd announced the launch of its generic version of remdesivir, which has been authorized for emergency use in the treatment of COVID-19 patients by the USFDA, under its brand name Cipremi. Remdesivir is the only USFDA approved Emergency Use Authorisation (EUA) treatment for adult and paediatric patients hospitalized with laboratory-confirmed COVID-19 infection.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Generic_finasteride_tablets_cipla.jpg",
+      "type": "news",
+      "fullArticleName": "Economic Times",
+      "fullArticleLink": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-launches-generic-remdesivir-for-covid-19-patients/articleshow/76498277.cms"
     }
   ]
 }
