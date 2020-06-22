@@ -601,6 +601,16 @@
       "type": "news",
       "fullArticleName": "Business Standard",
       "fullArticleLink": "https://www.business-standard.com/article/companies/dr-reddy-s-launches-cancer-drug-abiraterone-acetate-in-us-market-120061900983_1.html"
+    },
+    {
+      "id": 79,
+      "date": "Mon Jun 22 2020",
+      "title": "Alembic Pharma tentative approval for its tablets",
+      "description": "Alembic Pharma has received tentative approval from the US health regulator for its generic version of Rivaroxaban tablets used in the treatment of embolism and deep vein thrombosis(DVT). The approval by the US Food & Drug Administration (USFDA) for the Rivaroxaban tablet is for multiple strengths of 10 mg, 15 mg, and 20 mg. The tablet is also used for the reduction of risk of stroke. ",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Blausen_0290_DeepVeinThrombosis.png",
+      "type": "news",
+      "fullArticleLink": "https://www.expresspharma.in/latest-updates/alembic-pharma-gets-tentative-us-fda-nod-for-generic-rivaroxaban-tablets/",
+      "fullArticleName": "Express Pharma"
     }
   ]
 }
