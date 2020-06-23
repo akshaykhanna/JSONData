@@ -641,6 +641,16 @@
       "type": "news",
       "fullArticleLink": "https://www.moneycontrol.com/news/business/kamdhenu-group-resumes-operations-across-all-plants-5438431.html",
       "fullArticleName": "Moneycontrol"
+    },
+    {
+      "id": 83,
+      "date": "Tue Jun 23 2020",
+      "title": "Eicher Motors sales volume reduced",
+      "description": "Eicher Motors, the maker of Royal Enfield bikes, is expected to face a significant drop in sales volume as customers go to postpone spending amid pay cuts and job losses. Royal Enfield’s (RE) volumes have contracted for the past six quarters in a row. The total volume for FY19-20 fell by 15.6% to nearly seven lakh units. The current stock price of Eicher Motors Ltd is 17,911.15.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/11/23/04/08/royal-enfield-2972007_1280.jpg",
+      "type": "news",
+      "fullArticleLink": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/eicher-motors-expects-significant-drop-in-sales/articleshow/76507574.cms",
+      "fullArticleName": "Economic Times"
     }
   ]
 }
