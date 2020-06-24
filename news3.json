@@ -651,6 +651,16 @@
       "type": "news",
       "fullArticleLink": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/eicher-motors-expects-significant-drop-in-sales/articleshow/76507574.cms",
       "fullArticleName": "Economic Times"
+    },
+    {
+      "id": 84,
+      "date": "Wed Jun 24 2020",
+      "title": "TCS deploys the DynaPORT solution for Adani Ports",
+      "description": "IT services major Tata Consultancy Services (TCS) has deployed its terminal operating system 'TCS DynaPORT' at the Mundra CT4 terminal for Adani Ports and Special Economic Zone (APSEZ), India's largest private port operator and end-to-end logistics provider. APSEZ operates 11 ports and terminals that represent 24 percent of India's port capacity. The current stock price of TCS is 2,042.\n",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TCS_Gitabitan_-_DN_54-55_Sector_V_Salt_Lake_City_-_Kolkata_20170515121609.jpg",
+      "type": "news",
+      "fullArticleLink": "https://www.newindianexpress.com/business/2020/jun/23/tcs-deploys-digital-solution-remotely-to-help-adani-ports-transform-mundra-operations-2160389.html",
+      "fullArticleName": "New Indian Express"
     }
   ]
 }
