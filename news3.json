@@ -661,6 +661,16 @@
       "type": "news",
       "fullArticleLink": "https://www.newindianexpress.com/business/2020/jun/23/tcs-deploys-digital-solution-remotely-to-help-adani-ports-transform-mundra-operations-2160389.html",
       "fullArticleName": "New Indian Express"
+    },
+    {
+      "id": 85,
+      "date": "Wed Jun 24 2020",
+      "title": "Asian Paints FY19-20 Q4 results",
+      "description": "Paints maker Asian Paints net profit decreased by 2.1 percent to Rs 461.89 crore in the Q4 of FY19-20 as compared to Rs 471.65 crores in the Q4 of FY18-19. The company’s revenue from operations decreased by 7.1 percent to Rs 4,635.59 crore from Rs 4,991.50 crore a year ago. Its profit before tax decreased by 5.7 percent to Rs 699.22 crore from Rs 741.35 crore. It results are not good. Asian Paints Ltd current stock price is 1,748.\n",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Multicolored_tempera_paints.jpg",
+      "type": "news",
+      "fullArticleLink": "https://www.bloombergquint.com/quarterly-earnings/what-analysts-have-to-say-about-asian-paints-q4-results",
+      "fullArticleName": "Bloomberg Quint"
     }
   ]
 }
