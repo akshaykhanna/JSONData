@@ -691,6 +691,16 @@
       "type": "news",
       "fullArticleLink": "https://www.moneycontrol.com/news/india/power-finance-corporation-sanctions-over-rs-1-lakh-crore-loans-for-power-projects-in-fy20-5458321.html",
       "fullArticleName": "Moneycontrol"
+    },
+    {
+      "id": 88,
+      "date": "Fri Jun 26 2020",
+      "title": "IHCL plans to launch \"Qmin\" mobile application",
+      "description": "Tata group's Indian Hotels Company Ltd (IHCL), which owns the high-quality Taj Hotels, announced the launch of the \"Qmin\" mobile application on 25 July. It is an online food delivery platform. With the launch of \"Qmin\", the company will bring Taj to homes. The launch will cover the top ten markets in India including Delhi, Chennai, and Bengaluru in five weeks. The current stock price of IHCL is 81.80.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Taj_Mahal_Palace_Hotel.jpg",
+      "type": "news",
+      "fullArticleLink": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/ihcl-forays-into-online-gourmet-food-delivery-with-qmin/articleshow/76625299.cms",
+      "fullArticleName": "Economic Times"
     }
   ]
 }
