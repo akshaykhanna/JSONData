@@ -711,6 +711,16 @@
       "type": "news",
       "fullArticleLink": "https://www.business-standard.com/article/markets/pnc-infratech-jumps-16-on-receipt-of-loa-for-ham-project-of-rs-1-412-cr-120062600243_1.html",
       "fullArticleName": "Business Standard"
+    },
+    {
+      "id": 90,
+      "date": "Sat Jun 27 2020",
+      "title": "Adani Transmission Kharghar-Vikhroli project ",
+      "description": "Adani Transmission Ltd (ATL) has signed an agreement with the Maharashtra State Electricity Transmission Company for the execution of the Kharghar Vikhroli transmission project. The project comprises approximately 34 km of 400 kV and 220 kV transmission lines at Vikhroli in Mumbai. This project would enable additional power into the Mumbai and help in meeting the future demand of the city. The current stock price of ATL is 277.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pylon_Sheung_Shui.jpg",
+      "type": "news",
+      "fullArticleLink": "https://www.outlookindia.com/newsscroll/adani-transmission-inks-pact-to-execute-kharghar-vikhroli-transmission-project/1878380",
+      "fullArticleName": "Outlook India"
     }
   ]
 }
