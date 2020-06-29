@@ -761,6 +761,16 @@
       "type": "news",
       "fullArticleLink": "https://economictimes.indiatimes.com/industry/energy/oil-gas/reliance-pushes-back-kg-d6-production-to-september/october/articleshow/76670918.cms",
       "fullArticleName": "Economic Times"
+    },
+    {
+      "id": 95,
+      "date": "Mon Jun 29 2020",
+      "title": "Coal India invest 15,700 crore in conveyor belts",
+      "description": "Coal India Ltd will invest Rs 15,700 crore in conveyor belts to replace the road movement between mines and wagons. Coal will be loaded directly onto wagons with the help of a conveyor. In the first phase, it will upgrade infrastructure at 35 mines. This involved capital expenditure of about Rs 12,300 crore. Phase-2 includes 14 projects in which four subsidiaries will spend Rs 3,400 crore. The stock price of Coal India Ltd is 135.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Coal_Mine.jpg",
+      "type": "news",
+      "fullArticleLink": "https://www.business-standard.com/article/companies/coal-india-ups-investment-to-rs-15-700-cr-to-boost-mechanised-transport-120062901400_1.html",
+      "fullArticleName": "Business Standard"
     }
   ]
 }
