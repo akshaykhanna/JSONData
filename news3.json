@@ -751,6 +751,16 @@
       "type": "news",
       "fullArticleLink": "https://www.thehindubusinessline.com/markets/stock-markets/offer-for-sale-in-sumitomo-india/article31916758.ece#:~:text=The%20OFS%20has%20an%20option,%E2%82%B9309.5%20on%20the%20BSE",
       "fullArticleName": "Thehindu Businessline"
+    },
+    {
+      "id": 94,
+      "date": "Mon Jun 29 2020",
+      "title": "Reliance postpones natural gas production in KG-D6",
+      "description": "Reliance Industries Limited (RIL) has postponed the start of production in its eastern offshore Krishna Godavari (KG) D6 block to September/October due to a lockdown. The three deepwater projects in block KG- D6 are R-Cluster, Satellite Cluster, and MJ fields. The combined production of gas from these three fields is expected to be 30 million standard cubic meters per day (mmscmd) by FY2024. The current stock price of RIL is 1,723.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Deepwater_Horizon_oil_spill_-_static_kill.jpg",
+      "type": "news",
+      "fullArticleLink": "https://economictimes.indiatimes.com/industry/energy/oil-gas/reliance-pushes-back-kg-d6-production-to-september/october/articleshow/76670918.cms",
+      "fullArticleName": "Economic Times"
     }
   ]
 }
