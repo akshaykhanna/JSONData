@@ -821,6 +821,16 @@
       "type": "news",
       "fullArticleLink": "https://www.thehindubusinessline.com/money-and-banking/axis-bank-to-raise-15000-crore-as-capital/article31971186.ece",
       "fullArticleName": "Business Line"
+    },
+    {
+      "id": 101,
+      "date": "Thu Jul 02 2020",
+      "title": "COVID-19 becomes culprit for the IPO market",
+      "description": "The first six months of 2020 has been one of the worst periods for the Initial Public Offer (IPO) market since the first half of 2012. Many companies were scheduled to launch their IPOs after SBI Card, but COVID-19 punctured the sentiment on the market. Experts feel the trend may revive in the second half of the calendar year (CY) 2020 only if the market and economic activity regains.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/04/02/19/11/covid-19-4996393_1280.png",
+      "type": "news",
+      "fullArticleLink": "https://www.moneycontrol.com/news/business/markets/ipo-market-sees-worst-h1-in-almost-a-decade-can-the-trend-continue-in-rest-of-2020-5494331.html",
+      "fullArticleName": "Moneycontrol"
     }
   ]
 }
