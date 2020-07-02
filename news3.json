@@ -811,6 +811,16 @@
       "type": "news",
       "fullArticleLink": "https://auto.hindustantimes.com/auto/two-wheelers/signs-of-recovery-hero-motocorp-sells-4-5-lakh-units-in-june-41593597293315.html",
       "fullArticleName": "htauto"
+    },
+    {
+      "id": 100,
+      "date": "Thu Jul 02 2020",
+      "title": "Axis Bank raises 15,000 crore through share sale",
+      "description": "The country's third-largest private lender, Axis Bank Ltd will raise to ₹15,000 crore. The bank will raise the money through a qualified institutions placement (QIP) or issuance of equity shares or issuance of American depository receipts (ADRs). Some private equity players, including Carlyle, KKR, and Fidelity, have shown interest to buy Axis Bank shares in the proposed QIP. The current stock price of Axis Bank Ltd is 425.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Axis_Bank%2C_Temple_Road%2C_Mysore.jpg",
+      "type": "news",
+      "fullArticleLink": "https://www.thehindubusinessline.com/money-and-banking/axis-bank-to-raise-15000-crore-as-capital/article31971186.ece",
+      "fullArticleName": "Business Line"
     }
   ]
 }
