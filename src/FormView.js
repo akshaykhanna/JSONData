@@ -21,6 +21,10 @@ const FormView = (props) => {
         const imageUrl = e.target.value;
         setItem({ ...item, imageUrl })
     };
+    const onVideoUrlChange = (e) => {
+        const videoUrl = e.target.value;
+        setItem({ ...item, videoUrl })
+    };
     const fullArticleLinkChange = (e) => {
         const fullArticleLink = e.target.value;
         setItem({ ...item, fullArticleLink })
@@ -47,6 +51,12 @@ const FormView = (props) => {
                     <Form.Label column sm="2"> Image link </Form.Label>
                     <Col sm="10">
                         <Form.Control type="input" placeholder="url" onChange={onImgLinkChange} value={item.imageUrl} />
+                    </Col>
+                </Form.Group>
+                <Form.Group as={Row} >
+                    <Form.Label column sm="2"> Video link </Form.Label>
+                    <Col sm="10">
+                        <Form.Control type="input" placeholder="videoUrl" onChange={onVideoUrlChange} value={item.videoUrl} />
                     </Col>
                 </Form.Group>
                 <Form.Group as={Row} >
