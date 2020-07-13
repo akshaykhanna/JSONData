@@ -959,6 +959,16 @@
       "type": "news",
       "fullArticleLink": "https://www.ndtv.com/business/rossari-biotech-ipo-subscription-news-rossari-initial-public-offer-subscribed-over-4-on-day-1-2261730",
       "fullArticleName": "Ndtv"
+    },
+    {
+      "id": 115,
+      "date": "Mon Jul 13 2020",
+      "title": "Things to know about the Rossari Biotech company",
+      "description": "The company is among the largest manufacturers of textile specialty chemicals in India. It also manufactures acrylic polymers. The company offers three main product categories namely home, personal care, and performance chemicals. Rossari Biotech has a presence in 17 foreign countries including Vietnam, Bangladesh, and Mauritius. The company has two R&D facilities one in the Silvassa, Gujarat, and the second in Mumbai.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/10/27/15/24/laboratory-1009178_1280.jpg",
+      "type": "news",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/rossari-biotech-ipo-things-you-must-know-about-specialty-chemical-company/articleshow/76907314.cms",
+      "fullArticleName": "Economic Times"
     }
   ]
 }
