@@ -989,6 +989,16 @@
       "type": "news",
       "fullArticleLink": "https://www.ndtv.com/india-news/pharma-firm-lupin-shuts-drug-plant-in-gujarat-after-17-staff-test-positive-for-coronavirus-2262785",
       "fullArticleName": "Ndtv"
+    },
+    {
+      "id": 118,
+      "date": "Wed Jul 15 2020",
+      "title": "Maruti Suzuki bring back its faulty car models",
+      "description": "The country’s largest carmaker Maruti Suzuki brings back 1,34,885 units of WagonR and Baleno models to fix faulty fuel pumps. The recall exercise would affect WagonR manufactured between November 15th, 2018, and October 15th, 2019, and Baleno (Petrol) manufactured between January 8th, 2019, and November 4th, 2019. The faulty part will be replaced, free of cost. The current stock price of Maruti Suzuki India Ltd is 5809.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Maruti_Suzuki_-_WagonR_LXi_%28front%29.JPG",
+      "type": "news",
+      "fullArticleLink": "https://timesofindia.indiatimes.com/auto/news/1-35-lakh-maruti-suzuki-baleno-and-wagonr-recalled-over-faulty-fuel-pump/articleshow/76973302.cms",
+      "fullArticleName": "Times of India"
     }
   ]
 }
