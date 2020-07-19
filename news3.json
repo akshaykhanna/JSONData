@@ -1025,6 +1025,14 @@
       "type": "news",
       "fullArticleLink": "",
       "fullArticleName": ""
+    },
+    {
+      "id": 122,
+      "date": "Sun Jul 19 2020",
+      "title": "HDFC Bank Q1 FY20-21 results",
+      "description": "Private lender HDFC Bank posted a 19.58 percent rise in net profit to Rs 6,658.62 crore for the quarter one (Q1) of FY20. The figure stood at Rs 5,568.16 crore in the same quarter of the previous financial year (FY). The net interest income of the Bank grew 17.80 percent from last year to Rs 15,665.40 crore in Q1 of FY20. Provisions increased 48.89 percent from last year to Rs 3,891.52 crore. The overall results of a Bank are good.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/HDFC_Bank.jpg",
+      "type": "news"
     }
   ]
 }
