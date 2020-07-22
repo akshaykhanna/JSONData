@@ -1061,6 +1061,16 @@
       "type": "news",
       "fullArticleLink": "https://www.cnbctv18.com/healthcare/unichem-lab-gets-usfda-nod-for-drug-to-treat-irregular-heartbeat-6412801.htm",
       "fullArticleName": "Cnbctv18"
+    },
+    {
+      "id": 126,
+      "date": "Wed Jul 22 2020",
+      "title": "Britannia sales expanded by 25% during lockdown",
+      "description": "Britannia Industries the maker of Good Day and Tiger biscuits expanded sales by 25%, an 8-year high and doubled profit, helped by a rise in at-home consumption of packaged foods during the lockdown. The company will invest ₹700 crore to open more factories as demand for packaged food is more than production capacity. The current stock price of Britannia Industries Ltd is 3807.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Britannia_industries_ltd_product.jpg",
+      "type": "news",
+      "fullArticleLink": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/britannia-has-a-700-crore-plan-to-keep-good-days-going/articleshow/77073900.cms",
+      "fullArticleName": "Economic Times"
     }
   ]
 }
