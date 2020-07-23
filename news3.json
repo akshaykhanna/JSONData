@@ -1091,6 +1091,16 @@
       "type": "news",
       "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ril-spikes-4-on-buzz-around-stake-sale-in-reliance-retail/articleshow/77128538.cms",
       "fullArticleName": "Economic Times"
+    },
+    {
+      "id": 129,
+      "date": "Thu Jul 23 2020",
+      "title": " RIL crossed Rs 13 lakh crore mark of m-cap today",
+      "description": "Reliance Industries Ltd (RIL) became the first Indian company to cross-market capitalization (m-cap) of Rs 13 lakh crore. The company's achievement comes a day after its Chairman and Managing Director (CMD) Mukesh Ambani became the world's fifth-richest person. Mr. Ambani surpassed ace American investor Warren Buffett to take the fifth spot on business magazine Forbes' real-time ranking of billionaires.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/RelianceMart5.JPG",
+      "type": "news",
+      "fullArticleLink": "https://www.ndtv.com/business/reliance-share-price-hits-new-high-becomes-first-company-with-rs-13-trillion-m-cap-as-mukesh-ambani-fifth-richest-person-2267654",
+      "fullArticleName": "Ndtv Profit"
     }
   ]
 }
