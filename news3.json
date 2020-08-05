@@ -1129,6 +1129,16 @@
       "description": "Multi Commodity Exchange of India Ltd (MCX) is an independent commodity exchange of India. It was established in 2003 and is based in Mumbai. Its stock price rises by 37% from 1258 to 1724 in 1 month.  Its price was 1258 on 29/6/2020. The stock currently trading in 1724. Means price is increased by Rs 466 in a small duration. MCX offers trading in gold, non-ferrous metals, silver, energy, and many agricultural commodities.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/MCX_Warszawa_ul_Gotarda.jpg",
       "type": "news"
+    },
+    {
+      "id": 133,
+      "date": "Wed Aug 05 2020",
+      "title": "Lupin launches COVID drug at Rs 49 per tablet",
+      "description": "Drug major Lupin announced the launch of its Favipiravir drug under the brand name 'Covihalt' for the treatment of patients with mild to moderate COVID- 19 symptoms at Rs 49 per tablet in India. The drug is available as 200 mg tablets in the form of a strip of 10 tablets. Sun Pharma company had launched a Favipiravir drug at Rs 35 per tablet in India. The current stock price of Lupin Limited is 928.",
+      "imageUrl": "https://c1.wallpaperflare.com/preview/262/177/123/pills-tablets-medicine-medication.jpg",
+      "type": "news",
+      "fullArticleLink": "https://www.moneycontrol.com/news/business/lupin-launches-covid-19-drug-favipiravir-in-india-at-rs-49-per-tablet-5648551.html",
+      "fullArticleName": "Moneycontrol"
     }
   ]
 }
