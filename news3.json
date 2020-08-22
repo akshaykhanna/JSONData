@@ -1139,6 +1139,14 @@
       "type": "news",
       "fullArticleLink": "https://www.moneycontrol.com/news/business/lupin-launches-covid-19-drug-favipiravir-in-india-at-rs-49-per-tablet-5648551.html",
       "fullArticleName": "Moneycontrol"
+    },
+    {
+      "id": 134,
+      "date": "Sat Aug 22 2020",
+      "title": "Trading call on a Bata stock",
+      "description": "The BATA stock chart shows a downtrend for the last 2 months and 10 days. Its trend is reversed from down to up after crossing a price of 1297. Try to buy a stock at the current level with a target of 1357. Put a stop loss of 1253. Time Horizon of a trade is 10-20 days. The current stock price of BATA is 1307.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bata_Store.jpg",
+      "type": "call"
     }
   ]
 }
