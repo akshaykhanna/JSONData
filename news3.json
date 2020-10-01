@@ -1157,6 +1157,16 @@
       "type": "news",
       "fullArticleLink": "https://economictimes.indiatimes.com/industry/auto/auto-news/ashok-leyland-reports-5-decline-in-commercial-vehicle-sales-in-sep-at-8344-units/articleshow/78427214.cms",
       "fullArticleName": "Economic Times"
+    },
+    {
+      "id": 136,
+      "date": "Thu Oct 01 2020",
+      "title": "Hero MotoCorp sales increased by 17% in September",
+      "description": "The country's largest two-wheeler maker Hero MotoCorp reported a 17 percent increase in sales from  6,12,204 units to 7,15,718 units in September this year. The company sold 18,14,683 units in the second quarter (July-September) of the current financial year despite the disrupted network of the components supply chain due to the non-availability of labor. The current stock price of Hero Motocorp Ltd is 3,155.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Optima_Plus_%28Hero_Electric%2C_India%29.jpg",
+      "type": "news",
+      "fullArticleLink": "https://www.moneycontrol.com/news/technology/auto/hero-motocorp-reports-17-increase-in-sales-at-715718-units-in-september-5912421.html",
+      "fullArticleName": "Moneycontrol"
     }
   ]
 }
