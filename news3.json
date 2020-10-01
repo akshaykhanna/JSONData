@@ -1147,6 +1147,16 @@
       "description": "The BATA stock chart shows a downtrend for the last 2 months and 10 days. Its trend is reversed from down to up after crossing a price of 1297. Try to buy a stock at the current level with a target of 1357. Put a stop loss of 1253. Time Horizon of a trade is 10-20 days. The current stock price of BATA is 1307.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bata_Store.jpg",
       "type": "call"
+    },
+    {
+      "id": 135,
+      "date": "Thu Oct 01 2020",
+      "title": "Ashok Leyland sales declined by 5% in September",
+      "description": "Hinduja Group firm Ashok Leyland reported a 5 percent decline in total commercial vehicle sales from 8,780 units to 8,344 units in September this year. Its total heavy and medium commercial vehicle sales were down 23 percent at 3,642 units as compared to 4,744 units in the year-ago month. But the company's light commercial vehicle sales were up by 17 percent. The current stock price of Ashok Leyland Ltd is 76.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ashok_Leyland_U_truck_-_Chennai_-_India.jpg",
+      "type": "news",
+      "fullArticleLink": "https://economictimes.indiatimes.com/industry/auto/auto-news/ashok-leyland-reports-5-decline-in-commercial-vehicle-sales-in-sep-at-8344-units/articleshow/78427214.cms",
+      "fullArticleName": "Economic Times"
     }
   ]
 }
