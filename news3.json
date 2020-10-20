@@ -1177,6 +1177,14 @@
       "type": "news",
       "fullArticleLink": "https://www.business-standard.com/article/companies/royal-enfield-s-total-sales-increase-1-to-60-041-units-in-september-120100200281_1.html",
       "fullArticleName": "Business Standard"
+    },
+    {
+      "id": 138,
+      "date": "Tue Oct 20 2020",
+      "title": "Trading call on a HCLTECH stock",
+      "description": "The HCLTECH stock chart shows an uptrend from the last 6 months and 20 days. It crosses the resistance level of 879. Try to buy a stock at the current level with a target of 910. Put a stop loss of 868. The Time Horizon of a trade is 5-15 days. The current stock price of HCL Technologies Ltd is 880.65.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/HCL_Tech_Noida_SEZ_Campus.png",
+      "type": "call"
     }
   ]
 }
