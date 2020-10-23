@@ -1,5 +1,5 @@
 # JSONData
-
+ npm run addData
 ## Run json server
 
 npm run jsonDb
