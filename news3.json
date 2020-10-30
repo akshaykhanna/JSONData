@@ -1229,6 +1229,14 @@
       "description": "The Jubilant FoodWorks stock chart shows an uptrend from the last 6 months and 15 days. It crosses the resistance level of 2188. Try to buy a stock at the current level with a target of 2274.\nPut a stop loss of 2170. The Time Horizon of a trade is 5-15 days The current share price of Jubilant FoodWorks Ltd is 2194.",
       "imageUrl": "https://images.livemint.com/img/2020/01/29/600x338/jubilanfoodworkks-kwfH--621x414@LiveMint_1580305696460.jpg",
       "type": "call"
+    },
+    {
+      "id": 144,
+      "date": "Fri Oct 30 2020",
+      "title": "Trading call on a Reliance Industries stock",
+      "description": "The Reliance Industries stock chart shows an uptrend from the last 7 months. It crosses the resistance level of 2030. Try to buy a stock at the current level with a target of 2100. Put a stop loss of 2020. The Time Horizon of a trade is 2-10 days. The current share price of Reliance Industries Limited is 2032.",
+      "imageUrl": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-02/23/full/reliance-industries-1424684356-3657300.jpg",
+      "type": "call"
     }
   ]
 }
