@@ -1245,6 +1245,22 @@
       "description": "The UltraTech Cement stock chart shows an uptrend from the last 5 months and 15 days. It crosses the resistance level of 4565. Try to buy a stock at the current level with a target of 4650.\nPut a stop loss of 4550. The Time Horizon of a trade is 2- 10 days. The current share price of UltraTech Cement Ltd is 4568.",
       "imageUrl": "https://images.financialexpress.com/2019/04/cats-1454.jpg",
       "type": "call"
+    },
+    {
+      "id": 146,
+      "date": "Fri Nov 13 2020",
+      "title": "Trading call on a Reliance Industries stock",
+      "description": "The Reliance Industries stock chart shows an uptrend from the last 7 months. It crosses the resistance level of 1998. Try to buy a stock at the current level with a target of 2048. Put a stop loss of 1980. The Time Horizon of trade is 2-10 days. The current share price of Reliance Industries Limited is 2000.",
+      "imageUrl": "https://bl.thgim.com/incoming/xcctym/article28688833.ece/alternates/WIDE_615/riljpg",
+      "type": "call"
+    },
+    {
+      "id": 147,
+      "date": "Fri Nov 13 2020",
+      "title": "Trading call on a Britannia Industries stock",
+      "description": "The Britannia Industries stock chart shows an uptrend from the last 7 months and 10 days. It crosses the resistance level of 3514. Try to buy a stock at the current level with a target of 3800. Put a stop loss of 3486. The Time Horizon of trade is 1-2 months. The current share price of Britannia Industries Ltd is 3517.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-02/18/full/1518965938-4605.jpg",
+      "type": "call"
     }
   ]
 }
