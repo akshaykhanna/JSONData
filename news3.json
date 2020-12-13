@@ -1261,6 +1261,16 @@
       "description": "The Britannia Industries stock chart shows an uptrend from the last 7 months and 10 days. It crosses the resistance level of 3514. Try to buy a stock at the current level with a target of 3800. Put a stop loss of 3486. The Time Horizon of trade is 1-2 months. The current share price of Britannia Industries Ltd is 3517.",
       "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-02/18/full/1518965938-4605.jpg",
       "type": "call"
+    },
+    {
+      "id": 148,
+      "date": "Sun Dec 13 2020",
+      "title": "Cremica IPO opens on 15th December 2020",
+      "description": "Mrs Bectors Food Specialities Ltd is one of the leading companies in the bakery and biscuit segment in North India. The company manufactures and sells biscuits under its brand name \"Mrs Bector's Cremica\" whereas bakery products are manufactured under the brand name of \"English Oven\". The issue is priced at ₹286 to ₹288 per equity share. The minimum order quantity is 50 Shares. The IPO opens on Dec 15, 2020, and closes on Dec 17, 2020.",
+      "imageUrl": "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/2020-10/cremica.jpg",
+      "type": "news",
+      "fullArticleLink": "chittorgarh.com/ipo/mrs-bectors-food-ipo/1077/",
+      "fullArticleName": "Chittorgarh"
     }
   ]
 }
