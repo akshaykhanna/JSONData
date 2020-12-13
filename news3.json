@@ -1261,14 +1261,6 @@
       "description": "The Britannia Industries stock chart shows an uptrend from the last 7 months and 10 days. It crosses the resistance level of 3514. Try to buy a stock at the current level with a target of 3800. Put a stop loss of 3486. The Time Horizon of trade is 1-2 months. The current share price of Britannia Industries Ltd is 3517.",
       "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-02/18/full/1518965938-4605.jpg",
       "type": "call"
-    },
-    {
-      "id": 148,
-      "date": "Tue Nov 24 2020",
-      "title": "Trading call on a Mphasis stock",
-      "description": "The Mphasis stock chart shows an uptrend from the last 7 months. It crosses the resistance level of 1325 and its daily chart giving a buy signal. Try to buy a stock at the current level with a target of 1370. Put a stop loss of 1324. The Time Horizon of trade is 2- 10 days. The current share price of Mphasis Ltd is 1336.",
-      "imageUrl": "https://cdn1.expresscomputer.in/wp-content/uploads/2020/03/11140452/Mphasis-logo_image.jpg",
-      "type": "call"
     }
   ]
 }
