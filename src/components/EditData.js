@@ -2,8 +2,8 @@ import { Container, Row } from 'react-bootstrap';
 import React, { useState } from 'react';
 
 import FormView from './FormView';
-import { updateItem } from './api';
-import { validateInput } from './util';
+import { updateItem } from '../api';
+import { validateInput } from '../util';
 
 const EditData = (props) => {
     const [response, setResponse] = useState('');

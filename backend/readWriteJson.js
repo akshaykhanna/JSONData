@@ -1,6 +1,6 @@
 'use strict';
 
-let jsonData = require('./news3.json');
+let jsonData = require('../news3.json');
 
 console.log(jsonData);
 

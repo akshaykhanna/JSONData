@@ -3,9 +3,9 @@ import './App.css';
 import { Col, Container, Row } from 'react-bootstrap';
 import React, { useEffect, useState } from 'react';
 
-import AddData from "./AddData";
-import EditData from "./EditData";
-import ListData from "./ListData";
+import AddData from "./components/AddData"
+import EditData from "./components/EditData";
+import ListData from "./components/ListData";
 import { apiLink } from './config';
 import { getNewItemId } from "./util";
 
