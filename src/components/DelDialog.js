@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Button, Modal } from 'react-bootstrap';
-import { delItem } from "./api";
+import { delItem } from "../api";
 
 const DelDialog = ({ item, refresh }) => {
     const [show, setShow] = useState(false);

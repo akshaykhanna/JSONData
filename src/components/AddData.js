@@ -2,9 +2,9 @@ import { Container, Row } from 'react-bootstrap';
 import React, { useState } from 'react';
 
 import FormView from './FormView';
-import { addItem } from './api';
-import { dummyData } from './dummyData';
-import { validateInput } from './util';
+import { addItem } from '../api';
+import { dummyData } from '../dummyData';
+import { validateInput } from '../util';
 
 const AddData = (props) => {
     const id = props.listCount;

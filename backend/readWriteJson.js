@@ -1,6 +1,6 @@
 'use strict';
 
-let jsonData = require('./db.json');
+let jsonData = require('../news3.json');
 
 console.log(jsonData);
 
@@ -8,7 +8,7 @@ const fs = require('fs');
 
 let data = JSON.stringify(jsonData, null, 2);
 
-fs.writeFile('news3.json', data, (err) => {
+fs.writeFile('db.json', data, (err) => {
     if (err) throw err;
     console.log('Data written to file');
 });

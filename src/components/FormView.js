@@ -1,7 +1,7 @@
 import { Button, Col, Container, Form, Row, Dropdown } from 'react-bootstrap';
 import React, { useState, useEffect } from "react";
-import { appConstans } from './config';
-import { getWordCount, getCharacterCount } from './util';
+import { appConstans } from '../config';
+import { getWordCount, getCharacterCount } from '../util';
 
 const FormView = (props) => {
     const [item, setItem] = useState(props.item);
