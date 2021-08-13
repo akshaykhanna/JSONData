@@ -1,34 +1,41 @@
 'use strict';
+const textract = require('textract');
+const { extract } = require('article-parser');
+const htmlToText = require('html-to-text');
+let SummarizerManager = require('node-summarizer').SummarizerManager;
+const url = 'https://economictimes.indiatimes.com/markets/stocks/news/aditya-puri-sells-shares-worth-rs-843-crore-in-hdfc-bank/articleshow/77178810.cms';
 
-// const { extract } = require('article-parser');
-// const htmlToText = require('html-to-text');
-// let SummarizerManager = require('node-summarizer').SummarizerManager;
-// const url = 'https://goo.gl/MV8Tkh';
-
+// get article data
 // extract(url)
 //   .then((article) => {
-//     //   console.log(article);
-//     const content = article.content;
-//     //   console.log(content);
-//     const text = htmlToText.fromString(content);
-//     // console.log(text);
-//     const number_of_sentences = 5;
-//     const Summarizer = new SummarizerManager(
-//       text_to_summarize,
-//       number_of_sentences
-//     );
-//     let summary = Summarizer.getSummaryByFrequency().summary;
-//     console.log('summary: ', summary);
-//     console.log('summary.length: ', summary.length);
-//     Summarizer.getSummaryByRank().then((summary_object) => {
-//       const summary = summary_object.summary;
-//       console.log('summary2: ', summary);
-//       console.log('summary2.length: ', summary.length);
-//     });
-//   })
-//   .catch((err) => {
-//     console.log(err);
-//   });
+textract.fromUrl(url, function( error, text ) {
+    //   console.log(article);
+    // const content = article.content;
+    // console.log('error: ', error);
+    // console.log('content: ', text);
+
+    // convert article content to text
+    // const convertedText = htmlToText.fromString(content);
+    // console.log('text: ',text);
+
+    // Sumariese text
+    const number_of_sentences = 5;
+    const Summarizer = new SummarizerManager(
+      text,
+      number_of_sentences
+    );
+    let summary = Summarizer.getSummaryByFrequency().summary;
+    console.log('summary: ', summary);
+    console.log('summary.length: ', summary.length);
+    Summarizer.getSummaryByRank().then((summary_object) => {
+      const summary = summary_object.summary;
+      console.log('summary2: ', summary);
+      console.log('summary2.length: ', summary.length);
+    });
+  })
+  // .catch((err) => {
+  //   console.log(err);
+  // });
 
 
   const text_to_summarize = `
@@ -49,18 +56,18 @@ CSIR Director General Shekhar C Mande observed that they are working with the in
 Rs 68 per tablet
 Cipla said it will commercially launch Ciplenza in the first week of August priced at Rs 68 per tablet.
 `;
-const number_of_sentences = 5;
+// const number_of_sentences = 5;
 
-let SummarizerManager = require("node-summarizer").SummarizerManager;
+// let SummarizerManager = require("node-summarizer").SummarizerManager;
 
-let Summarizer = new SummarizerManager(text_to_summarize,number_of_sentences);
+// let Summarizer = new SummarizerManager(text_to_summarize,number_of_sentences);
 
-let summary = Summarizer.getSummaryByFrequency().summary;
-console.log('summary: ', summary);
-console.log('summary.length: ', summary.length);
+// let summary = Summarizer.getSummaryByFrequency().summary;
+// console.log('summary: ', summary);
+// console.log('summary.length: ', summary.length);
 
-Summarizer.getSummaryByRank().then((summary_object)=>{
-    const summary = summary_object.summary
-    console.log('summary2: ', summary);
-    console.log('summary2.length: ', summary.length);
-})
+// Summarizer.getSummaryByRank().then((summary_object)=>{
+//     const summary = summary_object.summary
+//     console.log('summary2: ', summary);
+//     console.log('summary2.length: ', summary.length);
+// })
