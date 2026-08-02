@@ -1,234 +1,199 @@
 {
-  "News": [
+  "news": [
     {
-      "id": 0,
-      "title": "Lupin positive facts during a covid-19 pandemic",
-      "description": " Lupin has received an Establishment Inspection Report (EIR) from the USFDA for its manufacturing plant in Nagpur, Aurangabad and Mandideep with no action indicated.  Lupin has launched generic Mycophenolic acid delayed-release tablets of 180 mg and 360 mg. It is used to prevent organ rejection in patients receiving kidney transplants in the US market. ",
-      "imageUrl": "https://www.dsij.in/Portals/0/EasyDNNNews/12279/600600p10163EDNmainimg-img-Lupin.jpg"
+      "id": "798152359d527a89005c691929fd50d7",
+      "title": "Shree Cement Q1 profit falls as West Asia disruptions drive up fuel costs",
+      "description": "A strong volume growth failed to offset higher input costs after supply disruptions forced a costlier fuel mix, though the company expects profitability to improve from Q2 if geopolitical tensions remain stable.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/cement_1754382403125_1754382403464_1785513837127_fc511c19-add1-4079-8fe9-9865369694b6.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/shree-cement-q1-profit-falls-as-west-asia-disruptions-drive-up-fuel-costs-11785509233040.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-02T17:03:47.903624Z"
     },
     {
-      "id": 1,
-      "title": "FMCG leader “HUL” initiatives against corona virus",
-      "description": "HUL has committed Rs 100 crore to help in the fight against coronavirus. The company will also donate 2 crores pieces of Lifebuoy soaps and donate Rs 10 crore to upgrade the health care facilities in testing centers and hospitals. Hindustan Unilever has collaborated with UNICEF for a mass communication campaign to inform the public against the COVID-19 pandemic. ",
-      "imageUrl": "https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1543907601/1543907600.jpg"
+      "id": "c30e601c55c0ce6601b2851f2fdcdb5f",
+      "title": "RBI MPC meeting to Q1 results FY27, US-Iran war: Top five triggers that may dictate the Indian stock market this week",
+      "description": "Stock market today: The Nifty climbed 2.59% to end at 24,383.60, while the Sensex rose 2.68% to close at 78,094.64. While some of the global triggers continue this week, read on to know what are the fresh factors to watch out for this week.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/logo/stock_1785632056573_1785632056695_b2c1c514-9062-4162-9ea8-a65db3134c21.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-to-q1-results-fy27-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11785629941417.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-02T17:03:47.314766Z"
     },
     {
-      "id": 2,
-      "title": "Nationwide lock down affects on investor",
-      "description": "Health insurance players will also get a new growth cover as individuals gradually shift health insurance to essential spending. The investor preferences are changing towards sectors like chemicals and pharmaceuticals. Demand cooldown for cooling appliances makers due to lockdown.  The lockdown impact will change investor behaviour towards fresh home purchases hitting the residential segment for some time. ",
-      "imageUrl": "https://mmo.aiircdn.com/265/5e91e4ad6fd11.jpg"
+      "id": "2045a3829561df3fff11a520fce846fe",
+      "title": "Maharashtra-based SME stock plunges 20% as MD gets shot, director taken in police custody",
+      "description": "In an exchange filing, GSM Foils said the firing incident took place in the Naikpada area in Vasai-Virar, located near Mumbai. After getting injured in the incident, the company said that Parmar received prompt medical attention and is presently under proper medical care. His health condition was reported to be stable and improving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132781857,imgsize-50840.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/maharashtra-based-sme-stock-plunges-20-as-md-gets-shot-director-taken-in-police-custody/articleshow/132781857.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-02T17:03:46.703516Z"
     },
     {
-      "id": 3,
-      "title": "Britannia industries positive facts",
-      "description": "Britannia Industries could report double-digit growth in consolidated profit in the March quarter due to the lower tax rate. The company declared an interim dividend of Rs 35 per share for the FY-20. The dividend will be paid to the shareholders before May 23, 2020. Britannia has partnered with Dunzo for the home delivery of all its products. ",
-      "imageUrl": "https://static-news.moneycontrol.com/static-mcnews/2017/08/Britannia1-770x433.jpg"
+      "id": "a327e5d362659ce7b935f097bcc75176",
+      "title": "Jio Financial Services sets record date for dividend. Check details",
+      "description": "Jio Financial Services set August 10 as the record date for its final dividend. The company reported significant year-on-year profit and revenue growth in the first quarter. Interest income and fees and commission income saw substantial increases during this period. Jio Financial Services shares experienced a notable jump on Friday and over the week. Motilal Oswal maintains a Buy rating with a target price of Rs 315.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132783869,imgsize-43115.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-services-sets-record-date-for-dividend-check-details/articleshow/132783869.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-02T17:03:46.703425Z"
     },
     {
-      "id": 4,
-      "title": "A deal between bharat earth movers limited and coal india limited",
-      "description": "Coal India signed two purchase pacts totaling nearly Rs 400 crore with state-owned heavy earthmoving machinery manufacturer BEML for buying seven 150-tonne dumpers and eight 190-tonne dumpers. Coal India plans to invest  Rs 7000 crore in acquiring 360-odd heavy mining machinery over the next three-four years to enhance production for achieving a billion tonnes production capacity by 2024.",
-      "imageUrl": "https://images.assettype.com/freepressjournal%2F2020-04%2Ff00dd344-026c-4ac3-8bd6-8c321c71afb2%2Fdumper.jpg?rect=0%2C120%2C1280%2C720&format=webp&w=750&dpr=1.3"
+      "id": "c330934ee5076f4e700e492b2aabb95e",
+      "title": "Divi's Labs Q1 Results: Net profit rises 66% YoY to Rs 902 crore, revenue up 28%",
+      "description": "The firm’s revenue from operations meanwhile rose around 28% YoY to Rs 3,080 crore in Q1 FY27, from Rs 2,410 crore reported in the year-ago period. Its total income increased over 24% YoY to Rs 3,144 crore, while total expenses rose more than 9% YoY to Rs 1,964 crore during the quarter which ended on June 30, 2026.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132784662,imgsize-38218.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/divis-labs-q1-results-net-profit-rises-66-yoy-to-rs-902-crore-revenue-up-28/articleshow/132784662.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-02T17:03:46.703355Z"
     },
     {
-      "id": 5,
-      "title": "Reliance rights issue update",
-      "description": "Reliance Industries is considering issuing of shares to existing shareholders on a rights basis to reduce its massive debt pile. The proposed rights issue is the first from the company in 29 years.  Reliance Industries will announce its financial results for the March quarter on April 30. RIL also added that it will recommend dividend on equity shares. ",
-      "imageUrl": "https://www.jagranimages.com/images/newimg/18102019/18_10_2019-ril_19678369.jpg"
+      "id": "7ecb8395604840dc97fc8e702981e3ee",
+      "title": "Clean Max Enviro Energy Solutions posts Rs 55-cr profit in Q1",
+      "description": "CleanMax Enviro Energy Solutions achieved a net profit of Rs 55 crore in the June quarter. This profit resulted from a substantial 107 percent year-on-year revenue increase. The company's operational asset base and RE Services segment saw significant growth. CleanMax also plans to raise Rs 2,500 crore through debenture issuance. A record 500 MW capacity was added in the first quarter.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132785490,imgsize-21178.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/clean-max-enviro-energy-solutions-posts-rs-55-cr-profit-in-q1/articleshow/132785490.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-02T17:03:46.703314Z"
     },
     {
-      "id": 6,
-      "title": "What is a rights issue?",
-      "description": "A rights issue is a way by which a listed company can raise additional capital. The company gives its existing shareholders the right to subscribe to newly issued shares in proportion to their existing holdings at a discounted price. For example, 1:4 rights issue means an existing investor can buy one extra share for every existing four shares.",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiQsfQEUFB5-kQpJzO99k952MkwaUzQZWnZ5NqLXX-TSwrDmtV&usqp=CAU"
+      "id": "133ed0c7c46389ec5cba6de9bf93503d",
+      "title": "GHCL Q1 profit rises 32% to Rs 191 cr on lower costs, warns of margin pressure ahead",
+      "description": "GHCL reported a thirty-two percent profit increase for the first quarter. Lower expenses helped boost net profit to Rs 191.18 crore from Rs 144.78 crore. Total income fell three point zero six percent while total expenses declined. New projects are nearing commercial operations in the second quarter of FY27. Long-term soda ash industry fundamentals remain positive for GHCL.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132786743,imgsize-13154.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/ghcl-q1-profit-rises-32-pc-to-rs-191-cr-on-lower-costs-warns-of-margin-pressure-ahead/articleshow/132786743.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-02T17:03:46.703243Z"
     },
     {
-      "id": 7,
-      "title": "What is a preferential issue?",
-      "description": "A preferential issue is an issue of shares by listed companies to a select group of investors under Section 81 of the Companies Act, 1956. This is a faster way for a company to raise equity capital. A person holding preferential shares has the right to be paid from company assets before common stockholders if the company goes into bankruptcy.",
-      "imageUrl": "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/03/25151322/DVR-shares-300x215.jpg"
+      "id": "2c8a692a3ff3f5ffb0ca6c91e9dfa5ca",
+      "title": "Will Nifty, Sensex extend gains on Monday? 6 factors which will drive D-Street action this week",
+      "description": "Indian stock market is expected to extend recent gains this week. The Reserve Bank of India's policy decision will significantly influence market direction. Geopolitical tensions in the Middle East and fluctuating oil prices remain key concerns. Foreign institutional investors are showing renewed interest in Indian equities. Corporate earnings announcements will also provide crucial trading cues for investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132800020,imgsize-246468.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-6-factors-which-will-drive-d-street-action-this-week/articleshow/132800020.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-02T17:03:46.703208Z"
     },
     {
-      "id": 8,
-      "title": "What is a financial market?",
-      "description": "Financial markets are made by buying and selling numerous types of financial securities including equities, bonds, currencies, and derivatives. These are markets where businesses grow their cash, companies decrease risks, and investors make more cash.  It serves as an agent between the investors and collectors. Types of Financial Markets are capital, money, derivatives, and the forex market. ",
-      "imageUrl": "https://live.staticflickr.com/977/41145436745_9cf8876bac_b.jpg"
+      "id": "9a83742da7f49413e790a6829af12188",
+      "title": "Q1 earnings this week: SBI, Trent, Nykaa among 573 companies set to announce June quarter results",
+      "description": "This week, 573 companies will announce their June quarter results, featuring prominent firms. Bharti Airtel and Nykaa are among those reporting earnings on Tuesday. Trent and Hero MotoCorp will release their quarterly figures on Thursday. State Bank of India and Titan Company are scheduled for Friday announcements. The earnings cycle concludes Saturday with Anant Raj's results.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132800116,imgsize-1421293.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/q1-earnings-this-week-infosys-eternal-bajaj-auto-among-573-companies-set-to-announce-june-quarter-results/articleshow/132800116.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-02T17:03:46.703172Z"
     },
     {
-      "id": 9,
-      "title": "Maruti suzuki zero sales in april",
-      "description": "The country’s largest carmaker Maruti Suzuki reported zero sales in the domestic market last month with factories shut in action with government orders to prevent the check of the coronavirus pandemic. The carmaker suspended operations from March 22, in line with orders from the government. In FY20, automobile volumes declined and expect a double-digit drop in FY21 sales. ",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2019-09/09/full/1567971605-2977.jpg"
+      "id": "964fea126fed8234507ae4a2423f9d21",
+      "title": "Dividends & stock splits: Maruti Suzuki, ICICI Bank among nearly 100 stocks turning ex-date this week. Do you own?",
+      "description": "Nearly 100 stocks, including Maruti Suzuki, ICICI Bank, Coforge and Vedanta Aluminium, will trade ex-date between August 3 and August 7 for dividends and stock splits. Key corporate actions include Maruti Suzuki’s Rs 140-per-share dividend, Bosch’s Rs 270 payout and stock splits by Tembo Global Industries and JOJO Ltd.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132800731,imgsize-24564.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-stock-splits-maruti-suzuki-icici-bank-among-nearly-100-stocks-turning-ex-date-this-week-do-you-own/articleshow/132800731.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-02T17:03:46.703051Z"
     },
     {
-      "id": 10,
-      "title": "Reliance industries FY20 Q4 earnings",
-      "description": "Reliance Industries (RIL) on April 30 reported an overall profit of Rs 6,348 crore for the March quarter. RIL's overall profit dropped 45.5 percent due to the fall in oil prices triggered by coronavirus but an impressive 72.7 percent sequential growth by Jio Platforms limited the decline. The company announced the terms of a rights issue of Rs 53,125 crore.",
-      "imageUrl": "https://assets.vccircle.com/uploads/2019/03/reliance.jpg"
+      "id": "f6ace75a86341a4a7bb6c00fa076999d",
+      "title": "Mcap of nine of top-10 most valued firms jumps Rs 2.51 lakh cr; Bajaj Finance biggest winner",
+      "description": "In a surprising turn of events, nine out of the top ten firms reported a significant boost in market valuation. Leading the charge was Bajaj Finance, which added an impressive Rs 80,000 crore to its overall worth. Following closely were Bharti Airtel and TCS, both witnessing notable rises in their market capitalization. Altogether, these companies recorded a combined increase of Rs 2.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132801107,imgsize-59058.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-jumps-rs-2-51-lakh-cr-bajaj-finance-biggest-winner/articleshow/132801107.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-02T17:03:46.702945Z"
     },
     {
-      "id": 11,
-      "title": "After 29 years reliance industries announced rights issue",
-      "description": "Reliance Industries (RIL) has announced fundraising of Rs 53,125 crore by way of a 1:15 rights issue. Means one share will be offered for every 15 shares. The board of directors will issue more than 41 crore equity shares at Rs 1,257 each which is 14.31 percent discount to Thursday’s closing price of Rs 1,467 on the BSE. ",
-      "imageUrl": "https://images.livemint.com/img/2019/04/24/600x338/RIL_1556084550868.jpg"
+      "id": "ce19a415b713a17541379d49e5546b5d",
+      "title": "Muthoot Finance reports 25% rise in Q1 profit, announces leadership transition",
+      "description": "Muthoot Finance reported a 25% year-on-year rise in standalone net profit to Rs 2,550 crore for the June quarter, driven by robust growth in its gold loan business. The company also announced a leadership transition, with Alexander George Muthoot set to take over as managing director from October 1, subject to shareholder approval.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132803408,imgsize-9268.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-reports-25-rise-in-q1-profit-announces-leadership-transition/articleshow/132803408.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-02T17:03:46.702757Z"
     },
     {
-      "id": 12,
-      "title": "Hindustan unilever FY20 Q4 earnings",
-      "description": "FMCG major Hindustan Unilever's Q4FY20 profit declined by 1.2 percent year-on-year to Rs 1,519 crore and revenue fell 9.4 percent YoY to Rs 9,011 crore due to decline in volumes after the lockdown in the second half of March. The company has dropped the prices of hand sanitizers and hand wash by 50 percent and 15 percent respectively. ",
-      "imageUrl": "https://www.hul.co.in/Images/India-LUX-new-hand-wash-collection-310818_tcm1255-525690_w400.jpg"
+      "id": "cb01b78c7fc3c3b2a9c3d020eee9e248",
+      "title": "Utkarsh Small Finance Bank posts Rs 34 crore Q1 loss; asset quality stress persists",
+      "description": "Utkarsh Small Finance Bank reported a net loss of Rs 34 crore for the June quarter, marking its fifth consecutive quarterly loss, as elevated asset quality stress continued to weigh on its performance. While the loss narrowed significantly on lower provisions, the lender's gross non-performing assets remained high at 6.1%.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132803463,imgsize-41022.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/utkarsh-small-finance-bank-posts-rs-34-crore-q1-loss-asset-quality-stress-persists/articleshow/132803463.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-02T17:03:46.702696Z"
     },
     {
-      "id": 13,
-      "title": "Tech mahindra FY20 Q4 earnings",
-      "description": "Software services firm Tech Mahindra is posted a 29 percent year-on-year (YoY) fall in consolidated net profit at Rs 803.90 crore for the quarter ended March. The company’s revenue in the March quarter rose 6.72 percent to Rs 9,490 crore. The board declared a final dividend of Rs 5 per share and the interim dividend of Rs 10 per share.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2019-11/05/full/1572969642-527.jpg"
+      "id": "d28c8d3b82dff6cd337aa7e5fdff0b67",
+      "title": "Dhaval Packaging's Rs. 36.36 crore IPO to open on July 30",
+      "description": "Dhaval Packaging Limited will launch its initial public offering on July 30. The company plans to raise Rs. 36.36 crore through a fresh equity share issue. Proceeds will fund capacity expansion at its Sanand manufacturing facility. A portion will also be used for loan repayment and general corporate purposes. The IPO aims to list on the BSE SME platform on August 6.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132785516,imgsize-11430.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhaval-packagings-rs-36-36-crore-ipo-to-open-on-july-30/articleshow/132785516.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-08-02T17:03:46.052697Z"
     },
     {
-      "id": 14,
-      "title": "NPAs of bank of baroda rise 6 times in 6 years",
-      "description": "Non-performing assets of Bank of Baroda (BoB) rose from Rs 11,876 crore at March-end 2014 to Rs 73,140 crore at December-end 2019.  The number of NPA accounts rose from 2,08,035 as of March 31, 2014, to 6,17,306 as of December 2019. Bank of Baroda collected Rs 107.7 crore through the SMS alert fee in the last 2 years. ",
-      "imageUrl": "https://images.livemint.com/img/2019/08/26/600x338/BankofBaroda_1554006973769_1566817622477.jpg"
-    },
-    {
-      "id": 15,
-      "title": "Asian paints make hand sanitizers  ",
-      "description": "India’s largest decorative paint maker Asian Paints announced that it will start making hand and surface sanitizers under the Viroprotek brand and it will be available in the market from next week. The sanitizer is being manufactured at the Asian Paints plant in Ankleshwar, Gujarat and the company has obtained all necessary permissions from authorities. ",
-      "imageUrl": "https://img.etimg.com/thumb/msid-53560228,width-300,imgsize-164553,resizemode-4/asian-paints-to-enhance-manufacturing-capacity.jpg"
-    },
-    {
-      "id": 16,
-      "title": "Bajaj auto zero sales in april",
-      "description": "Bajaj Auto did not sell any two-wheelers or commercial vehicles in the domestic market in April. The company shipped 32,009 two-wheeler units to overseas markets last month. The company managed to export 5,869 commercial vehicle units in the last month. Bajaj Auto sold a total of 37,878 units last month, down 91 percent from 4,23,315 units in April 2019.",
-      "imageUrl": "https://www.bajajauto.com/intracityvehicles/img/banner1.jpg"
-    },
-    {
-      "id": 17,
-      "title": "Asian paints partially resumes operations",
-      "description": "Asian Paints has partially resumed operations at some of its manufacturing locations, warehouses, and offices where lockdown restrictions have been eased. The operations at these locations will be carried out in accordance with the guidelines issued by the regulatory authorities. The company had disruption of operations across the country on account of the COVID -19 pandemic. ",
-      "imageUrl": "https://static-news.moneycontrol.com/static-mcnews/2017/04/Paints-e1548221251733-770x433.jpg"
-    },
-    {
-      "id": 18,
-      "title": "Tcs launches artificial intelligence (ai) powered cloud based solution",
-      "description": "Tata Consultancy Services launch an AI-powered, cloud-based solution to detect wafer abnormal in semiconductor manufacturing. TCS WaferWise automatically detects defects, improves product quality, and enhances business growth. The solution harnesses the company's contextual knowledge of the semiconductor industry and the power of deep learning technology, to help chipmakers digitally re-imagine their product quality assurance process. ",
-      "imageUrl": "https://www.domain-b.com/companies/companies_t/tcs/images/TCS-Hangzhou-Software-Park-23-apr.jpg"
-    },
-    {
-      "id": 19,
-      "title": "Ford india launches contactless sales service",
-      "description": "Ford India announced the launch of contactless sales and service of vehicles as its dealerships on maintaining social distancing norms in the wake of coronavirus pandemic. The new procedure called \"Dial-A-Ford\" will allow a prospective customer to book, test drive, or even get the delivery of the new vehicle at his or her doorstep. ",
-      "imageUrl": "https://cdn.autoportal.com/img/news/14739/main/5a46164e40c27ad321c6071f5946fd81/main_cropped.jpg"
-    },
-    {
-      "id": 20,
-      "title": "Three IPOs postpones due to covid-19 pandemic",
-      "description": "Equitas Small Finance Bank on March 18 will postpone the launch of its initial public offering due to coronavirus-led weak market conditions. The issue consisted of a fresh issue of Rs 550 crore and an offer for sale of 8 crore shares.  Burger King and Rossari Biotech were also postponed their IPOs scheduled to open on March 18. ",
-      "imageUrl": "https://static-news.moneycontrol.com/static-mcnews/2017/03/Initial_public_offering_ipo_bank_1280x720-770x433.jpg"
-    },
-    {
-      "id": 21,
-      "title": "Maruti suzuki resume production at manesar from may 12",
-      "description": "Country's largest carmaker Maruti Suzuki will resume production of vehicles at Manesar facility from May 12. \"All activities would be carried out strictly per the Government regulations and guidelines. The process ensures the highest level of hygiene and sanitization across all its showrooms for the safety of its customers and employees. ",
-      "imageUrl": "https://www.dsij.in/Portals/0/EasyDNNNews/11202/600600p10163EDNmainimg-MarutiSuzuki.jpg"
-    },
-    {
-      "id": 22,
-      "title": "Reliance industries considers sale of asian paints stake",
-      "description": "Reliance Industries is considering selling its stake in India’s largest paint maker valued at about $989 million to trim its debt. Mukesh Ambani Asia’s richest person, is in discussions with banks for a potential sale of its 4.9 percent stake in Asian Paints. Reliance could decide not to proceed with a deal. ",
-      "imageUrl": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-02/23/full/reliance-industries-1424684108-8302300.jpg"
-    },
-    {
-      "id": 23,
-      "title": "Trading call on hindustan unilever (HUL) stock",
-      "description": "The HUL stock chart shows a downtrend for last 1 month. Its trend will become downtrend to uptrend after crossing a price of 2460. Try to buy a stock at 2461 with a target of 2635. Put a stop loss of 2283. Time Horizon of a trade is 10-20 days. HUL share current market price is 2078. ",
-      "imageUrl": "https://static.businessworld.in/article/article_extra_large_image/1580479103_fi9VzX_1664314_image_1521484347.jpg"
-    },
-    {
-      "id": 24,
-      "title": "Trading call on a TCS stock",
-      "description": "The TCS stock chart shows an uptrend for the last 1 month. Its trend will become uptrend to downtrend after crossing a price of 1858. Try to short sell a stock in 1857 with a target of 1683. Put a stop loss of 1977. Time Horizon of a trade is 10-15 days. TCS share current market price is 1897.",
-      "imageUrl": "https://www.businessinsider.in/thumb/msid-70146460,width-600,resizemode-4,imgsize-1808277/business/tcs-plans-to-hire-18000-freshers-in-next-3-months/tcs.jpg"
-    },
-    {
-      "id": 25,
-      "title": "Hero motocorp sale 10,000 two-wheelers",
-      "description": "The country’s largest two-wheeler manufacturer Hero MotoCorp has sold 10,000 motorcycles and scooters since re-opening customer touchpoints last week. It reopened three of its manufacturing plants at Dharuhera and Gurgaon in Haryana and Haridwar in Uttarakhand. Hero MotoCorp has also conducted intense training programs though webinars reaching 700 internal sales, after-sales employees, and over 7000 customer touch-points.",
-      "imageUrl": "https://images.financialexpress.com/2019/09/1-349.jpg"
-    },
-    {
-      "id": 26,
-      "title": "Sovereign gold bond scheme 2020-21 series-2 for investors",
-      "description": "The Sovereign Gold Bond Scheme 2020-21-Series-2 will be opened for subscription for the period from May 11, 2020, to May 15, 2020.  The issue price of Gold Bond is ₹4,540 per gram of gold after getting a discount of ₹50 per gram on the nominal value of ₹4,590 from Reserve Bank of India to those investors applying online.",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/ef7xroru4aatfwb_660_070120125508_110520124451.jpg"
-    },
-    {
-      "id": 27,
-      "title": "Trading call on a kotak bank stock",
-      "description": "The KOTAK stock chart shows a downtrend for the last 2 months and 15 days. Its trend will become down to up after crossing a price of 1302. Try to buy a stock at 1303 with a target of 1491. Put a stop loss of 1252. Time Horizon of a trade is 30-40 days. KOTAK current market price is 1191.",
-      "imageUrl": "https://static.businessworld.in/article/article_extra_large_image/1469729425_YucbAp_kotak.jpg"
-    },
-    {
-      "id": 28,
-      "title": "Trading call on a L&T finance stock",
-      "description": "The L&T FINANCE stock chart shows a downtrend for the last 2 months. Its trend will become down to up after crossing a price of 70. Try to buy a stock at 71 with a target of 95. Put a stop loss of 49. Time Horizon of a trade is 30-40 days. L&T FINANCE share current market price is 62.",
-      "imageUrl": "https://media.glassdoor.com/l/4b/96/e9/fd/ltfs-ho-3.jpg"
-    },
-    {
-      "id": 29,
-      "title": "Facts of sovereign gold bond scheme 2020",
-      "description": "1) Get a 2.5% interest annually in this scheme. But the interest is taxable. \n2) Its lock-in period is 8 years. But no long term capital gain charged after the 8 years.\n3) It has an exit plan after the 5 years. But long term capital gain is applicable. \n4) This scheme is risk-free.\n5) No making and GST charges on it.",
-      "imageUrl": "https://i10.dainikbhaskar.com/thumbnails/813x548/web2images/www.bhaskar.com/2020/05/11/25_1589171500.jpg",
-      "type": "news"
-    },
-    {
-      "id": 30,
-      "title": "Trading call on a bata stock",
-      "description": "The BATA stock chart shows a downtrend for the last 3 months and 10 days. Its trend will become down to up after crossing a price of 1405. Try to buy a stock at 1406 with a target of 1811. Put a stop loss of 1190. Time Horizon of a trade is 10-30 days. BATA share market price is 1349.",
-      "imageUrl": "https://www.forummalls.in/wp-content/uploads/malls/Vijaya/new_bg/bata/fvm_bata_g2.jpg"
-    },
-    {
-      "id": 31,
-      "title": "General atlantic invest 6,598.38 crore in jio platforms",
-      "description": "Private equity firm General Atlantic will invest Rs 6,598.38 crore in Jio Platforms at an equity value of Rs 4.91 lakh crore and an enterprise value of Rs 5.16 lakh crore. This will be the fourth investment in the Jio Platform following those of Facebook, Silver Lake, and Vista Equity Partners. General Atlantic’s will buy a 1.34% equity stake. ",
-      "imageUrl": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/17_05_2020_12_35_23_9082047.jpg?width=920&format=webp"
-    },
-    {
-      "id": 32,
-      "title": "RIL rights issue open on may 20",
-      "description": "Reliance Industries rights issue will open on May 20 and close on June 3 and offer partly paid-up shares to its existing shareholders. The company will raise up to Rs 53,036.13 crore of which Rs 39,755.08 crore used for paring debt. RIL is offering one share at Rs 1,257 to existing shareholders for every 15 held in the company. ",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/ril_660_191119022942_090120020626_140520105020.jpg"
-    },
-    {
-      "id": 33,
-      "title": "Kotak mahindra bank allow video KYC",
-      "description": "Kotak Mahindra Bank has introduced a video-KYC facility for customers opening savings accounts on Kotak 811 - the bank's digital banking platform. It is the first private Indian bank to offer a video-based \"zero-contact\" onboarding service. With Video KYC, verification of documents, signature are completed via a video call with a representative from the bank without any physical interface. ",
-      "imageUrl": "https://images.financialexpress.com/2020/02/Video-KYC-small.jpg"
-    },
-    {
-      "id": 34,
-      "title": "Bajaj finance FY20 highlights",
-      "description": "1) Bajaj Finance posted a 19.38 percent year-on-year (YoY) fall in net profit at Rs 948.10 crore for the Q4FY20.\n2) The company made provisions of Rs 1,954 crore in Q4FY20 against Rs 409 crore in Q4FY19.\n3) The company has lost 10 productive days in Q4FY20.\n4) New loans booked during the quarter increased by 3 percent YoY to Rs 60.3 lakh.",
-      "imageUrl": "https://www.dynamiclevels.com/wp-content/uploads/2016/08/babaj-finance.jpg",
-      "type": "news"
-    },
-    {
-      "id": 35,
-      "title": "Tata steel Q4FY20 results",
-      "description": "Tata Steel reported a consolidated net profit of Rs 5.93 crore for the Q4FY20. The company had posted a consolidated net loss of Rs 212.41 crore in the last year. Tata Steel consolidated total income declined to Rs 4,288.87 crore, over Rs 5,547.71 crore in the last year. There is a financial risk for the company due to COVID-19.",
-      "imageUrl": "https://www.hrkatha.com/wp-content/uploads/2017/12/2fa8710abe28570bdc2ae8034cc5a716.jpg"
-    },
-    {
-      "id": 36,
-      "title": "Colgate palmolive Q4FY20 results",
-      "description": "Colgate-Palmolive posted a 3.32 percent year-on-year rise in net profit at Rs 204.15 crore for the Q4FY20. The company reported a 7.40 percent YoY drop in net sales at Rs 1,062.4 crore with an 8 percent YoY decline in volumes due to the ongoing Covid-19 situation. The company also declared a second interim dividend of Rs 16 per share. ",
-      "imageUrl": "https://www.mbaskool.com/2017_images/stories/aug-images/mktgmx-colgatepalmolive.jpg"
-    },
-    {
-      "id": 37,
-      "title": "KKR invest 11,367 crore in jio platforms",
-      "description": "Private equity firm KKR is set to invest Rs 11367 crore in Jio Platforms for a 2.32% stake. This will be the fifth investment in the Reliance Industries Ltd (RIL) business. With the latest deal, Jio Platforms will get a combined Rs78,562 crore from the five investments. KKR is an American global investment firm that manages multiple alternative asset classes.",
-      "imageUrl": "https://www.gizbot.com/img/2020/05/xkkr-to-invest-rs-11367-crore-in-jio-platforms-for-2-32-stake1-1590130749.jpg.pagespeed.ic.tjgPvEsKLb.jpg"
+      "id": "9f836a0a3377e9ab7b07c1b7a10c97df",
+      "title": "Real estate firm Assetz files IPO papers with Sebi via confidential route; plans Rs 1,200 cr issue",
+      "description": "Assetz Ltd, a prominent Bengaluru-based real estate developer, has embarked on its journey towards an initial public offering by submitting its preliminary documentation. The firm aims to secure around Rs 1,200 crore as it ventures into public markets. With ambitious plans for land acquisition and a keen interest in expanding to the Mumbai Metropolitan Region, this step marks a crucial milestone in Assetz Ltd's growth trajectory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132802599,imgsize-109431.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/real-estate-firm-assetz-files-ipo-papers-with-sebi-via-confidential-route-plans-rs-1200-cr-issue/articleshow/132802599.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-02T17:03:46.051892Z"
     },
     {
       "id": 38,
@@ -236,13 +201,6 @@
       "description": "Edelweiss Asset Management would launch the second tranche of Bharat Bond ETF in July with two new series to raise up to Rs 14,000 crore from the market. The two new series will have maturities of April 2025 and April 2031. Bond ETF invests in AAA-rated public sector companies including EXIM Bank, HPCL, HUDCO, NHAI, NHPC, NTPC, NABARD, and SIDBI.",
       "imageUrl": "https://www.basunivesh.com/wp-content/uploads/2019/12/Edelweiss-Bharat-Bond-ETF.jpg",
       "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/second-tranche-of-bharat-bond-etf-coming-aims-to-raise-rs-14000-crore/articleshow/75886430.cms"
-    },
-    {
-      "id": 39,
-      "title": "Facts of bharat bond exchange traded fund",
-      "description": "1) It has a fixed maturity date.\n2) It achieves to track the returns provided by the Nifty BHARAT Bond Index.\n3) This bond has no lock-in period.\n4) It provides relatively stable returns with lower taxes over the maturity period.\n5) The minimum and maximum investment amount is Rs.1000 and Rs 2,00,000 for the retail investors.\n6) Its managed at 0.0005% cost.",
-      "imageUrl": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_850x478/public/2020/01/08/108663-bharat-bond-etf-1.jpg?itok=00WPsONh&c=c5af8c0f92ccc8e249257bf0f1cb18e8",
-      "type": "news"
     },
     {
       "id": 40,
@@ -380,13 +338,6 @@
       "type": "news",
       "fullArticleLink": "https://www.ndtv.com/business/coronavirus-pandemic-news-sun-pharma-testing-plant-based-drug-aqch-as-potential-covid-19-treatment-2241164",
       "fullArticleName": "NDTV"
-    },
-    {
-      "id": 56,
-      "title": "Stocks to look for high gains",
-      "description": "Castrol India (Rs 125) is fluctuating around its low & have slowly started regaining its pace. Further oil demand is likely to bounce back once industries open and vehicles start running on the road.\nReliance Industries (Price of  ₹1,571.8): Multiple investors like Silver Lake, Facebook & Abu Dhabi Investment Authority (ADIA) have invested in its Jio Platforms.  All these investment values Jio at an equity value of Rs 4.91 lakh crore. ",
-      "imageUrl": "https://p1.pxfuel.com/preview/319/313/80/stocks-graph-abstract-accounting-analysis-banking-royalty-free-thumbnail.jpg",
-      "type": "call"
     },
     {
       "id": 57,
@@ -913,14 +864,6 @@
       "fullArticleName": "Times of India"
     },
     {
-      "id": 110,
-      "date": "Thu Jul 09 2020",
-      "title": "Stocks to invest during coronavirus pandemic",
-      "description": "1) Asian Paints Ltd- The best price to make a new position in it is 1400. Currently trading in 1717.\n2) Hindustan Unilever Ltd- The best price for new investment in it is 1965. Currently trading in 2176.\n3) Reliance Industries Limited- The best price to make a new position in it is 1428. Currently trading in 1824. \n4) ICICI Bank Ltd- The best price for new investment in it is 285. Currently trading in 370.\n",
-      "imageUrl": "https://c1.wallpaperflare.com/preview/161/689/154/chart-trading-courses-analysis.jpg",
-      "type": "call"
-    },
-    {
       "id": 111,
       "date": "Thu Jul 09 2020",
       "title": "DHFL done a fraud to PNB of Rs 3688 crore",
@@ -1001,58 +944,6 @@
       "fullArticleName": "Times of India"
     },
     {
-      "id": 119,
-      "date": "Fri Jul 17 2020",
-      "title": "Analysis on DMART stock",
-      "description": "DMART is promoted by Avenue Supermarts Ltd. (ASL). It is an Indian chain of hypermarkets in India founded by Radhakishan Damani in the year 2002. Damani is the second richest person in India after Mukesh Ambani. The DMART chart trend was up for 3 years and 2 months. But, Its chart trend is down from 1 month due to its poor FY20-21 Q1 results. The best prices to make a new position in it are 1913 & 1466. Currently trading in 1988.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/DMart_Photo.png",
-      "type": "call"
-    },
-    {
-      "id": 120,
-      "date": "Sun Jul 19 2020",
-      "title": "Analysis on Kotak Bank stock",
-      "description": "Kotak Mahindra Bank is an Indian second-largest private sector bank headquartered in Mumbai. It has 1600 branches & 2519 ATMs. The Bank was founded by Uday Kotak in February 2003. The Kotak Bank chart trend was up for 10 years from 25/1/2010 to 17/2/2020. But, for the last 5 months, its chart trend becomes down due to an increase in bad loans caused by the COVID. The best price for new investment in it is 1239. Current price is 1333.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kotak_Mahindra_Bank_ATM.JPG",
-      "type": "call"
-    },
-    {
-      "id": 121,
-      "date": "Sun Jul 19 2020",
-      "title": "Aditya Puri becomes Highest Paid Banker for FY20",
-      "description": "HDFC Bank Managing Director Aditya Puri has emerged as the highest-paid banker among the top lenders for FY2019-20, with a 38 percent jump in salary to Rs 18.92 crore. He earned an additional Rs 161.56 crore by exercising stock options during the year. He is set to retire in October this year on attaining the age of 70, had earned Rs 42.20 crore by exercising stock options in 2018-19. The current stock price of HDFC Bank is 1103.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/An_HDFC_Bank_Branch.jpg",
-      "type": "news",
-      "fullArticleLink": "",
-      "fullArticleName": ""
-    },
-    {
-      "id": 122,
-      "date": "Sun Jul 19 2020",
-      "title": "HDFC Bank Q1 FY20-21 results",
-      "description": "Private lender HDFC Bank posted a 19.58 percent rise in net profit to Rs 6,658.62 crore for the quarter one (Q1) of FY20. The figure stood at Rs 5,568.16 crore in the same quarter of the previous financial year (FY). The net interest income of the Bank grew 17.80 percent from last year to Rs 15,665.40 crore in Q1 of FY20. Provisions increased 48.89 percent from last year to Rs 3,891.52 crore. The overall results of a Bank are good.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/HDFC_Bank.jpg",
-      "type": "news"
-    },
-    {
-      "id": 123,
-      "date": "Mon Jul 20 2020",
-      "title": "SBI Card FY20-21 Q1 results",
-      "description": "SBI Card posted a 13.8 percent rise in net profit from Rs 345.59 crore in Q1 of FY19-20 to Rs 393.29 crore in Q1 of FY20-21. Total revenue from operation increased 4 percent from Rs 2,068.28 crore in Q1 of FY19-20 to Rs 2,152.20 crore in Q1 of FY20-21. The company posted a nearly 28 percent drop in total expenditure at Rs 134.98 crore in Q1FY20, over Rs 186.94 crore in Q1FY19. Its overall results are good. The stock price is 766.",
-      "imageUrl": "https://c4.wallpaperflare.com/wallpaper/760/223/715/plastic-money-credit-cards-visa-wallpaper-preview.jpg",
-      "type": "news",
-      "videoUrl": "https://www.youtube.com/watch?time_continue=55&v=8Dex6YmtaAw"
-    },
-    {
-      "id": 124,
-      "date": "Mon Jul 20 2020",
-      "title": "ACC Ltd FY20-21 Q1 results",
-      "description": "Cement maker, ACC Ltd, reported a 40% fall in net profit from Rs 455 crore in Q1 of FY19-20 to Rs 270.95 crore in the same quarter of FY20-21. The company’s total sales decreased by 38% to Rs 2,520 crore during the Q1 of FY20-21, as against Rs 4059.28 crore in the same quarter last year. Sales volume declined by 33% from 4.9 million tonnes to 4.8 million tonnes. Its overall results are poor. The stock price of ACC Ltd is 1335.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Factory_of_National_Cement_Share_Company.jpg",
-      "type": "news",
-      "videoUrl": "https://www.youtube.com/watch?time_continue=15&v=uhvReICx3Oo"
-    },
-    {
       "id": 125,
       "date": "Wed Jul 22 2020",
       "title": "Unichem Laboratories drug gets USFDA permission",
@@ -1123,14 +1014,6 @@
       "fullArticleName": "Moneycontrol"
     },
     {
-      "id": 132,
-      "date": "Tue Jul 28 2020",
-      "title": "MCX stock gives a 37% return to investors ",
-      "description": "Multi Commodity Exchange of India Ltd (MCX) is an independent commodity exchange of India. It was established in 2003 and is based in Mumbai. Its stock price rises by 37% from 1258 to 1724 in 1 month.  Its price was 1258 on 29/6/2020. The stock currently trading in 1724. Means price is increased by Rs 466 in a small duration. MCX offers trading in gold, non-ferrous metals, silver, energy, and many agricultural commodities.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/MCX_Warszawa_ul_Gotarda.jpg",
-      "type": "news"
-    },
-    {
       "id": 133,
       "date": "Wed Aug 05 2020",
       "title": "Lupin launches COVID drug at Rs 49 per tablet",
@@ -1139,14 +1022,6 @@
       "type": "news",
       "fullArticleLink": "https://www.moneycontrol.com/news/business/lupin-launches-covid-19-drug-favipiravir-in-india-at-rs-49-per-tablet-5648551.html",
       "fullArticleName": "Moneycontrol"
-    },
-    {
-      "id": 134,
-      "date": "Sat Aug 22 2020",
-      "title": "Trading call on a Bata stock",
-      "description": "The BATA stock chart shows a downtrend for the last 2 months and 10 days. Its trend is reversed from down to up after crossing a price of 1297. Try to buy a stock at the current level with a target of 1357. Put a stop loss of 1253. Time Horizon of a trade is 10-20 days. The current stock price of BATA is 1307.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bata_Store.jpg",
-      "type": "call"
     },
     {
       "id": 135,
@@ -1199,70 +1074,6 @@
       "fullArticleLink": "https://www.chittorgarh.com/ipo/sigma-solve-ipo/1067"
     },
     {
-      "id": 140,
-      "date": "Tue Oct 20 2020",
-      "title": "Trading call on a HCLTECH stock",
-      "description": "The HCLTECH stock chart shows an uptrend from the last 6 months and 20 days. It crosses the resistance level of 879. Try to buy a stock at the current level with a target of 910. Put a stop loss of 868. The Time Horizon of a trade is 5-15 days. The current stock price of HCL Technologies Ltd is 880.65.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/HCL_Tech_Noida_SEZ_Campus.png",
-      "type": "call"
-    },
-    {
-      "id": 141,
-      "date": "Tue Oct 20 2020",
-      "title": "Trading call on a MCX stock",
-      "description": "The MCX Stock chart shows an uptrend from the last 7 months. It crosses the resistance level of 1788. Try to buy a stock at the current level with a target of 1850. Put a stop loss of 1765. The Time Horizon of a trade is 5-15 days. The current share price of the Multi Commodity Exchange of India Ltd (MCX) is 1789.",
-      "imageUrl": "https://cdn.crediful.com/app/uploads/2016/11/gold-and-silver.jpg",
-      "type": "call"
-    },
-    {
-      "id": 142,
-      "date": "Fri Oct 23 2020",
-      "title": "Trading call on a HeroMotocorp stock",
-      "description": "The HeroMotocorp stock chart shows an uptrend from the last 6 months and 20 days. It crosses the resistance level of 3090. Try to buy a stock at the current level with a target of 3150. Put a stop loss of 3080. The Time Horizon of a trade is 2-15 days. The current stock price of Hero Motocorp Ltd is 3114.",
-      "imageUrl": "https://images.hindustantimes.com/auto/img/2020/07/01/600x338/Image_-_Hero_Xtreme_160R_1593522699860_1593597979081.jpg",
-      "type": "call"
-    },
-    {
-      "id": 143,
-      "date": "Thu Oct 29 2020",
-      "title": "Trading call on a Jubilant FoodWorks stock",
-      "description": "The Jubilant FoodWorks stock chart shows an uptrend from the last 6 months and 15 days. It crosses the resistance level of 2188. Try to buy a stock at the current level with a target of 2274.\nPut a stop loss of 2170. The Time Horizon of a trade is 5-15 days The current share price of Jubilant FoodWorks Ltd is 2194.",
-      "imageUrl": "https://images.livemint.com/img/2020/01/29/600x338/jubilanfoodworkks-kwfH--621x414@LiveMint_1580305696460.jpg",
-      "type": "call"
-    },
-    {
-      "id": 144,
-      "date": "Fri Oct 30 2020",
-      "title": "Trading call on a Reliance Industries stock",
-      "description": "The Reliance Industries stock chart shows an uptrend from the last 7 months. It crosses the resistance level of 2030. Try to buy a stock at the current level with a target of 2100. Put a stop loss of 2020. The Time Horizon of a trade is 2-10 days. The current share price of Reliance Industries Limited is 2032.",
-      "imageUrl": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-02/23/full/reliance-industries-1424684356-3657300.jpg",
-      "type": "call"
-    },
-    {
-      "id": 145,
-      "date": "Wed Nov 04 2020",
-      "title": "Trading call on a UltraTech Cement stock",
-      "description": "The UltraTech Cement stock chart shows an uptrend from the last 5 months and 15 days. It crosses the resistance level of 4565. Try to buy a stock at the current level with a target of 4650.\nPut a stop loss of 4550. The Time Horizon of a trade is 2- 10 days. The current share price of UltraTech Cement Ltd is 4568.",
-      "imageUrl": "https://images.financialexpress.com/2019/04/cats-1454.jpg",
-      "type": "call"
-    },
-    {
-      "id": 146,
-      "date": "Fri Nov 13 2020",
-      "title": "Trading call on a Reliance Industries stock",
-      "description": "The Reliance Industries stock chart shows an uptrend from the last 7 months. It crosses the resistance level of 1998. Try to buy a stock at the current level with a target of 2048. Put a stop loss of 1980. The Time Horizon of trade is 2-10 days. The current share price of Reliance Industries Limited is 2000.",
-      "imageUrl": "https://bl.thgim.com/incoming/xcctym/article28688833.ece/alternates/WIDE_615/riljpg",
-      "type": "call"
-    },
-    {
-      "id": 147,
-      "date": "Fri Nov 13 2020",
-      "title": "Trading call on a Britannia Industries stock",
-      "description": "The Britannia Industries stock chart shows an uptrend from the last 7 months and 10 days. It crosses the resistance level of 3514. Try to buy a stock at the current level with a target of 3800. Put a stop loss of 3486. The Time Horizon of trade is 1-2 months. The current share price of Britannia Industries Ltd is 3517.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-02/18/full/1518965938-4605.jpg",
-      "type": "call"
-    },
-    {
       "id": 148,
       "date": "Sun Dec 13 2020",
       "title": "Cremica IPO opens on 15th December 2020",
@@ -1293,14 +1104,6 @@
       "fullArticleName": "Chittorgarh"
     },
     {
-      "id": 151,
-      "date": "Mon Jan 25 2021",
-      "title": "Key points for good financials of a stock Part 1",
-      "description": "1) Earnings per Share (EPS) tells the profitability of a stock. An increase in EPS is a good sign for a particular stock.\n2) If Book Value per Share (BVPS) increases the stock price will also increase.\n3) Higher the Return on equity (ROE) of a company it will give better returns to investors.\n4) Debt to Equity Ratio should be less for low risk and better investment.\n5) If Earnings before interest & taxes (EBIT) increases are good.\n",
-      "imageUrl": "https://previews.123rf.com/images/kchung/kchung1409/kchung140900353/31394723-key-icon-target-with-darts-hitting-on-it-over-white.jpg",
-      "type": "learn"
-    },
-    {
       "id": 152,
       "date": "Fri Jan 29 2021",
       "title": "Open free Demat and Trading account with Upstox",
@@ -1328,46 +1131,6 @@
       "type": "news",
       "fullArticleLink": "https://economictimes.indiatimes.com/industry/auto/auto-components/auto-components-sector-set-for-a-rebound/articleshow/81704407.cms",
       "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 155,
-      "date": "Sun Mar 28 2021",
-      "title": "Important facts of Godrej Industries Ltd company",
-      "description": "1) It is India's leading manufacturer of oleochemicals (Chemical compounds derived from natural fats, vegetable, and animal oils).\n2) The company's raw material is vegetable oils.\n3) It manufactures fatty acids, glycerin, fatty alcohols, surfactants etc.\n4) It has a manufacturing facility at Valia in Gujarat.\n5) Company is also engaged in the business of Real Estate and Finance Investments.\n6) Its head office in Mumbai, Maharastra.\n",
-      "imageUrl": "https://www.godrejindustries.com/chemicals/Resources/images/chemicals/products/product-banner.jpg",
-      "type": "news"
-    },
-    {
-      "id": 156,
-      "date": "Sun Mar 28 2021",
-      "title": "Key points about the HDFC Life Insurance Company",
-      "description": "1) It is India's leading private life insurance company.\n2) It is a joint venture between Housing Development Finance Corporation Ltd & Standard Life Aberdeen.\n3) HDFC Life products are Protection, Pension, Savings, Investment, Health, Children & Women plans.\n4) It has 421 branches and presence in 980+ cities in India.\n5) The company has also established an office in Dubai.\n6) It was founded in 2000 and its CEO is \"Vibha Padalkar\".",
-      "imageUrl": "https://www.medianews4u.com/wp-content/uploads/2019/06/HDFC.jpg",
-      "type": "news"
-    },
-    {
-      "id": 157,
-      "date": "Tue Mar 30 2021",
-      "title": "Important facts of Hindustan Unilever Ltd company",
-      "description": "1) It is India's largest fast-moving consumer goods (FMCG) company.\n2) It is a subsidiary of a British company \"Unilever\".\n3) HUL brands under the food category are Bru coffee, Brooke Bond Tea, Knorr soups, Kwality Wall's, Magnum, Horlicks etc.\n4) Its brands under the Home Care category are Wheel, Domex, Surf Excel, Rin, Vim, etc.\n5) Its brand under the Personal Care category are Axe, Pepsodent, Close up, Lakme, Lux, Lifebuoy, etc.",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/hul_products660_090321092848.jpg",
-      "type": "news"
-    },
-    {
-      "id": 158,
-      "date": "Fri Apr 02 2021",
-      "title": "Key facts about the VIP Industries Ltd company",
-      "description": "1) It is India's largest and Asia's No. 1 luggage manufacturer company.\n2) It has more than 8,000 retail outlets across India.\n3) VIP Industries Ltd products are Baggage, Suitcase & Travel Pack (Developed for adventurers).\n4) The company brands are Aristocrat, Alfa, Caprese, Carlton, VIP Bags & Skybags.\n5) It's acquired the United Kingdom-based luggage brand \"Carlton\" in 2004.\n6) It was founded by \"Dilip Piramal\" in 1971.",
-      "imageUrl": "https://www.pacificmalls.in/dwarka/images/slider/602011579274694slider.jpg",
-      "type": "news"
-    },
-    {
-      "id": 159,
-      "date": "Sat Apr 03 2021",
-      "title": "Things to know about the IRCTC ",
-      "description": "1) Indian Railway Catering & Tourism Corporation (IRCTC) is a fully owned subsidiary of Indian Railways.\n2) It provides services like Online Ticketing, Hospitality (Homestay facility), Tourism & Catering.\n3) It has started operating India's 1st semi-private train \"Tejas\" b/w Lucknow & Delhi.\n4) It's another operating semi-private train is \"Kashi Mahakaal\".\n5) IRCTC has launched a payment wallet \"iMudra\" in August 2019.",
-      "imageUrl": "https://img.naidunia.com/naidunia/ndnimg/02032020/02_03_2020-kashi_mahakal_express_202032_607.jpg",
-      "type": "news"
     },
     {
       "id": 160,
