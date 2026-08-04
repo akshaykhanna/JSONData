@@ -1,6 +1,190 @@
 {
   "news": [
     {
+      "id": "dc3f2f68664b9701704115414814d532",
+      "title": "Bharti Airtel Q1 Results: Profit climbs on higher subscriber upgrades, robust data usage",
+      "description": "Bharti Airtel reported a consolidated net profit of ₹8,167 crore for Q1FY27, a 37.3% YoY increase, announced on August 04. However, net profit declined 11.5% compared to ₹7,325 crore in Q4FY26.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/INDIA-BHARTI-ARTEL-4_1730280143198_1785842960111_47ea6d1f-9a0a-463d-bdbd-7d5cf6b3d83a.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bharti-airtel-q1-results-net-profit-rises-37-yoy-to-rs-8-167-crore-revenue-jumps-18-11785842962022.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T14:05:12.812053Z"
+    },
+    {
+      "id": "4d25df7777acada31aa05e667967aef1",
+      "title": "Nykaa Q1 Results: Net profit surges over threefold to ₹80 crore on strong beauty demand",
+      "description": "FSN E-Commerce Ventures, Nykaa's parent, reported a 226% YoY increase in profit to ₹80 crore for the June quarter, driven by rising sales and improved margins. Revenue rose 29% YoY to ₹2,782 crore, led by strong demand in skincare and makeup.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/NYKAA-RESULTS--0_1720688266151_1785848893173_342ac255-f1c1-4214-8fda-237c23768d86.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nykaa-q1-results-net-profit-surges-over-threefold-to-rs-80-crore-on-strong-beauty-demand-11785848895992.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T14:05:12.811877Z"
+    },
+    {
+      "id": "0298e32c7da50f9b57a84de3ed99ec50",
+      "title": "Epack Prefab Technologies shares rally 10% after Q1 revenue jumps 24%",
+      "description": "Epack Prefab Technologies shares surged over 10% after the company reported a 24% year-on-year rise in June-quarter revenue, supported by strong project execution and regional expansion. While margins softened due to higher input costs, the company expects them to recover in the coming quarters as capacity additions and a healthy order book support growth.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132851604,imgsize-98316.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/epack-prefab-technologies-shares-rally-10-after-q1-revenue-jumps-24/articleshow/132851604.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T14:05:12.209291Z"
+    },
+    {
+      "id": "2635b36b3abdfba84318ef7c99184b4e",
+      "title": "ICICI Securities initiates coverage on 7 PSU banks with positive valuations",
+      "description": "ICICI Securities commenced its analysis on seven public sector banks, giving most a Buy rating. They predict a strong return on equity for these institutions leading up to fiscal year twenty twenty-eight. Loan growth should remain vigorous, estimated at fourteen to fifteen percent each year. While asset quality is likely to stay stable, they caution about possible disruptions related to oil and climate change.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132853068,imgsize-100982.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/icici-securities-initiates-coverage-on-7-psu-banks-with-positive-valuations/articleshow/132853068.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-04T14:05:12.209176Z"
+    },
+    {
+      "id": "0a81a59343151292f5d42fbfcab7fa50",
+      "title": "Aimtron Electronics shares can rally to Rs 2,036? Here’s why Nuvama initiated coverage on the platform stock",
+      "description": "Nuvama Wealth Management has initiated coverage on Aimtron Electronics with a Buy rating and a target price of Rs 2,036, implying nearly 47% upside. The brokerage expects strong growth driven by the company's shift to high-margin ESDM solutions, expanding order book, capacity additions and global expansion through its US acquisition.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132853368,imgsize-139960.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/aimtron-electronics-shares-can-rally-to-rs-2036-heres-why-nuvama-initiated-coverage-on-the-platform-stock/articleshow/132853368.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-04T14:05:12.209136Z"
+    },
+    {
+      "id": "8389d1f93c957bb5e03d4401877568fe",
+      "title": "Sebi aims to relax offshore fund investor-disclosure rules as appeals grow: Report",
+      "description": "India's market regulator is set to simplify disclosure requirements for offshore funds to entice more long-term foreign investment. The proposed adjustments include extending the disclosure timelines for fresh investors and increasing the thresholds for reporting specific investor information. These initiatives emerged in response to legal challenges and complaints from investors, seeking to create a more conducive environment for capital influx.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132855102,imgsize-67822.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-aims-to-relax-offshore-fund-investor-disclosure-rules-as-appeals-grow-report/articleshow/132855102.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-04T14:05:12.209055Z"
+    },
+    {
+      "id": "75642d2ba8950dc7494338d62f4d8723",
+      "title": "Jindal Stainless Q1 net profit up 8%, price hikes offset cost surge",
+      "description": "Jindal Stainless production dipped during the June quarter due to West Asia conflict disruptions. However, price increases helped ease some of the cost pressures experienced. Consolidated net profit rose nearly 8% while revenue increased by ten percent. Sales volume dropped over 7%, impacted by fuel supply chain issues. The company's net debt decreased, and its net debt-to-EBITDA ratio improved.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132817725,imgsize-794664.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-stainless-q1-net-profit-up-8-price-hikes-offset-cost-surge/articleshow/132817725.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-04T14:05:12.208983Z"
+    },
+    {
+      "id": "1f03f027b840037559432d6e62ef3329",
+      "title": "Sensex falls 210 points, Nifty closes below 24,650 as market snaps 4-day gaining streak",
+      "description": "Indian benchmark indices ended lower on Tuesday, snapping a four-day winning streak as the Sensex dropped 210 points to 78,429 and the Nifty fell 159 points to 24,615. Volatility stemmed from weekly expiry and discrepancies under the newly introduced Closing Auction Session (CAS) framework, which triggered forced square-offs ahead of the RBI policy outcome.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132856959,imgsize-159186.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-210-points-nifty-closes-below-24650-as-market-snaps-4-day-gaining-streak/articleshow/132856959.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-04T14:05:12.208910Z"
+    },
+    {
+      "id": "14ff6d2f276f502bc43df79cc9fc1fa2",
+      "title": "India's new closing auction stokes sharp Nifty swings, options volatility on weekly expiry",
+      "description": "India's Nifty 50 index faced notable volatility yet again, largely driven by the recent implementation of a new closing price mechanism. This development coincided with the expiration of weekly derivative contracts, which created turmoil among traders. As the Nifty 50 moved lower, experts indicated the necessity for critical adjustments to the new pricing system to address the prevailing issues.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132861816,imgsize-373972.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indias-new-closing-auction-stokes-sharp-nifty-swings-options-volatility-on-weekly-expiry/articleshow/132861816.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-04T14:05:12.208637Z"
+    },
+    {
+      "id": "4e068454f9331048ec54b04ee9938127",
+      "title": "Sebi proposes depository receipts against REITs, InvITs units",
+      "description": "India's markets regulator has unveiled a fresh set of regulations concerning depository receipts aimed at real estate and infrastructure investment trusts. This initiative seeks to draw increased foreign investment into these vital sectors, providing overseas investors with a new channel to trade these units. Interested parties must submit their feedback on the proposals by August twenty-fifth.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132862848,imgsize-455410.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-depository-receipts-against-reits-invits-units/articleshow/132862848.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-04T14:05:12.208446Z"
+    },
+    {
+      "id": "112021b421472930f2df7601e1f82fd4",
+      "title": "India bonds rise on position building ahead of RBI policy",
+      "description": "Indian government bonds saw a slight increase as traders positioned themselves before the RBI's policy announcement. The Reserve Bank of India is widely expected to maintain its key policy rate unchanged on Wednesday. Rising oil prices, however, limited the upward movement in bond yields during the session. Traders will closely monitor the RBI for guidance on liquidity and economic forecast revisions.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132860400,imgsize-115518.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-on-position-building-ahead-of-rbi-policy/articleshow/132860400.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-04T14:05:11.635719Z"
+    },
+    {
+      "id": "06ea004cbf8f363b96db07abf0f7bbc8",
+      "title": "DLF confident of meeting FY27 pre-sales target of Rs 20K cr despite weak Q1: MD",
+      "description": "DLF Ltd aims to reach its ambitious Rs 20,000 crore sales target this fiscal year, despite a considerable drop in pre-sales in the June quarter owing to a lack of new project launches. The company is now prioritizing cash flow enhancement and investigating strategic land purchases in the Delhi-NCR region.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132862387,imgsize-40694.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dlf-confident-of-meeting-fy27-pre-sales-target-of-rs-20k-cr-despite-weak-q1-md/articleshow/132862387.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T14:05:11.635337Z"
+    },
+    {
+      "id": "f6db7103523ad9c21d93ab1a2af55f61",
+      "title": "Godrej Properties Q1 Results: Profit falls 42% to Rs 349 crore, sales bookings rise 22%",
+      "description": "Godrej Properties saw a forty-two percent profit drop in the June quarter. Total income also decreased compared to the previous year's corresponding period. However, sales bookings increased by twenty-two percent to over eight thousand six hundred crore. The company sold three thousand seven hundred thirty-eight units during the quarter. Executive Chairperson Pirojsha Godrej expressed confidence in continued sales momentum.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132862456,imgsize-53096.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-q1-results-profit-falls-42-to-rs-349-crore-sales-bookings-rise-22/articleshow/132862456.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T14:05:11.635260Z"
+    },
+    {
+      "id": "71284258b672b5e7cafb5c31f852381b",
+      "title": "Keystone Realtors Q1 profit jumps over 3-times to Rs 52cr",
+      "description": "Keystone Realtors has announced an impressive profit growth in the latest quarter, with net profits climbing to Rs 52.37 crore, up from Rs 16.33 crore. Total income soared to Rs 493.26 crore, reflecting healthy demand in the real estate market. Additionally, pre-sales hit Rs 617 crore, buoyed by a robust homebuyer sentiment, while the company ensures a solid financial foundation for upcoming ventures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132862482,imgsize-2802.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-q1-profit-jumps-over-3-times-to-rs-52cr/articleshow/132862482.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T14:05:11.635225Z"
+    },
+    {
+      "id": "ae5ba49c7592f506fa5d138a44382ee1",
+      "title": "Ajmera Realty & Infra Q1 profit rises 14% to Rs 45cr",
+      "description": "Ajmera Realty & Infra India Ltd reported an impressive fourteen percent increase in net profit, amounting to Rs 44.94 crore for June. Alongside this, the company's total income surged to Rs 319.52 crore in the first quarter, indicating a remarkable year-on-year performance. As one of India's top real estate firms, Ajmera continues to demonstrate robust growth.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132862528,imgsize-116208.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/ajmera-realty-infra-q1-profit-rises-14pc-to-rs-45cr/articleshow/132862528.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T14:05:11.635135Z"
+    },
+    {
       "id": "f36762fedd9b7116aba1ae50e7768412",
       "title": "Fewer jobs in the market? Some of India's top companies are hiring less",
       "description": "Among the 30 Sensex companies, total new hires at nine companies fell 27% in FY26 compared to FY24 while two companies hired more, a Mint analysis found. The remaining companies either do not disclose or only partially disclose fresh hiring numbers.",
