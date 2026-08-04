@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "f36762fedd9b7116aba1ae50e7768412",
+      "title": "Fewer jobs in the market? Some of India's top companies are hiring less",
+      "description": "Among the 30 Sensex companies, total new hires at nine companies fell 27% in FY26 compared to FY24 while two companies hired more, a Mint analysis found. The remaining companies either do not disclose or only partially disclose fresh hiring numbers.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/logo/2-0-308342896-CallCentre-4C-0_1680613074103_1785672841889_29a28294-e09f-4464-800d-1e47445ba39b.JPG",
+      "fullArticleLink": "https://www.livemint.com/news/fewer-jobs-in-the-market-some-of-indias-top-companies-are-hiring-less-11785647201413.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-04T02:14:52.833421Z"
+    },
+    {
+      "id": "bb5ca457f18b172f5d567f45567ea358",
+      "title": "ICICI Lombard shifts focus from risk transfer to risk management",
+      "description": "On Monday, the general insurer launched 25 products and features to mark 25 years of operations, many of which are backed by technology and artificial intelligence.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/Gopal_Balachandran_CFO_ICICI_Lombard_jpg_1785774892507_1785774892639_0a2b5fcc-2fe1-49c1-b986-f066dfd466d3.jpeg",
+      "fullArticleLink": "https://www.livemint.com/companies/icici-lombard-shifts-focus-from-risk-transfer-to-risk-management-insurer-policy-general-insurance-products-ai-11785770296292.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-04T02:14:52.832612Z"
+    },
+    {
+      "id": "67bb5c542f246fed9b049cc495002181",
+      "title": "Sensex jumps over 500 points, Nifty 50 ends above 24,750; investors earn ₹4 lakh crore in a day",
+      "description": "The Sensex ended the day 544 points, or 0.70%, higher at 78,639, while the Nifty 50 ended 391 points, or 1.60%, higher at 24,774.30.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/Why_is_stock_market_rising_today_stock_market_sens_1785751021292_1785751021597_c685740d-8d48-435b-a1a3-2892373408da.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-jumps-over-500-points-nifty-50-ends-above-24-750-investors-earn-5-lakh-crore-in-a-day-11785750602056.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-04T02:14:52.145890Z"
+    },
+    {
+      "id": "755373b4cf5ebbcf66d96e0738e429c8",
+      "title": "Top Gainers & Losers on 3 August: Urban Company, Pine Labs, Redington, Paytm, TCS, Meesho among top gainers",
+      "description": "Indian equities surged nearly 1% on Monday, led by a decline in crude oil prices and strong IT sector buying. The Nifty 50 rose to 24,573 and the Sensex to 78,677, extending gains to a fourth session. Nifty IT and Private Bank were top gainers.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1785751625860_8021422b-2d23-4dd5-8c96-269f706fefde.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-3-august-urban-company-pine-labs-redington-paytm-tcs-meesho-among-top-gainers-11785751559441.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-04T02:14:52.145857Z"
+    },
+    {
+      "id": "66116e1be516241393155ebbcfce3618",
+      "title": "HSBC, SBI and ICICI Bank get half of India's FCNR flows under incentive window",
+      "description": "Public sector banks got $8.8 billion under the scheme, private sector banks $10.7 billion and foreign banks $8.4 billion. The remaining came into small finance banks and cooperative banks, the data showed.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/Reserve_Bank_of_India-RBI_1685438814228_1785766415925_8102126a-338c-44b1-aa5e-d5a3b8015885.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/hsbc-sbi-and-icici-bank-get-half-of-indias-fcnr-flows-under-incentive-window-11785762263771.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-04T02:14:52.145703Z"
+    },
+    {
+      "id": "775886b9174f15a2b71276dfc5220ead",
+      "title": "Why did Nifty 50 jump 200 points in the final minutes of trade? Here's what happened",
+      "description": "The Indian stock market saw unusual divergence as the Nifty 50 surged 1.60% to 24,773, while the Sensex gained 0.70% to 78,639. This occurred due to SEBI's new Closing Auction Session mechanism aimed at improving price discovery.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/COFORGE-STOCKS--0_1782267645199_1782267658686_f00c748a-a4e3-45c8-911c-18dcb741f547_1785765517088_bf2e1f03-3af6-452f-aa8c-56b405bd91ed.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/why-did-the-nifty-50-jump-200-points-in-the-final-minutes-of-trade-heres-what-happened-11785765452716.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-04T02:14:52.145672Z"
+    },
+    {
+      "id": "e37928a2403db1628bbf71f0ff33e584",
+      "title": "SBI Funds Q1 Results: PAT rises 3% YoY to ₹873 crore in first earnings after listing",
+      "description": "SBI Funds Management reported a standalone profit of ₹873 crore for the June quarter, up 3.3% from last year. Despite weak market sentiment, retail investor confidence remained strong, with equity inflows driving QAAUM growth to ₹12.6 trillion, maintaining its largest asset manager status.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/SBI-STOCKS--0_1774694216040_1774694229567_1785772438665_65f115ee-5eb0-4793-b0c9-66a4b93e9810.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sbi-funds-q1-results-pat-rises-3-yoy-to-rs-873-crore-in-first-earnings-after-listing-11785772340299.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-04T02:14:52.145559Z"
+    },
+    {
+      "id": "566891952ac834a126e883d18d136f80",
+      "title": "New closing auction sparks rare Nifty-Sensex split amid low participation",
+      "description": "Brokers mixed in view with some terming the 200 pt surge in Nifty in two minutes an anomaly, while others attributed lower awareness leading to a demand -supply mismatch",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/2-0-85820715-Mumbai-Stock-4Cnew--0_1681743391999_1785777183501_ea3218ca-16d4-4c03-98c4-387e70ab6e55.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/new-closing-auction-sparks-rare-nifty-sensex-split-amid-low-participation-11785769915392.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-04T02:14:52.145483Z"
+    },
+    {
+      "id": "b36256c63629fd5ac8938753263d3bf5",
+      "title": "Sebi extends PaRRVA enrollment deadline to Sep 3 for investment advisers, research analysts",
+      "description": "Sebi has granted a new extension for investment advisers and research analysts regarding their enrolment, now set for September 3, 2026. This delay allows participants more time to finalize their registrations, facilitating a more seamless rollout of the performance data framework. It’s essential for advisers and analysts to enroll to provide their past performance metrics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132834953,imgsize-55652.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-parrva-enrollment-deadline-to-sep-3-for-investment-advisers-research-analysts/articleshow/132834953.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-04T02:14:51.516380Z"
+    },
+    {
+      "id": "5e5d1d48c5433536e7d8ebddf3264f8b",
+      "title": "MakeMyTrip Q1 bookings rise 20%; AI assistant drives growth",
+      "description": "MakeMyTrip reported a 19.9% year-on-year rise in Q1 gross bookings to $2.85 billion, while revenue and adjusted operating profit increased despite travel disruptions. Strong growth across hotels, buses and AI-powered Myra 2.0 reinforced confidence in India’s long-term travel demand.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132834965,imgsize-276933.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/makemytrip-q1-bookings-rise-20-ai-assistant-drives-growth/articleshow/132834965.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T02:14:51.516337Z"
+    },
+    {
+      "id": "d83e150b01665a7446c818144016ed4e",
+      "title": "Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion",
+      "description": "Paintmaker cites healthy demand despite geopolitical disruptions; expects festive season to support growth.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132836083,imgsize-13292.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/kansai-nerolac-q1-profit-rises-5-approves-rs-601-crore-capacity-expansion/articleshow/132836083.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T02:14:51.516208Z"
+    },
+    {
+      "id": "f11d0e37be3d6dc6b4957bff334ce7de",
+      "title": "Muthoot Microfin case: Sebi exempts six family trusts from open offer obligation",
+      "description": "Sebi has exempted six Muthoot family trusts from an open offer requirement. This exemption pertains to the indirect acquisition of shares in Muthoot Microfin. The restructuring involves multiple share transfers among family trusts and spouses. Muthoot Fincorp's board approved an IPO, necessitating transaction structure changes. The exemption is valid for one year and subject to reporting conditions.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132838278,imgsize-14178.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-microfin-case-sebi-exempts-six-family-trusts-from-open-offer-obligation/articleshow/132838278.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-04T02:14:51.516177Z"
+    },
+    {
+      "id": "584b595784cd499b987d2777fd2051cc",
+      "title": "New closing auction triggers confusion, sparks late Nifty swings",
+      "description": "Market participants faced confusion during the new auction system's debut. Indices and stock values diverged significantly, catching traders by surprise. The new system determines closing prices through a separate auction process. This change aims to create more robust closing prices for derivatives. Tuesday's derivatives expiry will be a key test for the new system.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132843295,imgsize-265866.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/new-closing-auction-triggers-confusion-sparks-late-nifty-swings/articleshow/132843295.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-04T02:14:51.516104Z"
+    },
+    {
+      "id": "4b8212717441026c23dce20bcd358a44",
+      "title": "ITC Q1 earnings hit by cigarette tax burden; FMCG, paper businesses offer support",
+      "description": "ITC's June 2026 earnings fell due to higher cigarette taxes and disruptions. Resilient growth in the consumer segment cushioned the overall impact. Categories like dairy and snacks showed strong year-on-year gains. The paperboards and packaging business also saw a significant recovery. Analysts have reduced earnings estimates for upcoming fiscal years.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132843420,imgsize-41284.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q1-hit-by-cigarette-tax-burden-fmcg-paper-businesses-offer-support/articleshow/132843420.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T02:14:51.515983Z"
+    },
+    {
+      "id": "7cdafccec107288e6af3f41f01308805",
+      "title": "US stocks: Dow closes at record high on Iran talks optimism",
+      "description": "US stocks opened August with strong gains, pushing the Dow Industrials to a record closing high. Easing oil prices and Treasury yields supported the market's upward movement. Communication services sector led gains, while energy experienced a decline. Amazon's market value surpassed three trillion dollars for the first time. Investors are now focused on upcoming economic data and corporate earnings reports.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132841035,imgsize-17582.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-high-on-iran-talks-optimism/articleshow/132841035.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-04T02:14:50.939622Z"
+    },
+    {
       "id": "ae818049495ad668c37955ffacdbb5f3",
       "title": "Bharti Airtel Q1 may see steady growth, flat Arpu",
       "description": "Bharti Airtel's net profit is expected to increase 47% on-year and 20% on-quarter to ₹8,759 crore in Q1FY27.",
