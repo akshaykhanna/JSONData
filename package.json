@@ -13,7 +13,7 @@
     "node-summarizer": "^1.0.7",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
-    "react-component-export-image": "^0.1.6",
+    "react-component-export-image": "^1.0.6",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "styled-components": "^5.1.0"
