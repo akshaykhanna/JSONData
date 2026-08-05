@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "5c8bed6175825fd1c3d0114345b50145",
+      "title": "Top realtors line up massive launches to meet FY27 sales aim",
+      "description": "After a weak Q1 marked by delayed launches, India's top four listed developers are betting on over ₹1 trillion of premium project launches to meet their ambitious FY27 sales targets. The success of these launches will be crucial for them to meet their annual sales targets.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/g697573323ca95e44c396f38ccc3156f4fc100ca56add8c3f8_1722850231584_1785935099614_a05ba776-0593-431d-80a5-63dd39b6ea65.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/top-real-estate-dlf-lodha-prestige-godrej-premium-launch-fy27-sales-aim-housing-projects-11785915560490.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T14:03:11.830585Z"
+    },
+    {
+      "id": "d1173c8d45d9caef2a31b7d7a49c0a06",
+      "title": "Rate-sensitive stocks rise after RBI MPC outcome; Nifty Auto hits record high, Nifty Realty up over 2.5%",
+      "description": "The RBI's unchanged rates prompted strong buying in rate-sensitive sectors, with the Nifty Auto hitting a record high. The bank upgraded its GDP growth forecast for FY27 to 6.7% and reduced inflation expectations, reflecting overall positive economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/maxresdefault_1785934193482_1785934197377_25d9293b-8c52-4107-b6d6-329bdc88c90d.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rate-sensitive-stocks-rise-after-rbi-mpc-outcome-nifty-auto-hits-record-high-nifty-realty-up-over-25-11785910914631.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-05T14:03:11.096014Z"
+    },
+    {
+      "id": "4986393565b3958e4e71b9f9340faed4",
+      "title": "Milky Mist IPO to open on 11 August; cuts issue size by ₹482 crore",
+      "description": "Milky Mist Dairy Food will launch its ₹1,553-crore IPO on 11 August, with subscriptions open until 13 August. The company has reported a significant increase in profit and plans to use IPO proceeds to repay debt and expand facilities.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/oden-cubes-cold-grey-light-background-w_1782374793_1785913277629_1785913277911_cfefde0f-b55e-43d0-bc0d-20fe072e59f4.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/milky-mist-ipo-to-open-on-11-august-cuts-issue-size-by-rs-482-crore-11785912453341.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-05T14:03:11.095972Z"
+    },
+    {
+      "id": "59a9b2a51fcb0bf30c925b1facca8ef6",
+      "title": "Kalyan Jewellers shares extend slide, tumble 5% after Q1 results; down 11% in four days",
+      "description": "Kalyan Jewellers shares fell 5% to ₹562.70 due to disappointing June quarter earnings. Year-on-year net profit rose 32%, but profit declined sequentially. Revenue increased 46% YoY, although gross and EBITDA margins were impacted by changing sales dynamics.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/g9e38e4abc3fabece8d46af535786c7f32ab3f78aeb4b511c0_1724299457790_1785921603213_8a039173-7ce0-43f1-b625-c5ed9c952d52.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/kalyan-jewellers-shares-extend-slide-tumble-5-after-q1-results-down-11-in-four-days-11785919994880.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T14:03:11.095498Z"
+    },
+    {
+      "id": "3f6138d93e09e673c35a5c278b1adbbb",
+      "title": "Stock to buy after Q1 results 2026: Emkay sees over 32% upside in this healthcare stock",
+      "description": "Emkay Global Financial Services maintains its 'Buy' rating on Park Medi World, raising the target price to ₹375 following strong June quarter results, with revenue growth of 19% YoY and profit after tax increasing by 31%. Capacity expands amid risks in government collections.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/ipo_1765267321232_1765267321363_1785927703423_7ec8e70c-a8d3-4195-9f5a-8ba2c8a69f52.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q1-results-2026-emkay-sees-over-32-upside-in-this-healthcare-stock-11785927249886.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T14:03:11.095149Z"
+    },
+    {
+      "id": "e8ca585c506d8ab9182821ede857e6f2",
+      "title": "Nifty stuck in slow lane even as Sensex rallies 450 pts. How long can this divergence last?",
+      "description": "Sensex and Nifty continued to diverge on Wednesday, with the Sensex gaining over 450 points while Nifty remained largely flat. The divergence comes amid caution following the introduction of the Closing Auction Session (CAS), which triggered sharp volatility in Nifty during Monday’s final minutes. Markets were also reacting to the RBI’s decision to keep the repo rate unchanged.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132894436,imgsize-147826.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-over-450-points-but-nifty-stays-flat-how-long-can-this-divergence-last/articleshow/132894436.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-05T14:03:10.116454Z"
+    },
+    {
+      "id": "c4c5ddab35a34ced859a955b58b2e852",
+      "title": "MCX shares fall 4% after Q1 profit falls 22% QoQ to Rs 413 crore. What should investors do?",
+      "description": "Multi Commodity Exchange shares fell after reporting lower June quarter profit and revenue. Profit after tax declined twenty-two percent sequentially while revenue also dropped. However, profit surged one hundred three percent year-on-year with strong trading volumes. Operational milestones included significant growth in average daily turnover and active clients. MCX remains dominant domestically and a major global commodity derivatives exchange.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132900030,imgsize-100574.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-fall-4-after-q1-profit-falls-22-qoq-to-rs-413-crore-what-should-investors-do/articleshow/132900030.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T14:03:10.116157Z"
+    },
+    {
+      "id": "709a700a705d2357f10eaaafbf54cb25",
+      "title": "Nifty can rally to 28,615 by this December in Axis’ bull case scenario. Here’s why",
+      "description": "Axis Direct expects the Nifty to climb to 28,615 by December in its bull-case scenario, driven by a revival in private capex, resilient domestic demand and improving earnings. The brokerage remains overweight on BFSI, healthcare and capital goods, while cautioning that global risks and elevated valuations could trigger near-term volatility.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132901622,imgsize-55378.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-can-rally-to-28615-by-this-december-in-axis-bull-case-scenario-heres-why/articleshow/132901622.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T14:03:10.116059Z"
+    },
+    {
+      "id": "7d053cc8e78575a05fa270fc98ace5e1",
+      "title": "Sensex rises 152 points, Nifty closes above 24,600 as market trims gains. What lies ahead?",
+      "description": "Indian equity benchmarks Sensex and Nifty ended higher on Wednesday after the RBI MPC maintained interest rates and raised the FY27 GDP growth outlook. Despite early upswings, markets trimmed gains due to rising crude prices and West Asia tensions. Auto and realty stocks outperformed, while IT shares faced selling pressure.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132915892,imgsize-91214.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-152-points-nifty-closes-above-24600-as-market-trims-gains-what-lies-ahead/articleshow/132915892.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-05T14:03:10.115692Z"
+    },
+    {
+      "id": "fb7641d63502fcb96fbfb1cb72419814",
+      "title": "The next RBI policy: Likely more of the same",
+      "description": "The RBI's decision to keep the repo rate unchanged and retain a neutral stance signals policy continuity over pre-emptive action. With inflation seen as temporary, financial conditions already tightening and global risks under watch, the central bank is expected to stay on hold in October unless macroeconomic conditions change materially.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132926883,imgsize-54000.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/the-next-rbi-policy-likely-more-of-the-same/articleshow/132926883.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-05T14:03:10.115465Z"
+    },
+    {
+      "id": "02cdec8e2a60f7d23f0b0af10d4da39b",
+      "title": "RBI's status quo on rates to support housing demand, keep real estate sentiment intact: Industry",
+      "description": "The RBI's decision to keep the repo rate unchanged at 5.25% for the fourth straight review has received a positive response from the real estate sector. Developers and consultants believe stable interest rates will support housing demand, boost buyer confidence and provide better visibility for project planning. However, rising construction costs remain a concern for affordability, especially in mid-income segments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132905070,imgsize-19636.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rbis-status-quo-on-rates-to-support-housing-demand-keep-real-estate-sentiment-intact-industry/articleshow/132905070.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-05T14:03:09.157541Z"
+    },
+    {
+      "id": "98ab4226acc90edc8e4a889dfd6dd9bc",
+      "title": "SpaceX posts 92% revenue surge, but stock tumbles 7% in after-hours. Here's why",
+      "description": "SpaceX reported a strong debut quarterly performance as a public company, with revenue surging 92% year-on-year to $7.8 billion in the April–June quarter, driven by robust growth in its Starlink and AI businesses. Despite the strong earnings, the stock fell in after-hours trading as investors reacted to a sharp rise in capital expenditure and concerns over upcoming IPO lock-up expirations.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132910245,imgsize-210377.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-posts-92-revenue-surge-but-stock-tumbles-7-in-after-hours-heres-why/articleshow/132910245.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-05T14:03:09.157202Z"
+    },
+    {
+      "id": "197600a7940669822d9c4957033ae91b",
+      "title": "Rupee hits one-month closing high as oil slide outweighs RBI pause",
+      "description": "On Wednesday, the Indian rupee climbed to its highest point in a month, bolstered by a dip in crude oil prices that fueled early gains. Although the Reserve Bank of India's decision to maintain rates restricted further growth, analysts pointed out that immediate support lies around 94.75 with resistance levels at 95.60. Additionally, FX inflows and a weakening dollar contributed positively to the rupee's overall sentiment.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132916592,imgsize-34378.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-one-month-closing-high-as-oil-slide-outweighs-rbi-pause/articleshow/132916592.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-05T14:03:09.156956Z"
+    },
+    {
+      "id": "d3cf1777a78a4efd31df1dff8959a851",
+      "title": "India bonds rally on 'dovish' RBI hold, lower oil prices",
+      "description": "Indian government bonds surged on Wednesday, with yields falling below important levels. The Reserve Bank of India decided to keep the repo rate steady, in line with anticipated market outcomes. A drop in oil prices helped ease inflation fears, supporting the economy. This favorable policy not only uplifted bond markets but also stimulated capital inflows, resulting in reduced overnight index swap rates.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132927259,imgsize-125370.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rally-on-dovish-rbi-hold-lower-oil-prices/articleshow/132927259.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-05T14:03:09.156585Z"
+    },
+    {
+      "id": "29af70369a99e0c6c382b38d0d00629c",
+      "title": "CREDAI, NAREDCO hail RBI policy, stable home loan interest rate to help sustain housing demand",
+      "description": "The real estate industry's leading organizations, CREDAI and NAREDCO, applaud the RBI's decision to maintain the current repo rate. This move stabilizes home loan rates, which is anticipated to bolster housing demand and offer comfort to buyers. Additionally, the RBI has fine-tuned its GDP outlook and slightly adjusted inflation estimates. Developers emphasize that clear policies enhance project strategies and investment confidence, promoting a robust residential real estate market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132927569,imgsize-100814.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/credai-naredco-hail-rbi-policy-stable-home-loan-interest-rate-to-help-sustain-housing-demand/articleshow/132927569.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-05T14:03:09.156531Z"
+    },
+    {
       "id": "25898bb7b87c7045bf4ec540326c8cbd",
       "title": "Hyundai admits slower car launches hurt sales as market share slips",
       "description": "Hyundai India's domestic sales in FY26 declined 2% 584,906 cars while exports rose 16% to 190,125 units. Mahindra’s sales surged 20% to 660,276 units while Tata Motors PV sales grew 15% to 642,000 units.",
