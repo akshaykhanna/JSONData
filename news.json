@@ -1,6 +1,198 @@
 {
   "news": [
     {
+      "id": "25898bb7b87c7045bf4ec540326c8cbd",
+      "title": "Hyundai admits slower car launches hurt sales as market share slips",
+      "description": "Hyundai India's domestic sales in FY26 declined 2% 584,906 cars while exports rose 16% to 190,125 units. Mahindra’s sales surged 20% to 660,276 units while Tata Motors PV sales grew 15% to 642,000 units.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/Venue-review-7_1763893019548_1767368362205_1767368373501_1785829216921_79129342-9708-43ea-b8b1-cec72dbfdf1d.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/hyundai-motor-india-market-share-loss-new-model-launches-fy26-11785822646622.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-05T02:13:43.811336Z"
+    },
+    {
+      "id": "c43346d2e46b9e6d5ce623188bccae5d",
+      "title": "Nykaa says quick delivery isn’t hurting margins as Q1 profit jumps 226%",
+      "description": "FSN E-Commerce's Q1 net profit rose to ₹80 crore as higher order frequency sustained quick-commerce margins, while its fashion arm turned Ebitda-positive.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/NYKAA-RESULTS--0_1720688266151_1785855908267_95d51948-a47a-4443-b301-8ab2fa1384b6.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/nykaa-says-quick-delivery-isn-t-hurting-margins-as-q1-profit-jumps-226-11785850197928.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T02:13:43.811000Z"
+    },
+    {
+      "id": "e0958ecc61ab493e9fa75d4c43732b1c",
+      "title": "Kalyan Jewellers Q1 Results: Net profit jumps 32% YoY to ₹349 crore; margins contract",
+      "description": "Kalyan Jewellers reported a net profit of ₹348 crore for the June quarter, a 32% YoY increase. However, it declined sequentially from ₹409 crore. Revenue rose 46% YoY to ₹10,589 crore, but fell 3% QoQ, with lower contribution from studded jewellery.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/gb365710801d188b2dd5df7c299f8fb7a0aa0eb4cc86a61669_1736747336579_1785845250601_d09b2432-317e-4ce8-bbe7-22d9a2f6a4d7.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/kalyan-jewellers-q1-results-net-profit-jumps-32-yoy-to-rs-349-crore-margins-contract-11785845252707.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T02:13:43.225651Z"
+    },
+    {
+      "id": "6c14afa9d1a28ef32a91d3ac59b88389",
+      "title": "HSBC India profit rises 4% to $965 million in H1 2026, corporate and institutional banking drives growth",
+      "description": "HSBC India's profit before tax rose four percent in the first half of 2026. Higher revenue from corporate and institutional banking fueled this significant profit increase. The bank's wealth and premier banking division, however, saw profits drop sharply. HSBC India also led in mobilising foreign currency deposits under a special RBI scheme. Globally, HSBC reported a substantial twenty-three percent rise in pre-tax profit.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132882369,imgsize-44996.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/hsbc-india-profit-rises-4-to-965-million-in-h1-2026-corporate-and-institutional-banking-drives-growth/articleshow/132882369.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T02:13:42.568300Z"
+    },
+    {
+      "id": "e8ead3544eaa9f9e8beb48f37e7fd0e7",
+      "title": "PNB Housing Q1 profit rises 4% as loan book grows 15%",
+      "description": "PNB Housing Finance posted a 4.3% rise in June-quarter net profit as loan assets and AUM recorded double-digit growth. Net interest margin narrowed, while asset quality improved with lower gross NPAs despite higher operating expenses during the quarter.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132866405,imgsize-27010.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-housing-q1-profit-rises-4-as-loan-book-grows-15/articleshow/132866405.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T02:13:42.567836Z"
+    },
+    {
+      "id": "1aa51f7b5ea2d4793212b2249f405ffc",
+      "title": "Closing auction keeps traders on edge as divergence persists",
+      "description": "Market participants faced confusion with the new closing auction system on Tuesday. This system change affected the determination of official stock closing prices. The expiry of Nifty weekly futures and options contracts added to market complexity. Traders reported unexpected derivative price movements and position losses. The Sensex and Nifty experienced divergence for a second consecutive day.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132881434,imgsize-329880.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/closing-auction-keeps-traders-on-edge-as-divergence-persists/articleshow/132881434.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-05T02:13:42.567687Z"
+    },
+    {
+      "id": "81c7cfd69b0e5512cbf7fbe1e8da9bd2",
+      "title": "REITs, publicly-listed InvITs may get to raise foreign capital via DRs",
+      "description": "Sebi proposed allowing real estate and infrastructure trusts to raise foreign capital. This move aims to broaden foreign investor access to India's investment trust market. Depository receipts will enable trading in foreign currency on international exchanges. Privately listed infrastructure trusts will not be eligible for this new facility. The proposal seeks to attract more global capital into these investment vehicles.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132882080,imgsize-73294.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/reits-publicly-listed-invits-may-get-to-raise-foreign-capital-via-drs/articleshow/132882080.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-05T02:13:42.567568Z"
+    },
+    {
+      "id": "cdb7c68e107c8da79942e61e0e4cc1e7",
+      "title": "Stocks in news: BSE, PB Fintech, Nykaa, Airtel, and LIC",
+      "description": "Markets experienced profit-taking after Monday's rally, with indices closing lower. Investors await the Reserve Bank of India's monetary policy announcement on Wednesday. BSE reported a significant profit increase for the June quarter, driven by revenue growth. Bharti Airtel and Nykaa also announced strong quarterly earnings, showing substantial profit jumps. The government began an offer for sale in LIC for non-retail investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132881774,imgsize-49432.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bse-pb-fintech-nykaa-airtel-and-lic/articleshow/132881774.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T02:13:42.567528Z"
+    },
+    {
+      "id": "c2b21262af00a30eb782cfea81cf48c5",
+      "title": "Spotify's higher spending on marketing, AI features to hit profit",
+      "description": "Spotify anticipates that increased marketing and development expenditures will adversely affect profits in the current quarter. The platform forecasts its third-quarter monthly active users to fall short of Wall Street's expectations, a decline attributed to product changes in emerging markets. To counteract this, Spotify is investing significantly in AI features aimed at attracting and retaining its user base, alongside introducing a new agreement for fan-generated covers and remixes.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132866568,imgsize-69042.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/spotifys-higher-spending-on-marketing-ai-features-to-hit-profit/articleshow/132866568.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T02:13:41.933098Z"
+    },
+    {
+      "id": "ca7233a633a9333a14554ac49d9cecda",
+      "title": "Drugmaker Pfizer beats earnings estimates, targets $2.5 billion in additional cost cuts",
+      "description": "Pfizer has reported impressive second-quarter earnings, driven by the success of Eliquis and newly acquired pharmaceutical products. The company is planning $2.5 billion in cost-saving measures expected to be in place by 2029. With a focus on innovative treatments, Pfizer aims to reduce reliance on older, high-grossing medications and looks forward to a notable growth revival post-2028, actively pushing its obesity treatment initiatives.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132866592,imgsize-83398.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/drugmaker-pfizer-beats-earnings-estimates-targets-2-5-billion-in-additional-cost-cuts/articleshow/132866592.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-05T02:13:41.933057Z"
+    },
+    {
+      "id": "9e991158188d08daffe822cf128035f2",
+      "title": "SK Hynix rises 5% as brokerages launch coverage with bullish ratings",
+      "description": "SK Hynix shares jumped five percent as brokerages began coverage with positive assessments, spurred by the company's strong position within the artificial intelligence memory sector. Although there was a recent dip, the U.S. listing enhances global investor accessibility. Despite reporting record quarterly profits, shipment delays caused a miss on analyst expectations. Nonetheless, robust orders from U.S. tech firms bolster forecasts for ongoing AI infrastructure investments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132866674,imgsize-38954.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-rises-5-as-brokerages-launch-coverage-with-bullish-ratings/articleshow/132866674.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-05T02:13:41.933002Z"
+    },
+    {
+      "id": "dabeecdd1a06258d77ec37e6311deebd",
+      "title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble",
+      "description": "Stock markets soared to all-time highs on Tuesday, fueled by stellar earnings from corporations. AI-focused entities like Palantir and the esteemed Caterpillar delivered eye-popping results. The drop in oil prices and Treasury yields created a favorable backdrop for continued growth. Moreover, the possibility of a peaceful resolution in the Iran conflict greatly enhanced investor optimism. Overall, corporate earnings have been significantly exceeding forecasts this reporting period.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132872181,imgsize-184100.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-05T02:13:41.932667Z"
+    },
+    {
+      "id": "515c053f6030be0d6d295d3fe27371ef",
+      "title": "US stocks: SpaceX quarterly revenue surges in debut results on strong growth in its Starlink business",
+      "description": "SpaceX has announced an impressive 92% increase in revenue for the latest quarter, primarily fueled by the growth of Starlink and its AI initiatives. Despite this surge, the firm faced a net loss due to significant capital allocated towards infrastructure and future projects. After a strong IPO, its stock is now under scrutiny, especially with the impending lock-up expiration.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132872768,imgsize-40040.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business/articleshow/132872768.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-05T02:13:41.932625Z"
+    },
+    {
+      "id": "ec1503f62f2be8cdaa6cf863a8fd3cd7",
+      "title": "Rupee remains stable at 95.37 ahead of RBI policy outcome",
+      "description": "The Indian rupee closed nearly unchanged on Tuesday, trading within a narrow band. Importer hedging demand and FPI inflows supported the currency's stability. Caution ahead of the monetary policy announcement also influenced its movement. Brent crude prices remained between eighty and eighty-three dollars per barrel. The rupee settled at ninety-five point thirty-seven against the dollar.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132882887,imgsize-120799.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-remains-stable-at-95-37-ahead-of-rbi-policy/articleshow/132882887.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-05T02:13:41.932296Z"
+    },
+    {
+      "id": "4184fddbf7584aa84f5cffad4eb13378",
+      "title": "Dhoot Transmission IPO priced at Rs 829-871",
+      "description": "Dhoot Transmission has set the price band for its ₹3,067-crore IPO at ₹829–871 per share. The public issue will be open for subscription from August 10 to 12, with Axis Capital, Jefferies India, Kotak Mahindra Capital, Nomura Financial Advisory and Securities, SBI Capital Markets, and 360 ONE WAM serving as the book-running lead managers.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132883008,imgsize-27032.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-ipo-priced-at-rs-829-871/articleshow/132883008.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-05T02:13:41.932209Z"
+    },
+    {
       "id": "dc3f2f68664b9701704115414814d532",
       "title": "Bharti Airtel Q1 Results: Profit climbs on higher subscriber upgrades, robust data usage",
       "description": "Bharti Airtel reported a consolidated net profit of ₹8,167 crore for Q1FY27, a 37.3% YoY increase, announced on August 04. However, net profit declined 11.5% compared to ₹7,325 crore in Q4FY26.",
