@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "ed135e48c309734f439c36d47ae10e29",
+      "title": "Adani's bumper capex trickles down to smaller infra firms",
+      "description": "The Adani Group’s ₹1.53 trillion capex plan for FY26 is emerging as a major growth driver for smaller listed engineering and construction companies. For some, the conglomerate accounted for over 80% of new orders last year, reflecting its growing influence on India’s EPC ecosystem.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/Total_Energies_pauses_business_Adani_Nelson_Amenya_1732583419530_1785846861314_0a492486-befb-44ae-99ec-d74be92ecff1.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/adanis-bumper-capex-trickles-down-to-smaller-infra-firms-11785822338520.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-06T02:22:23.600577Z"
+    },
+    {
+      "id": "ea515752ff93788c6b60c93cacea599d",
+      "title": "Airtel shifts broadband focus back to fibre, slows FWA push",
+      "description": "Higher hardware costs and weaker customer retention have prompted the telecom operator to curb FWA expansion even as Reliance Jio accelerates AirFiber growth.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/BHARTI-AIRTEL-TARIFFS--0_1719760830379_1785926642993_9bc19610-eb56-4549-b843-f8f9a1228cf5.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/airtel-scales-back-5g-fwa-focuses-on-fibre-broadband-growth-11785922722243.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-06T02:22:23.600399Z"
+    },
+    {
+      "id": "feef7f655ae8ab27f256cd7aa41c958a",
+      "title": "Air India names former Ethiopian Airlines head Tewolde Gebremariam as CEO",
+      "description": "The Tata Group-owned carrier hopes the aviation veteran can replicate his success at Africa's largest airline to stem mounting losses and steer its global expansion.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/Air-India-CEO_1785938633116_1785938642787_cd1a6812-e259-40a0-8443-441c48e53815.jpeg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/air-india-new-ceo-tewolde-gebremariam-11785937178297.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-06T02:22:23.600139Z"
+    },
+    {
+      "id": "e2347a8baa43ca99b264f06d66b29d9c",
+      "title": "RBI hints Tata Sons may remain upper-layer NBFC",
+      "description": "Governor Sanjay Malhotra said the central bank's principle-based framework will determine upper-layer NBFC status, while Tata Sons' listing question continues to hinge on its CIC licence application.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1785940714197_f9900108-73b4-43c9-8d7f-df2075b3a9ae.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/rbi-hints-tata-sons-may-remain-upper-layer-nbfc-11785933190187.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-06T02:22:23.600089Z"
+    },
+    {
+      "id": "46aaea4569a7d578f398fb4ebfc0568f",
+      "title": "PB Fintech Q1 Results: Net profit nearly doubles to ₹163 crore; revenue climbs 40%",
+      "description": "PB Fintech reported a Q1FY27 net profit of ₹163 crore, a 92% increase from last year, with revenue rising 40% YoY to ₹1,888 crore. However, both profit and revenue declined sequentially from the previous quarter.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/g5c726494707760802f2af17f61ebfba054abd5fd8db031b80_1730867505541_1785932739252_fc9f0601-0d7e-4df1-9a60-28e7e330e72c.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/pb-fintech-q1-results-net-profit-nearly-doubles-to-rs-163-crore-revenue-climbs-40-11785932741631.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-06T02:22:22.868290Z"
+    },
+    {
+      "id": "a09dd65ef1ad722d01ffc2562d191e15",
+      "title": "RBI upper-layer NBFC list to come out soon",
+      "description": "The Reserve Bank of India will soon release a list of upper-layer NBFCs. New principle-based regulations will classify these financial companies into different layers. Companies in the upper layer will be required to publicly list their shares. Tata Sons may be included on this upcoming list of NBFCs. The central bank has not published this specific list since January 2025.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132978765,imgsize-113552.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-upper-layer-nbfc-list-to-come-out-soon/articleshow/132978765.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-06T02:22:22.230737Z"
+    },
+    {
+      "id": "990d07e2c606054567a016419788cde3",
+      "title": "PB Fintech Q1 Results: Policybazaar parent's profit soars 92% to Rs 163 crore as insurance premium grows 41%",
+      "description": "PB Fintech reported a 92% year-on-year rise in Q1FY27 consolidated profit to Rs 163 crore, driven by robust insurance premium growth, higher operating revenue and improving margins. Operating revenue rose 40%, while total insurance premium increased 41%, supported by strong protection and health insurance demand.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132942100,imgsize-58886.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-06T02:22:22.230630Z"
+    },
+    {
+      "id": "0c6dbb83743dda4765bf29fb48881a25",
+      "title": "Sebi settles case against India Power Corp's Raghav Raj Kanoria for Rs 24.7 lakh",
+      "description": "The Securities and Exchange Board of India (Sebi) has concluded adjudication proceedings against Raghav Raj Kanoria, managing director of India Power Corporation. Kanoria has agreed to pay a settlement sum of Rs 24.7 lakh to settle allegations concerning misstatements in financial records for two fiscal years. He resolved the issue without admitting to any wrongdoing, leading to the conclusion of the proceedings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132945850,imgsize-55652.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-settles-case-against-india-power-corps-raghav-raj-kanoria-for-rs-24-7-lakh/articleshow/132945850.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-06T02:22:22.230571Z"
+    },
+    {
+      "id": "2d577c396a6dc0f0efd982a5b399e78c",
+      "title": "'No US lawsuits filed yet, ready to defend on facts if needed': HDFC Bank CEO clarifies on governance allegations",
+      "description": "HDFC Bank assured shareholders about its strong governance credentials. No US lawsuits have been filed against the bank following investigations. The bank's leadership stated they are well-positioned to defend any potential legal action. HDFC Bank is fundamentally strong with a pristine balance sheet. The integration with HDFC Limited is unlocking meaningful synergies for future growth.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132978449,imgsize-97064.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/no-us-lawsuits-filed-yet-ready-to-defend-on-facts-if-needed-hdfc-bank-ceo-clarifies-on-governance-allegations/articleshow/132978449.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-06T02:22:22.230513Z"
+    },
+    {
+      "id": "a7930216ec7b4ea74ec2735ffef0d7b9",
+      "title": "No case for early closure or extension of swap window: RBI",
+      "description": "The Reserve Bank of India will not close the swap window early. Robust foreign currency inflows have strengthened India's balance of payments position. The central bank has not received any proposals for extending the deadline. This facility allows banks to swap overseas borrowings at concessional rates. The swap window has already attracted significant dollar inflows by July.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132978737,imgsize-85430.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/no-case-for-early-closure-or-extension-of-swap-window-rbi/articleshow/132978737.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-06T02:22:22.230480Z"
+    },
+    {
+      "id": "42799502f1bb48452a23c5ed6e0f3bdc",
+      "title": "New framework to standardise interest rate rules on the anvil, says RBI",
+      "description": "The Reserve Bank of India plans to standardize interest rate rules for all regulated entities. This new principle-based framework aims to increase transparency and ensure uniformity across lending. The proposed changes are unlikely to affect EMIs or bring NBFCs into the external benchmark regime. Governor Sanjay Malhotra stated this move will improve consumer protection and rationalise existing norms.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132978749,imgsize-118022.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/new-framework-to-standardise-interest-rate-rules-on-the-anvil-says-rbi/articleshow/132978749.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-06T02:22:22.230447Z"
+    },
+    {
+      "id": "571797be591e994a0c32d9ffc563d799",
+      "title": "Liquidity to peak in Sept, but big surplus won't last long: RBI",
+      "description": "The Reserve Bank of India will absorb surplus liquidity from a special forex swap facility. This absorption will occur through higher currency in circulation and maturing forward positions. Banking system liquidity is expected to peak in September due to FCNR(B) deposit inflows. Economists anticipate a surplus of around ₹4-5 lakh crore in the banking system. The central bank will then begin withdrawing excess liquidity through durable absorption measures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132978753,imgsize-137778.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/liquidity-to-peak-in-sept-but-big-surplus-wont-last-long-rbi/articleshow/132978753.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-06T02:22:22.230408Z"
+    },
+    {
+      "id": "5a950029082a39437a711b9157d8e11e",
+      "title": "CAS sparks trader backlash as losses mount, Sebi holds firm",
+      "description": "Concerns are mounting among traders regarding the recent shift to a closing auction system, which has led to significant price volatility. Numerous market participants have reported unexpected losses, prompting authorities to engage with brokers to explore these issues. Despite regulators' attempts to bolster trader involvement, the contentious pricing mechanism continues to stir debate within the financial community.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132978167,imgsize-79364.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cas-sparks-trader-backlash-as-losses-mount-sebi-holds-firm/articleshow/132978167.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-06T02:22:22.230330Z"
+    },
+    {
+      "id": "fb3769495487bb82aa0ab139a93371fa",
+      "title": "Circle shares fall nearly 4% as revenue miss overshadows quarterly profit beat",
+      "description": "Circle's profits in the second quarter significantly outperformed expectations, attributed to the growing adoption of USDC tokens. The surge in USDC circulation, accompanied by a marked increase in onchain transaction activity, highlighted a positive trend. Despite a dip in the reserve return rate during this period, stronger circulation volumes partially mitigated the effects of reduced yields.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132948385,imgsize-40684.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/circle-shares-fall-nearly-4-as-revenue-miss-overshadows-quarterly-profit-beat/articleshow/132948385.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-06T02:22:21.589468Z"
+    },
+    {
+      "id": "2775166b6fc4a8db7cbb4cc37e84a77b",
+      "title": "Manipal Health lists at 11% premium",
+      "description": "Manipal Health Enterprises celebrated a successful market entry on Wednesday, with shares launching at ₹652 on the NSE and ₹655 on the BSE, achieving an eleven percent premium. By closing time, the company's market capitalization reached ₹87,229.24 crore. Their impressive initial public offering, valued at ₹9,275 crore, saw nearly five times subscription, making it the year's second-largest IPO, following SBI Funds Management's offering.",
+      "imageUrl": "https://img.etimg.com/photo/msid-132978912,imgsize-317624.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-lists-at-11-premium/articleshow/132978912.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-06T02:22:21.588880Z"
+    },
+    {
       "id": "5c8bed6175825fd1c3d0114345b50145",
       "title": "Top realtors line up massive launches to meet FY27 sales aim",
       "description": "After a weak Q1 marked by delayed launches, India's top four listed developers are betting on over ₹1 trillion of premium project launches to meet their ambitious FY27 sales targets. The success of these launches will be crucial for them to meet their annual sales targets.",
