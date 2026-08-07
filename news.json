@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "c9b240a5eeb91886ee98e1320e099402",
+      "title": "For LIC, successful OFS and strong Q1 may not provide succour yet",
+      "description": "The government's announcement of an offer for sale in LIC has positive implications but the stock trades at a higher multiple versus HDFC Life despite slower growth rates in future",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/2-0-826059286-licnew3-0_1679586161841_1786087308133_c9957479-4fa9-4ec9-9b18-a3490e732f65.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/lic-ofs-lic-share-price-valuation-lic-q1-earnings-lic-vs-hdfc-life-insurance-sector-india-11786083518452.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-07T12:57:33.158950Z"
+    },
+    {
+      "id": "465f83448ebbde9ae8e42a3274e8868b",
+      "title": "SBI Q1 Results: Standalone profit rises 10% YoY to Rs 21,121 crore, beats estimates",
+      "description": "State Bank of India reported a ten percent year-on-year net profit growth. Its net interest income also saw a fifteen percent rise during the quarter. Total business crossed one hundred ten trillion rupees, with deposits exceeding sixty trillion. Advances grew nineteen percent year-on-year, driven by broad-based loan segment expansion. Margin improvements were noted, defying earlier analyst expectations of pressure.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133028121,imgsize-1987006.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-results-standalone-profit-rises-10-yoy-to-rs-21121-crore-beats-estimates/articleshow/133028121.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-07T12:57:32.524162Z"
+    },
+    {
+      "id": "86f09c509132cd4a38d7c7625f937b00",
+      "title": "Hindalco Q1 results: Profit soars 75% YoY to record Rs 7,013 crore; revenue jumps 32%",
+      "description": "Hindalco Industries reported a record 75% year-on-year jump in June-quarter consolidated net profit to Rs 7,013 crore, driven by strong India aluminium and copper operations and a recovery at Novelis. Revenue rose 32% to an all-time high of Rs 84,825 crore, while EBITDA surged 73% to Rs 14,989 crore, reflecting robust operational performance despite exceptional expenses.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133030766,imgsize-39270.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/hindalco-q1-results-profit-soars-75-yoy-to-record-rs-7013-crore-revenue-jumps-32/articleshow/133030766.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T12:57:32.524021Z"
+    },
+    {
+      "id": "c5ddc6e7ccaaece3471f7282f51c8c38",
+      "title": "Titan Q1 Results: Profit soars 63% YoY to Rs 1,777 crore, total income surges 40%",
+      "description": "Titan Q1 Results: Consumer discretionary major Titan Ltd on Friday reported 63% year-on-year (YoY) growth in its consolidated net profit at Rs 1,777 crore in the first quarter, compared with Rs 1,091 crore in the last year quarter. Total income in the reporting period rose 40% YoY to Rs 20,753 crore.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133031183,imgsize-139908.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/titan-q1-results-profit-soars-63-yoy-to-rs-1777-crore-total-income-surges-40/articleshow/133031183.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T12:57:32.523989Z"
+    },
+    {
+      "id": "e1bd2ca62ee99c1627b733b914593d03",
+      "title": "Arvind SmartSpaces Q1 Results: Profit zooms 8-fold to Rs 97 crore",
+      "description": "In the June quarter, Arvind SmartSpaces achieved remarkable results with an eight-fold rise in net profit. The company's total income surged to Rs 322.02 crore, while sales bookings more than doubled to Rs 432 crore. This exceptional performance stemmed from robust pre-sales and overall income growth, solidifying the firm's position as a leading player under the Lalbhai Group from Ahmedabad.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133031836,imgsize-18616.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/arvind-smartspaces-q1-results-profit-zooms-8-fold-to-rs-97-crore/articleshow/133031836.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T12:57:32.523920Z"
+    },
+    {
+      "id": "8d8b4e69fe899a46742a93d8bfb4a366",
+      "title": "JK Tyre & Industries Q1 Results: Net profit tumbles 73% at Rs 44.09 crore",
+      "description": "In the first quarter of FY27, JK Tyre & Industries reported a staggering 73 percent decline in profits, primarily due to soaring raw material prices linked to the West Asia crisis. Their consolidated net profit plummeted to Rs 44.09 crore from Rs 163.35 crore year-on-year, even as revenue rose to Rs 3,946.24 crore. Notably, domestic volumes surged by 25 percent in both replacement and OE segments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133031885,imgsize-14044.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/jk-tyre-industries-q1-results-net-profit-tumbles-73-at-rs-44-09-crore/articleshow/133031885.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T12:57:32.523881Z"
+    },
+    {
+      "id": "3650eaaaa627d513072ab8cb340a4551",
+      "title": "Premier Energies Q1 Result: Profit jumps 53% to Rs 472 crore",
+      "description": "Premier Energies reported remarkable growth, with profits soaring more than 53% in the latest quarter. The uptick in revenue can be attributed to robust demand across vital business sectors. The company has made significant strides in enhancing manufacturing, particularly in solar cells and modules. Moreover, plans are underway for new facilities to further elevate production capacities, as Premier Energies invests in expanding its solar initiatives and diversifying into new markets.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133031911,imgsize-189146.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/premier-energies-q1-result-profit-jumps-53-to-rs-472-crore/articleshow/133031911.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T12:57:32.523841Z"
+    },
+    {
+      "id": "adc95acd3bccc6d43df61ce36efc2684",
+      "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
+      "description": "Lupin Ltd has reported a remarkable sixteen percent surge in profit after tax for the first quarter, showcasing their continued success. The firm experienced considerable growth in consolidated total revenue from operations, largely driven by a staggering forty-two percent increase in sales in the US market. Moreover, sales in India rose nearly fourteen percent, reflecting strong domestic demand.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133031974,imgsize-11896.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/lupin-q1-pat-rises-16-pc-at-rs-1417-cr/articleshow/133031974.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T12:57:32.523801Z"
+    },
+    {
+      "id": "f549144bb64ad0318f7f479939a62698",
+      "title": "Vikram Solar Q1 net profit declines 85 pc to Rs 20 cr",
+      "description": "Vikram Solar experienced an astonishing 85 percent drop in profits for the June quarter, primarily attributable to increased expenses. On a positive note, the company's revenue from operations showed a healthy uptick during this period. In a strategic move, Vikram Solar has also greenlit the expansion of its wafer and ingot manufacturing facility, expected to be operational by fiscal year 2029.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133032114,imgsize-116824.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/vikram-solar-q1-net-profit-declines-85-pc-to-rs-20-cr/articleshow/133032114.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T12:57:32.523767Z"
+    },
+    {
+      "id": "b36f1c15e5aa428014767ea41b2ed0f4",
+      "title": "Sebi streamlines market intermediaries inspection framework, cuts FY27 target to one-third",
+      "description": "Sebi is introducing joint inspections by stock exchanges and depositories, along with a notable reduction in its inspection target for FY27. This strategy intends to enhance oversight while facilitating operations for intermediaries. Moreover, the practice of conducting repetitive annual inspections on compliant entities will cease, shifting focus to alert mechanisms, complaints, and market intelligence for more effective monitoring.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133034089,imgsize-1379405.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-streamlines-market-intermediaries-inspection-framework-cuts-fy27-target-to-one-third/articleshow/133034089.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-07T12:57:32.523510Z"
+    },
+    {
+      "id": "835d9ebd82bae059f78c0ea960084b17",
+      "title": "Hitachi Energy India Q1 Results: Net profit rises over twofold to Rs 294 crore",
+      "description": "Hitachi Energy India has displayed remarkable financial growth with a net profit soaring over 100% in the June quarter. The company reported a substantial increase in operational revenue compared to the previous year. With first-quarter orders reaching Rs 5,096.5 crore for FY27, the firm has achieved a record order backlog totaling Rs 32,222.1 crore, fueled by robust progress in energy transition and security sectors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133034152,imgsize-839270.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T12:57:32.523447Z"
+    },
+    {
+      "id": "4c604b838f87f78187a0c17bbdcd829b",
+      "title": "ICICI Bank, Axis Bank tap dollar debt again in less than two months: Report",
+      "description": "ICICI Bank and Axis Bank have returned to the U.S. dollar debt market, each looking to raise $300 million through upcoming bond issues, set to close for subscription next week. Notably, last month saw ICICI Bank raise a substantial $1 billion while Axis Bank secured $800 million. This bond issuance utilizes the Reserve Bank of India's hedging facility to facilitate smoother transactions.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133031429,imgsize-82706.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-axis-bank-tap-dollar-debt-again-in-less-than-two-months-report/articleshow/133031429.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-07T12:57:31.882271Z"
+    },
+    {
+      "id": "fc85e9896d00a98d1e79f5a8ad4f5140",
+      "title": "RBI's Rate Pause Sustains Steady Momentum in Residential Real Estate",
+      "description": "India's residential property sector remains robust, driven by consistent demand and advancements in infrastructure. The Reserve Bank of India's choice to hold the repo rate steady bolsters this positive trend, allowing homebuyers and property developers to make informed, future-focused decisions. With favorable financing conditions, developers can efficiently organize their project timelines and pricing, reinforcing a thriving residential market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133031598,imgsize-129136.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rbis-rate-pause-sustains-steady-momentum-in-residential-real-estate/articleshow/133031598.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-07T12:57:31.882189Z"
+    },
+    {
+      "id": "581372f9d5b2607fe182ba005851214e",
+      "title": "Fossil Group is said to invite banks for India unit IPO",
+      "description": "Fossil Group Inc. is exploring an initial public offering for its India business. This potential listing could raise as much as $300 million. The US-based company may sell up to a 25% stake in Fossil India. This move follows other multinationals seeking value from their Indian operations. The offering is anticipated to occur early in the coming year.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133031984,imgsize-157562.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/fossil-group-is-said-to-invite-banks-for-india-unit-ipo/articleshow/133031984.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-08-07T12:57:31.881934Z"
+    },
+    {
+      "id": "cbabe126397377860e116a02d0ce5782",
+      "title": "Indian bonds clock first weekly rise in five on dovish RBI, easing crude",
+      "description": "Indian government bonds finished the week with little change on Friday, yet celebrated their first gain in five weeks. A decline in oil prices and a calming tone from the central bank helped elevate demand for these bonds. The Reserve Bank of India opted to keep its repo rate steady, alleviating concerns over potential rate hikes in the near future.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133034019,imgsize-121016.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-clock-first-weekly-rise-in-five-on-dovish-rbi-easing-crude/articleshow/133034019.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-07T12:57:31.881548Z"
+    },
+    {
       "id": "62d5dc5a296c5de95a37467097dd5d79",
       "title": "Q1 results 2026: SBI to Ola Electric among companies to declare Q1 results today; full list here",
       "description": "State Bank of India (SBI), Titan Company, Ola Electric Mobility, Hindalco Industries, Power Finance Corporation, Oil India are among the companies to report their Q1 results FY27 today.",
