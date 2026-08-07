@@ -1,6 +1,203 @@
 {
   "news": [
     {
+      "id": "62d5dc5a296c5de95a37467097dd5d79",
+      "title": "Q1 results 2026: SBI to Ola Electric among companies to declare Q1 results today; full list here",
+      "description": "State Bank of India (SBI), Titan Company, Ola Electric Mobility, Hindalco Industries, Power Finance Corporation, Oil India are among the companies to report their Q1 results FY27 today.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/stock_1786068957731_1786068957848_aaf52705-a8ad-45b1-8738-a1797cac0352.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/q1-results-2026-sbi-to-ola-electric-among-companies-to-declare-q1-results-today-full-list-here-11786068204299.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-07T02:32:25.669665Z"
+    },
+    {
+      "id": "6d041f6aa0962c62eb264e8d7d9edd87",
+      "title": "Tata Sons faces continued listing uncertainty after RBI classification",
+      "description": "The Reserve Bank of India has placed Tata Sons under intensified regulatory oversight. This designation will not influence its ongoing bid to relinquish its NBFC license. Tata Sons had cleared its debts and sought deregistration approximately two years ago. The regulator is expected not to mandate a listing until the application is resolved, which, in turn, affects the philanthropic ventures and investments of Tata Trusts.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133008884,imgsize-19994.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-faces-continued-listing-uncertainty-after-rbi-classification/articleshow/133008884.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-07T02:32:25.030351Z"
+    },
+    {
+      "id": "31fe01740e0d4c8ea0f7cdc74f02ebd7",
+      "title": "Sebi takes up 402 investigation cases in FY26; completes 338",
+      "description": "Sebi investigated 402 cases in 2025-26 for securities law violations. Fraudulent and unfair trade practices saw 121 cases taken up for scrutiny. Insider trading and illegal trade practices accounted for 224 investigations initiated. Financial statement fraud also came under regulatory focus with 57 cases. Market intermediaries underwent increased surveillance with over 900 brokers inspected.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133010399,imgsize-52066.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-takes-up-402-investigation-cases-in-fy26-completes-338/articleshow/133010399.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-07T02:32:25.030187Z"
+    },
+    {
+      "id": "6f5723fcf4fe0971562fe7ee2a3783ba",
+      "title": "Fortis Healthcare Q1 Results: Profit rises 2.3% to Rs 273 crore",
+      "description": "Fortis Healthcare's financial report for the first quarter showcases a promising 2.3 percent rise in profit. The consolidated profit after tax now stands at Rs 273 crore, reflecting growth from last year. Additionally, revenue surged 17.5 percent to reach Rs 2,545 crore. The hospital segment thrived, alongside successful diagnostics operations. Leaders of the company highlighted ongoing investment in infrastructure and a positive business momentum for the future.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133010459,imgsize-105038.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/fortis-healthcare-q1-results-profit-rises-2-3-to-rs-273-crore/articleshow/133010459.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T02:32:25.030102Z"
+    },
+    {
+      "id": "418b2bd4dbd159297e9936c0e7de935f",
+      "title": "RBI plans to bar NBFCs from offering revolving credit without approval",
+      "description": "In a recent announcement, the Reserve Bank of India has introduced fresh regulations for non-banking financial companies. Moving forward, NBFCs will be restricted to providing only term loans, effectively barring revolving credit offerings, though those currently authorized to issue credit cards are not affected. Standalone NBFCs will require prior permissions and significant funding to independently offer credit cards. The central bank is actively seeking input on these upcoming policies.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018244,imgsize-87206.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-plans-to-bar-nbfcs-from-offering-revolving-credit-without-approval/articleshow/133018244.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-08-07T02:32:25.030060Z"
+    },
+    {
+      "id": "a5a11014e9df36b86c3ebeb1a4ee3ea9",
+      "title": "Weekly Expiry: Sensex mirrors Nifty's swings, but with milder spurts",
+      "description": "The recent weekly expiry of Sensex showcased unexpected surges in the index and heightened options premiums. Traders observe that such fluctuations are now standard until liquidity conditions improve. Notably, substantial implied volatility spikes arose without impactful news. Significant trades in ICICI Bank hinted at efforts to sway the index's trajectory. This market landscape creates challenges for option writers while benefiting buyers.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018069,imgsize-75064.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-expiry-sensex-mirrors-niftys-swings-but-with-milder-spurts/articleshow/133018069.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-07T02:32:25.029957Z"
+    },
+    {
+      "id": "ab5324cac79db5966d7f4e718b4f3b43",
+      "title": "D-Street braces for weak opening on negative GIFT Nifty cues",
+      "description": "Indian equities appear set for gradual gains, supported by encouraging news. Growing hopes for peace in West Asia and solid Q1FY27 earnings are enhancing investor confidence. Brent crude prices have fallen below eighty dollars per barrel, reflecting optimism in talks. The market will keep an eye on crucial Q1 earnings and US employment figures as the Indian rupee slightly weakened against the dollar on Thursday.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018171,imgsize-34964.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133018171.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T02:32:25.029920Z"
+    },
+    {
+      "id": "b301bac720574a78234b6e0ad50e67a4",
+      "title": "Stocks in news: LIC, Trent, AWL Agri Business, SBI, Titan",
+      "description": "Indian markets experienced a quiet day of trading on weekly expiry, influenced by varying signals. LIC announced a remarkable 23% increase in its net profit year-on-year, while Trent reported a solid 21% growth in consolidated net profit. PNB Housing is optimistic about its micro-housing loan business aiming for Rs 100 crore. Additionally, Dabur has taken legal action against FSSAI's directive concerning its product claims in the Delhi High Court.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018256,imgsize-64466.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lic-trent-awl-agri-business-sbi-titan/articleshow/133018256.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-07T02:32:25.029879Z"
+    },
+    {
+      "id": "c0b6a8e66fdeb2a45948f7c849ee6b6b",
+      "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
+      "description": "Some banks now anticipate fewer policy rate increases from the Reserve Bank of India. Yes Bank and State Bank of India have revised their earlier rate hike forecasts. MUFG Bank has also pushed back its expected policy rate hike timing. Other banks maintain their forecasts for cumulative rate increases this fiscal year. Inflation projections remain sensitive to future crude oil price movements.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018263,imgsize-54980.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-07T02:32:25.029837Z"
+    },
+    {
+      "id": "a4c73f27ce218243c6e38dcc09371ff2",
+      "title": "FPIs, trading companies tap Sebi, centre for tax breather",
+      "description": "Investors from abroad are pressing regulators for a decrease in securities transaction taxes to alleviate the burden of double capital gains taxes. With the Reserve Bank of India's stringent leverage rules potentially pushing trading activities offshore, there's a risk of reduced government revenues and diminished market liquidity. Authorities are considering these issues in light of the recent tax cuts on government securities.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018389,imgsize-134168.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-trading-companies-tap-sebi-centre-for-tax-breather/articleshow/133018389.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-07T02:32:25.029749Z"
+    },
+    {
+      "id": "fb8ce8b543b61239dc19f60075f42ee3",
+      "title": "RBI relaxes device-loan recovery norms",
+      "description": "The Reserve Bank of India has updated its regulations on mobile loan financing. Lenders are now required to reinstate device functionality within one hour of confirmation of payment. Additionally, borrower compensation is limited to the total loan amount. These regulations will take effect starting January 1, 2027. Furthermore, technology may be employed to limit device functions following a loan default.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018590,imgsize-146124.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-relaxes-device-loan-recovery-norms/articleshow/133018590.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-07T02:32:25.029650Z"
+    },
+    {
+      "id": "b42e32420b5fa05dfd09e3c7698571a7",
+      "title": "LIC Q1 profit surges 23% on growth in value of new business",
+      "description": "Life Insurance Corporation of India reported a twenty-three percent net profit rise. Value of new business jumped sixty-one percent, boosting profitability margins significantly. Diversification into non-participating savings and protection products aided this strong performance. The insurer's solvency ratio strengthened, and assets under management also increased. Government's recent offer for sale was well received by the market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018657,imgsize-51392.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/lic-q1-profit-surges-23-on-growth-in-value-of-new-business/articleshow/133018657.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-07T02:32:25.029552Z"
+    },
+    {
+      "id": "516545b949089fe99e46afb572960f73",
+      "title": "Specialised realty platforms drive India's next wave of IPOs",
+      "description": "India's real estate sector is on the rise, with innovative public market listings through specialized platforms. These enterprises demonstrate stability with recurring revenue and institutional support, drawing in investors. The surge began with flexible workspace providers post-pandemic, while residential developers and student housing firms are now eyeing their own listings. This movement creates new avenues for investment in the unfolding realty growth landscape.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018215,imgsize-41968.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/specialised-realty-platforms-drive-indias-next-wave-of-ipos/articleshow/133018215.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-07T02:32:24.469199Z"
+    },
+    {
+      "id": "5935c66a4236a10a72be35d20309c6c9",
+      "title": "Can LEAP India IPO deliver long-term growth for high risk investors?",
+      "description": "LEAP India is on a mission to secure ₹480 crore through a new issuance aimed at settling its debts. Additionally, the company plans to garner ₹2,000 crore via an offer for sale. After acquiring CHEP India, LEAP India has significantly enhanced its asset-pooling network, resulting in a remarkable 41.4% revenue increase year-on-year and a net profit surge of 29.5%. This IPO might attract high-risk investors looking for long-term gains.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133018305,imgsize-39124.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-leap-india-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133018305.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-07T02:32:24.469079Z"
+    },
+    {
+      "id": "79a8751efea6f62821a0b859c7dde511",
+      "title": "Leap India raises Rs 743.6 crore from 32 anchor investors ahead of IPO launch",
+      "description": "The anchor allocation witnessed participation from some of the world’s most prominent institutional investors, including the Monetary Authority of Singapore, Morgan Stanley India Investment Fund Inc., Goldman Sachs Investments (Mauritius) I Ltd., Government Pension Fund Global, Citigroup Global Markets Mauritius Private Limited, Société Générale – ODI, and BNP Paribas Financial Markets – ODI.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133019081,imgsize-276124.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/leap-india-raises-rs-743-6-crore-from-32-anchor-investors-ahead-of-ipo-launch/articleshow/133019081.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-07T02:32:24.468531Z"
+    },
+    {
       "id": "8161d14e23b088c312627a8c8a66d162",
       "title": "Trent misses Q1 estimates as store-led growth masks weak demand",
       "description": "Revenue and profit rose in double digits as the Tata Group retailer accelerated store expansion, but sluggish like-for-like growth at existing outlets weighed on quarterly performance.",
