@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "2080a02865819ea942a2b5fa4ed3a9e2",
+      "title": "Ahead of ₹1,618-crore IPO, Shiprocket looks beyond parcel delivery to merchant software",
+      "description": "Non-shipping services such as cross-border tools and checkout software now drive over a quarter of total revenue and are growing three times faster than core logistics, managing director and CEO Saahil Goel told Mint. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/shiprocket_1786019889402_1786019907524_c0b320a7-850d-463a-86f2-f7d1baef16fe.jpeg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/ahead-of-1-618-crore-ipo-shiprocket-looks-beyond-parcel-delivery-to-merchant-software-11786010260220.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-08T12:42:06.617772Z"
+    },
+    {
+      "id": "9cdfdcf363cfa4942556467121fa39f6",
+      "title": "RITES eyes global market for refurbished Indian Railways diesel locomotives",
+      "description": "By re-engineering surplus diesel engines into standard-gauge variants, RITES is unlocking new export markets in Australia, Europe, and the Americas while offering global freight buyers a cost-effective alternative to new locomotives. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/CMD_Rahul_Mithal_RITES_Limited_1779800301999_17798_1786020974417_1786020974579_315837fe-42e8-479c-bab8-5f7ed299574a.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/rites-eyes-global-market-for-refurbished-indian-railways-diesel-locomotives-11786006444757.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-08T12:42:06.617738Z"
+    },
+    {
+      "id": "33182c8bfc1a65c0e5f019e7525e984c",
+      "title": "SC lets Delhi HC continue hearing govt's $2.31 bn claim against Reliance in offshore oilfields dispute",
+      "description": "The Centre claims Reliance recovered costs in the Panna-Mukta and Tapti offshore oilfields beyond the contractual limit, allowing it to retain more revenue than it was entitled to. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/INDIA-GUJARAT-SUMMIT-9_1705051231945_1786089758676_3296245b-2814-4601-8031-27c3d046b267.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/centre-vs-reliance-panna-mukta-tapti-offshore-oilfields-dispute-sc-delhi-hc-11786082228246.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T12:42:06.617301Z"
+    },
+    {
+      "id": "43cb003cb285b8dfb63a632b0c2a82dd",
+      "title": "Top Gainers & Losers on 7 August: Bajaj Finance, Navin Fluorine, Trent, Tata Capital, Swiggy among top losers",
+      "description": "The Indian stock market struggled on August 7, with the Nifty 50 down 0.32% and the Sensex declining 0.59%. Concerns over a potential peace deal in the Middle East and financial sector weaknesses led to mixed performance among broader markets and sector indices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/2-0-1309458163-bse--1--0_1679981984752_1786097357919_c8c02f8f-3660-4450-a37d-25c55fbfb6e0.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-7-august-bajaj-finance-navin-fluorine-trent-tata-capital-swiggy-among-top-losers-11786097361207.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T12:42:05.918052Z"
+    },
+    {
+      "id": "d99cfb1d838cc359f88bad680e9f25c1",
+      "title": "Cupid net profit jumps 194% YoY to ₹44 crore in Q1 as margins expand sharply; raises FY27 guidance",
+      "description": "Cupid reported a 194% YoY rise in net profit to ₹44 crore and a 142% increase in revenue to ₹157 crore for the June quarter, driven by strong growth in its international and domestic healthcare segments. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Q4_results_earning_today_April_21_Tata_Indraprasta_1745202511548_1786119402140_39674df2-9e40-48ce-9b37-0df2d8647e51.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/cupid-net-profit-jumps-194-yoy-to-rs-44-crore-in-q1-as-margins-expand-sharply-raises-fy27-guidance-11786119336545.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T12:42:05.917851Z"
+    },
+    {
+      "id": "9f4a4069f01e4be4abd9b755ec2e1ffc",
+      "title": "Weekly Winner: Ujaas Energy jumps 68% this week as upbeat Q1 earnings fuel buying",
+      "description": "Ujaas Energy's shares surged 68% this week, reaching ₹257.80 after strong June quarter results. Net profit rose 31% YoY, driven by increased revenue from solar power systems. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/ge3df9b46e6b1f0442f0b4f15a4b1fd1473b38ec0f863cbf76_1725517601376_1786122904858_40104ee2-53b3-4ca1-8134-28c54cadfb75.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/weekly-winner-ujaas-energy-jumps-68-this-week-as-upbeat-q1-earnings-fuel-buying-11786120993442.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T12:42:05.917812Z"
+    },
+    {
+      "id": "c70c05d109e92b6f6bf44f547201a920",
+      "title": "SBI Q1FY27 results beat market estimates. Is this a stock to buy?",
+      "description": "Q1 results 2026: SBI delivered a strong operational performance in Q1 FY27, recording a standalone net profit of ₹21,121 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/08/1600x900/logo/SBI_Q1_results_2026_Stocks_to_buy_toay_SBI_share_1786158339310_1786158339429_fc482527-bcd3-471e-ba80-eae5cf50e04c.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sbi-share-price-sbi-q1-results-2026-beat-market-estimates-is-this-a-stock-to-buy-11786157865622.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T12:42:05.917589Z"
+    },
+    {
+      "id": "e576d4336f55b5170a293310d24d71e4",
+      "title": "Sebi cuts inspection load for market intermediaries, shifts focus to risk-based checks",
+      "description": "Sebi has overhauled its inspection framework, reducing FY27 inspections to about one-third of last year’s level. The regulator will prioritise risk-based, joint inspections using alerts, complaints and market intelligence while easing compliance burdens for well-governed market intermediaries. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133036043,imgsize-24168.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-cuts-inspection-load-for-market-intermediaries-shifts-focus-to-risk-based-checks/articleshow/133036043.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-08T12:42:05.305159Z"
+    },
+    {
+      "id": "61ac204372527dbc0945bc448677e7eb",
+      "title": "Reliance Industries, ITC among 10 stocks that saw highest buying by LIC in Q1. See full list",
+      "description": "LIC increased its holdings in several major stocks during Q1FY27, with Bharti Airtel, Maruti Suzuki and ITC among the biggest buys, based on Prime Database data. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133047046,imgsize-39344.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-itc-among-10-stocks-that-saw-highest-buying-by-lic-in-q1-see-full-list/slideshow/133047094.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T12:42:05.304875Z"
+    },
+    {
+      "id": "d08139b9ba4069038cd3230b4001ab93",
+      "title": "Vedanta and Infosys among 5 stocks with highest dividend yield. Check details",
+      "description": "Five high-dividend-yield stocks include Vedanta, Gujarat Pipavav Port, Castrol India, TCS and Infosys. As of July 29, 2026, Vedanta topped the list with a 12.9% yield, followed by Gujarat Pipavav Port at 6.9%. Investors should consider fundamentals, valuation, sustainability of dividends and risks alongside dividend yield. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133048313,imgsize-30710.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-and-infosys-among-5-stocks-with-highest-dividend-yield-check-details/slideshow/133048351.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T12:42:05.304646Z"
+    },
+    {
+      "id": "8e0fc4131f762dd4d9ce04f28dae67c1",
+      "title": "Apollo Micro Systems Q1 Results: Firm posts record June-quarter profit at Rs 25 crore; revenue surges 88% YoY",
+      "description": "Apollo Micro Systems reported a 43% year-on-year rise in Q1 FY27 net profit to Rs 25.2 crore, while revenue surged 88% to Rs 251.3 crore. EBITDA rose 18% to Rs 48 crore, though margins moderated. The defence company said its best-ever first-quarter performance reflects strong execution and continued sector demand. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133051313,imgsize-1967777.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-micro-systems-q1-results-firm-posts-record-june-quarter-profit-at-rs-25-crore-revenue-surges-88-yoy/articleshow/133051313.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T12:42:05.304459Z"
+    },
+    {
+      "id": "4a67371925ba8a9a769dfd6c03d9b85a",
+      "title": "India's resilient economy to support markets but global risks remain elevated: Sebi",
+      "description": "India's financial markets are poised for growth, buoyed by robust domestic economic fundamentals like strong consumer demand and proactive government spending. Nevertheless, international geopolitical tensions and fluctuating commodity prices present daunting challenges. Consequently, there may be fluctuations in foreign capital inflows, which could affect market stability. Nonetheless, SEBI remains optimistic about India's potential to outperform globally, despite these external challenges.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133051804,imgsize-1961292.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indias-resilient-economy-to-support-markets-but-global-risks-remain-elevated-sebi/articleshow/133051804.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-08T12:42:05.304413Z"
+    },
+    {
+      "id": "5a4b1ef342ed8ca7f12ddb827d8f5bcd",
+      "title": "F&O Talk: Smallcaps look strong on charts, says Sudeep Shah; outlines Trent, Swiggy, Kalyan Jewellers strategy",
+      "description": "SBI Securities’ Sudeep Shah expects Nifty to remain rangebound, with 24,300–24,800 as key levels. He prefers a buy-on-dips strategy, citing constructive trends. Smallcaps remain bullish, while FII short covering could support markets. Traders should watch key technical levels for Nifty, Trent, Kalyan Jewellers and Swiggy for directional cues. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133048679,imgsize-229140.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcaps-look-strong-on-charts-says-sudeep-shah-outlines-trent-swiggy-kalyan-jewellers-strategy/articleshow/133048679.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T12:42:04.747100Z"
+    },
+    {
+      "id": "589338f5638594066e8e51f00c615d44",
+      "title": "Blackstone's AGS Health files updated draft papers for $500 million India IPO",
+      "description": "In a significant move, AGS Health, operating under Blackstone, has filed revised draft documents for its upcoming IPO in India, which is projected at 48 billion rupees. This offering features a new share release, as Blackstone aims to divest shares worth 30 billion rupees. Notably, AGS Health, known for its revenue cycle management services for U.S. hospitals, achieved a profit.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133050913,imgsize-9136.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo/articleshow/133050913.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-08T12:42:04.746830Z"
+    },
+    {
+      "id": "3b76b7fe9ffb98092266b14135edb18f",
+      "title": "Foreign flows into Indian bonds may remain muted despite tax relief: SBI Funds",
+      "description": "Foreign investment in Indian government bonds is projected to stay subdued as global yields alongside domestic interest rates reduce investor attraction. The postponement of India's inclusion in global bond indices further curbs foreign portfolio investments. The Reserve Bank of India is anticipated to keep interest rates steady for a considerable duration, with heightened global yields providing minimal support to local.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133051511,imgsize-22206.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/foreign-flows-into-indian-bonds-may-remain-muted-despite-tax-relief-sbi-funds/articleshow/133051511.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T12:42:04.746752Z"
+    },
+    {
       "id": "3c1e736927daa1bbe20a96816a7dcc83",
       "title": "LIC flags pressure on customer incomes even as Q1 profit rises 23%",
       "description": "LIC expects pressure on household savings to continue, weighing on premium growth, while a shift towards higher-margin non-par products helped boost profitability and strengthened the insurer's capital position in the June quarter.",
