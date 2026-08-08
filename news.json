@@ -1,6 +1,190 @@
 {
   "news": [
     {
+      "id": "3c1e736927daa1bbe20a96816a7dcc83",
+      "title": "LIC flags pressure on customer incomes even as Q1 profit rises 23%",
+      "description": "LIC expects pressure on household savings to continue, weighing on premium growth, while a shift towards higher-margin non-par products helped boost profitability and strengthened the insurer's capital position in the June quarter.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/2-0-1175742604-lic1-0_1679677587135_1786029442064_ad7a3470-727f-4897-ade8-e601f50ed732.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/lic-flags-pressure-on-customer-incomes-even-as-q1-profit-rises-23-11786024688987.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T01:21:33.428695Z"
+    },
+    {
+      "id": "18a1df30cb208c1374332ede3d6ef39f",
+      "title": "Hindalco beats Q1 estimates, remains cautious on bauxite auctions",
+      "description": "The Aditya Birla Group metal flagship reported an almost 75% year-on-year jump in the June-quarter net profit attributable to owners at ₹7,013 crore.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/2-0-446661406-DK658-143314-pih-0_1680852045136_1786112080475_4643b379-70d7-4251-a971-4ed1b9fa4721.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/hindalco-q1fy27-results-bauxite-mine-bidding-satish-pai-profit-11786106131404.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T01:21:33.428049Z"
+    },
+    {
+      "id": "f19ea5a6b09210de5e501b8231703a42",
+      "title": "Ola Electric’s revenue decline enters 7th quarter; company moves to settle Sebi probe",
+      "description": "Q1 revenue slumps 45% to ₹455 crore as the EV maker seeks an early resolution on Sebi’s disclosure probe without admitting liability.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/PTI08-22-2024-RPT018B-0_1724674049094_1786113756077_dacbf959-44d2-45b9-ba6a-40a689b39823.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/ola-electric-q1-results-ola-sebi-notice-11786108378463.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T01:21:33.427977Z"
+    },
+    {
+      "id": "a4e55d651281c34dc122a4728b541828",
+      "title": "Shapoorji Pallonji's record bond issue finds a new class of investors",
+      "description": "Private wealth managers are parceling out pieces of the ₹21,350 crore unrated, unlisted debt issue, selling investors a future payoff tied to Tata Sons' potential IPO.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/3-0-123644744-shapoorji-kgyE--621x414-0_1679837152060_1786115268921_958adbc6-0bb0-40ae-a92e-82ed22e9b5c8.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/shapoorji-pallonji-sb-bond-secondary-sale-hni-11786105671068.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T01:21:33.427934Z"
+    },
+    {
+      "id": "d6a0402e75538d97a4a85bdf775f9200",
+      "title": "Cummins India faces margin, valuation hurdles despite robust demand",
+      "description": "Cummins India's Q1 margin disappointed despite healthy revenue growth. Pricing actions, export recovery and rising data centre demand will be key to restoring profitability.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/cummins-kIYD--621x414LiveMint_1786087535158_1786087535306_1148d39c-62cd-4ad1-bf1c-ce7ae38e75b3.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/cummins-india-q1fy27-ebitda-margins-data-centres-exports-pricing-raw-material-costs-engine-manufacturer-11786085501676.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T01:21:32.836021Z"
+    },
+    {
+      "id": "57f40a54fcb33e6db671a37bdb01ab29",
+      "title": "EIH shares drop 6% after the announcement of Q1FY27 results",
+      "description": "EIH shares fell 6% to ₹307 after mixed Q1 earnings were announced, with a 52% QoQ profit decline despite a 3-fold YoY increase. The company plans significant expansion, signing agreements for six new luxury hotels aimed at capitalizing on growth opportunities.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/gfa068c0b2ac3d3cb35abe0cb9f3e35a5f958af87d600bd609_1786104711135_1786104711269_71591f92-0aa8-477d-97aa-86ca6ef167ac.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/eih-shares-drop-6-after-the-announcement-of-q1fy27-results-11786103630279.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T01:21:32.835748Z"
+    },
+    {
+      "id": "bcd9ca38c82ffc072083abbe034e623e",
+      "title": "Behari Lal Engineering IPO price band set at Rs 271-285, issue opens on August 12",
+      "description": "Behari Lal Engineering will launch its IPO on August 12 with a price band of Rs 271–285 per share, aiming to raise over Rs 301 crore through a fresh issue and an offer for sale. The company plans to use the proceeds to expand manufacturing capacity, install rooftop solar systems, repay debt, and support general corporate purposes.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133026909,imgsize-351146.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-ipo-price-band-set-at-rs-271-285-issue-opens-on-august-12/articleshow/133026909.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-08T01:21:32.237542Z"
+    },
+    {
+      "id": "ea523c7a6abe4ea30ca17509f8c221ed",
+      "title": "Adani Green Energy shares can rally up to 23%. Why Axis Capital, Elara initiated coverage",
+      "description": "Brokerages Axis Capital and Elara Capital initiated coverage on Adani Green Energy, citing its ambitious plan to expand renewable energy capacity to 50 GW and strong long-term growth prospects. The firms see up to 23% upside, backed by robust capacity additions, improving cash flows and India's accelerating clean energy transition.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133027165,imgsize-2133478.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-shares-can-rally-up-to-23-why-axis-capital-elara-initiated-coverage/articleshow/133027165.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T01:21:32.237499Z"
+    },
+    {
+      "id": "eba0f17a30d2a0f12a4220745a1a8e53",
+      "title": "Godrej Consumer shares slide 4% after Q1 margin falls amid commodity inflation; Rs 5/share dividend declared",
+      "description": "Godrej Consumer Products shares fell 4.3% after the FMCG major reported its June quarter results. Consolidated net profit rose 12% year-on-year to Rs 505 crore, while revenue from operations increased 18% to Rs 4,225 crore. Despite healthy growth, the stock declined as investors reacted to the quarterly performance.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133027551,imgsize-2105214.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/godrej-consumer-shares-slide-4-after-q1-margin-falls-amid-commodity-inflation-rs-5/share-dividend-declared/articleshow/133027551.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T01:21:32.237468Z"
+    },
+    {
+      "id": "fd3b774177e6fc4ddaddf7ef1d0e1944",
+      "title": "Ixigo posts record Q1 profit, but stock tumbles 9%. Here's what worried Dalal Street",
+      "description": "Ixigo shares fell nearly 9% despite the online travel company reporting its highest-ever quarterly profit in Q1FY27. The stock came under pressure after brokerages turned cautious, citing continued investments in hotels, AI and other growth initiatives that could weigh on near-term profitability. Shares later pared losses but remained down over 8% during Friday’s session.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133027817,imgsize-1839029.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ixigo-posts-record-q1-profit-but-stock-tumbles-9-heres-what-worried-dalal-street/articleshow/133027817.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T01:21:32.237428Z"
+    },
+    {
+      "id": "914c48b2accd899f9fc6799622b95d2c",
+      "title": "Closing Auction Session: Why Sebi says the new framework is better than VWAP",
+      "description": "Sebi has defended the new Closing Auction Session (CAS), saying it offers better price discovery and execution certainty than the earlier VWAP-based system. The regulator said CAS aligns Indian markets with global practices and aims to reduce price disruption. Traders, however, remain concerned about unpredictable closing prices and risk management.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133027882,imgsize-1934728.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/closing-auction-session-why-sebi-says-the-new-framework-is-better-than-vwap/articleshow/133027882.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-08T01:21:32.237364Z"
+    },
+    {
+      "id": "40fbf011fd68397694a9ebb8c074f4ac",
+      "title": "SBI Q1 profit beats estimates on strong loan growth, asset quality",
+      "description": "SBI reported a 10% rise in Q1 net profit to Rs 21,121 crore, beating estimates on robust loan growth and higher net interest income. Improved asset quality, lower bad-loan provisions and strong credit demand offset weaker treasury income and slightly lower margins.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133035822,imgsize-56742.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-profit-beats-estimates-on-strong-loan-growth-asset-quality/articleshow/133035822.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-08T01:21:32.236829Z"
+    },
+    {
+      "id": "77ed9134af627dd852177f7332094c37",
+      "title": "Raymond Realty Q1 net profit falls 19 pc to Rs 13.43 cr on higher expenses",
+      "description": "Raymond Realty experienced a 19% drop in profit for the quarter that ended in June, primarily due to increased operational costs that affected net earnings. Despite this, the total income rose to Rs 535.71 crore year-on-year. Moreover, the company reported impressive sales bookings of Rs 700 crore in the first quarter of FY27, representing a substantial increase from Rs 306 crore during the same period last year.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133037906,imgsize-19448.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/raymond-realty-q1-net-profit-falls-19-pc-to-rs-13-43-cr-on-higher-expenses/articleshow/133037906.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T01:21:32.236728Z"
+    },
+    {
+      "id": "6d818c020abf1bd31f63e231594f7fe1",
+      "title": "9 IPOs get Sebi approval as primary market pipeline gathers pace",
+      "description": "Sebi has approved IPOs of nine companies spanning engineering, travel technology, gaming, drones, paper, renewable energy and digital platforms. The approvals strengthen India’s IPO pipeline, with firms including Laxyo, Garuda Aerospace, PlaySimple Games, Rediff.com and Jakson Green preparing to list.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133036494,imgsize-50108.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/9-ipos-get-sebi-approval-as-primary-market-pipeline-gathers-pace/articleshow/133036494.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-08T01:21:31.683190Z"
+    },
+    {
+      "id": "eb727ebbe5bbfc0cfbb4509ed3943c19",
+      "title": "US stocks: S&P closes at record high as soft jobs report eases rate-hike concerns",
+      "description": "The US stock market enjoyed a significant boost on Friday as the S&P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Reserve interest rate hike in September. Strong earnings from corporations further propelled market indices upward. Meanwhile, a dip in oil prices, influenced by advancing peace talks, helped to soothe inflation fears.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133041941,imgsize-13832.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-08T01:21:31.682896Z"
+    },
+    {
       "id": "c9b240a5eeb91886ee98e1320e099402",
       "title": "For LIC, successful OFS and strong Q1 may not provide succour yet",
       "description": "The government's announcement of an offer for sale in LIC has positive implications but the stock trades at a higher multiple versus HDFC Life despite slower growth rates in future",
