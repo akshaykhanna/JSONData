@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "903258406556298197727349a164e440",
+      "title": "Bill Ackman’s secret to retaining top talent? Millions in stock and summers in Hamptons",
+      "description": "Bill Ackman’s hedge fund Pershing Square, which oversees about $35 billion in assets, provides its roughly four dozen employees with a range of attractive workplace benefits. Read on to know more. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/UMG-M-A-PERSHING-SQUARE-0_1786270569868_1786270603414_e8872616-a664-4e35-9741-eba76f5deb60.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/bill-ackman-s-secret-to-retaining-top-talent-millions-in-stock-and-summers-in-hamptons-11786267795622.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-09T12:43:33.817678Z"
+    },
+    {
+      "id": "ea24e53ebded70e4d280bc8f8214952f",
+      "title": "After ₹646 crore fraud, IDFC First Bank CEO prioritised accountability",
+      "description": "Chief executive V. Vaidyanathan flew to Chandigarh after the fraud surfaced, assured officials of the bank’s commitment to doing the right thing and moved to tighten controls. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/logo/V_Vaidyanathan_1690743036605_1786276857473_f4ec006b-314f-4e75-b921-a5592f1181b2.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/idfc-first-bank-ceo-flew-to-chandigarh-after-rs-646-crore-fraud-11786258436801.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-09T12:43:33.817593Z"
+    },
+    {
+      "id": "2eee4d6ed5f48bcde78bf1f029275c8e",
+      "title": "₹71 to ₹820: Multibagger stock turns ₹1 lakh into ₹11.5 lakh in five years. Do you own?",
+      "description": "ICE Make Refrigeration's stock soared 3,096% over five years, significantly increasing investor wealth. With retail investors owning 24% of the firm, the growth underscores the potential of carefully chosen stocks in the Indian market. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/gfd7eb6a4ff3b7722c26419631ebb2ff072e650093667ac8ce_1749522059479_1786107438562_28f3f65c-dc5d-4bda-96e7-12c9cb6fdef4.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rs-71-to-rs-820-multibagger-penny-stock-turns-rs-1-lakh-into-rs-11-5-lakh-in-five-years-do-you-own-11786106275728.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-09T12:43:33.060774Z"
+    },
+    {
+      "id": "5f5a45839a8772699220d98001b65db6",
+      "title": "Sebi to cut routine checks by two-thirds, focus on high-risk players",
+      "description": "The revamped framework emphasizes efficiency and will cut inspections to one-third of last year's volume. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/INDIA-REGULATIONS-TRADING-0_1786123144239_1786123156443_f084d9fc-bd9b-4000-bfec-57bdd55fb0cd.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/sebi-inspections-high-risk-intermediaries-brokers-equity-market-11786108148578.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-09T12:43:33.060660Z"
+    },
+    {
+      "id": "86cbcf1e55ab66770bc9ac6f6ef6ea42",
+      "title": "What are the pros and cons of investing in Ather Energy?",
+      "description": "Strong quarterly results, vertical integration, and an aggressive expansion strategy make a compelling growth story for Ather Energy, though rich valuations and potential commodity margin pressure warrant caution. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Ather_Rizta_Review_2_1716527974636_1766723000973_1766723010995_1786106628364_2ca5949e-15fe-44de-bd87-e0d8916c1e3c.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/ather-energy-share-price-ather-energy-stock-analysis-11786106371536.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-09T12:43:33.060536Z"
+    },
+    {
+      "id": "8f65ffc248f2e782e7c27b6c7042ee84",
+      "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — 10 August 2026",
+      "description": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday — Federal Bank, M&amp;M, and TCS. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/08/1600x900/logo/Buy_or_sell_Stocks_to_buy_today_Stock_market_news_1786154995216_1786154995349_c53d4f21-fb74-4a23-b15a-948567e96071.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-10-august-2026-11786154773920.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-09T12:43:33.060502Z"
+    },
+    {
+      "id": "c34e7e011040deb354f02a07c60ec7af",
+      "title": "Gold price jumps as reopening of Strait of Hormuz buzz dents US Fed rate-hike hopes. Is it the right time to buy gold?",
+      "description": "Gold rate today: Gold price registered 8% weekly gain, as easing tension in the Middle East and falling oil prices have cooled down inflation concerns. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/08/1600x900/logo/Gold_rate_today_Gold_Price_US_dollar_Fed_rate_1786182795787_1786182795945_d448f9d0-b4aa-423a-a418-98e47448cae7.png",
+      "fullArticleLink": "https://www.livemint.com/market/commodities/gold-rate-today-jumps-as-strait-of-hormuz-reopening-buzz-dents-us-fed-rate-hike-hopes-is-it-the-right-time-to-buy-gold-11786181435240.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-09T12:43:33.060327Z"
+    },
+    {
+      "id": "fef13de8b13c86bfe6289fce40822fc6",
+      "title": "Upcoming IPOs: Shiprocket IPO, Dhoot Transmission IPO among new issues to open next week; full list here",
+      "description": "Upcoming IPOs: The IPOs are scheduled to open between August 10 and 12, while shares of eight companies that opened for subscription last week are set to make their market debut. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/logo/stock_1786261782174_1786261782373_4012948c-17da-4141-bc74-84bfb99d5c21.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/upcoming-ipos-shiprocket-ipo-dhoot-transmission-ipo-among-new-issues-to-open-next-week-full-list-here-11786259637577.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-09T12:43:33.059797Z"
+    },
+    {
+      "id": "5dd91e30de2d8e242c29d52cc2e3faca",
+      "title": "Dividend alert: Jio Financial, Power Grid, HPCL among 90 stocks turning ex-dividend this week",
+      "description": "Nearly 90 companies, including Jio Financial Services, Power Grid Corporation, HPCL, and Hindustan Aeronautics, will turn ex-dividend between August 10 and August 14. Investors holding these shares in their demat accounts on the respective record dates will be eligible to receive the announced corporate dividend payouts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133062498,imgsize-86650.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-jio-financial-power-grid-hpcl-among-nearly-90-stocks-turning-ex-record-date-this-week/articleshow/133062498.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-09T12:43:32.371432Z"
+    },
+    {
+      "id": "063b9ade06538a58f47344308071ace9",
+      "title": "9 Nifty 500 stocks with up to 50% upside potential: Do you own any?",
+      "description": "Consensus analyst estimates from Trendlyne highlight nine Nifty 500 stocks offering up to 50% upside potential over the next 12 months. Prominent picks covered by multiple analysts include Inox Wind, Aditya Birla Fashion, Lemon Tree Hotels, HDFC Bank, NCC, and HDFC Life, supported by Strong Buy and Buy ratings. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133064606,imgsize-22108.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/9-nifty-500-stocks-with-up-to-50-upside-potential-do-you-own-any/slideshow/133064784.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-09T12:43:32.371262Z"
+    },
+    {
+      "id": "9853dbd246a01ef301a1e6ddd0efb6d0",
+      "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
+      "description": "Indian benchmark indices closed lower on Friday as closing auction sessions caused divergence between Sensex and Nifty. While Sensex fell 456 points, Nifty dropped 65 points. Market sentiment remained cautious amid Middle East tensions and crude oil volatility, though strong SBI earnings provided underlying banking sector support. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133065105,imgsize-11508.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-456-points-nifty-falls-65-as-closing-auction-session-creates-divergence/articleshow/133065105.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-09T12:43:32.371199Z"
+    },
+    {
+      "id": "9222593328eaf1194f0d24296d32e62c",
+      "title": "World Bank's IFC, HDFC AMC invest in Molbio Diagnostics' Rs 281 crore IPO anchor round",
+      "description": "Molbio Diagnostics raised Rs 281 crore from anchor investors, including World Bank Group's IFC and HDFC Mutual Fund, ahead of its Rs 940 crore IPO opening on August 10. The Goa-based unicorn also saw Rs 160 crore in secondary deals, with major brokerages recommending a Subscribe rating for the issue. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133065702,imgsize-26270.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/world-banks-ifc-hdfc-amc-invest-in-molbio-diagnostics-rs-281-crore-ipo-anchor-round/articleshow/133065702.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-09T12:43:32.371098Z"
+    },
+    {
+      "id": "39fe2a86e225d60a0ac5e5d4d22987b7",
+      "title": "Berkshire Hathaway spends down cash pile under CEO Greg Abel",
+      "description": "Berkshire Hathaway reduced its cash hoard to $365.5 billion in Q2, as CEO Greg Abel deployed capital into $4.5 billion of stock buybacks and nearly $20 billion in equities, including investments in Alphabet and Taylor Morrison. Operating earnings rose 16% to nearly $13 billion despite lower insurance underwriting profits. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133062858,imgsize-109196.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/berkshire-hathaway-spends-down-cash-pile-under-ceo-greg-abel/articleshow/133062858.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-09T12:43:31.708272Z"
+    },
+    {
+      "id": "c4d074fb85b9803d1de9059234486396",
+      "title": "Rs 7,681 crore IPO rush: Shiprocket, Milky Mist among 9 issues to hit the market",
+      "description": "India’s primary market is set for a busy week, with nine companies aiming to raise a combined Rs 7,681 crore through IPOs across the mainboard and SME segments. Key issues include Dhoot Transmission, Shiprocket, Milky Mist Dairy Food and Molbio Diagnostics. The IPOs will open between August 10 and 12, while eight companies that launched last week are set.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133063172,imgsize-31170.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-7681-crore-ipo-rush-next-week-shiprocket-milky-mist-among-9-issues-to-hit-the-market/articleshow/133063172.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-09T12:43:31.708199Z"
+    },
+    {
+      "id": "bde64f343810b698907f42df8fb220f6",
+      "title": "$20 billion bet: Where is Warren Buffett's successor spending Berkshire's cash pile after 14 quarters?",
+      "description": "Berkshire Hathaway became a net buyer of equities for the first time in 14 quarters under new CEO Greg Abel, spending nearly $20 billion on net stock purchases and $4.5 billion on share buybacks in Q2. Alphabet entered its top five holdings alongside Apple, American Express, Coca-Cola and Bank of America. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133063236,imgsize-151450.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/20-billion-bet-where-is-warren-buffetts-successor-spending-berkshires-cash-pile-after-14-quarters/articleshow/133063236.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-09T12:43:31.708140Z"
+    },
+    {
       "id": "2ca195319e67cfe8a6a2bd982e5c50c5",
       "title": "Milky Mist's paneer heft to help it take on cooperative giants",
       "description": "Milky Mist's upcoming stock market debut underscores how private dairy firms are carving out space in a market dominated by cooperative giants such as Amul and Mother Dairy. Rather than traditional pouch milk, the dairy firm is betting on value-added products to drive growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
