@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "33e89b0b6622fe27cfa18d9c9035c887",
+      "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
+      "description": "The most extreme phase of South Korea’s stock-market turmoil may be over after a historic selloff flushed out leveraged positions and regulatory curbs sent trading in some of the riskiest products plunging. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "fullArticleLink": "https://www.livemint.com/market/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out-11786234691643.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-10T01:28:39.577519Z"
+    },
+    {
+      "id": "6bf1a4829f6beb790262f650b9176e87",
+      "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?",
+      "description": "Indian stock market: For the week, the Sensex rose 0.52% to end at 78,499.17, while the Nifty gained 0.77% to settle at 24,570.65. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/logo/stock_1786250956891_1786250957095_9d4f1e62-d649-406a-82c5-a7608b818ddb.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-ongoing-us-iran-war-11786249461743.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-10T01:28:39.577309Z"
+    },
+    {
+      "id": "f31e7fa607f6b02ea521292271d54df3",
+      "title": "Stocks to buy: Sun Pharma, BEL among 4 shares Bajaj Broking's expert recommends for next 6 months",
+      "description": "Bajaj Broking’s Pabitro Mukherjee believes the broader market structure has turned constructive, with dips likely to attract buying interest. He recommends four top stock picks, hinting at a bullish reversal.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/logo/Pabitro_Mukherjee_of_Bajaj_Broking_1780419142263_1_1786249727628_1786249727832_2f784c7c-ed0e-4d97-9258-0fddf1079447.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-sun-pharma-bel-among-4-shares-bajaj-brokings-expert-recommends-for-next-6-months-11786249393533.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-10T01:28:39.577261Z"
+    },
+    {
+      "id": "237fac1c0a50fcbc74f60f1c60bd2ea7",
+      "title": "US Markets Week Ahead: Inflation, retail sales, home sales and earnings in focus",
+      "description": "Following unexpectedly weak US nonfarm payrolls data for July, investors will closely watch the latest inflation readings, housing-market figures, retail sales data and consumer sentiment survey for clues about the strength of the US economy and the Federal Reserve’s next monetary policy move. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/logo/USA-STOCKS-HEALTHCARE-0_1786292303596_1786292330429_a5b0c2ea-82b1-4032-88db-b9f42318e5c7.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/us-markets-week-ahead-inflation-retail-sales-home-sales-and-earnings-in-focus-11786292217576.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T01:28:39.576991Z"
+    },
+    {
+      "id": "d9c8fc0115c4b6187cffe19794914534",
+      "title": "Aussie-Yen Is Set to Approach Three-Decade High, Analysts Say",
+      "description": "The Australian dollar is poised to climb back toward a 35-year high against the yen as the impact of Tokyo’s currency intervention fades and the Reserve Bank of Australia’s hawkish stance bolsters the exchange rate, according to strategists. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/aussieyen-is-set-to-approach-three-decade-high-analysts-say-11786311200825.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-10T01:28:39.576923Z"
+    },
+    {
+      "id": "5c7f7f9c2f9e8287b78b760957369bcf",
+      "title": "Britannia could be in for a treat as key concerns ease",
+      "description": "Britannia’s dual-pricing overhang has eased, helping volumes and market share recover, but elevated input costs, higher ad spends and a rich valuation could limit the upside. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/logo/BRITANNIA-STOCKS-HOT-0_1786268038893_1786268050523_1b2cc00d-2a6b-4f0e-bc0b-3e2a84bcc047.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/britannia-industries-q1-results-dual-pricing-volume-growth-fmcg-11786263851791.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-10T01:28:39.576717Z"
+    },
+    {
+      "id": "26d2dfe2c593dc51e7ec8bc5a2798642",
+      "title": "D-Street overcomes CAS pain to post weekly gains",
+      "description": "In a week marked by volatility, Indian equity indices ended on a positive note, showcasing their ability to bounce back. The initial worries prompted by the closing auction system quickly faded, as diminishing global oil prices and easing geopolitical conflicts uplifted investor sentiment. Mid and small-cap sectors demonstrated significant strength, with institutional investors, both domestic and foreign, snapping up Indian.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133046028,imgsize-2153013.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-overcomes-cas-pain-to-post-weekly-gains/articleshow/133046028.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-10T01:28:38.846909Z"
+    },
+    {
+      "id": "e202039cadd8913d20d7a517914cad9e",
+      "title": "SGX to drop India-linked single-stock futures",
+      "description": "The Singapore Stock Exchange's recent decision to halt trading in single stock futures linked to Indian equities marks a pivotal shift, likely spurred by Indian regulators' scrutiny of derivative contract practices on SGX. This alteration may compel foreign investors to realign their approaches toward accessing Indian stocks, potentially resulting in increased trading activity at GIFT City with a revised revenue-sharing.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133046190,imgsize-2335824.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sgx-to-drop-india-linked-single-stock-futures/articleshow/133046190.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T01:28:38.846853Z"
+    },
+    {
+      "id": "c605648d2580146e1483b2f7ca5ab8d9",
+      "title": "Top 5 stock market lessons from legendary investor Peter Lynch that you should follow",
+      "description": "Legendary investor Peter Lynch’s investing philosophy emphasises understanding what you own, conducting thorough research and focusing on a few potential “tenbaggers.” He advises investors to ignore market noise, avoid emotional decisions and resist predicting market movements. Lynch’s lessons highlight patience, conviction and disciplined stock selection as keys to long-term investing success. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133047152,imgsize-779032.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/top-5-stock-market-lessons-from-legendary-investor-peter-lynch-that-you-should-follow/articleshow/133047152.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-10T01:28:38.846588Z"
+    },
+    {
+      "id": "401c7411fccab72137582454d9863b44",
+      "title": "Beyond the headline number: What India’s Rs 1.3 lakh crore MTF book really tells us",
+      "description": "India’s MTF book has surged nearly five-fold to over Rs 1.3 lakh crore, reflecting rising retail participation and deeper cash-market activity. Unlike leverage-driven volatility overseas, India’s regulatory safeguards, margin requirements, position limits and broker-level controls keep leverage collateralised and dispersed. These measures reduce systemic risks and support market resilience. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133047291,imgsize-2160208.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/beyond-the-headline-number-what-indias-rs-1-3-lakh-crore-mtf-book-really-tells-us/articleshow/133047291.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-10T01:28:38.846519Z"
+    },
+    {
+      "id": "3b1532ae503bae649e186191b36585eb",
+      "title": "Concurrent Gainers: 15 stocks that gain for 5 days in a row",
+      "description": "Fifteen BSE 500 stocks posted gains in each of the five sessions from August 3 to 7. Apar Industries led with a 16% five-day gain, followed by Welspun Corp and Authum Investment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133047812,imgsize-11278.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-15-stocks-that-gain-for-5-days-in-a-row/slideshow/133047942.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-10T01:28:38.846448Z"
+    },
+    {
+      "id": "0943929261475c529ec77876c001ff96",
+      "title": "Explained: How BSE traded fewer contracts after CAS but premiums rose 75% in first week",
+      "description": "BSE’s derivatives activity fell sharply in the first week of the Closing Auction Session, but higher premiums more than offset the decline in contracts. Premium per contract surged 74.8%, lifting average daily premium turnover 21.3% and pushing BSE’s market share to 37.1%, according to Nuvama Institutional Equities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133049697,imgsize-2129373.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/explained-how-bse-traded-fewer-contracts-after-cas-but-premiums-rose-75-in-first-week/articleshow/133049697.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-10T01:28:38.846269Z"
+    },
+    {
+      "id": "b2628a1e66004cb71d661233787fed39",
+      "title": "Purchase of bad loans by ARCs rises 56% in Q1",
+      "description": "Asset reconstruction companies bought twenty-six thousand three hundred four crore rupees of bad loans. This acquisition saw a fifty-six percent increase from the previous year's figures. The overall non-performing asset ratio in the banking system continued its downward trend. Banks have been resolving legacy stressed assets for several years now. Transactions are increasingly being settled in cash and through security.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133076947,imgsize-39996.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/purchase-of-bad-loans-by-arcs-rises-56-in-q1/articleshow/133076947.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T01:28:38.845722Z"
+    },
+    {
+      "id": "fdc171effcc2fc2d2c39b16dcade940b",
+      "title": "Stocks in news: Titan, SBI, Ola Electric, Astra Microwave and Hindalco",
+      "description": "Markets closed lower Friday amid mixed global cues and rising crude oil. Analysts remain bullish on Nifty above 24,350. Focus on Titan's strong Q1 profit, SBI's earnings beat, and Ola Electric's narrower loss. Hindalco also posted record profits. Maruti Suzuki anticipates significant passenger vehicle sales growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133071374,imgsize-147152.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-titan-sbi-ola-electric-astra-microwave-and-hindalco/articleshow/133071374.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-10T01:28:38.845488Z"
+    },
+    {
+      "id": "1ce41a1a686849ba6345401902eceff4",
+      "title": "Nifty above 24500; volatile trade cloudspath to 25000",
+      "description": "The Nifty index has moved past a significant resistance level, indicating potential further gains. Analysts suggest buying opportunities on dips for the Nifty index. Hindustan Aeronautics and Artemis Medicare are highlighted as top stock picks for the week. Union Bank of India and Mahindra & Mahindra also present strong buying prospects. State Bank of India and Amara Raja Energy &.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133077064,imgsize-33044.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-above-24500-volatile-trade-cloudspath-to-25000/articleshow/133077064.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-10T01:28:38.246377Z"
+    },
+    {
       "id": "903258406556298197727349a164e440",
       "title": "Bill Ackman’s secret to retaining top talent? Millions in stock and summers in Hamptons",
       "description": "Bill Ackman’s hedge fund Pershing Square, which oversees about $35 billion in assets, provides its roughly four dozen employees with a range of attractive workplace benefits. Read on to know more. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
