@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "18d607b7ae5243dac78d05bf26497b37",
+      "title": "Why SBI share price falling despite strong Q1 results? Brokerages remain bullish",
+      "description": "SBI shares opened at ₹1,108 apiece on NSE today, as compared to the previous close of ₹1,097.20 on Friday last week. The stock touched an intraday low of ₹1,078 on 10 August. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/SBI_1786345195976_1786345196247_967b3dd2-eb0b-4ac3-a252-b2a1a04c3d98.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/why-sbi-share-price-falling-despite-strong-q1-results-brokerages-remain-bullish-11786343030469.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-10T13:01:54.392834Z"
+    },
+    {
+      "id": "b0685568954c1c6ac5a37ffbe3b82cf3",
+      "title": "Aye Finance share price rises 4% in a lacklustre market, jumps over 35% YTD",
+      "description": "Year-to-date (YTD), the NBFC stock is up 36% compared to an 8% decline in the Sensex index. It hit a record high of ₹197.95 on 21 July after hitting a record low of ₹88.40 on 2 April. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/pexels-photo-5784807_1775132333080_1775132348009_1786346482669_1c7551b5-8cd2-432c-b858-1fe27fa77179.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nbfc-stock-aye-finance-share-price-rises-4-in-a-lacklustre-market-jumps-over-35-ytd-11786346331718.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-10T13:01:54.392763Z"
+    },
+    {
+      "id": "2343e2613443b20c217cdee2c403f754",
+      "title": "Shein IPO Value to Fall Short of $30 Billion Targeted by Some Investors, BI Says",
+      "description": "Shein Global Holdings Ltd.’s fast-fashion niche supports a valuation of $22 billion to $25 billion, Bloomberg Intelligence said, putting a fresh marker on one of the biggest questions surrounding the retailer as it prepares for one of the year’s biggest initial public offerings. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/shein-ipo-value-to-fall-short-of-30-billion-targeted-by-some-investors-bi-says-11786348811770.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-10T13:01:54.392724Z"
+    },
+    {
+      "id": "9e411a29f5427438a38bf79ece6d8750",
+      "title": "SBI’s Q1 beat is strong, but can it trigger a rerating?",
+      "description": "SBI’s Q1FY27 beat, improving margins and strong credit growth bolster its earnings outlook, but with the stock no longer deeply valued, sustained returns will be key to a rerating. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/INDIA-SBI-CHAIRMAN-10_1770295318458_1770295339093_1786347291626_91868f07-788f-4918-90f1-ca4bfc77ef76.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/sbi-state-bank-of-india-q1fy27-results-bank-stocks-nii-nim-credit-growth-asset-quality-gold-loans-fcnr-deposits-11786344957270.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-10T13:01:54.392662Z"
+    },
+    {
+      "id": "360677b0208e4752d06335c703bbf1a0",
+      "title": "Hitachi Energy India shares zoom 11% after Q1 results 2026. Do you own?",
+      "description": "Hitachi Energy India shares rose over 11% after reporting a net profit of ₹294 crore in Q1 FY27, up from ₹131.6 crore a year earlier. Revenue surged to ₹2,493.7 crore, reflecting strong demand in emerging sectors like AI and renewable energy. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/ge3df9b46e6b1f0442f0b4f15a4b1fd1473b38ec0f863cbf76_1725517601376_1786350886251_577549b0-bc20-40c2-a8e3-1f8ea44185d1.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hitachi-energy-india-shares-zoom-11-after-q1-results-2026-do-you-own-11786348424164.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T13:01:54.392583Z"
+    },
+    {
+      "id": "c493c7b13d7e7aa41bd4a5b48aeb7ddf",
+      "title": "Bharat Forge Q1 results: Profit falls 5% YoY to ₹321 crore, announces incorporation of a Malaysian subsidiary",
+      "description": "Bharat Forge reported a 5% year-on-year fall in its standalone profit to ₹321.4 crore for the April-June quarter of the financial year 2026-27. In the same quarter last year, the company's profit was ₹338.5 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/Stocks_to_buy_for_long_term_1766887684798_1766887690175_1786351163695_f0fbfc62-5f99-43c6-bfd0-b0eeba2c5a26.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bharat-forge-q1-results-profit-falls-5-yoy-to-3-214-crore-11786350913269.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T13:01:54.392534Z"
+    },
+    {
+      "id": "9debe8ad2ebde97405db49b11ab64ec6",
+      "title": "Titan shares: Is the Tata Group stock an attractive buy after Q1FY27 results?",
+      "description": "Titan shares rose 4% to ₹5,122 following strong Q1 performance, with analysts optimistic on company growth. Motilal Oswal projects an 18% CAGR in sales. Citi also upgraded its target to ₹5,700, while Nuvama downgraded to 'Hold', citing risks from customs duty on gold. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/TITAN-COMPANY-RESULTS--0_1762243580560_1762243596787_1786352448931_0d2afa45-07d1-406d-b639-9a2bc74a72c1.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/titan-shares-is-the-tata-group-stock-an-attractive-buy-after-q1fy27-results-11786352452848.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-10T13:01:54.392467Z"
+    },
+    {
+      "id": "2e99a12b83607ddaf42fe441625e03fd",
+      "title": "NSE SME stock set for mainboard listing close to 52-week high after Q1FY27 results",
+      "description": "Swaraj Suiting share price rose nearly 1% on August 10, nearing a 52-week high due to strong Q1FY27 results. Revenue increased 138.8% YoY to ₹183.37 crore, and net profit doubled to ₹16.22 crore, supported by increased demand and improved operations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/Q4_results_earning_today_April_21_Tata_Indraprasta_1745202511548_1786355515815_45aec757-7728-40bf-b473-c60744768104.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nse-sme-stock-set-for-mainboard-listing-close-to-52-week-high-after-q1fy27-results-11786353510282.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-10T13:01:54.392431Z"
+    },
+    {
+      "id": "7448ec2700a65d5b13082bf998a4c7c5",
+      "title": "Aarti Pharmalabs shares hit 20% upper circuit as Q1 net profit surges 65% YoY to Rs 76 crore",
+      "description": "Aarti Pharmalabs shares hit the 20% upper circuit after the company reported a 65.4% year-on-year rise in Q1 FY27 net profit to Rs 76.14 crore. Revenue surged 38.7% to Rs 535.79 crore, while the company also approved a Rs 149-crore capex plan to expand manufacturing capacity. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133086824,imgsize-2251031.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/aarti-pharmalabs-shares-hit-20-upper-circuit-as-q1-net-profit-surges-65-yoy-to-rs-76-crore/articleshow/133086824.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T13:01:53.759982Z"
+    },
+    {
+      "id": "519bb0017b5b5a4592baaa1daaddfe98",
+      "title": "Paytm shares jump 5% after Bernstein assigns target price above IPO price for first time",
+      "description": "Paytm Share Price: Paytm shares rallied after Bernstein raised its target price to Rs 2,200, implying 52% upside, while retaining an Outperform rating. The target is the highest on the Street and the first above Paytm’s Rs 2,150 IPO price, with Bernstein factoring in UPI MDR from FY28. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133087184,imgsize-2026490.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-jump-5-after-bernstein-assigns-target-price-above-ipo-price-for-first-time/articleshow/133087184.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-10T13:01:53.759947Z"
+    },
+    {
+      "id": "0fcb43b522f7b30879d30dd72a87c380",
+      "title": "PFC shares tumble 5% to 4-month low after weak Q1 earnings. Why Motilal Oswal still recommends Buy",
+      "description": "PFC shares fell over 5% after the company reported a 2% YoY rise in Q1 FY27 consolidated net profit to Rs 7,012 crore. Motilal Oswal retained its Buy rating but cut its target price to Rs 500, citing lower loan growth and margin pressure. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133087726,imgsize-2056557.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pfc-shares-tumble-5-to-4-month-low-after-weak-q1-earnings-why-motilal-oswal-still-recommends-buy/articleshow/133087726.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T13:01:53.759882Z"
+    },
+    {
+      "id": "df110ace0496d0b47190be4b16313ca2",
+      "title": "Raymond Realty shares fall 8% as profitability takes a hit in Q1",
+      "description": "Raymond Realty shares fell 8% after Q1 earnings showed pressure on profitability despite a 37% year-on-year rise in total income to Rs 536 crore. Higher upfront project, marketing and interest costs weighed on profit. However, bookings doubled to Rs 700 crore, while collections rose 47%, supporting the company’s growth outlook. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133088516,imgsize-2291215.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/raymond-realty-shares-fall-8-as-profitability-takes-a-hit-in-q1/articleshow/133088516.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T13:01:53.759844Z"
+    },
+    {
+      "id": "461bcf4dfdb6ac148f34ff96b4aba4f9",
+      "title": "Hindalco share price: Why brokerages are reiterating their Buy calls, raising target prices after Q1 earnings",
+      "description": "Hindalco shares fell despite the company reporting a record Q1 profit. However, brokerages remained bullish, citing strong India operations, improving downstream mix and a recovery at Novelis, while raising their target prices and retaining Buy ratings on the stock. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133089907,imgsize-2239178.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hindalco-share-price-why-brokerages-are-reiterating-their-buy-calls-raising-target-prices-after-q1-earnings/articleshow/133089907.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T13:01:53.759806Z"
+    },
+    {
+      "id": "2c22775b2d582ce849d159c6d2445ebe",
+      "title": "Vedanta Oil and Gas shares surge 12% to fresh record high. What should investors do?",
+      "description": "Vedanta Oil and Gas shares rose sharply on Monday after CRISIL upgraded the company’s long-term credit rating. The company reported a sharp turnaround in Q1 FY27, posting a net profit of Rs 945 crore. Here’s a look at its financial performance, growth plans and key factors investors should consider. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133090903,imgsize-2044864.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-oil-and-gas-shares-surge-12-to-fresh-record-high-what-should-investors-do/articleshow/133090903.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T13:01:53.759767Z"
+    },
+    {
+      "id": "f6394b1125cc77f60ab71216e2a95684",
+      "title": "Vijay Kedia-backed Atul Auto shares fall 9% despite nearly 4x YoY surge in Q1 profit",
+      "description": "Vijay Kedia-backed Atul Auto shares fell 9% despite a nearly four-fold year-on-year jump in Q1 FY27 net profit. Revenue rose 43%, supported by a sharp increase in three-wheeler dispatches. The company is also expanding its electric vehicle push through a partnership with Exponent Energy, targeting 15,000 rapid-charging electric three-wheelers. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133094415,imgsize-163570.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-backed-atul-auto-shares-fall-9-despite-nearly-4x-yoy-surge-in-q1-profit/articleshow/133094415.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-10T13:01:53.759622Z"
+    },
+    {
       "id": "33e89b0b6622fe27cfa18d9c9035c887",
       "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
       "description": "The most extreme phase of South Korea’s stock-market turmoil may be over after a historic selloff flushed out leveraged positions and regulatory curbs sent trading in some of the riskiest products plunging. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
