@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "74c09c33e0e55e3bb07ef97849a8de4b",
+      "title": "JioMart’s Third Act: Reliance’s retail muscle meets quick commerce",
+      "description": "JioMart is becoming Reliance Retail’s test of whether its enormous physical network can be transformed into a digital engine capable of challenging India’s quick-commerce leaders. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/JioMart_2_1786367159580_1786367166491_b8451a85-65e4-41a3-8cb2-b94ad1d71a0b.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/jiomart-reliance-retail-quick-commerce-bet-11786359442491.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-11T01:26:23.438993Z"
+    },
+    {
+      "id": "3fdf88311173f8675d58997bca8ca360",
+      "title": "Vodafone Idea adds subscribers for first time since 2018, cuts losses in Q1",
+      "description": "India’s third-largest telecom operator reported a strong June quarter, adding subscribers for the first time in a quarter since its August 2018 merger, even as it cut its losses while growing revenue and operating profit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/3-0-137076683-DSC-2408-0_1679830215691_1786373503046_7ecdbd27-1137-4de6-8a30-66586ba7425b.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/vodafone-idea-adds-subscribers-for-first-time-since-2018-cuts-losses-in-q1-11786359410337.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-11T01:26:23.438834Z"
+    },
+    {
+      "id": "756c14a4b4a2070e26a77b46c5ca73db",
+      "title": "Gautam Adani gets major legal relief in US: Judge dismisses fraud, bribery charges after Justice Department drops case",
+      "description": "The case centred on Adani Green Energy Ltd. and another company involved in an arrangement to sell around 12 gigawatts of solar power to the Indian government. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/Adani_1750745485207_1786392895360_f56d824d-4bbf-4c62-a905-667dc38b3a1f.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/gautam-adani-gets-major-legal-relief-in-us-judge-dismisses-fraud-bribery-charges-after-justice-department-drops-case-11786392325251.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-11T01:26:23.438678Z"
+    },
+    {
+      "id": "0d881d72cbfcf3b7961aaa552f0e53e9",
+      "title": "Adani’s new cash cow: A private infra firm buying into group peers",
+      "description": "Adani Group’s infrastructure spending boom has turned privately-held Adani Infra into a massive cash generator. The company's growing investments in the group’s listed firms show how wealth created within the conglomerate is being spent across its businesses. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/ADANI-ENTERPRISES-RESULTS--0_1730222225395_1786366099118_f6e51391-e8b3-48d1-be46-d7ea8520eca5.JPG",
+      "fullArticleLink": "https://www.livemint.com/news/adanis-new-cash-cow-a-private-infra-firm-buying-into-group-peers-11786261897353.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-11T01:26:23.438554Z"
+    },
+    {
+      "id": "dcc24c08336cb5b80d66da3dbe95698d",
+      "title": "Sensex, Nifty 50 end flat; elevated oil prices, Middle East uncertainty weigh on sentiment",
+      "description": "The Sensex rose 43 points, or 0.06%, to end at 78,542, while the Nifty 50 inched up by 13 points, or 0.05%, to settle at 24,583.80. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/INDIA-BSE-10_1718252822146_1786356282537_fe9ebd1e-1754-4a60-a6dc-dbf04775b7ac.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-elevated-oil-prices-middle-east-uncertainty-weigh-on-sentiment-11786356194595.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-11T01:26:22.877744Z"
+    },
+    {
+      "id": "53cca6d4449d6d2b6d6807311912c09c",
+      "title": "Top Gainers & Losers on 10 August: Hitachi Energy, Paytm, Titian, BSE, BEML, Lenskart among top gainers",
+      "description": "On August 10, the Indian stock market traded within a narrow range amid Middle East tensions affecting oil prices. Nifty 50 saw a slight increase of 0.05%, while Sensex dipped 0.06%. Sector performance varied, with heavy selling in some indices and gains in Realty and Private Bank stocks. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/2-0-116406298-BSE-4C-0_1681908501716_1786356716546_198b1f21-2a59-448f-95e5-4c8f4d44547d.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-10-august-hitachi-energy-paytm-titian-bse-beml-lenskart-among-top-gainers-11786356700006.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-11T01:26:22.877703Z"
+    },
+    {
+      "id": "ac713f5a7e4da99960261f5e690ca373",
+      "title": "Bharat Forge shares plunge 9% after firm posts Rs 90 crore Q1 net loss on exceptional items, revenue rises 19%",
+      "description": "Bharat Forge shares plunged nearly 9% after the company reported an Rs 89.89 crore consolidated net loss in Q1 FY27, compared with a Rs 284 crore profit a year earlier. One-time restructuring and VRS costs of Rs 358 crore hurt earnings. Revenue rose 19%, while defence revenue surged 87%, despite lower margins. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133097144,imgsize-97474.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-shares-plunge-9-after-firm-posts-rs-90-crore-q1-net-loss-on-exceptional-items-revenue-rises-19/articleshow/133097144.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-11T01:26:22.241657Z"
+    },
+    {
+      "id": "803e0e16711418d89b4f0c235e49dc85",
+      "title": "Astra Microwave shares tank 9% after profit, revenue take a hit in Q1FY27",
+      "description": "Astra Microwave shares fell nearly 9% after Q1FY27 profit declined 24% and revenue dropped 12% year-on-year. EBITDA also weakened, while margins narrowed. The defence company announced a leadership transition, with M.V. Reddy set to become managing director from October. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133097251,imgsize-16306.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/astra-microwave-shares-tank-9-after-profit-revenue-take-a-hit-in-q1fy27/articleshow/133097251.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-11T01:26:22.241621Z"
+    },
+    {
+      "id": "ece69cc730c5a71b0afcd886d3b1e6e3",
+      "title": "Zee Entertainment Q1 Results: PAT falls 48% YoY to Rs 74 crore; ad revenue hit by Middle East crisis",
+      "description": "Zee Entertainment’s Q1 FY27 profit fell 48% to Rs 74.3 crore, while EBITDA plunged 65% despite 5% revenue growth. Advertising faced pressure from Middle East tensions and cricket, partly offset by FIFA rights, subscription growth and higher digital ARPU. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133106855,imgsize-152438.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q1-results-pat-falls-48-yoy-to-rs-74-crore-ad-revenue-hit-by-middle-east-crisis/articleshow/133106855.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-11T01:26:22.241419Z"
+    },
+    {
+      "id": "d50217141675f1f0f6cdcf5a1e348f40",
+      "title": "Fusion Finance turns profitable as asset quality improves sharply",
+      "description": "Fusion Finance reported a Rs 62.4 crore Q1 profit, reversing a year-ago loss, as improving asset quality lifted performance. Gross NPA declined to 2.5%, while net interest margin improved. A strong capital adequacy ratio and higher AUM further strengthened the lender’s balance sheet. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133110875,imgsize-19762.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/fusion-finance-turns-profitable-as-asset-quality-improves-sharply/articleshow/133110875.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-11T01:26:22.241328Z"
+    },
+    {
+      "id": "e51fa590d3bbe9b8a80ba7f53450d75c",
+      "title": "Brokerages raise SBI target price after Q1 earnings beat",
+      "description": "State Bank of India shares faced a 2.2 percent decline on Monday, despite surpassing analysts' expectations for their June-quarter earnings. Most brokerages expressed continued optimism for the lender, with several firms increasing their target prices while maintaining a positive outlook. The consensus 12-month target price indicates a considerable potential upside from Monday's closing figures. This key financial update highlights evolving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133139843,imgsize-64024.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-raise-sbi-target-price-after-q1-earnings-beat/articleshow/133139843.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-11T01:26:22.241002Z"
+    },
+    {
+      "id": "af7c5fc4569423362b12af441bc4ff88",
+      "title": "Q1 Earnings Scorecard: Strong demand drives revenue, input costs hit profits",
+      "description": "Sustained market demand led to impressive revenue growth in the automotive and consumer goods sectors. In contrast, while the banking sector showed better asset quality, profitability struggled due to margin challenges. Cement companies effectively preserved their margins through strategic cost management amidst rising operational costs. Overall, various sectors experienced notable revenue uplifts; however, they also faced persistent input cost hurdles.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133139903,imgsize-114498.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-scorecard-strong-demand-drives-revenue-input-costs-hit-profits/articleshow/133139903.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-11T01:26:22.240964Z"
+    },
+    {
+      "id": "f2c33a037d349d7f505419108ac62c2f",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Opening the week on a cautious note, domestic equities saw the Nifty making slight gains, bolstered by targeted stock purchases as Q1 earnings unfold. This week is expected to carry a positive market trajectory, propelled by earnings trends and sector performance. Investors will keep a keen eye on the durability of earnings recovery and global happenings, particularly the US-Iran dialogues.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133120181,imgsize-67376.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133120181.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-11T01:26:22.240925Z"
+    },
+    {
+      "id": "e20e62e43d750f5f6b13d3e3a07412a8",
+      "title": "Milky Mist Dairy Food mops up ₹465 crore from anchor investors ahead of IPO",
+      "description": "Milky Mist Dairy Food raised ₹465.29 crore from anchor investors ahead of its IPO opening on August 11. The ₹1,553 crore issue offers shares priced at ₹133-140, with a minimum investment of ₹14,980. The IPO closes August 13, targeting a listing on August 18. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133117007,imgsize-42738.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-mops-up-465-crore-from-anchor-investors-ahead-of-ipo/articleshow/133117007.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-11T01:26:21.689683Z"
+    },
+    {
+      "id": "c8739eeecc365b2ad0d3af1872cf4990",
+      "title": "Microsoft could unveil Maia 300 AI chip as early as September: Report",
+      "description": "Microsoft plans to launch its new Maia 300 AI chip this autumn. The company is securing production capacity for over 300,000 chips by 2027. This move aims to reduce reliance on Nvidia's expensive processors. Microsoft also seeks to attract major cloud customers like Anthropic. The tech giant eventually targets over one million Maia 300 chips.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133133978,imgsize-82602.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-could-unveil-maia-300-ai-chip-as-early-as-september-report/articleshow/133133978.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-11T01:26:21.689322Z"
+    },
+    {
       "id": "18d607b7ae5243dac78d05bf26497b37",
       "title": "Why SBI share price falling despite strong Q1 results? Brokerages remain bullish",
       "description": "SBI shares opened at ₹1,108 apiece on NSE today, as compared to the previous close of ₹1,097.20 on Friday last week. The stock touched an intraday low of ₹1,078 on 10 August. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
