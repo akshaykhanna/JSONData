@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "12c3db2c4e0f0ce1c2c5dbbe7df3b3b0",
+      "title": "Porter in no hurry to go public, says CEO Uttam Digga",
+      "description": "Despite net profit quadrupling in FY26, the Tiger Global Management-backed logistics unicorn is prioritizing market expansion, EV adoption, and global growth over an immediate stock market listing, Digga told Mint. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/Porter_partners_and_vehicles_1758533733245_1786375855283_1fee44e4-6660-46c9-821a-7381c9bd3ea9.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/porter-ipo-porter-logistics-uttam-digga-11786372482935.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-12T01:44:15.264371Z"
+    },
+    {
+      "id": "d15c63785753ff3cf77e537353b66823",
+      "title": "Sify Infinit eyes $4 bn fundraise for data centre growth, plan for IPO holds",
+      "description": "The firm plans to fund a 10-20% expansion in data centre capacity through internal cash flows, before tapping debt, listing the subsidiary and follow-on institutional offerings for further growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/g4d1235eeba32e3384119ef1dd381c2e64b58db549bcbde4b3_1786381180213_1786381180707_2bbffb1b-9ff5-44dc-a8c8-8218ee72a761.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/sify-infinit-4-bn-fundraise-data-centre-ipo-debt-11786368517718.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-12T01:44:15.264189Z"
+    },
+    {
+      "id": "bd38ad97b21ecd85656a59403f5401b7",
+      "title": "IFCI Q1 Results: Revenue declines, profit improves sequentially to ₹60 crore",
+      "description": "IFCI's Q1FY27 results show a sequential rise in net profit to ₹60.27 crore but a flat year-on-year comparison. Revenue fell 20% to ₹358 crore, and concerns arise as its Capital Risk Adequacy Ratio remains at negative 17.58%, below regulatory requirements. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/logo/ga983ec489838a8695820b2743218be1194671c0d33d6ce7d1_1725522887965_1786455806883_24f82c17-1c6f-4dee-9e0c-4e9f64d56853.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/ifci-q1-results-revenue-declines-profit-improves-sequentially-to-rs-60-crore-11786455809358.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-12T01:44:14.551650Z"
+    },
+    {
+      "id": "f30902ab8f6ae2a319d1434cb1773db6",
+      "title": "From Gift Nifty to US-Iran war, crude oil prices: 7 key things that changed for Indian stock market overnight",
+      "description": "Gift Nifty was trading around the 24,546.50 level, up nearly 6 points from the Nifty futures’ previous close, indicating a flat start for the Indian stock market indices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/stock_1786498018030_1786498018170_9e9202d0-840b-4040-973d-0a6e1f79a8e9.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-us-iran-war-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11786496841659.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-12T01:44:14.551072Z"
+    },
+    {
+      "id": "67c31da66f89a303b53f2687baff669c",
+      "title": "How Wipro's Nifty exit shows old warhorse Indian IT is losing charm",
+      "description": "Wipro’s exit from the Nifty 50 and BSE’s inclusion highlight the shifting composition of India’s benchmark index. The move comes as IT stocks face concerns over AI disruption and weakening investor interest. Wipro shares are down sharply in 2026, while the combined Nifty 50 weight of India’s top IT companies has fallen. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133147925,imgsize-2474137.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/how-wipros-nifty-exit-shows-old-warhorse-indian-it-is-losing-charm/articleshow/133147925.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-12T01:44:13.756034Z"
+    },
+    {
+      "id": "cbb7363293f1279e37decac7ea134eca",
+      "title": "AI in this decade is what digitsation was in the last: RBI governor",
+      "description": "Banks must understand artificial intelligence deployment for future success. AI can enhance financial inclusion and improve existing public good projects. Careless AI use risks new forms of exclusion and instability for banks. The RBI plans an approved AI governance policy and a testing sandbox. Banks need deliberate strategies, sustained investment, and strong governance for AI.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133167409,imgsize-49362.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ai-in-this-decade-is-what-digitsation-was-in-the-last-rbi-governor/articleshow/133167409.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-12T01:44:13.755972Z"
+    },
+    {
+      "id": "229bc1ef1c4383cdc7300a178645eaae",
+      "title": "JSW Dulux Q1 Results: Profit drops 12% to Rs 79 crore; board approves stock split",
+      "description": "JSW Dulux experienced a profit drop of 12.4 percent during the June quarter, alongside a modest year-on-year dip in revenue. The board has moved forward with a proposed stock split at a ratio of 1:10, pending approvals from shareholders and regulators. Notably, JSW Paints has previously secured a majority stake in Akzo Nobel India, enhancing its market position.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133158078,imgsize-34388.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-dulux-q1-results-profit-drops-12-to-rs-79-crore-board-approves-stock-split/articleshow/133158078.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-12T01:44:13.755514Z"
+    },
+    {
+      "id": "52af273ca9062f5066ed43bcd268dc38",
+      "title": "Bata India Q1 Results: Profit jumps 23% to Rs 64 crore on operational efficiency",
+      "description": "Bata India has reported a remarkable twenty-three percent increase in profits for the June quarter, thanks to effective operational efficiency and stringent cost management. In addition, a four percent growth in revenue from operations was fueled by premiumization and higher sales volume. The company has also announced an interim dividend of twenty-five rupees per share, marking its third consecutive quarter.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133158837,imgsize-60944.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/bata-india-q1-results-profit-jumps-23-to-rs-64-crore-on-operational-efficiency/articleshow/133158837.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-12T01:44:13.755450Z"
+    },
+    {
+      "id": "c96b9f7dfd301e665dd83a971251a787",
+      "title": "Manappuram Finance Q1 Results: Profit soars four-fold to Rs 585 crore",
+      "description": "Manappuram Finance has showcased a remarkable financial performance in the first quarter, with consolidated profits leaping to Rs 585 crore compared to the previous year's figures. The total income during this quarter rose to Rs 3,040 crore, while assets under management experienced a notable increase of 57 percent, reaching Rs 69,635 crore. The board has additionally declared an interim dividend.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133158889,imgsize-98834.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/manappuram-finance-q1-results-profit-soars-four-fold-to-rs-585-crore/articleshow/133158889.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-12T01:44:13.755419Z"
+    },
+    {
+      "id": "16c2bdfa3c3b93d18e4344a5d3eea1c1",
+      "title": "Sebi proposes to bring all bullion trades under vault management rules",
+      "description": "India's market regulator is taking significant steps to enhance the supervision of its digital bullion market by proposing new vault manager regulations for all physical bullion. This initiative, which comes from the Securities and Exchange Board of India, aims to broaden the reach of the Electronic Gold Receipts framework. Stakeholders are encouraged to submit their feedback on the consultation paper.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133158951,imgsize-257597.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-to-bring-all-bullion-trades-under-vault-management-rules/articleshow/133158951.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-12T01:44:13.755384Z"
+    },
+    {
+      "id": "eca5354ab3f3e4d2f7937faec3d57859",
+      "title": "Stocks in news: L&T, Tata Motors, HAL, Grasim, NBCC and IRCTC",
+      "description": "The Indian equity markets concluded the trading session on a low note, as escalating crude oil prices weighed heavily on worldwide market sentiment. Notable developments included Larsen & Toubro's announcement of a strategic business transfer for its data center services. Focus will also be on firms like Tata Motors and Hindustan Aeronautics. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133161713,imgsize-170024.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-tata-motors-hal-grasim-nbcc-and-irctc/articleshow/133161713.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-12T01:44:13.755317Z"
+    },
+    {
+      "id": "15ae7127d0c08ece08ba600137bea6fe",
+      "title": "Big investors outperform Nifty, bring in double-digit returns",
+      "description": "During Q1 of FY27, marquee investors saw remarkable success, as their stock portfolios delivered returns ranging from 9.7% to a staggering 39.9% between April and June. Ashish Dhawan emerged as the frontrunner, closely followed by other top investors like Ashish Kacholia. Their impressive performance clearly outstripped the Nifty and Nifty 500 market averages, highlighting their substantial stakes in companies.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133167497,imgsize-57190.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/big-investors-outperform-nifty-bring-in-double-digit-returns/articleshow/133167497.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-12T01:44:13.755229Z"
+    },
+    {
+      "id": "0e94304dac22c0d43d634cce2c10693b",
+      "title": "Sebi proposes to expand FPI play in commodities",
+      "description": "In a strategic move, the Securities and Exchange Board of India has unveiled plans to enable foreign investors to trade in commodity derivatives. This initiative is designed to expand engagement within India's commodity derivatives market. International participants will soon be able to trade physically settled non-agricultural contracts, with the requirement to settle positions before the tender period starts.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133167595,imgsize-105672.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-to-expand-fpi-play-in-commodities/articleshow/133167595.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-12T01:44:13.755159Z"
+    },
+    {
+      "id": "e96f8312daffee5be3b815f7efd8ded1",
+      "title": "Shiprocket draws Goldman Sachs, HDFC MF, SBI MF and others to Rs 727 crore anchor round ahead of IPO",
+      "description": "Shiprocket secured Rs 727.41 crore from anchor investors before its upcoming initial public offering. The e-commerce enablement company aims to raise a total of Rs 1,617.48 crore through its maiden public issue. The IPO includes a fresh issue and an offer for sale, with a price band of Rs 92-97 per share. Proceeds will fund platform growth, technology, and debt.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133160685,imgsize-51480.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-draws-goldman-sachs-hdfc-mf-sbi-mf-and-others-to-727-crore-anchor-round-ahead-of-ipo/articleshow/133160685.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-12T01:44:13.125633Z"
+    },
+    {
+      "id": "cea7ad779d6781e2e52f806abff696b9",
+      "title": "Muthoot Fincorp appoints four lead managers for IPO",
+      "description": "In a significant move, Muthoot Fincorp has engaged lead managers to facilitate its upcoming ₹3,000-crore initial public offering. The draft prospectus is set to be filed with Sebi this week, with the goal of fortifying the lender's capital backbone and fostering business development. Muthoot's strategy includes broadening its reach into rural and semi-urban markets, alongside solidifying its presence in tier-II.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133167422,imgsize-2082596.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/muthoot-fincorp-appoints-four-lead-managers-for-ipo/articleshow/133167422.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-12T01:44:13.125428Z"
+    },
+    {
       "id": "d6b7ac3340162e208e4e95419e3c876f",
       "title": "Nifty Rejig: BSE to enter Nifty 50, Wipro moves to Nifty Next 50; Hitachi Energy, Polycab join Nifty 100",
       "description": "NSE Indices will implement a significant reshuffle of its indices, including changes to Nifty 50, Nifty 100, Nifty Next 50, and Nifty 500, effective 30 September 2026. Key shifts include the inclusion of BSE and Wipro, which will impact portfolio rebalancing and trading volumes. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
