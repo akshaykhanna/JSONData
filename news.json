@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "b04c6a7f7ac1ef16da89bcc2a587a2dd",
+      "title": "Tata Motors PV Q1 PAT tumbles 80% YoY to Rs 775 cr",
+      "description": "Tata Motors Passenger Vehicles (PV) reported a sharp 80.25% decline in consolidated net profit to Rs 775 crore in Q1 FY27 compared with Rs 3,924 crore posted in the corresponding quarter of the previous year. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/tata-motors-pv-q1-pat-tumbles-80-yoy-to-rs-775-cr-126081301619_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-13T13:04:03.553284Z"
+    },
+    {
+      "id": "862ac72a3def1662d2191db9bbd3d722",
+      "title": "Who is Noel Tata and why is Tata Trusts Chairman’s role in focus after N Chandrasekaran's exit?",
+      "description": "Noel Tata succeeded his half-brother Ratan Tata as the chairman of the Tata Trusts, which holds a 66% stake in Tata Sons, the parent company of the Tata Group. In the February 2026 board meeting, Noel Tata opposed the move to extend Chandrasekaran's tenure as Tata Sons chairman. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/Noel_Tata_1786599314702_1786599314860_9b3c6d62-54f4-422a-a2d4-0b9e15a7988d.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/people/who-is-noel-tata-and-why-is-tata-trusts-chairman-s-role-in-focus-after-n-chandrasekarans-exit-11786599167826.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-13T13:04:02.796081Z"
+    },
+    {
+      "id": "4fb93697faa493f6ddd71d35a1160aef",
+      "title": "Newly-listed metal stock Rajputana Stainless surges 10%, hits record high after strong Q1 results",
+      "description": "Rajputana Stainless reported 32.4% year-on-year growth in its revenue from operations to ₹306.54 crore for Q1 FY27. Profit after tax rose 80.5% to ₹20.20 crore from ₹11.19 crore in Q1FY26. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/Stock_market_1774437462381_1774437473972_1786606976568_ff2f2ac9-8b63-4cf5-974d-f52553727bb1.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/newlylisted-metal-stock-rajputana-stainless-surges-10-hits-record-high-after-strong-q1-results-2026-11786606773029.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:02.193706Z"
+    },
+    {
+      "id": "69efed148def219abdd0452e2af7ff3e",
+      "title": "Lenskart gets leg-up from international biz even as India expansion continues",
+      "description": "Lenskart’s overseas business delivered a sharp margin boost in Q1, while India continued its store expansion. Sustaining profitability of new stores will be a key monitorable. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/LENSKART-RESULTS--0_1786606362687_1786606372552_56d365b0-83a4-47fb-8c6b-bfb48598989a.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/lenskart-solutions-q1fy27-international-business-india-expansion-ebitda-margin-eyewear-retail-11786604384409.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:02.193664Z"
+    },
+    {
+      "id": "dad1764a8d47826808a62f1dfb295f0b",
+      "title": "Lenskart shares hit record high after Q1 profit jumps nearly four-fold; Motilal Oswal lifts target price",
+      "description": "Lenskart Solutions' shares rose 7% to an all-time high of ₹627 after posting a net profit of ₹228 crore for Q1 FY27, a 273% increase. Revenue grew 43.3% YoY to ₹2,714.18 crore, driven by strong domestic and international demand for eyewear. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/LENSKART-IPO--4_1761806095666_1761806104825_1786610673714_2a2f2ed0-24ed-4894-90b0-1359478eb942.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/lenskart-shares-hit-record-high-after-q1-profit-jumps-nearly-four-fold-motilal-oswal-lifts-target-price-11786610679031.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:02.193445Z"
+    },
+    {
+      "id": "bd85c1718260647b6690b5c6b9f9b624",
+      "title": "Astral shares rally 10% following Q1 results; Citi sees target price at Rs 1,900, Nuvama upgrades stock to 'Buy'",
+      "description": "Astral shares surged nearly 10% after strong Q1 FY27 results, with profit rising 51.8% YoY. Citi retained a Buy rating with a Rs 1,900 target, while UBS maintained Accumulate. Nuvama upgraded the stock to Buy, citing strong pipe volumes and margin prospects, while Motilal Oswal retained Buy and CLSA maintained Hold. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133198037,imgsize-.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/astral-shares-rally-10-following-q1-results-citi-sees-target-price-at-rs-1900-nuvama-upgrades-stock-to-buy/articleshow/133198037.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:01.509383Z"
+    },
+    {
+      "id": "3d41711274397674ebbca0c6b213b13d",
+      "title": "Paytm management gets Sebi show cause notice over timing of 2023 loan disclosure announcement",
+      "description": "Paytm management has received a Sebi show-cause notice over the timing and classification of information disclosed in a December 2023 corporate announcement. The company said its key managerial personnel are evaluating the notice and will respond within 14 days. The development comes after Paytm reported strong Q1 FY27 earnings and Bernstein raised its target. This key financial update highlights evolving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133200481,imgsize-1985665.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-management-gets-sebi-show-cause-notice-over-timing-of-2023-loan-disclosure-announcement/articleshow/133200481.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:01.509243Z"
+    },
+    {
+      "id": "ac4c634a61ad34b50e397fa752ddf9bb",
+      "title": "Lenskart’s Meller sunglasses are Ray-Ban of the future, says Jefferies. Here’s why Wall Street giant is bullish",
+      "description": "Lenskart’s strong Q1 FY27 performance, marked by sharp profit growth, revenue expansion and improving margins, has strengthened the bullish case among brokerages. Jefferies sees further potential from international growth, premiumisation, store expansion and Meller, which it believes could become a major global brand. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133203250,imgsize-2264815.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/lenskarts-meller-sunglasses-are-ray-ban-of-the-future-says-jefferies-heres-why-wall-street-giant-is-bullish/articleshow/133203250.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:01.509158Z"
+    },
+    {
+      "id": "f4f42afe5748ea4601b31cfa7eabd8e5",
+      "title": "KRN Heat Exchanger shares hit 5% upper circuit as Q1 net profit more than doubles",
+      "description": "Shares of KRN Heat Exchanger and Refrigeration hit a upper circuit on Thursday, following a strong Q1 FY27 earnings performance. The rally was driven by robust demand across both domestic and international markets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133203568,imgsize-2091273.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/krn-heat-exchanger-shares-hit-5-upper-circuit-as-q1-net-profit-more-than-doubles/articleshow/133203568.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:01.509092Z"
+    },
+    {
+      "id": "232eb56f9f1cffdd3834c0cf844aa55b",
+      "title": "Munjal Auto Industries shares soar 15%, hit 52-week high after Q1 results. What moved the stock?",
+      "description": "Munjal Auto Industries reported a strong Q1 FY27 performance, with consolidated revenue rising sharply and the company turning profitable from a year-ago loss. Both its auto components and composite products segments recorded healthy growth, while a mark-to-market gain on mutual fund investments also supported other income. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133204093,imgsize-2076394.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/munjal-auto-industries-shares-soar-15-hit-52-week-high-after-q1-results-what-moved-the-stock/articleshow/133204093.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:01.508947Z"
+    },
+    {
+      "id": "5fa36cf63f411321e5a187c3a51a7200",
+      "title": "Shriram Properties Q1 profit down 46% to Rs 11 cr",
+      "description": "Shriram Properties faced a significant profit decrease of forty-six percent in the June quarter, largely affected by rising operational expenses and taxes. Nevertheless, the company recorded a slight increase in total income to Rs 271.04 crore and experienced a ten percent rise in sales bookings to Rs 484 crore. Their project pipeline remains strong, extending through various cities in India.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133205651,imgsize-35124.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-properties-q1-profit-down-46-to-rs-11-cr/articleshow/133205651.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:01.508810Z"
+    },
+    {
+      "id": "1788c8dfa6156ba0ebbe6aaa93fb02e5",
+      "title": "Black Box Q1 net profit up 18% to Rs 56 crore",
+      "description": "Black Box has announced a remarkable eighteen percent rise in profits for the June quarter, attributed to a solid order book and growth in its Brazilian sector. Revenue from operations surged to Rs 8,986 crore, a significant eighty-three percent increase, achieving a record quarterly revenue of Rs 1,719 crore. Plans are underway for Black Box to recruit three thousand new.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133206234,imgsize-17806.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/black-box-q1-net-profit-up-18-to-rs-56-crore/articleshow/133206234.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:01.508717Z"
+    },
+    {
+      "id": "49706df128eb7bab49b6b29c6b79e346",
+      "title": "Solar Industries shares jump 8% to fresh lifetime high after Q1 net profit soars 93% YoY to Rs 653 crore",
+      "description": "Solar Industries shares surged over 8% after the company reported a 93% YoY rise in Q1 FY27 net profit to Rs 652.55 crore and 70% revenue growth. Strong defence, domestic and international explosives businesses, a Rs 21,350 crore order book and Rs 14,000 crore FY27 revenue guidance boosted investor confidence in growth prospects. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133207168,imgsize-4478.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/solar-industries-shares-jump-8-to-fresh-lifetime-high-after-q1-net-profit-soars-93-yoy-to-rs-653-crore/articleshow/133207168.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:01.508628Z"
+    },
+    {
+      "id": "06e70df7787efe91a163e26af0dfa75f",
+      "title": "Fintech startup Navi said to hire banks for $315 million IPO",
+      "description": "Navi Ltd. is preparing for an Indian IPO targeting up to $315 million, with JM Financial, Kotak Mahindra Capital, Goldman Sachs and JPMorgan advising. The fintech firm seeks a valuation of up to $2 billion and plans to file by December. The offering is expected to comprise only a primary share sale. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133205408,imgsize-28936.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/fintech-startup-navi-said-to-hire-banks-for-315-million-ipo/articleshow/133205408.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-08-13T13:04:00.926999Z"
+    },
+    {
+      "id": "e31faf677214346d57c427578d293663",
+      "title": "LG Electronics India Q1 Results: PAT rises marginally YoY to Rs 653 crore; revenue up 15%",
+      "description": "LG Electronics India Q1 Results: Household appliances maker LG Electronics India reported a 1.4% year-on-year rise in profit after tax (PAT) at Rs 653 crore for the first quarter of FY27 (Q1FY27), compared with Rs 513 crore reported in the same quarter of the previous fiscal year. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133212601,imgsize-120976.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/lg-electronics-india-q1-results-pat-rises-marginally-to-rs-653-crore-revenue-up-15/articleshow/133212601.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-13T13:04:00.925967Z"
+    },
+    {
       "id": "f98cfc6e3a6125eebf9a3672f5dae60b",
       "title": "Tata Group’s market value tripled during Chandrasekaran’s tenure",
       "description": "The combined market cap of listed Tata companies has grown 3.3 times to ₹27 trillion in the roughly 10 years N. Chandrasekaran has been Tata Sons chairman. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
