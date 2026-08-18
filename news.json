@@ -1,6 +1,196 @@
 {
   "news": [
     {
+      "id": "4fe11df15b012b8ff4084f1c9cd721e4",
+      "title": "BSE hits 4-month low after Jefferies, Nuvama downgrade stock on CAS risks",
+      "description": "Brokerages flag pressure from the closing auction session, weaker derivatives volumes and RBI bank guarantee norms, with BSE shares down nearly 9.3% in August so far. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260818/full-126081801046.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/bse-hits-4-month-low-after-jefferies-nuvama-downgrade-stock-on-cas-risks-126081801046_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-18T12:39:57.531826Z"
+    },
+    {
+      "id": "23bd7f667bf81cc273f00b07346465d6",
+      "title": "Feud in Tata Sons board? Group divided over reconsideration of N Chandrasekaran's resignation, report says",
+      "description": "Tata Sons' board is reportedly divided over Chairman N Chandrasekaran's decision not to seek reappointment after his term ends on 20 February 2027, with some directors urging him to reconsider, while the SDTT has urged the company to look for a successor. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/maxresdefault_1787052546110_1787052553783_f20454cd-b1bf-4e21-b6ef-d1ee3a285b04.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/feud-in-tata-sons-board-group-divided-over-reconsideration-of-n-chandrasekarans-resignation-report-says-11787037823910.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T12:39:56.814086Z"
+    },
+    {
+      "id": "6d9016a454da4e795e743f168d309ee9",
+      "title": "Tata Sons AGM adjourned over first-ever quorum shortfall as Chandrasekaran succession battle looms",
+      "description": "The Tata Sons AGM could not proceed as a joint representative of the two largest Tata Trusts, Sir Dorabji Tata Trust and Sir Ratan Tata Trust, was absent, despite their representation being essential to constitute the quorum. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/TATA-SONS-CHAIRMAN--2_1786520966224_1786520977548_448fa3d6-5caa-4d19-babd-009f7e30644c_1787050578754_36e6390b-5fe1-42de-b216-919af53033ca.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-agm-adjourned-as-quorum-falls-short-for-first-time-in-group-s-history-noel-tata-n-chandrasekaran-11787050516979.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T12:39:56.813873Z"
+    },
+    {
+      "id": "5b1c858a31b6e83a023301fb1ca064fe",
+      "title": "Google may shift Pixel, earbuds, and smartwatch production out of China by 2027. India, Vietnam to benefit?",
+      "description": "The company has been increasing its manufacturing capabilities in Vietnam and India in recent years as part of efforts to reduce its reliance on China. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/GOOGLE-PRODUCT-LINEUP-78_1787051412193_1787051423498_46cbf180-72be-4a62-908f-e9ee4ed5d27c.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/google-may-shift-pixel-earbuds-and-smartwatch-production-out-of-china-by-2027-vietnam-india-to-benefit-11787050319361.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T12:39:56.813811Z"
+    },
+    {
+      "id": "da43093ed411a2b68dad80e3ae7439a4",
+      "title": "Small-cap stock under ₹50 Tiger Logistics jumps 4% after RBI compounding order",
+      "description": "In an exchange filing on 17 August, Tiger Logistics said it had received a compounding order from the RBI Foreign Exchange Department regarding a non-compliance issue under the Foreign Exchange Management Act, 1999 (FEMA). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/pexels-photo-7567554_1759455013117_1759455022975_1787039221229_6f141ab2-33e0-4ef5-a58b-14f7e20c1b2d.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-tiger-logistics-jumps-4-after-rbi-compounding-order-11787038734049.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-08-18T12:39:55.996636Z"
+    },
+    {
+      "id": "80dbc108fae68af71c5e993d2e5649e6",
+      "title": "Low PE stock Felix Industries jumps over 3% despite muted trends on Dalal Street",
+      "description": "Felix Industries shares rose over 3% on August 18 after strong Q1 FY27 results, showing a 37.8% revenue increase to ₹28.97 crore. Profit also surged, with PAT up 54.51% to ₹5.51 crore, driven by improved operating leverage and reduced overheads. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/gc8f765372bdabe51e85046f3cc0bc0e0f951ef33ff0742196_1746438081194_1787041175619_30bde8d7-4b93-42ff-af3e-412838396e53.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/low-pe-stock-felix-industries-jumps-over-3-despite-muted-trends-on-dalal-street-11787039457165.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-18T12:39:55.996589Z"
+    },
+    {
+      "id": "dcf118dfd05f2af23f2feaffb4ed200b",
+      "title": "Sensex crashes almost 500 points, Nifty 50 extends losses for 6th consecutive session",
+      "description": "The Sensex crashed 493 points, or 0.63%, to end at 77,235.46 on Tuesday, 18 August, while the NSE barometer Nifty 50 extended losses for the sixth consecutive session, ending with a loss of 133 points, or 0.55%, at 24,154.90. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/Stock_market_crash_Pexels_1774855919129_1774855929668_1787047330949_b0a4c0dc-a5c0-48eb-9a83-2e707b509ea2.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-crashes-almost-500-points-nifty-50-extends-losses-for-6th-consecutive-session-11787037197745.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-18T12:39:55.996337Z"
+    },
+    {
+      "id": "dc3dbbd49bcd84b53b1712615b0a5c4e",
+      "title": "Top Gainers & Losers on 18 August: PTC Industries, Inox Wind, Mphasis, Tata Elxsi, Suzlon Energy among top losers",
+      "description": "Indian stock indices faced losses for the sixth session on August 18, closing 0.50% lower amid ongoing foreign selling and hesitant market sentiment influenced by renewed Middle East tensions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/INDIA-STOCKS-EXCHANGES-2_1786111881511_17861118942_1787047777835_1787047778156_27a2d8cd-00b4-46d1-84bc-47dd78d00551.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-18-august-ptc-industries-inox-wind-mphasis-tata-elxsi-suzlon-energy-among-top-losers-11787047296067.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T12:39:55.996273Z"
+    },
+    {
+      "id": "8af09c83743c4439c4d67a0b777f0ccd",
+      "title": "Paytm’s Vijay Shekhar Sharma sets $1 billion free cash goal, sees fintechs gaining lending share",
+      "description": "Vijay Shekhar Sharma, the founder of Paytm, has set an ambitious target of generating one billion dollars in free cash flow. He envisions that fintech companies will capture a larger share of the growing lending market. Focusing on profitability, Sharma plans to pivot away from ventures that lack clear returns. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133310762,imgsize-2263353.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/paytms-vijay-shekhar-sharma-sets-1-billion-free-cash-goal-sees-fintechs-gaining-lending-share/articleshow/133310762.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-18T12:39:55.259336Z"
+    },
+    {
+      "id": "2a5ffe0f84585dacc5aa2500428754c8",
+      "title": "Sensex drops over 490 points, Nifty closes near 24,150 as Mideast peace hopes fade. More pain ahead?",
+      "description": "Indian equities extended their losing streak, with the Sensex falling 493 points and Nifty declining 133 points amid fading Middle East peace hopes. IT stocks led sectoral losses, while realty and PSU banks also weakened. Asian Paints, Infosys, HCL Tech and Bharti Airtel fell around 2%, while Axis Bank and Power Grid gained. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133310897,imgsize-51120.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-250-points-nifty-below-24250-as-mideast-peace-hopes-fade-more-pain-ahead/articleshow/133310897.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T12:39:55.259188Z"
+    },
+    {
+      "id": "233b3c9aa0170f2f185a7b390af7a77a",
+      "title": "Mukul Agrawal-backed PTC Industries shares slip 4% despite 466% surge in Q1 profit and 180% EBITDA growth",
+      "description": "PTC Industries shares fell 4% despite a strong Q1 FY27 performance, with profit surging 466% and EBITDA rising 180%. Revenue grew 83% year-on-year to ₹197.1 crore, supported by aerospace and defence programmes. Investors Mukul Agrawal and Vikas Khemani held 1.07% and 2.57% stakes, respectively, as of June 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133312725,imgsize-2165333.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawal-backed-ptc-industries-shares-slip-4-despite-466-surge-in-q1-profit-and-180-ebitda-growth/articleshow/133312725.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-18T12:39:55.259068Z"
+    },
+    {
+      "id": "f318972c76891c7bb188c9015763f551",
+      "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
+      "description": "Tube Investments of India shares surged after the company reported a 5% year-on-year decline in Q1FY27 profit to Rs 158.62 crore, despite a 17.7% rise in revenue to Rs 2,227.63 crore. Motilal Oswal retained its Buy rating with a Rs 3,379 target, citing strong core business performance, 17% engineering volume growth and double-digit export growth.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133315012,imgsize-2124932.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tube-investments-of-india-shares-surge-8-after-q1-earnings-what-motilal-oswal-is-saying/articleshow/133315012.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-18T12:39:55.258787Z"
+    },
+    {
+      "id": "3097ffd89e12cf96f32a18d7155664f7",
+      "title": "Market wrap: M&M, Axis Bank, Asian Paints, Infosys top gainers and losers on Nifty and Sensex on Tuesday",
+      "description": "Indian equities extended losses for a sixth session as geopolitical tensions and elevated crude prices weighed on sentiment. Nifty fell 0.55% and Sensex 0.63%, while IT, PSU banks and realty stocks declined. Analysts flagged 24,300 as Nifty’s immediate resistance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133320240,imgsize-168352.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-mm-axis-bank-asian-paints-infosys-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/133320240.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T12:39:55.258493Z"
+    },
+    {
+      "id": "49287e6e29896e33e2b1dd7d36ae0531",
+      "title": "Regulatory tailwinds to boost growth for MCX, says HDFC Securities; retains Buy for 18% gains",
+      "description": "HDFC Securities retained its Buy rating on MCX with a Rs 3,600 target, citing regulatory easing, FPI participation and new bullion and metals index options. The brokerage expects these changes to boost options premiums, volumes and earnings while improving capital efficiency. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133322360,imgsize-167178.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/regulatory-tailwinds-to-boost-growth-for-mcx-says-hdfc-securities-retains-buy-for-18-gains/articleshow/133322360.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T12:39:55.258357Z"
+    },
+    {
+      "id": "9fb603ed1981b6a3c8c52aa7f71d8816",
+      "title": "India Expo Centre operator files IPO DRHP with Sebi. Check details",
+      "description": "India Exposition Mart has filed draft IPO papers with Sebi, comprising a fresh issue of up to 75 lakh shares and an offer for sale of 2.3 crore shares. The company plans to use Rs 63.8 crore for capital expenditure at India Expo Centre. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133320423,imgsize-180922.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/india-expo-centre-operator-files-ipo-drhp-with-sebi-check-details/articleshow/133320423.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-18T12:39:54.626662Z"
+    },
+    {
       "id": "3b8696a76cf1e6d851b6053eaf40c115",
       "title": "Sensex, Nifty ends lower amid Q1 earnings, subdued global cues",
       "description": "The Nifty settled below the 24,300 level, while market sentiment remained subdued in the absence of strong directional cues. Investors continued to monitor movements in crude oil and gold prices, along with developments on the global geopolitical front, for further indications on the market's near-term trajectory. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
