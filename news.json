@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "3b8696a76cf1e6d851b6053eaf40c115",
+      "title": "Sensex, Nifty ends lower amid Q1 earnings, subdued global cues",
+      "description": "The Nifty settled below the 24,300 level, while market sentiment remained subdued in the absence of strong directional cues. Investors continued to monitor movements in crude oil and gold prices, along with developments on the global geopolitical front, for further indications on the market's near-term trajectory. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-ends-lower-amid-q1-earnings-subdued-global-cues-126081700884_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-18T01:04:34.074931Z"
+    },
+    {
+      "id": "ec5224270a52cb4e4e635fad8aede9bf",
+      "title": "'Our cyber defence must evolve faster’: SEBI chief Tuhin Kanta Pandey launches 2 new portals for digital security",
+      "description": "SEBI Chairman Tuhin Kanta Pandey announced two new portals to strengthen cybersecurity and incident reporting in the securities market. The move aims to improve information sharing, cyber resilience, and preparedness as threats become increasingly sophisticated. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/tuhin_1786966428153_1786966507542_d066cd3b-aef8-487c-bbc5-154e99f6fbb3.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/our-cyber-defence-must-evolve-faster-sebi-chief-tuhin-kanta-pandey-launches-2-new-portals-for-digital-security-11786963774172.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-18T01:04:33.345393Z"
+    },
+    {
+      "id": "0edb4a04100237aa5f411cee708b18ee",
+      "title": "Tata Capital Healthcare Fund leads $30 million investment in Tenet Diagnostics",
+      "description": "Tata Capital Healthcare Fund and Blue Earth Capital have put $30 million into Tenet Diagnostics, marking one of the first deployments from TCHF's newly closed Fund III.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/healthcare__1750585063999_1786972003051_b1ee7cae-7ef9-4265-935a-b4edc6cbd2ad.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-capital-healthcare-fund-leads-30-million-investment-in-tenet-diagnostics-11786969075327.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T01:04:33.345353Z"
+    },
+    {
+      "id": "bc9d97b918c7442ad2cb6c62144adea2",
+      "title": "Jio vs Airtel: the base plan is now the new telecom battleground",
+      "description": "The move from Reliance Jio, whose tariffs already trade at a discount to peers, could affect Airtel’s strategy to upgrade base-level plan users to higher tariffs. The pricing divergence also puts the spotlight on Vodafone Idea. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/INDIA-RELIANCE-24_1713787018722_1786981215457_6919286a-00e3-4129-80ac-56053a7ac30d.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/jio-vs-airtel-telecom-industry-india-mobile-tariffs-base-plan-vodafone-11786975217347.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T01:04:33.345209Z"
+    },
+    {
+      "id": "ad190c61349e4ea463bbbdfeca845783",
+      "title": "Microsoft, Salesforce eye Darwinbox buyout ahead of its planned IPO",
+      "description": "HR and payroll services provider Darwinbox is drawing buyout interest from Microsoft, Salesforce and ADP even as it prepares for a potential IPO. The interest comes as the KKR-backed firm expands overseas, giving its founders and investors another option as they chart the company’s next phase. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/Darwinbox_-x_1740502293423_1786971935466_6723ce49-d1a8-4447-9684-b1fead213183.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/microsoft-salesforce-eye-darwinbox-buyout-ahead-of-its-planned-ipo-11786961865346.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-18T01:04:33.345034Z"
+    },
+    {
+      "id": "b19ff2cb838112f7ebe4fd0b8960a364",
+      "title": "After Dhoot, Bain-backed RSB Transmissions begins talks with bankers for ₹3,000 cr IPO",
+      "description": "Founded in 1973 by R.K. Behera and S.K. Behera, RSB specializes in designing and manufacturing components for commercial vehicles, passenger cars, construction and off-highway equipment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/3-0-109501714-iStock-510565657-0_1679846147174_1786985127827_156c56d6-688f-4248-a2cc-a35e2230e337.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/after-dhoot-bain-backed-rsb-transmissions-begins-talks-with-bankers-for-rs-3-000-cr-ipo-oems-manufacturers-11786976307068.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-08-18T01:04:33.344896Z"
+    },
+    {
+      "id": "04274cec54ef53f9c16d6f83337dafb5",
+      "title": "Q&T Foods IPO share allotment in focus today: GMP, steps to check allotment status online",
+      "description": "Share allotment of the Q&amp;T Foods IPO is expected to be finalised on Monday, 17 August. The IPO of bakery products manufacturer and seller concluded with an overall subscription of 1.42 times on Friday, 14 August. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/SME_IPO_1762494901088_1762494906647_1786942400833_96a09fb5-78a5-443f-8dfd-c81c4391fc5f.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/qt-foods-ipo-share-allotment-in-focus-today-gmp-steps-to-check-allotment-status-online-11786942257421.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-18T01:04:32.701504Z"
+    },
+    {
+      "id": "102b2fa5f614306b8de76985889c9316",
+      "title": "Sunshine Pictures IPO: GMP signals 15% listing pop; dates, price band, other key details in 10 points",
+      "description": "Sunshine Pictures IPO is opening for subscription on Tuesday, 18 August, and will conclude on Thursday, 20 August. The issue's price band has been set at ₹342 to ₹360 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/IPO_1752033040408_1752033040516_1786946886353_84b924e7-3611-4c3c-81fd-5b9ebdbbe5ec.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-15-listing-pop-dates-price-band-other-key-details-in-10-points-11786946572088.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-18T01:04:32.701384Z"
+    },
+    {
+      "id": "ae83b5f89d06639dfb7fdb560cb3cea6",
+      "title": "Up over 110% in one year: Axis Direct sees another 10% upside in this multibagger stock",
+      "description": "Axis Direct forecasts continued growth for CCL Products, setting a target price of ₹1,245, citing strong Q1 performance, a solid balance sheet, and stable coffee prices. The stock shows significant gains, with a 550% increase since May 2020, supported by robust demand. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/g25186037efba57f93f933dad7089b7f6d9c9b37884c6fb422_1731325321104_1786974380653_29d08c33-c4a9-47cc-8088-ea09a69eba31.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/up-over-110-in-one-year-axis-direct-sees-another-10-upside-in-this-multibagger-stock-11786974383658.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-18T01:04:32.700829Z"
+    },
+    {
+      "id": "6de74ff327f8e53e1290a4223a7cdbad",
+      "title": "Sebi chairman says cyber defence must move from IT issue to boardroom priority",
+      "description": "Sebi Chairman Tuhin Kanta Pandey said cybersecurity must evolve into board-level cyber resilience, requiring continuous vulnerability management, tested recovery plans and risk-based patching. He also urged financial institutions to begin migrating toward post-quantum cryptography as quantum threats challenge existing security systems. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133294633,imgsize-55664.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chairman-says-cyber-defence-must-move-from-it-issue-to-boardroom-priority/articleshow/133294633.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-18T01:04:31.810595Z"
+    },
+    {
+      "id": "a69a92d2c5aae8969d4f233465dd99df",
+      "title": "Reliance Industries share price: Morgan Stanley reiterates positive view after Rolls-Royce partnership plan",
+      "description": "Morgan Stanley retained its positive view on Reliance Industries after its partnership with Rolls-Royce to develop indigenous combat engines for India’s AMCA programme. The brokerage said the move reinforces Reliance’s evolving strategy. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133294926,imgsize-244884.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-share-price-morgan-stanley-reiterates-positive-view-after-rolls-royce-partnership-plan/articleshow/133294926.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T01:04:31.810549Z"
+    },
+    {
+      "id": "d00fdabc437b022b32ffcf5709a38e20",
+      "title": "Following live trading strategies on social media? Sebi has a warning for you",
+      "description": "Sebi warned investors against relying on live trading strategies and real-time stock tips shared on social media, saying such sessions may involve unregistered advisory services. The regulator urged investors to avoid such advice and deal only with Sebi-registered intermediaries. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133300766,imgsize-210585.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/following-live-trading-strategies-on-social-media-sebi-has-a-warning-for-you/articleshow/133300766.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-18T01:04:31.810310Z"
+    },
+    {
+      "id": "77d4be0444bbb7eb1eb414105045e8b6",
+      "title": "Sebi chair rules out CAS rollback; assures commitment to resolving ongoing issues",
+      "description": "The Securities and Exchange Board of India is set to assess the implications of the newly implemented Closing Auction Session. Chairman Tuhin Kanta Pandey affirmed that this mechanism will remain in place and will undergo enhancements. Designed to ascertain closing prices for stocks in the futures and options market, the system has faced scrutiny from market participants who have reported.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133308903,imgsize-146808.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chair-rules-out-cas-rollback-assures-commitment-to-resolving-ongoing-financial-issues/articleshow/133308903.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-18T01:04:31.809900Z"
+    },
+    {
+      "id": "df7c41d572798bc31c643062692a43ca",
+      "title": "ICICI Bank raises $750 million as Indian banks tap dollar bond market",
+      "description": "ICICI Bank raised $750 million through five-year dollar bonds at 105 basis points over US Treasuries, marking its second dollar issuance in a month. Strong institutional demand helped tighten pricing, while Kotak Mahindra Bank and Yes Bank prepare international bond issues. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133300962,imgsize-119678.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-raises-750-million-as-indian-banks-tap-dollar-bond-market/articleshow/133300962.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-18T01:04:30.914130Z"
+    },
+    {
+      "id": "eb0f2ac44cf05ddda98f197eead515ff",
+      "title": "Zaggle Prepaid Ocean Services stock plummets to 52-week low after disappointing Q1 results",
+      "description": "After a disappointing quarterly performance, Zaggle Prepaid Ocean Services saw its stock reach a 52-week low. Despite an increase in revenue, profits dwindled, affecting how investors perceive the firm. Experts highlighted ongoing concerns about the long-term cash generation capabilities relative to reported profits. This situation is compounded by the company’s consolidation efforts, which have resulted in higher operational expenses impacting.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133308996,imgsize-39204.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/zaggle-prepaid-ocean-services-stock-plummets-to-52-week-low-after-disappointing-q1-results/articleshow/133308996.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-18T01:04:30.913386Z"
+    },
+    {
       "id": "0cd3a4d868a020f864f6e2d471456dfb",
       "title": "Noel Tata, N Chandrasekaran both separately briefed govt on rift, concerns before latter's exit as Chairman: Report",
       "description": "Noel Tata and N Chandrasekaran both separately met with and briefed the government on their rift and concerns over strategy and governance before the latter's exit as Chairman, according to a TOI report.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
