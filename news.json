@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "61d3a939e62dff3ad78bf218462bd9b7",
+      "title": "Bihari Lal Engineering IPO debut in focus: GMP hints at 40% listing pop",
+      "description": "Bihari Lal Engineering IPO shares are set to list on Dalal Street on Wednesday, August 19. The offer opened for bidding on August 12 and closed on August 14. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260818/full-126081800723.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/bihari-lal-engineering-ipo-debut-in-focus-gmp-hints-at-40-listing-pop-126081800723_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-19T01:05:06.041623Z"
+    },
+    {
+      "id": "edc4f8f1e0460eeb7589b0443326401a",
+      "title": "Five-year bond yield hardens as FCNR(B) position unwinding weighs on trade",
+      "description": "Five-year bond yield hardens by around 10 basis points in two sessions as traders unwind FCNR(B)-linked positions following the RBI's early closure of the swap window. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260818/full-126081801233.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/five-year-bond-yield-hardens-as-fcnr-b-position-unwinding-weighs-on-trade-126081801233_1.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-19T01:05:06.040829Z"
+    },
+    {
+      "id": "5456999a0369496000bad6318de3b63e",
+      "title": "Rising bond yields weigh on equities; Nifty 50 falls for 6th day",
+      "description": "Nifty posts its sixth straight loss as fading hopes of an end to the Iran war keep crude prices elevated and push global bond yields higher, hurting risk appetite. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260818/full-126081801261.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/indices-fall-as-elevated-crude-prices-rising-global-bond-yields-weigh-126081801261_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-19T01:05:06.040781Z"
+    },
+    {
+      "id": "914f05b406a7ccda9214158ce30731cf",
+      "title": "Milky Mist shares gain 30%; India Exposition Mart files DRHP with Sebi",
+      "description": "Milky Mist Dairy Food makes a strong market debut, while India Exposition Mart files for an IPO and Augmont Enterprises sets a price band for its public issue. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260818/full-126081801560.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/milky-mist-shares-gain-30-india-exposition-mart-files-drhp-with-sebi-126081801560_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-19T01:05:06.040706Z"
+    },
+    {
+      "id": "aea06a4f63201bc079698ded32f04e56",
+      "title": "Meta Accused of Exploiting Kids as Social Media Trial Gets Underway",
+      "description": "Meta Platforms Inc. has deceived the public for years by targeting children on Facebook and Instagram with technology designed to turn them into compulsive users and drive up advertising revenue, a lawyer at the California attorney general’s office told a jury. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
+      "fullArticleLink": "https://www.livemint.com/companies/meta-accused-of-exploiting-kids-as-social-media-trial-gets-underway-11787080644101.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-19T01:05:05.397509Z"
+    },
+    {
+      "id": "0a174d7a31cf8568fd9fdcd0f1e0a21c",
+      "title": "Lalithaa Jewellery Mart IPO Day 2 LIVE: GMP, subscription status to review. Apply or not?",
+      "description": "Lalithaa Jewellery Mart IPO GMP today: According to market observers, the company shares are available at a premium of ₹30 in the grey market today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/Lalithaa_Jewellery_Mart_IPO_GMP_Subscription_Statu_1787027660568_1787027661315_d4f71463-9b8c-4755-8d2e-582acb530d19.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-day-2-live-gmp-subscription-status-to-review-apply-or-not-11787026286137.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-19T01:05:04.631831Z"
+    },
+    {
+      "id": "6c4ce37b184b69443653649d2d731f4f",
+      "title": "Credent Connect N Care IPO allotment in focus. GMP signals 23% listing pop for Ashish Kacholia-owned company",
+      "description": "Credent Connect N Care IPO GMP today: According to market observers, the company shares are available at a premium of ₹45 in the grey market today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/Credent_Connect_N_Care_IPO_GMP_Today_Allotment_SME_1787035992804_1787035993018_d0641cc0-92b1-4308-8328-f0f95b3c0fb1.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/credent-connect-n-care-ipo-allotment-in-focus-gmp-signals-23-listing-pop-by-ashish-kacholia-owned-company-11787033970493.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-19T01:05:04.631579Z"
+    },
+    {
+      "id": "4f2480a7b70b519db743e95002b78c07",
+      "title": "Lenskart shares gain over 5% to record high after incorporating new step-down subsidiary in China",
+      "description": "Lenskart Solutions' shares rose 4% after incorporating Wenzhou Framekart Trade Co., Ltd. in China. The new subsidiary focuses on eyewear products, with BFT holding a 95% interest. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/LENSKART-IPO--5_1761632068943_1761632084325_1787044037872_2426f7a2-9c07-4915-b4c0-fcb6b388ee95.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/lenskart-shares-gain-over-5-to-record-high-after-incorporating-new-step-down-subsidiary-in-china-11787043990119.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-19T01:05:04.631443Z"
+    },
+    {
+      "id": "79c99427a9055f3ddf87002cf7b75171",
+      "title": "RBI finds cash demand harder to predict as digital payments grow",
+      "description": "RBI faces challenges forecasting demand for banknotes as currency in circulation continues to grow at double-digit rates despite rising digital payments. Deputy Governor SC Murmu said cash remains widely used, particularly in rural areas, among low-income groups and small businesses. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133334636,imgsize-92196.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-finds-cash-demand-harder-to-predict-as-digital-payments-grow/articleshow/133334636.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-19T01:05:04.017767Z"
+    },
+    {
+      "id": "97486a240eaad1ec0b94897c5949165e",
+      "title": "Sebi bars merchant banker Corporate Capital Ventures from new assignments for one month",
+      "description": "Sebi has barred merchant banker Corporate Capital Ventures from taking new assignments for one month due to multiple compliance lapses, including failing to update IPO track records, misleading office location disclosures, and neglecting mandatory NISM certifications for key management personnel. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133323604,imgsize-197890.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-merchant-banker-corporate-capital-ventures-from-new-assignments-for-one-month/articleshow/133323604.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-08-19T01:05:04.017486Z"
+    },
+    {
+      "id": "725afddb0d0d1d782850d321f3b3c771",
+      "title": "India's outward FDI jumps 17% to $5.7 billion in July: RBI",
+      "description": "India’s outward FDI rose 17% year-on-year to $5.70 billion in July from $4.88 billion a year earlier, according to provisional RBI data. It was also higher than the $3.14 billion recorded in June. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133334574,imgsize-67224.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indias-outward-fdi-jumps-17-to-5-7-billion-in-july-rbi/articleshow/133334574.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-19T01:05:04.017302Z"
+    },
+    {
+      "id": "b140d613dbd4df2349df3a5f3123bcc6",
+      "title": "Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets",
+      "description": "Indian markets faced pressure as the Nifty declined for a sixth consecutive trading session. Rising oil prices and ongoing West Asia conflict kept traders cautious throughout the day. The Nifty closed lower, reflecting broader market weakness and investor concerns. Domestic institutional investors provided some buying support, while FPIs also bought shares. Technical indicators suggest a period of consolidation.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133334664,imgsize-81360.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-19T01:05:04.017083Z"
+    },
+    {
+      "id": "95042f607cd379ea89db647011229dd4",
+      "title": "Four Indian private banks eye dollar debt before RBI swap window deadline, bankers say",
+      "description": "Four Indian private lenders are accelerating dollar bond plans before August 31. They aim to raise $1.85 billion, taking advantage of a central bank swap facility. Kotak Mahindra Bank leads this effort, setting final price guidance for its issuance. Other banks like YES Bank, IDFC First Bank, and Federal Bank are also preparing offerings. This comes after ICICI Bank.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133323497,imgsize-267620.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/four-indian-private-banks-eye-dollar-debt-before-rbi-swap-window-deadline-bankers-say/articleshow/133323497.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-19T01:05:03.461748Z"
+    },
+    {
+      "id": "62cd5f9c752717b16746f14d7f2928fc",
+      "title": "Sebi to soon float consultation paper on distribution framework for corporate bonds",
+      "description": "Sebi is preparing to unveil a consultation paper focused on the distribution of corporate bonds. This initiative aims to refine the framework governing corporate bond sales and is evaluating additional distributor categories to broaden debt market participation. With the rise of online platforms, retail investors will gain improved access to privately placed bonds, while technological advancements are set to enhance.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133327145,imgsize-197890.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/sebi-to-soon-float-consultation-paper-on-distribution-framework-for-corporate-bonds/articleshow/133327145.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-19T01:05:03.461037Z"
+    },
+    {
+      "id": "8a14417d04cc564c334d0172b14d3de9",
+      "title": "Anthropic pre-IPO credit facility set to climb past $10 billion",
+      "description": "Anthropic is broadening its revolving credit facility past the initial target to prepare for its much-anticipated initial public offering. Multiple banks are looking to partake in the credit line, establishing their positions in the upcoming IPO. Bolstered by a surge in revenue, Anthropic is geared for its entrance onto Wall Street this fall. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133329176,imgsize-10990.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-19T01:05:03.460902Z"
+    },
+    {
       "id": "4fe11df15b012b8ff4084f1c9cd721e4",
       "title": "BSE hits 4-month low after Jefferies, Nuvama downgrade stock on CAS risks",
       "description": "Brokerages flag pressure from the closing auction session, weaker derivatives volumes and RBI bank guarantee norms, with BSE shares down nearly 9.3% in August so far. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
