@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "181f872a45b5d3081dba6ac93ae1037e",
+      "title": "AMC stocks ICICI Prudential, NAM India surge up to 5% in weak market",
+      "description": "According to MOFSL, ICICI AMC continues to strengthen its leadership position across active MFs while steadily expanding its presence in high-growth segments such as passives, SIFs, and alternatives. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260819/full-126081900708.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/amc-stocks-icici-prudential-nam-india-surge-up-to-5-in-weak-market-126081900708_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-19T12:40:27.457383Z"
+    },
+    {
+      "id": "82df06a7cf5e201d72079fc0c9bb472a",
+      "title": "Sharp spike in international energy prices has had limited pass-through to domestic retail prices, says RBI minutes",
+      "description": "RBI noted in its monetary policy minutes that as of June 2026, fuel inflation has remained modest because the sharp spike in international energy prices has had limited pass-through to domestic retail prices. CPI inflation has crossed the 4% target by small margin. However, core inflation was still below 4%. Core inflation excluding precious metals remained much lower at 2.5.",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sharp-spike-in-international-energy-prices-has-had-limited-pass-through-to-domestic-retail-prices-says-rbi-minutes-126081901020_1.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-19T12:40:27.456422Z"
+    },
+    {
+      "id": "172ff988ad84caa740c2c59b0dd7a76b",
+      "title": "Indigo Paints targets 25% annual growth as it puts market share ahead of margins",
+      "description": "Indigo Paints is targeting more than 25% annual revenue growth if the paints industry grows at 13-14%, as it steps up marketing and expands into new categories. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/paints_1738743034105_1787117846277_ebdc5f8c-ca2f-4f50-b19b-5698e220a428.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/indigo-paints-targets-25-percent-annual-growth-as-it-puts-market-share-ahead-of-margins-11787104071103.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-19T12:40:26.894213Z"
+    },
+    {
+      "id": "900fde93f750f5b2464f3975e945f4e9",
+      "title": "Boost in the offing — Sebi may ease SME trading, market-making rules as costs, liquidity under scrutiny",
+      "description": "Sebi is weighing a broader overhaul of the SME market as costly market-making, illiquid odd lots and rules linked to paid-up capital come under review. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/INDIA-STOCKS-CLOSING-AUCTION-0_1787126127465_1787126139024_cfba94d2-0fb4-48db-b7c4-7f7c5f2291d4.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sebi-may-ease-sme-trading-market-making-rules-as-costs-and-liquidity-under-scrutiny-11787123510521.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-19T12:40:26.350898Z"
+    },
+    {
+      "id": "1f0a25416027e03fd4fae32ab7341776",
+      "title": "Nifty 50 falls for 7th straight session, longest losing streak since Sept 2025; what keeps stock market under pressure?",
+      "description": "The Nifty closed at 24,078.30, down 77 points, or 0.32%, while the 30-share pack Sensex ended with a loss of 326 points, or 0.42%, at 76,909.68. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/NSE_1787134955866_1787134963389_6d021848-984b-4b35-af16-105f193d508d.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-50-falls-for-7th-straight-session-longest-since-september-2025-what-keeps-stock-market-sensex-under-pressure-11787133417369.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-19T12:40:26.350637Z"
+    },
+    {
+      "id": "630b947d1465d4af9e8402fce5098d14",
+      "title": "IT crash ahead? CLSA downgrades TCS, Infosys, Wipro, other stocks; revises target prices. Here's why",
+      "description": "CLSA downgraded several large IT stocks and cut their target prices amid continued AI-related concerns, while retaining a bullish view on select mid-tier IT companies. The brokerage said Q1 earnings were mixed across Indian IT and global peers, but expects AI-driven volumes to eventually offset pricing deflation by FY30. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133337948,imgsize-2155077.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/it-crash-ahead-clsa-downgrades-tcs-infosys-wipro-other-stocks-revises-target-prices-heres-why/articleshow/133337948.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-19T12:40:25.739257Z"
+    },
+    {
+      "id": "35e908dcfbee242e4c2fa7d9e5e93d0e",
+      "title": "IGL, MGL, Adani Total Gas shares rally up to 6% as govt boosts domestic PNG push",
+      "description": "City gas distributor stocks rallied after the government approved an incentive scheme to accelerate domestic PNG connections from September 1. Mahanagar Gas, IGL, Adani Total Gas rose as the scheme aims to expand active piped gas connections and promote cleaner, safer and affordable cooking fuel. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133339597,imgsize-2384897.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/igl-mgl-adani-total-gas-shares-rally-up-to-6-as-govt-boosts-domestic-png-push/articleshow/133339597.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-19T12:40:25.739012Z"
+    },
+    {
+      "id": "35d1fb554be9c5a400d800b2389ad7d0",
+      "title": "Shiprocket shares soar 10% after bumper market debut, rally 48% from IPO price. Time to buy or sell?",
+      "description": "Shiprocket shares extended their post-listing rally, after making a strong debut at a 35% premium to the IPO price. The stock touched Rs 144, taking its gains from the issue price to over 48%. Analysts advised allotted investors to book some profits, while fresh investors should wait for dips. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133339815,imgsize-2314408.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-soar-10-after-bumper-market-debut-rally-48-from-ipo-price-time-to-buy-or-sell/articleshow/133339815.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-19T12:40:25.738975Z"
+    },
+    {
+      "id": "ca77d59e2d26d28296252702a05c34db",
+      "title": "BSE shares bounce 2% after 5-session losing streak. Here’s why Jefferies, Nuvama advise caution",
+      "description": "BSE shares face fresh pressure after Nuvama and Jefferies downgraded the stock, citing headwinds from the Closing Auction Session, RBI’s bank guarantee norms and limited scope for further market share gains. Nuvama cut its target price to Rs 3,240, while Jefferies lowered its target to Rs 2,940. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133341155,imgsize-2147674.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-bounce-2-after-5-session-losing-streak-heres-why-jefferies-nuvama-advise-caution/articleshow/133341155.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-19T12:40:25.738867Z"
+    },
+    {
+      "id": "8855850cc8833f72d23f3d8dcc9e48a8",
+      "title": "Jefferies cuts target price for Jupiter Wagons, maintains Underperform after Q1 earnings. Here’s why",
+      "description": "Jefferies has cut its target price for Jupiter Wagons to Rs 185 from Rs 210 and retained its Underperform rating after weak Q1 earnings. The brokerage lowered FY27E-29E EPS estimates by 6%-20%, citing weaker wagon and wheelset sales, margin pressure and slower execution, while maintaining a positive view on the company’s long-term wheel manufacturing opportunity.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133341991,imgsize-2380193.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-target-price-for-jupiter-wagons-maintains-underperform-after-q1-earnings-heres-why/articleshow/133341991.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-19T12:40:25.738749Z"
+    },
+    {
+      "id": "e016a88b8269e7fa11554568b2e2b888",
+      "title": "Indian Bank raises $400 million for four years",
+      "description": "Indian Bank raised $400 million through a four-year overseas funding programme via its GIFT City branch, joining Indian lenders tapping global debt markets. Banks are accelerating dollar bond issuances following regulatory changes to the concessional swap window for FCNR deposits. Axis, ICICI, Federal, IDFC First, Kotak Mahindra and Yes Bank are also active. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133342708,imgsize-176516.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raises-400-million-for-four-years/articleshow/133342708.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-19T12:40:25.738698Z"
+    },
+    {
+      "id": "1c0b53e012ba54789b4158556857246b",
+      "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
+      "description": "Behari Lal Engineering shares surged 14% after making a strong market debut, listing at a 63% premium to the IPO price. Brokerages remain positive, citing strong investor appetite and reasonable valuations, though they advise investors to book partial profits after the sharp listing gains. Here’s what SBI Securities and Swastika Investmart recommend on the stock.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133343201,imgsize-128196.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-rally-14-after-stellar-debut-what-are-brokerages-saying/articleshow/133343201.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-19T12:40:25.738594Z"
+    },
+    {
+      "id": "d30619a545351b89faff1f320f5c47ca",
+      "title": "Sebi to soon roll out AI rules with a ‘kill switch’ for stock market",
+      "description": "Sebi will soon issue guidelines for responsible AI and machine learning use in India’s securities market, with mandatory safeguards including a “kill switch”, human oversight and data controls. Chairman Tuhin Kanta Pandey said the framework will balance innovation with investor protection as AI adoption expands across surveillance, risk assessment, fraud detection and investor servicing, while ensuring accountability among regulated entities.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133343252,imgsize-60830.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-19T12:40:25.738515Z"
+    },
+    {
+      "id": "8fe9ef04adca8aa0e2cec85aeaf78735",
+      "title": "Hong Kong Exchange posts record profit as AI, tech IPO boom drives fundraising",
+      "description": "Hong Kong Exchanges and Clearing posted record first-half 2026 results, with profit rising 24% to HK$10.6 billion. Strong IPO activity, particularly among technology and AI firms, and record trading volumes drove growth. With 87 listings raising HK$212.4 billion, HKEX is benefiting from Hong Kong’s renewed role as a major capital-raising hub. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133341994,imgsize-153232.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/hong-kong-exchange-posts-record-profit-as-ai-tech-ipo-boom-drives-fundraising/articleshow/133341994.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-19T12:40:25.185077Z"
+    },
+    {
+      "id": "83dfa3ebc47e8974f4b447ae3ea95334",
+      "title": "Rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard",
+      "description": "On Wednesday, the Indian rupee hit its lowest point since late July, primarily due to high oil prices and sustained demand for the dollar. Despite this, the Reserve Bank of India's interventions helped to temper the rupee's fall. The escalating crude oil costs have contributed negatively to its value, as investors eagerly anticipate upcoming policy review minutes from both.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133344824,imgsize-.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-three-week-low-traders-wary-about-fall-to-96/usd-as-rbi-stands-guard/articleshow/133344824.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-19T12:40:25.184375Z"
+    },
+    {
       "id": "61d3a939e62dff3ad78bf218462bd9b7",
       "title": "Bihari Lal Engineering IPO debut in focus: GMP hints at 40% listing pop",
       "description": "Bihari Lal Engineering IPO shares are set to list on Dalal Street on Wednesday, August 19. The offer opened for bidding on August 12 and closed on August 14. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
