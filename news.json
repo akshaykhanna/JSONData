@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "ff8a02f2d433fc3f45f84e115e1c3ba8",
+      "title": "Govt bond yields seen opening higher after hawkish RBI MPC minutes",
+      "description": "Market participants expect the 10-year bond yield to rise 1-2 bps and the five-year yield 2-3 bps as traders factor in the possibility of a December rate hike. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260819/full-126081901455.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/govt-bond-yields-seen-opening-higher-after-hawkish-rbi-mpc-minutes-126081901455_1.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-20T01:04:35.993734Z"
+    },
+    {
+      "id": "a779e9a85c013e1f5820f4708ad58f81",
+      "title": "Siguler Guff raises $500 mn to target India's mid-market companies",
+      "description": "Siguler Guff has raised a $500 million fund to deepen investments in India’s mid-market, founder- and family-owned businesses. It will target consumer, healthcare, financial services and tech, with recent bets including La Renon, Trimex Foods, Rajasthan Royals and Valliance.ai. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/Shaun_Khubchandani_1787127310483_1787127322091_6e94511b-d765-44b6-b50e-8792a6d5ff24.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/siguler-guff-500-million-fund-india-investment-founder-family-businesses-11787125005586.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-20T01:04:35.128337Z"
+    },
+    {
+      "id": "81e832982ba58913ddf057caba17ceed",
+      "title": "Anthropic may expand credit line beyond $10 billion as it gears up for IPO",
+      "description": "Anthropic PBC is planning to boost its revolving credit facility above $10 billion ahead of its IPO, drawing interest from banks. This follows discussions on $15 billion debt financing for a Texas data center project backed by Google, as the AI race intensifies. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/ANTHROPIC_1787137042468_1787137042673_1007e09a-0991-4437-9b73-d3cd2af3ae01.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/anthropic-may-expand-credit-line-beyond-10-billion-as-it-gears-up-for-ipo-11787135173217.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-08-20T01:04:35.128290Z"
+    },
+    {
+      "id": "93b715bde1c809a01ac123ef6bc46c97",
+      "title": "Navi raises $100 million from Prosus ahead of FY27 IPO filing",
+      "description": "Navi said the new funds will be used to fuel its next phase of growth as the fintech prepares to file fresh documents for IPO. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/how_to_claim_unclaimed_deposits_1702530254956_1787151232079_0318446e-a98a-462b-b20d-04d9dff8bdfd.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/navi-digital-first-financial-services-startup-prosus-ahead-of-ipo-filing-fintech-growth-profitability-funding-11787146302675.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-20T01:04:35.128218Z"
+    },
+    {
+      "id": "419b89474028a971570c587507674703",
+      "title": "After years on the fringes, Noel Tata has taken centrestage, and inherited a leaky chalice",
+      "description": "The day Tata Sons failed to hold its AGM, the curtain rose on Noel Tata’s real problems. N. Chandrasekaran leaves behind a more powerful Tata Sons, and a clutch of unfinished mega bets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/NOEL_TATA_1_2-web_1787157874989_1787157893895_6f2f2410-c64a-4428-8c28-3b25a9143d7a_1787157977760_d39775cf-50dd-4bd3-baa8-9886a44f5cf2.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/after-years-on-the-fringes-noel-tata-has-taken-centrestage-and-inherited-a-leaky-chalice-11787147167509.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-20T01:04:35.127874Z"
+    },
+    {
+      "id": "d9585dce1cf557065eafd8777623b180",
+      "title": "Sebi bars two entities from markets over manipulation in CAS, orders ₹3.68 crore disgorgement",
+      "description": "Sebi said Copthall Mauritius Investment and Mansi Share and Stock Broking had manipulated the closing auction session on 13 August, which was a weekly Sensex expiry day for derivatives contracts&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101_1787153339109_0a9f0dd0-0925-4264-912d-c569718e1614.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sebi-bars-two-entities-from-markets-over-manipulation-in-cas-orders-3-68-crore-disgorgement-11787151881235.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-20T01:04:34.540676Z"
+    },
+    {
+      "id": "d51dac4c9950826fbb333c83782086e1",
+      "title": "Sebi adjudication proceedings hit a decade low as compliance improves, focus shifts to serious violations",
+      "description": "The decline in adjudication proceedings comes as listed companies and market intermediaries have strengthened compliance and internal controls, while Sebi appears to be directing more of its enforcement capacity towards violations that pose &nbsp;risk to investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101_1787141189216_ebf68571-d7a1-49ab-8591-00a28055c816.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sebi-adjudication-proceedings-hit-a-decade-low-as-compliance-improves-focus-shifts-to-serious-violations-11787116364476.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-20T01:04:34.540260Z"
+    },
+    {
+      "id": "a511fcdf4c708ab694a954d2b311e2cd",
+      "title": "Rs 3 crore to Rs 4,925 crore: Sebi order gives details on Dhenu Buildcon market cap surge",
+      "description": "Sebi’s interim order alleges Dhenu Buildcon routed Rs 1,000 crore through connected entities as loans, later converting Rs 840 crore into equity. Despite negligible revenue, its market cap surged to Rs 4,925 crore. The regulator ordered restrictions while investigations continue. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133350443,imgsize-25408.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rs-3-crore-to-rs-4925-crore-sebi-order-gives-details-on-dhenu-buildcon-market-cap-surge/articleshow/133350443.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-20T01:04:33.812918Z"
+    },
+    {
+      "id": "f3dbf9a0e7db5d61ff131e88e30a6d20",
+      "title": "RBI MPC puts Q3 rate hike in play if inflation risks show up big",
+      "description": "Indian monetary policy makers may tighten rates in the third quarter if inflation risks materialize. Higher food and fuel prices could lead to broad-based inflation, prompting action. Inflation is projected to peak at 5.9% in Q3 2026-27, signaling potential policy shifts. The central bank remains watchful of global economic turbulence and its domestic impact. Monetary response is warranted if inflation.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133361277,imgsize-84340.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mpc-flags-possibility-of-policy-tightening/articleshow/133361277.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-20T01:04:33.812827Z"
+    },
+    {
+      "id": "5cde4851a711bf415d296926cd548ade",
+      "title": "RBI deputy governor Murmu calls for focus on meaningful financial inclusion",
+      "description": "Banks must measure financial inclusion by effective usage and informed decisions. Technology shifts and consumer behavior necessitate responsive banking systems. Digital inclusion deepens, and AI helps recognize capability across diverse groups. Institutions need skilled people to challenge models and oversee external providers. Prudence requires pooled intelligence and credible alternatives for system resilience. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133361306,imgsize-96682.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-deputy-governor-murmu-calls-for-focus-on-meaningful-financial-inclusion/articleshow/133361306.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-20T01:04:33.812734Z"
+    },
+    {
+      "id": "981ffd41f703d67033ac5430d1067080",
+      "title": "Sebi flags manipulative trades during CAS on Sensex expiry day, fines two entities",
+      "description": "Sebi issued an interim order against Copthall Mauritius and Mansi Share and Stock Broking for manipulative trading during the August 13, 2026, Closing Auction Session. The regulator impounded Rs 3.67 crore in alleged wrongful gains from these two entities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133352303,imgsize-55652.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-flags-manipulative-trades-during-cas-on-sensex-expiry-day-fines-two-entities/articleshow/133352303.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-20T01:04:33.812693Z"
+    },
+    {
+      "id": "df16e818f39fffb5d4c5df5bb5bc25fd",
+      "title": "Nifty price-to-book ratio hits 6-year low, but market may not be cheap",
+      "description": "The Nifty's price-to-book ratio has slid below three for the first time in six years, showcasing the banking sector's struggles alongside rising book values. With banks and financial services playing a crucial role in the Nifty's composition, the recent consolidation of financials has notably influenced valuation metrics. It is now essential for investors to prioritize earnings growth and future profitability.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133361013,imgsize-73882.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-price-to-book-ratio-hits-6-year-low-but-market-may-not-be-cheap/articleshow/133361013.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-20T01:04:33.812405Z"
+    },
+    {
+      "id": "207df8e99ae91b58500a2aa8dd278418",
+      "title": "Sebi plans comprehensive review of rules governing SME IPOs",
+      "description": "Sebi plans a comprehensive review of IPO rules for small and medium companies. Market making and underwriting systems are identified as areas needing attention. A working group has submitted its report on the SME platform to the regulator. Sebi will soon release a consultation paper regarding the SME platform. The regulator also aims to support global fund management activities.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133361290,imgsize-118170.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-ipo-rules-to-ease-market-access-for-smes/articleshow/133361290.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-20T01:04:33.812364Z"
+    },
+    {
+      "id": "b23ead871634ffe7f21084b83cdfb3d9",
+      "title": "Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India",
+      "description": "Indian equity markets extended their losing streak to a seventh consecutive session, with the Nifty50 closing lower at 24,078.30. Key corporate developments are expected to influence Thursday's trade, including Hyundai Motor India's planned price increase, Aditya Infotech's fundraising approval, and BSE's agreement with MSCI for index futures and options. Other companies like HEG, Ceigall India, and HDFC Life Insurance also.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133353448,imgsize-122928.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hyundai-motor-india-bse-heg-hexaware-tech-and-oil-india/articleshow/133353448.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-20T01:04:33.812321Z"
+    },
+    {
+      "id": "f695b0a343411237416eb2ee3fb83e68",
+      "title": "MMTC PAMP calls for better Gold Monetisation Scheme",
+      "description": "India needs to boost gold recycling to decrease reliance on imports. A more appealing gold monetization scheme could unlock significant household stocks. This initiative would also help utilize underused refining capacity across the nation. Increased recycling can lessen pressure on the current-account deficit by substituting imports. The country's next gold story should focus on efficient and responsible domestic monetization.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133361223,imgsize-150742.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/commodities/news/mmtc-pamp-calls-for-better-gold-monetisation-scheme/articleshow/133361223.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-20T01:04:33.187179Z"
+    },
+    {
       "id": "181f872a45b5d3081dba6ac93ae1037e",
       "title": "AMC stocks ICICI Prudential, NAM India surge up to 5% in weak market",
       "description": "According to MOFSL, ICICI AMC continues to strengthen its leadership position across active MFs while steadily expanding its presence in high-growth segments such as passives, SIFs, and alternatives. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
