@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "f8a4392348098e476045512b730e8ffe",
+      "title": "Coforge surges 31% in 4 weeks, hits 8-month high; what's driving IT stock?",
+      "description": "Coforge Share : Axis Securities expects deal ramp-ups, AI monetisation and Encora synergies to drive sustained earnings growth for Coforge. It maintained a 'Buy' rating with a target price of ₹2,050. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260820/full-126082000636.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/coforge-share-surges-31-in-4-weeks-hits-8-month-high-what-s-driving-the-it-stock-126082000636_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-20T12:42:30.935847Z"
+    },
+    {
+      "id": "13c674884e034349180bb7776633ba01",
+      "title": "Nifty breaks losing streak, Sensex rallies 628 points; sugar stocks shine",
+      "description": "Key equity benchmarks staged a strong rebound on Thursday, with the Nifty snapping a seven-session losing streak and reclaiming the 24,200 level, while the Sensex jumped over 600 points. The recovery was supported by easing US Treasury yields after the US Treasury announced plans to double its buybacks of longer-duration government debt, helping steady global bond markets and improve risk.",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/nifty-breaks-losing-streak-sensex-rallies-628-points-sugar-stocks-shine-126082000932_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-20T12:42:30.935419Z"
+    },
+    {
+      "id": "c9c569d2de4ca7d3371a0af3ca0d181e",
+      "title": "Alibaba’s profit dives 75% after amping up AI spending, shares fell 3%",
+      "description": "Alibaba Group Holding Ltd.’s profit plunged more than 75% after China’s e-commerce leader ratcheted up AI spending while grappling with a broad Chinese consumption slowdown. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/ANTHROPIC-AI-ALIBABA-0_1787227424192_1787227431502_f150f908-eab8-4cf4-b48c-d0a1c3c33525.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/people/alibabas-profit-dives-75-after-amping-up-ai-spending-11787227169161.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-20T12:42:30.345449Z"
+    },
+    {
+      "id": "910344b8ce5a42c965e1efad7225f22a",
+      "title": "HDFC Bank share price rises 1% after LIC stake buying. Do you own?",
+      "description": "HDFC Bank share price opened at ₹725.50 apiece today, as compared to previous close of ₹720 on Wednesday. The banking stock touched an intraday high of ₹727.80 on 20 August. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/HDFC_Bank_1787198706647_1787198728115_fc27036f-8526-4618-a312-19e5b2cbbe34.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-rises-1-despite-weak-stock-market-sentiment-after-lic-stake-buying-details-here-11787197976702.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-20T12:42:29.720625Z"
+    },
+    {
+      "id": "4f1c14cdb67a6d981f7e641438e67799",
+      "title": "Why is stock market up today? Top 3 reasons behind the rise in Sensex, Nifty, and the biggest gaining stocks",
+      "description": "Sensex, Nifty today: The 30-share pack Sensex closed 628 points, or 0.82%, higher at 77,537.72, while the Nifty ended 154 points, or 0.64%, up at 24,231.85. The Nifty Midcap 150 index climbed 0.36%, and the Nifty Smallcap 250 index rose by 0.58%.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/PTI02-01-2023-000222B-0_1680087728609_1680087728609_1787219655220_63b13d14-ea4c-4142-887c-5d12d484a098.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/why-is-stock-market-up-today-top-3-reasons-behind-the-rise-in-sensex-nifty-50-and-the-biggest-gaining-stocks-11787207387920.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-20T12:42:29.720202Z"
+    },
+    {
+      "id": "6e0de030b7fc9e2e01689bf4f1e02237",
+      "title": "Why Sebi's closing auction session order is a strong message to future violators",
+      "description": "Sebi crackdown on an FPI and broker for manipulating the closing auction session on Sensex options expiry day acts as a deterrent to future foul play at upcoming derivatives contract settlements&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1787211984267_63fd40d9-dacd-4624-8c56-220593870d3a.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sebi-cas-order-sensex-nifty-derivative-futures-and-options-f-o-contracts-11787206244392.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-20T12:42:29.720064Z"
+    },
+    {
+      "id": "6f14227f35f94e13afdf2f1b61903b14",
+      "title": "Top Gainers & Losers on 20 Aug: Balrampur Chini Mills, Meesho, MCX, Redington, Muthoot Finance among top gainers",
+      "description": "On August 20, Dalal Street rebounded after seven consecutive days of losses, with the Nifty 50 and Sensex gaining 0.55% and 0.75% respectively. Strong performances in banking, FMCG, and technology stocks contributed to the positive outlook despite ongoing US-Iran tensions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/PTI02-08-2026-000428B-0_1770632981213_177063300376_1787220490596_1787220490916_10276bd4-cba4-405a-b2af-4458b8edf6e7.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-20-aug-balrampur-chini-mills-meesho-mcx-redington-muthoot-finance-among-top-gainers-11787220431554.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-20T12:42:29.719638Z"
+    },
+    {
+      "id": "b1e26ca9457320563c1a8b1210338302",
+      "title": "NTPC to JSW Energy: Axis Direct recommends these three power & utility stocks to buy after Q1",
+      "description": "Axis Direct is optimistic about NTPC, Skipper, and JSW Energy following their June-quarter results. They believe strong capacity additions and order books will support earnings growth, maintaining 'Buy' ratings and target prices of ₹420, ₹605, and ₹630, respectively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/Mumbai-electricity_1680317713674_1787224582301_2333c175-104e-4b7b-9f1e-b9f46d6b2113.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/ntpc-to-jsw-energy-axis-direct-recommends-these-three-power-utility-stocks-to-buy-after-q1-11787223164774.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-20T12:42:29.719538Z"
+    },
+    {
+      "id": "bc382fc34dfa077454248a6ace49e706",
+      "title": "Explained: How a JP Morgan unit and a Mumbai-based stock broking firm allegedly manipulated Sensex during CAS",
+      "description": "The regulator flagged three sharp Sensex spikes, including a 362-point jump in two seconds and a 405-point surge in 28 seconds, as the index’s CAS closing price moved to around 78,080 from a 3:15 pm reference of 77,829.60. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133367955,imgsize-2222030.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/explained-how-a-jp-morgan-unit-and-a-mumbai-based-stock-broking-firm-allegedly-manipulated-sensex-during-cas/articleshow/133367955.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-20T12:42:29.115255Z"
+    },
+    {
+      "id": "74194cdfd33d822bcfc54bf47689b0d9",
+      "title": "NSE said to plan allowing trading in its shares on its own platform",
+      "description": "NSE may allow its shares to trade on its own platform after listing on rival BSE, potentially boosting liquidity and paving the way for inclusion in Nifty indexes. The proposal was discussed with global investors during IPO roadshows. However, current rules don’t permit exchange self-listing, meaning NSE would need Sebi approval. The IPO is targeted for September.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133369289,imgsize-233138.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nse-said-to-plan-allowing-trading-in-its-shares-on-its-own-platform/articleshow/133369289.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-20T12:42:29.115207Z"
+    },
+    {
+      "id": "478c0d8aeba390f51fbee56ca7934c98",
+      "title": "IT stocks extend gains for second day; Coforge, Infosys, Persistent Systems rise up to 3%",
+      "description": "IT stocks extended gains for the second straight session, with Coforge and Persistent Systems leading the rally. Infosys, Wipro, TCS and Tech Mahindra also traded higher, lifting the Nifty IT index nearly 2%. The rally was driven by value buying amid a weaker rupee, with Indian IT stocks continuing to outperform global tech peers. This key financial update highlights evolving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133370449,imgsize-107540.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-extend-gains-for-second-day-coforge-infosys-persistent-systems-rise-up-to-3/articleshow/133370449.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-20T12:42:29.115125Z"
+    },
+    {
+      "id": "c22d474ceb91329eb596cc4fe193b08b",
+      "title": "MCX shares jump 4% as gold, silver futures rise. What lies ahead after a 900% rally in 3 years?",
+      "description": "MCX shares jumped over 4% as gold, silver and copper futures rose following a US Treasury liquidity support announcement. The stock has delivered stellar returns of around 900% in three years. UBS upgraded MCX to ‘Buy’ and raised its target to Rs 3,800, while HDFC Securities retained its ‘Buy’ rating, citing regulatory easing and strong growth potential",
+      "imageUrl": "https://img.etimg.com/photo/msid-133370940,imgsize-2059407.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-4-as-gold-silver-futures-rise-what-lies-ahead-after-a-900-rally-in-3-years/articleshow/133370940.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-20T12:42:29.115028Z"
+    },
+    {
+      "id": "be3dc3b4176c16d8d01837cf6234372a",
+      "title": "Jefferies favours two-wheeler stocks over four-wheeler stocks as earnings gap widens",
+      "description": "Jefferies prefers two-wheeler stocks over passenger vehicle makers, citing stronger volume growth, resilient margins and improving earnings. TVS Motor Company and Eicher Motors remain its top picks, while Tata Motors Passenger Vehicles and Hyundai Motor India carry Underperform ratings amid rising competition, higher discounts and a weaker earnings outlook. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133375203,imgsize-163174.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-favours-two-wheeler-stocks-over-four-wheeler-stocks-as-earnings-gap-widens/articleshow/133375203.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-20T12:42:29.114788Z"
+    },
+    {
+      "id": "8c007c6d919c386494b63cb06a6807bb",
+      "title": "Webull stock surges: 5 things to know about its Q2 earnings",
+      "description": "Webull shares surged in after-hours trading after the brokerage reported record Q2 2026 revenue of $198.8 million, up 51% year-on-year, while adjusted operating profit jumped 169%. Record equity and options trading volumes, higher customer assets and the removal of the PDT rule drove the strong performance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133371438,imgsize-6610.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/webull-stock-surges-5-things-to-know-about-its-q2-earnings/slideshow/133371601.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-20T12:42:28.567822Z"
+    },
+    {
+      "id": "f281ce2810ba4a158442bd2c86708eae",
+      "title": "Mom’s Belief operator files IPO papers with Sebi, to fund 319 new child therapy centres",
+      "description": "Rays of Belief, operating under the Mom’s Belief brand, has filed its DRHP with Sebi for an IPO comprising a fresh issue of up to 52.30 lakh shares. The company provides personalised intervention plans for children with neurodevelopmental disorders. Since starting operations in 2018, it has expanded to 136 centres across 57 cities in 20 states and union territories, serving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133373902,imgsize-67220.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-files-ipo-papers-with-sebi-to-fund-319-new-child-therapy-centres/articleshow/133373902.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-20T12:42:28.567064Z"
+    },
+    {
       "id": "ff8a02f2d433fc3f45f84e115e1c3ba8",
       "title": "Govt bond yields seen opening higher after hawkish RBI MPC minutes",
       "description": "Market participants expect the 10-year bond yield to rise 1-2 bps and the five-year yield 2-3 bps as traders factor in the possibility of a December rate hike. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
