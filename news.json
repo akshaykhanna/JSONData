@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "768ec4d51c97c61c6eb617bb4908ed0e",
+      "title": "Nifty snaps 7-day losing streak as US Treasury move eases yield pressure",
+      "description": "Sensex rises 628 points and Nifty gains 154 points as easing US bond-yield pressure lifts sentiment, though elevated crude prices and geopolitical risks remain key headwinds. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260820/full-126082001205.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-snaps-7-day-losing-streak-as-us-treasury-move-eases-yield-pressure-126082001205_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-21T01:08:03.269080Z"
+    },
+    {
+      "id": "59d798e687527f2a01d4ba87344c91dc",
+      "title": "Active derivatives traders fall 18% in FY26 to 8.75 million: Sebi study",
+      "description": "Individual traders' aggregate net losses declined 18 per cent to Rs 91,685 crore, but the average net loss per trader rose 2.4 per cent to Rs 1.17 lakh in FY26. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260820/full-126082001378.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/active-derivatives-traders-fall-18-in-fy26-to-8-75-million-sebi-study-126082001378_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-21T01:08:03.269037Z"
+    },
+    {
+      "id": "334a08ff6cbbda0ec4b8e8d74cfa844d",
+      "title": "HDFC Bank raises $1.75 billion in dollar bonds, taps RBI swap window",
+      "description": "India's largest private sector lender seeks to tap three- and five-year bonds in its second dollar issuance in two months, as banks capitalise on RBI's concessional swap window. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260820/full-126082001486.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/hdfc-bank-returns-to-dollar-bond-market-eyes-at-least-1-billion-issue-126082001486_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-21T01:08:03.268967Z"
+    },
+    {
+      "id": "d1383d341497a305a9ac50614822ef06",
+      "title": "Sebi permits digitally signed power of attorney to ease FPI onboarding",
+      "description": "Sebi eases FPI onboarding with digital powers of attorney, while Gaja Capital's IPO gains traction and NSE weighs allowing its shares to trade on its own platform. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260820/full-126082001603.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-permits-digitally-signed-power-of-attorney-to-ease-fpi-onboarding-126082001603_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-21T01:08:03.268888Z"
+    },
+    {
+      "id": "26ed0c462b05aa0b0edef39b6bbc9ca8",
+      "title": "Wyndham targets 200 India hotels by 2028 as smaller cities drive growth",
+      "description": "Wyndham, which reported global annual revenue of $1.24 billion in 2025, plans to expand in India through organic growth and strategic alliances, while evaluating, for the first time, opportunities in hotel management and potential acquisitions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/Dimitris_Manikis_President_EMEA_Wyndham_Hotels_Res_1787223077138_1787223077358_8d0292b1-8db3-4418-b8ab-3135511b2b07.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/wyndham-targets-200-india-hotels-by-2028-as-smaller-cities-drive-growth-11787222817358.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-21T01:08:01.749678Z"
+    },
+    {
+      "id": "a35833ff30a737c8f75c3389fa67c641",
+      "title": "Horizon Industrial Parks IPO allotment likely to be out today. Latest GMP, step-by-step guide to check status",
+      "description": "Horizon Industrial Parks IPO allotment will be finalized on August 20. Investors can check their allotment status via Kfin Technologies portal. The estimated listing price is ₹61.6, slightly above the IPO price, with refunds processing for unsuccessful applicants starting on August 21. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/Horizon_Industrial_Parks_IPO_1787204263884_1787204274287_ff5b72e4-f89c-4e3d-8a11-a088b46f8cf1.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-gmp-horizon-industrial-parks-ipo-allotment-industrial-parks-ipo-subscriptionkfin-technologi-11787202547212.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-21T01:08:01.161067Z"
+    },
+    {
+      "id": "d972d153b14d035a2325dd3af2c5ee35",
+      "title": "Sunshine Pictures IPO day 3: Issue subscribed 35 times so far; GMP signals 21% listing pop; should you subscribe?",
+      "description": "Sunshine Pictures IPO was subscribed 35 times by 11:40 AM on Thursday, reflecting robust investor interest. Grey market indicators offer a promising 21% listing gain.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/3-0-109501714-iStock-510565657-0_1679846147174_1787204367522_f601471a-dc82-4d77-93b9-cd8d1967e039.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-3-issue-subscribed-35-times-so-far-gmp-signals-21-listing-pop-should-you-subscribe-11787204217812.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-21T01:08:01.161017Z"
+    },
+    {
+      "id": "e8dc977e54bee02e8bd0ad62ea305137",
+      "title": "Sebi unlocks digital POAs for FPIs, waives notarisation & apostillisation",
+      "description": "SEBI now permits Foreign Portfolio Investors (FPIs) to submit digitally signed Power of Attorney documents, complying with the Information Technology Act, 2000. This initiative eliminates notarisation and apostillisation requirements, aiming to streamline onboarding and improve ease of doing business. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133377609,imgsize-120748.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-unlocks-digital-poas-for-fpis-waives-notarisation-apostillisation/articleshow/133377609.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-21T01:08:00.461138Z"
+    },
+    {
+      "id": "1d5e3a14d03bb7dcd2aa6719fe8333b1",
+      "title": "Rs 91,685 crore gone! 88% retail investors lost money in F&O trading in FY26 even after strict Sebi rules",
+      "description": "Individual traders incurred substantial losses in India's equity derivatives market during FY26. Options trading accounted for the vast majority of these aggregate net losses. Active traders declined significantly, and new entrants also dropped considerably. Smaller investors with limited equity holdings experienced heavier losses than larger ones. The profit pool remained concentrated with institutional and professional traders.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133381520,imgsize-111968.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rs-91685-crore-gone-88-retail-investors-lost-money-in-fo-trading-in-fy26-even-after-strict-sebi-rules/articleshow/133381520.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-21T01:08:00.460908Z"
+    },
+    {
+      "id": "d7bf7f363fdc72f8ee3fba6a485e3085",
+      "title": "Retail F&O boom hits reverse gear as active trader base falls 18% in FY26: Sebi",
+      "description": "SEBI found individual equity derivatives traders fell 18% to 88 lakh in FY26, the first annual decline in over a decade. Yet 87.7% still lost money, collectively losing Rs 91,685 crore, with options accounting for 92% of losses. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133382023,imgsize-116168.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/retail-fo-boom-hits-reverse-gear-as-active-trader-base-falls-18-in-fy26-sebi/articleshow/133382023.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-21T01:08:00.460781Z"
+    },
+    {
+      "id": "770b33172ea001e28f899828f2086e0e",
+      "title": "Govt reappoints Anand Mahindra to RBI board, names former Isro chief S Somanath as non-official director",
+      "description": "Anand Mahindra has been reappointed to the Reserve Bank of India's central board. Former ISRO Chairman S Somanath also joins the board for a four-year term. Their appointments are effective from August 20, 2026, according to the RBI. Mahindra's reappointment ensures continuity and brings diverse business experience. Somanath's technological expertise will aid the central bank's digital focus.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133390156,imgsize-89673.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/govt-reappoints-anand-mahindra-to-rbi-board-names-former-isro-chief-s-somanath-as-non-official-director/articleshow/133390156.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-21T01:08:00.460539Z"
+    },
+    {
+      "id": "7ca6e125279667e31d7dca3b79043894",
+      "title": "Indian equity markets rally nearly 1% as dollar retreats and US bond yields cool",
+      "description": "The Indian stock market rebounded on Thursday, marking the end of a downward trend. Major indices Nifty and Sensex enjoyed notable gains, supported by a robust response in midcap and smallcap sectors. A weakening dollar index alongside declining US bond yields positively impacted emerging markets. Nonetheless, bond yields in India increased, influenced by recent hawkish policy discussions.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133390323,imgsize-24708.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equity-markets-rally-nearly-1-as-dollar-retreats-and-us-bond-yields-cool/articleshow/133390323.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-21T01:08:00.460157Z"
+    },
+    {
+      "id": "70d033fc8f90006db3a5accb3ca57197",
+      "title": "Stocks in news: BPCL, HAL, RailTel, Saatvik Green Energy and Samvardhana Motherson",
+      "description": "Indian equity benchmarks ended a seven-session losing streak on Thursday, August 20. The NSE Nifty50 closed higher, reclaiming its 50-day exponential moving average. Several companies, including BPCL and HAL, announced significant corporate developments. RailTel Corporation received a work order, and Saatvik Green Energy secured a module supply order. Manipal Health Enterprises reported a decline in net profit for the quarter.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133384324,imgsize-114962.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bpcl-hal-railtel-saatvik-green-energy-and-samvardhana-motherson/articleshow/133384324.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-21T01:08:00.460097Z"
+    },
+    {
+      "id": "47bfb8ac3617ae69ea4ec44fb2b10667",
+      "title": "Augmont Enterprises mops up Rs 246 crore in anchor round ahead of IPO; Nomura, HDFC MF among investors",
+      "description": "Augmont Enterprises secured Rs 246.3 crore from anchor investors before its upcoming IPO. The company will open its initial public offering for subscription on August 21. Augmont Enterprises plans to use fresh issue proceeds for working capital and inventory. The IPO comprises a fresh issue and an offer for sale component. Shares are scheduled to list on the NSE.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133383091,imgsize-73504.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-mops-up-rs-246-crore-in-anchor-round-ahead-of-ipo-nomura-hdfc-mf-among-investors/articleshow/133383091.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-21T01:07:59.867895Z"
+    },
+    {
+      "id": "800518db25cf8f5dfac5c08aaca63b85",
+      "title": "Shein targets September 1 for Hong Kong IPO: Report",
+      "description": "Shein has set its Hong Kong initial public offering for September 1, a slight delay from earlier projections. The company's growth has slowed, and rising costs are impacting investor interest. Shein aims for a valuation between $26 billion and $27 billion, a considerable drop compared to its 2022 fundraising figures. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133384924,imgsize-90236.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/shein-targets-september-1-for-hong-kong-ipo-report/articleshow/133384924.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-21T01:07:59.867666Z"
+    },
+    {
       "id": "f8a4392348098e476045512b730e8ffe",
       "title": "Coforge surges 31% in 4 weeks, hits 8-month high; what's driving IT stock?",
       "description": "Coforge Share : Axis Securities expects deal ramp-ups, AI monetisation and Encora synergies to drive sustained earnings growth for Coforge. It maintained a 'Buy' rating with a target price of ₹2,050. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
