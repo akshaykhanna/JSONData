@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "16b885a4b4065af81aeade0f8a3193b7",
+      "title": "Hy-Tech Engineers IPO: Valuations, growth outlook make analysts bullish",
+      "description": "Hy-Tech Engineers IPO is a mix of a fresh issue of ₹60 crore and an offer for sale of ₹76 crore. The price band for the offer is set issue price band at ₹50 to ₹53 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260821/full-126082100709.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/hy-tech-engineers-ipo-details-valuations-growth-outlook-make-analysts-bullish-126082100709_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-21T12:40:54.041904Z"
+    },
+    {
+      "id": "fc7e49f8e62277ccab72193bca0a08b5",
+      "title": "SME stock Technocrats Plasma Systems zooms 83% against IPO price on debut",
+      "description": "SME stock, Technocrats Plasma was locked at the 5 per cent upper circuit at ₹242 on the BSE on debut, zooming as much as 83 per cent against the issue price of ₹132 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260821/full-126082100763.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sme-stock-technocrats-plasma-systems-zooms-83-against-ipo-price-on-debut-126082100763_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-21T12:40:54.041746Z"
+    },
+    {
+      "id": "ea033284ab6b64d2ac1838d7dab2b25c",
+      "title": "TCS reacts to reports of 'installing monitoring software on employee laptops' - Full text of IT giant's statement",
+      "description": "Tata Consultancy Services rejected claims of deploying a Digital User Experience Monitoring tool on employee laptops. The tech giant dismissed tracking allegations as baseless and inaccurate. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/tcsnew_1787304828969_1787304835225_a6463614-d833-44f5-814d-9682494e40f6.png",
+      "fullArticleLink": "https://www.livemint.com/companies/tcs-employee-laptop-monitoring-software-what-all-new-tool-by-the-it-giant-can-view-what-sources-say-11787293468350.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-21T12:40:53.370498Z"
+    },
+    {
+      "id": "a8a7a51dd1b9997a69c6cb268811e868",
+      "title": "TCS denies employee surveillance: What is the laptop monitoring row about?",
+      "description": "TCS has denied reports that it is tracking individual employee activity through a Digital User Experience Monitoring tool on company laptops. The company said its tools monitor macro-level network performance for security, availability and improved digital experience. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/2-0-279289928-TCS-0_1680501250597_1787304742431_d1c0e3c6-9bd2-45cc-858c-1ad1d62010a8.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/baseless-and-inaccurate-tcs-denies-tracking-individual-employees-after-report-on-laptop-monitoring-tool-11787304387057.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-21T12:40:53.370383Z"
+    },
+    {
+      "id": "35a68ee35b3756923d1ae8b999fcbac4",
+      "title": "Welspun Corp share price: Nearly 186% returns in 2026 alone - What's driving the rally?",
+      "description": "Welspun Corp share price has surged 186% YTD in 2026, driven by strong growth in the US and Saudi markets. The company reported a Q1 FY27 net profit of ₹1,047.88 crore, supported by a record order book of ₹42,100 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/adam-smigielski-K5mPtONmpHM-unsplash_1700479308572_1787290281751_2a94f596-03de-4cb3-8442-77d5b50029cd.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/welspun-corp-share-price-nearly-186-returns-in-2026-alone-whats-driving-the-rally-11787288613073.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-21T12:40:52.818029Z"
+    },
+    {
+      "id": "5dc62b25454bdc72543f21c59a0cfb2a",
+      "title": "India Prop Traders’ Derivatives Profits Fall as Market Lags",
+      "description": "Proprietary trading firms earned less from Indian equity derivatives as regulatory curbs aimed at cooling an options boom took hold and a lackluster market made it harder to profit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/india-prop-traders-derivatives-profits-fall-as-market-lags-11787292174925.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-21T12:40:52.817973Z"
+    },
+    {
+      "id": "dd9819cd0cf58d6c48c936e80833d890",
+      "title": "Adani Power share price: 70% rally in 1 year - What's next for the stock after favourable MERC ruling?",
+      "description": "Adani PoweAdani Power share price has delivered multibagger returns over longer timeframes. In the last three and five years, the stock has surged 214% and 1,216%, respectively, as per BSE data. This year so far, the stock has jumped 37%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Adani_Power_1787289390914_1787289396177_7b19d174-8128-4109-968d-aa6d1fb9ac8f.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/adani-power-share-price-70-rally-in-1-year-whats-next-for-the-stock-after-favourable-merc-ruling-11787289358139.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-21T12:40:52.817905Z"
+    },
+    {
+      "id": "4bbbce8741fd4d821246d65b47c7295d",
+      "title": "Vedanta Aluminium dividend: Did you check bank account? Anil Agarwal's company starts crediting stock rewards",
+      "description": "Vedanta Aluminium dividend: Under Section 123 of the Companies Act, 2013, the declared dividend must be credited in the beneficiary shareholder's bank account within 30 days of the stock reward announcement. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Vedanta_Aluminium_dividend_Vedanta_Aluminium_Metal_1787293901148_1787293901481_7f352c9a-a178-4076-a8da-b75ddd5dce52.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/vedanta-aluminium-dividend-did-you-check-bank-account-anil-agarwals-company-starts-crediting-stock-rewards-11787293202890.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-21T12:40:52.817753Z"
+    },
+    {
+      "id": "efa96440a4cb60e0a813f881d3daaea7",
+      "title": "In a bullish signal, market tiptoes to higher highs and higher lows",
+      "description": "The Nifty 50 has formed a series of higher highs and higher lows since its April low, showing resilience despite rising crude prices, geopolitical tensions and heavy FII selling. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/INDIA-NSE-1_1787293890999_1787293899263_141efa0a-a5dc-40ed-a72d-a499af2c362a.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/niftys-higher-highs-offer-a-bullish-signal-amid-global-turmoil-11787283025704.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-21T12:40:52.817718Z"
+    },
+    {
+      "id": "39f1a3a53dd6942a85b20ea37d1e0a17",
+      "title": "Physicswallah’s next test: Turning NEET recovery into growth",
+      "description": "Physicswallah’s Q1 growth held up despite NEET disruption, but weak offline profitability remains a drag. A strong recovery in enrolments and collections will be key to meeting FY27 guidance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Alakh_Pandey_Illo_1710854791917_1787302943660_1359f8bb-4082-4981-9aab-de3ff8e3f9a9.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/physicswallah-share-price-stock-physicswallah-q1fy27-neet-disruption-11787290252095.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-21T12:40:52.817680Z"
+    },
+    {
+      "id": "172b356b2ead342f919e3d7fec6f9ec5",
+      "title": "Sensex, Nifty 50 end flat, extend losses for second consecutive week",
+      "description": "The Sensex ended 3 points up at 77,540.83, while the Nifty 50 settled 20 points, or 0.08%, higher at 24,252. For the week, the 30-share pack slipped 0.60%, while the Nifty 50 declined 0.50%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/bulls_bears_1733613022703_1787306136649_91c9ea0f-3925-483b-a85a-73a92317f035.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-amid-elevated-oil-prices-us-iran-stalled-talks-infosys-sbi-among-top-drags-11787305978312.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-21T12:40:52.817261Z"
+    },
+    {
+      "id": "b75333bc6eaac049af649c3a64ecb2c6",
+      "title": "Top Gainers & Losers on 21 Aug: Welspun Corp, Jindal Saw, Urban Company, Vedanta, CarTrade Tech among top gainers",
+      "description": "Indian stock markets concluded Friday's session subdued, impacted by high crude oil prices and rising global bond yields. The Nifty 50 and Sensex remained largely unchanged, marking their second consecutive week of losses amidst geopolitical tensions and fluctuating investor sentiment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/PTI02-01-2023-000222B-0_1680087728609_1680087728609_1787306923044_e26548de-d1c4-411e-99c9-12ddf26719bc.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-21-aug-welspun-corp-jindal-saw-urban-company-vedanta-cartrade-tech-among-top-gainers-11787305625058.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-21T12:40:52.817138Z"
+    },
+    {
+      "id": "20b7f51c67bc2dc0d0e250686b2b2a41",
+      "title": "Goldman Sachs starts coverage on 14 banks with up to 37% upside potential; ICICI Bank, Kotak among top picks",
+      "description": "Goldman Sachs has initiated coverage on 14 Indian banks with a mix of Buy, Neutral and Sell ratings, focusing on earnings growth, franchise strength, valuations and the normalisation of return on assets (ROA) as key stock drivers. The brokerage sees private banks at an inflection point. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133394535,imgsize-2260510.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-starts-coverage-on-14-banks-with-up-to-37-upside-potential-icici-bank-kotak-among-top-picks/articleshow/133394535.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-21T12:40:52.076774Z"
+    },
+    {
+      "id": "62cb5ef23db1c777c9c9edaca60d1e22",
+      "title": "Netweb Tech shares rise 4% as Nomura, Goldman Sachs invest in Rs 1,200 crore QIP",
+      "description": "Netweb Technologies India shares rose nearly 3.5% to a fresh 52-week high after the company completed its Rs 1,200 crore qualified institutional placement (QIP). Nomura, Goldman Sachs, ICICI Prudential Mutual Fund and other institutional investors participated in the fundraise, which comes amid strong growth in the company's revenue and profit. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133396534,imgsize-2045358.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-tech-shares-rise-4-as-nomura-goldman-sachs-invest-in-rs-1200-crore-qip/articleshow/133396534.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-21T12:40:52.076541Z"
+    },
+    {
+      "id": "99d7c15a780a9ff1a32e513978b13f40",
+      "title": "Quadria Capital-backed Nobel Hygiene files IPO papers to raise Rs 150 crore",
+      "description": "Nobel Hygiene has filed its DRHP with SEBI for an IPO comprising a fresh issue of up to Rs 150 crore and an offer for sale of up to 15.51 million shares. The company plans to use the fresh issue proceeds for debt repayment, subsidiary investment and manufacturing expansion, as it seeks to capitalise on India’s fast-growing adult absorbent hygiene.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133399510,imgsize-121744.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/quadria-capital-backed-nobel-hygiene-files-ipo-papers-to-raise-rs-150-crore/articleshow/133399510.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-21T12:40:51.521787Z"
+    },
+    {
       "id": "768ec4d51c97c61c6eb617bb4908ed0e",
       "title": "Nifty snaps 7-day losing streak as US Treasury move eases yield pressure",
       "description": "Sensex rises 628 points and Nifty gains 154 points as easing US bond-yield pressure lifts sentiment, though elevated crude prices and geopolitical risks remain key headwinds. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
