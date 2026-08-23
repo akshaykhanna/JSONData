@@ -1,6 +1,190 @@
 {
   "news": [
     {
+      "id": "890aee3de7a8ba685e957444ec4faf79",
+      "title": "FPIs add ₹23,544 cr to Indian equities in Aug on earnings, rupee stability",
+      "description": "Foreign Portfolio Investors (FPIs) have accelerated buying in Indian equities this month, infusing Rs 23,544 crore so far in August as improving quarterly earnings, a stable rupee and better market prospects lift sentiment. The inflow comes after FPIs invested Rs 20,200 crore in July, marking a sharp turnaround from four consecutive months of heavy selling and signalling renewed confidence.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260823/full-126082300129.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/fpis-add-23-544-cr-to-indian-equities-in-aug-on-earnings-rupee-stability-126082300129_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T12:34:03.950482Z"
+    },
+    {
+      "id": "a721219ecc8f57724c293d06797f4558",
+      "title": "Pride Hotels steps up expansion, plans ₹1,000 crore IPO by December",
+      "description": "Pride Hotels is looking to launch its initial public offering (IPO) by December, with the issue size expected to be around Rs 1,000 crore, as the hospitality chain accelerates expansion across leisure, wedding and corporate events and pilgrimage destinations, CEO Satyen Jain said. \"We have opened nine hotels in the last 12 months. This is the ninth in Indore,\" Jain.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260823/full-126082300157.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/pride-hotels-steps-up-expansion-plans-1-000-crore-ipo-by-december-126082300157_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-23T12:34:03.950382Z"
+    },
+    {
+      "id": "36533f6c15d9e948435d7e8a9a3a7416",
+      "title": "Geopolitics, crude oil prices likely to drive stock market movements",
+      "description": "Crude oil prices and developments in the US-Iran conflict will remain the primary factors influencing stock market movements this week, according to analysts. \"Investors will closely monitor the Jackson Hole symposium, particularly comments from the US Federal Reserve Chairman, for indications on the future trajectory of interest rates. US GDP estimates, durable goods orders and consumer confidence will also provide.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260823/full-126082300268.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/geopolitics-crude-oil-prices-likely-to-drive-stock-market-movements-126082300268_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T12:34:03.950212Z"
+    },
+    {
+      "id": "51524ea5a67542b4285eaba5012eb8f9",
+      "title": "Bullion may shine next week as traders await US inflation data, Fed signals",
+      "description": "Gold and silver prices are expected to retain their upward momentum next week, though profit-booking at higher levels may temper the rally as investors await key US inflation data, analysts said. US Core Personal Consumption Expenditures (PCE) inflation and GDP figures will be the key triggers for bullion. Developments surrounding West Asia geopolitics, particularly the US-Iran peace deal and reopening.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260823/full-126082300295.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/commodities/bullion-may-shine-next-week-as-traders-await-us-inflation-data-fed-signals-126082300295_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T12:34:03.950133Z"
+    },
+    {
+      "id": "3c0de8bea3a02d960406c0664691b3e3",
+      "title": "Strong inflows via RBI's swap schemes lift reserves, fail to boost rupee",
+      "description": "As RBI largely maintains hands-off approach to intervention. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260823/full-126082300488.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/strong-inflows-via-rbi-s-swap-schemes-lift-reserves-fail-to-boost-rupee-126082300488_1.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-23T12:34:03.950041Z"
+    },
+    {
+      "id": "b39d3a620c7c848c50b796462a9d4a1f",
+      "title": "What are Firebase scams? Why India asked Google to take down fake banking sites",
+      "description": "India is cracking down on scams abusing Google's Firebase to host fake banking sites and malware. I4C ordered at least 57 Firebase websites and databases taken down in August after they were used to steal credit card details, OTPs and other data from victims’ phones. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/ALPHABET-RESULTS--1_1784812777712_1784812787901_4c23f820-639c-4348-8f65-ae7ab3a0387f_1787311044607_ab2f2e1b-b7a5-49ad-a277-520b2d5646ba.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/india-orders-google-to-take-down-firebase-sites-used-to-impersonate-banks-defraud-users-11787310851149.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-23T12:34:03.398998Z"
+    },
+    {
+      "id": "5cc5b6989adb4ba55352447564540022",
+      "title": "Ken Griffin's Citadel sheds over $4 billion of Situational Awareness' bets",
+      "description": "Situational, an AI-focused ‌hedge fund run by former OpenAI researcher Aschenbrenner, sold the bulk of its stock bets to Citadel last month after heavy losses in its tech holdings forced it to unwind most of its public equities portfolio. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/SITUATIONAL-AWARENESS-STOCK-PORTFOLIO-CITADEL-0_1787332772937_1787332807496_4583fea1-f97a-47b3-9895-faec21ef5a01.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/ken-griffins-citadel-sheds-over-4-billion-of-situational-awareness-bets-11787331886930.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-23T12:34:03.398836Z"
+    },
+    {
+      "id": "2adc219ae6225c1848545c331a01be3e",
+      "title": "Welspun Corp leads as over 10 Nifty 500 stocks gain 10–23% this week despite market volatility",
+      "description": "Welspun Corp shares surged 23.4%, alongside significant gains for Jyoti CNC Automation and Balrampur Chini Mills. Despite a volatile market influenced by geopolitical tensions and rising oil prices.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/PTI02-01-2023-000222B-0_1680087728609_1680087728609_1787388375558_a4f1b9d0-b408-47b8-b942-40a81398f386.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/welspun-corp-leads-as-over-10-nifty-500-stocks-gain-10-23-this-week-despite-market-volatility-11787385989520.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-23T12:34:02.839273Z"
+    },
+    {
+      "id": "51141410f22028d5775d20662b144a0d",
+      "title": "Stock Market prediction for tomorrow, 24 August 2026: Sensex, Nifty outlook for Monday — US, South Korea, Taiwan cues",
+      "description": "Stock Market prediction for Monday, 24 August 2026: The key Indian indices remained volatile throughout the week as investors continued to evaluate the evolving global risk landscape. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/Stock_market_1787453033788_1787453038406_ffbc1829-762f-4519-80e9-cc251f34fa57.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-24-august-2026-sensex-nifty-outlook-for-monday-us-south-korea-taiwan-cues-11787450741265.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-23T12:34:02.839228Z"
+    },
+    {
+      "id": "f91fab94f9c4e054e6e878999faebf47",
+      "title": "Upcoming IPO: Gemini Edibles & Fats India files draft papers to raise funds via public issue. Details here",
+      "description": "According to the draft red herring prospectus (DRHP) filed on August 21, the proposed IPO will comprise a complete offer-for-sale (OFS) of up to 4.11 crore equity shares by the company’s promoters and existing investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/IPO_1787470190274_1787470190383_e4a6621e-3739-445f-ba56-7f3c2e2a2d74.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/upcoming-ipo-gemini-edibles-fats-india-files-draft-papers-to-raise-funds-via-public-issue-details-here-11787469576854.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-23T12:34:02.838950Z"
+    },
+    {
+      "id": "947f4f5769bbfbf195eafbd185b87135",
+      "title": "Expert View: If earnings are rising, why are markets still nervous?",
+      "description": "The market scepticism stems from factoring in the biggest challenge, which is the sharp rise in energy prices, which can drag the performance of Q2-Q3. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/stock_1787479814798_1787479814942_ceccee11-88e4-42e7-8435-68bf191b0619.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/expert-view-if-earnings-are-rising-why-are-markets-still-nervous-11787479316156.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T12:34:02.838757Z"
+    },
+    {
+      "id": "9e024b3e9ddcbc7c3069ee4a80f30c7e",
+      "title": "Earnings recovery still not priced in, says Kotak Life's Hemant Kanawala",
+      "description": "India's earnings recovery has begun to broaden across sectors, but the market is yet to fully price in the upcycle, says Hemant Kanawala of Kotak Life Insurance. In an interaction, he highlights large-cap valuation comfort, Q1 earnings growth, and top sector picks including financials and telecom. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133434366,imgsize-80968.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/earnings-recovery-still-not-priced-in-says-kotak-lifes-hemant-kanawala/articleshow/133434366.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T12:34:02.130237Z"
+    },
+    {
+      "id": "f6cf50837635f3526cb4f463935c24e3",
+      "title": "20 IPOs on investors' radar next week. GMPs indicate up to 90% returns",
+      "description": "A total of 20 IPOs are on investors’ radar next week, including fresh issues and upcoming listings across the mainboard and SME segments. Symbiotec Pharmalab, Tempsens Instruments, Lumino Industries and Kwick Forensic Solutions command the highest grey market premiums, with implied listing gains ranging from 107% to 56.7%.​. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133436305,imgsize-2892.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/20-ipos-on-investors-radar-next-week-gmps-indicate-up-to-90-returns/slideshow/133436601.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-23T12:34:02.129956Z"
+    },
+    {
+      "id": "12164a77fad91a9aaf3ca48675be5516",
+      "title": "Market Trading Guide: Jayaswal Neco Industries among 2 stock recommendations for Monday",
+      "description": "Analysts recommend Jayaswal Neco Industries and Alkyl Amines for Friday, citing bullish breakouts, strong trading volumes and improving RSI momentum. Jayaswal Neco has a target of Rs 110, while Alkyl Amines has a target of Rs 2,250, with both stocks trading above key moving averages. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133438554,imgsize-244530.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jayaswal-neco-industries-among-2-stock-recommendations-for-monday/articleshow/133438554.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-23T12:34:02.129812Z"
+    },
+    {
+      "id": "fb1bdc64537cba03a29b7877e5cd8488",
+      "title": "Rs 3,300 crore IPO week: Symbiotec, Skyways Air to lead 10-offer rush for investors",
+      "description": "India's IPO market is set for a busy week, with 10 companies, including Symbiotec Pharmalab, Skyways Air Services, Hy-Tech Engineers and Lumino Industries, looking to raise over Rs 3,300 crore. Mainboard IPOs will be accompanied by five SME issues, while grey market premiums point to strong investor interest in several upcoming offerings. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133434440,imgsize-181594.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-3300-crore-ipo-week-symbiotec-skyways-air-to-lead-10-offer-rush-for-investors/articleshow/133434440.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-23T12:34:01.571139Z"
+    },
+    {
       "id": "f16570084919ddd85cb6eb93fe4767ac",
       "title": "Tata Communications allots 68,894 equity shares under ESOP",
       "description": "Pursuant to the aforesaid allotment of equity shares, the issued and paid-up equity share capital of the Company stands increased to Rs 285,08,56,430 divided into 28,50,85,643 equity shares of the face value of Rs 10/- each. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
