@@ -1,6 +1,188 @@
 {
   "news": [
     {
+      "id": "f16570084919ddd85cb6eb93fe4767ac",
+      "title": "Tata Communications allots 68,894 equity shares under ESOP",
+      "description": "Pursuant to the aforesaid allotment of equity shares, the issued and paid-up equity share capital of the Company stands increased to Rs 285,08,56,430 divided into 28,50,85,643 equity shares of the face value of Rs 10/- each. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/tata-communications-allots-68-894-equity-shares-under-esop-126082100911_1.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-23T01:10:02.854839Z"
+    },
+    {
+      "id": "34327f1a7a25c5a0c3c9f24caa538dc6",
+      "title": "Sebi proposes distribution model to deepen corporate bond reach",
+      "description": "This follows recent proposals to ease fundraising and improve risk disclosure to support debt mkt. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260821/full-126082100923.jpg",
+      "fullArticleLink": "https://www.business-standard.com/economy/news/sebi-proposes-distribution-model-to-deepen-corporate-bond-market-reach-126082100923_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-23T01:10:02.854806Z"
+    },
+    {
+      "id": "5cea5b20a14f0e1546026ea3e1ae32ec",
+      "title": "Religare takeover: SAT dismisses Danny Gaekwad's plea on exemptions",
+      "description": "SAT has rejected Danny Gaekwad's bid to make a competing open offer for Religare, saying he missed the 15-day deadline under Sebi's takeover rules. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260821/full-126082101051.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/religare-takeover-sat-dismisses-danny-gaekwad-s-plea-on-exemptions-126082101051_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-23T01:10:02.854527Z"
+    },
+    {
+      "id": "73a67daf871b283340fe0ea9352d0cac",
+      "title": "Manipal Health Enterprises Q1 PAT drops 7% YoY to Rs 232 cr",
+      "description": "Manipal Health Enterprises reported a 7.48% decline in consolidated net profit to Rs 231.65 crore in Q1 FY27 from Rs 250.37 crore in Q1 FY26, despite strong growth in revenue and operating performance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/manipal-health-enterprises-q1-pat-drops-7-yoy-to-rs-232-cr-126082200306_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T01:10:02.854150Z"
+    },
+    {
+      "id": "7986707ab25b2d144ea6981e0afafc28",
+      "title": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
+      "description": "Sebi has proposed tighter advertising norms for online bond platform providers, including restrictions on promotional claims that could encourage investors to make decisions without adequate due diligence. The proposed revised advertisement code seeks to address the growing use of digital advertising, social media and influencer-led promotions by online bond platforms, according to a consultation paper issued by the regulator.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260822/full-126082200711.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-proposes-tighter-curbs-on-promotional-claims-by-online-bond-platforms-126082200711_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-23T01:10:02.853912Z"
+    },
+    {
+      "id": "727ea6e397d31565edbab85a70255eff",
+      "title": "Sebi proposes channel partners to expand retail access to bonds in India",
+      "description": "Market regulator Sebi has proposed introducing a framework for Fixed Income Channel Partners to broaden retail participation in fixed-income securities through online bond platform providers (OBPPs). The proposal aims to improve access to fixed-income products in Tier-II, Tier-III cities and rural areas, according to a consultation paper issued by Sebi on Friday. Under the proposed framework, individuals and non-individual entities.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260822/full-126082200827.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-proposes-channel-partners-to-expand-retail-access-to-bonds-in-india-126082200827_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-23T01:10:02.853776Z"
+    },
+    {
+      "id": "d58f7cd97e1600627b43cccbb84bfdbd",
+      "title": "Acer wants to be more than a PC brand. Can ‘House of Acer’ crack India’s crowded consumer market?",
+      "description": "The PC maker first introduced small appliances during the pandemic. Since then, it has expanded into large appliances and set up subsidiaries to sell luggage and device repair services.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/Harish_Kohli_Acer_1787249182125_1787249247724_af188544-e1e9-4397-94be-b9040727741b.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/acer-house-of-acer-laptops-appliances-luggage-consumer-electronics-acerpure-akshay-kumar-consumer-durables-11787249048439.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-23T01:10:02.170037Z"
+    },
+    {
+      "id": "f637079521142f3e7032b94e83610383",
+      "title": "India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal",
+      "description": "A long-delayed sale of a majority stake in IDBI Bank, held by the government and Life Insurance Corp of India, is in its final stages. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/IDBI-BANK-STAKE-SALE-FAIRFAX-FIN-0_1787303622426_1787303651899_6d270093-cf7f-4f48-ba58-2436c99abf0a.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/india-to-give-canadas-fairfax-two-years-to-consolidate-holdings-for-idbi-bank-deal-11787302921530.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-23T01:10:02.169814Z"
+    },
+    {
+      "id": "9ea5a2b20077ba72f28f6aceaedf3b04",
+      "title": "'Smallest wearable on the market': Deepinder Goyal says Temple is now less than half its earlier size, pre-orders soon",
+      "description": "Zomato founder Deepinder Goyal said Temple, his experimental wearable, is now less than half its earlier size and claims it is the smallest wearable on the market by volume. Pre-orders for a limited edition will open soon, with shipping expected by end-2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Goyal_temple_1787306983677_1787306991412_39405da0-b473-48e5-b633-5a4457ba774a.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/smallest-wearable-on-the-market-deepinder-goyal-says-temple-is-now-less-than-half-its-earlier-size-pre-orders-soon-11787306323990.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-23T01:10:02.169761Z"
+    },
+    {
+      "id": "62e39d817b29529df04b905648439d7c",
+      "title": "Zee Entertainment allots 20.94 crore warrants to promoter entity Sunbright Mauritius at ₹126 each",
+      "description": "The Securities Appellate Tribunal stayed a Sebi order to debar ZEEL for two months and its CEO Punit Goenka for one year from capital markets in the Hyderabad land pledge case. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/ZEE-GROUP-ARBITRATION--0_1686823023215_1787404106922_ed875e3e-d760-44c5-a81d-e113cca2ca86.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/zee-entertainment-allots-20-94-crore-warrants-to-promoter-entity-sunbright-mauritius-at-rs-126-each-11787404066328.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-23T01:10:02.169253Z"
+    },
+    {
+      "id": "9058319471476a37a15447a58ce179ef",
+      "title": "Jefferies initiates coverage on Anthem Biosciences with a Rs 1,050 target",
+      "description": "Jefferies has initiated coverage on Anthem Biosciences with a Buy rating and Rs 1,050 target, implying around 20% upside. The brokerage is bullish on the company’s integrated CRDMO model, strong return ratios and growth prospects, forecasting 18% revenue CAGR through FY29. Key triggers include new commercial molecules and biosimilar launches, while customer concentration and high capex remain key risks.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133393891,imgsize-1822792.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-anthem-biosciences-with-a-rs-1050-target/articleshow/133393891.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T01:10:00.440745Z"
+    },
+    {
+      "id": "231a949fea713a1217beb9d10929e5cb",
+      "title": "Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside",
+      "description": "The shares of Aditya Infotech have made a notable recovery after a recent equity raise focused on enhancing capacity. However, the company is grappling with high electronic component prices that are squeezing profits. On a positive note, the introduction of new STQC norms is expanding the market opportunities for Indian manufacturers. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133415946,imgsize-289065.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-rebounds-on-fundraise-plans-analysts-see-up-to-20-upside/articleshow/133415946.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T01:10:00.439993Z"
+    },
+    {
+      "id": "676dcc7c6c55b55f3652b3bb7217d302",
+      "title": "Dubai office boom drives commercial real estate growth; transaction value triples in H1 2026",
+      "description": "Dubai’s commercial real estate market remained resilient in H1 2026, with transaction value rising 8.5% to AED 65.23 billion. Offices led growth, driven by strong Grade A demand and limited supply, while retail also gained momentum. Investors increasingly favored income-generating assets over land, supporting a positive outlook despite geopolitical tensions and Q2 moderation. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133417249,imgsize-2336218.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dubai-office-boom-drives-commercial-real-estate-growth-transaction-value-triples-in-h1-2026/articleshow/133417249.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T01:09:59.888666Z"
+    },
+    {
+      "id": "76524a9d84d409fe32a76b39d0430b89",
+      "title": "Uttar Pradesh remains India’s largest crypto market in Q2 2026: Report",
+      "description": "Crypto adoption expanded across India in Q2 2026, led by Uttar Pradesh, Maharashtra and Karnataka. Regional investment patterns varied, with Andhra Pradesh recording the highest female participation and distinctive cryptocurrency preferences, highlighting the diverse and growing nature of India’s crypto investor base. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133419064,imgsize-74080.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/cryptocurrency/uttar-pradesh-remains-indias-largest-crypto-market-in-q2-2026-report/slideshow/133419128.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-23T01:09:59.888322Z"
+    },
+    {
+      "id": "541b59a69b16e5179f8b958bb823185d",
+      "title": "Mom's Belief operator to launch IPO on Sep 1",
+      "description": "On September 1, Rays of Belief Ltd will make its debut in the stock market with an initial public offering. With ambitious plans to open 319 new centers across India by FY29, the IPO proceeds will support expansion efforts, including fit-outs and technological advancements. The company aims to enhance neurodevelopmental care in Tier-II and Tier-III cities while showcasing impressive revenue.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133420812,imgsize-111296.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-to-launch-ipo-on-sep-1/articleshow/133420812.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-23T01:09:59.888135Z"
+    },
+    {
       "id": "a46b6f419ec62a0ea9a8fc4230cb4259",
       "title": "Framework for monitoring utilisation of issue proceeds under review: Sebi",
       "description": "Market regulator Sebi is reviewing the framework for monitoring and disclosing utilisation of issue proceeds to improve timely disclosures and streamline the compliance process, Sebi Chairman Tuhin Kanta Pandey said on Saturday. Addressing the Institute of Directors' Annual Directors' Conclave 2026, Pandey said transparency is not merely about the volume of information disclosed by a company but about whether.",
