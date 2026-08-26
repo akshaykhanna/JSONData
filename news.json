@@ -1,6 +1,190 @@
 {
   "news": [
     {
+      "id": "d507c42862d1a6e75042bbf0be2da11c",
+      "title": "Air India seeks $1.5 billion from owners Tata, Singapore Air as losses mount: Report",
+      "description": "Air India is pursuing $1.5 billion in fresh equity from Tata Sons and Singapore Airlines to address substantial losses, following a record $2.33 billion deficit last fiscal year.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/Air_India_A350-900_1713508027779_1787667036040_102b68da-1bbe-4be1-9a99-99753ea3e83c.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/air-india-seeks-1-5-billion-from-owners-tata-singapore-air-as-losses-mount-report-11787666926953.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-26T01:08:26.716198Z"
+    },
+    {
+      "id": "560e03eb1cf87b66e34627834b61fa9d",
+      "title": "Hindustan Copper share price: Stock plunges 7% - Here's why",
+      "description": "The PSU stock suffered strong losses as the Indian government is looking to sell up to a 6% stake in the company through the OFS at a floor price of ₹514 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/Hindustan_Copper_1787638602649_1787638609554_1d6322c3-fc74-4df0-adab-c36aeeccbd04.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hindustan-copper-share-price-stock-plunges-7-heres-why-11787638180391.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-26T01:08:26.055275Z"
+    },
+    {
+      "id": "d4e1882ecb71aa7178e03302e77cdb04",
+      "title": "Varun Beverages to enter alcoholic drinks business, forms new subsidiary",
+      "description": "Varun Beverages launches KIVA Spirits to enter the RTD alcohol market. It aims to diversify its product range and enhance its market presence, having recently partnered with Asahi Group and Carlsberg, while also reporting significant profit growth for the June quarter. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/Varun_Beverages_1_1777291624644_1777291634732_1787667132618_6c889185-5080-4d82-8843-013064940d74.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/varun-beverages-to-enter-alcoholic-drinks-business-forms-new-subsidiary-11787667099002.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-26T01:08:26.054838Z"
+    },
+    {
+      "id": "56da7bff5e1c7202354ed345c7e91201",
+      "title": "Vodafone Idea News: Clarification from telecom giant on ₹53 crore income tax refund order",
+      "description": "Vodafone Idea clarified that a Delhi High Court directive regarding a ₹53.09 crore tax refund is a routine matter and does not require formal disclosure under SEBI regulations. The stock surged 8% following the news, as the company prepares to secure significant funding. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/3-0-137076683-DSC-2408-0_1679830215691_1787671745069_3a7daf56-1ca0-4b59-b19c-76c140ae5159.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/vodafone-idea-news-clarification-from-telecom-giant-on-rs-53-crore-income-tax-refund-order-11787669930925.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-26T01:08:26.054783Z"
+    },
+    {
+      "id": "b26f48656eacd2203d42a96d114e3c28",
+      "title": "Bernstein cuts PFC, REC target prices as bank competition weighs on loan growth",
+      "description": "Bernstein has retained an Outperform rating on Power Finance Corporation (PFC) and REC but cut its target prices and loan-growth estimates, citing stronger competition from banks, slower renewable capacity additions and improving financial health among state-owned DISCOMs. The brokerage lowered its target to Rs 465 for PFC and Rs 410 for REC, while reducing FY26-FY28 loan-book growth estimates to 7%.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133498418,imgsize-2164145.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-cuts-pfc-rec-target-prices-as-bank-competition-weighs-on-loan-growth/articleshow/133498418.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-26T01:08:25.398666Z"
+    },
+    {
+      "id": "3fb6f9c7c1c3ef01d77b3fec8d8a9a08",
+      "title": "Q1 earnings show resilience, but downside risks still loom. HSBC explains why",
+      "description": "Indian companies delivered better-than-expected Q1FY27 earnings, with around 70% of firms meeting or beating HSBC’s estimates. Mid- and small-cap companies led growth, while financials drove earnings upgrades. However, HSBC flagged risks of downgrades in coming quarters as elevated commodity prices persist and the benefits of GST cuts and inventory gains fade. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133498606,imgsize-2241677.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/q1-earnings-show-resilience-but-downside-risks-still-loom-hsbc-explains-why/articleshow/133498606.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-26T01:08:25.398635Z"
+    },
+    {
+      "id": "ebc00a5f85d7406e49602584f80a7c38",
+      "title": "Rays of Belief IPO: Mom's Belief operator announces price band for issue opening on September 1",
+      "description": "Rays of Belief, which operates under the Mom’s Belief brand, will open its IPO on September 1, with a price band of Rs 227-239 per share. The Rs 125 crore issue comprises a fresh issue of 52.30 lakh shares and will close on September 3. The company plans to use the proceeds to expand its centre network across India.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133506271,imgsize-122172.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rays-of-belief-ipo-moms-belief-operator-announces-price-band-for-issue-opening-on-september-1/articleshow/133506271.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-26T01:08:25.398551Z"
+    },
+    {
+      "id": "b41be9d19790925e82eab59efd850715",
+      "title": "IPO fund diversion: Sebi bars Varanium Cloud, promoter for 7 years from markets",
+      "description": "Sebi has barred Varanium Cloud and promoter Harshawardhan Sabale from the securities market for seven years, citing misleading disclosures, inflated financials and diversion of IPO and rights issue funds. The regulator ordered recovery of diverted money and disgorgement of unlawful gains. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133513410,imgsize-55664.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ipo-fund-diversion-sebi-bars-varanium-cloud-promoter-for-7-years-from-markets/articleshow/133513410.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-26T01:08:25.398372Z"
+    },
+    {
+      "id": "4a454c2d9f51c0f9e07e942756b2d3e9",
+      "title": "Market Trading Guide: Adani Enterprises, Dixon Tech among 4 stock recommendations for Wednesday",
+      "description": "Indian equities gained as softer-than-expected US sanctions on Iran eased crude oil and bond yield pressures. Analysts highlighted Adani Enterprises, HDFC AMC, Hyundai Motor India and Dixon Technologies as bullish technical setups, while geopolitical risks warrant continued near-term caution. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133515417,imgsize-11442.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-enterprises-dixontechamong-4-stock-recommendations-for-wednesday/slideshow/133515517.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-26T01:08:25.398348Z"
+    },
+    {
+      "id": "26edaf9bdc12830861f015ea0b47992e",
+      "title": "India adds 1.26 million credit cards in July as spending rises; HDFC, SBI lead the way",
+      "description": "healthy demand Industry card additions rise 11.5% over June; Card spends hold above ₹2 lakh-crore mark; Transaction volumes surge but the value per transaction declines. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133526854,imgsize-44784.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/india-adds-1-26-million-credit-cards-in-july-as-spending-rises-hdfc-sbi-lead-the-way/articleshow/133526854.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-26T01:08:25.398264Z"
+    },
+    {
+      "id": "859f3e9348285c010e9423b265891300",
+      "title": "Hindustan Copper OFS may not be a big draw for retail investors: Analysts",
+      "description": "Analysts express caution regarding retail investor interest in Hindustan Copper's offer for sale. A nearly ten percent discount may not attract investors after recent metal stock rallies. The institutional portion saw strong demand, exceeding shares available on the first day. Current valuations and limited upside potential raise concerns for potential subscribers. Investors are advised to seek better entry points.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133526868,imgsize-134894.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hind-copper-may-not-be-a-big-draw-for-retail-investors/articleshow/133526868.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-26T01:08:25.398146Z"
+    },
+    {
+      "id": "b4b835951fcf8bc61db0ae2861102f8d",
+      "title": "Stocks in news: Groww, Tata Motors PV, Cipla, Varun Beverages and Axis Bank",
+      "description": "The Indian equity market experienced a positive turnaround on Tuesday, August 25, highlighted by the Nifty 50 making a robust recovery. Anticipation builds for Wednesday as Groww gears up for a significant block deal, while Cipla faces new USFDA inspectional observations. In other news, Tata Motors Passenger Vehicles is set to enhance its electric vehicle offerings through a collaboration.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133521013,imgsize-1860440.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-groww-tata-motors-pv-cipla-varun-beverages-and-axis-bank/articleshow/133521013.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-26T01:08:25.398075Z"
+    },
+    {
+      "id": "e61a467ab84392fd46688081f6c4a24d",
+      "title": "Lumino Industries raises Rs 207 crore from anchor investors; IPO opens on August 27",
+      "description": "Lumino Industries secured Rs 206.99 crore from anchor investors before its upcoming initial public offering. The company plans to raise Rs 700 crore through this maiden share sale, with shares priced between Rs 78 and Rs 82. The public subscription period will commence on August 27, 2026, and conclude on August 31, 2026. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133518684,imgsize-165680.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/lumino-industries-raises-rs-207-crore-from-anchor-investors-ipo-opens-on-august-27/articleshow/133518684.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-26T01:08:24.805167Z"
+    },
+    {
+      "id": "b61c55c99c2e2828e3e6e8e509baec9b",
+      "title": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports",
+      "description": "Anthropic plans to pitch investors on a colossal total addressable market (TAM) exceeding $30 trillion for its upcoming IPO, surpassing SpaceX's previous $28.5 trillion record. By mapping out all work AI models could automate, Anthropic aims to justify its massive infrastructure spending, support its projected $200 billion 2028 revenue target, and validate its upcoming stock listing.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133520014,imgsize-26830.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-wsj-reports/articleshow/133520014.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-26T01:08:24.805122Z"
+    },
+    {
+      "id": "e01d3b726e3e591a90d32acdb11e3877",
+      "title": "ESDS to expand data centre operations with Rs 720-cr IPO proceeds",
+      "description": "ESDS Software Solution is embarking on a ₹720-crore IPO aimed at broadening its data center operations across India and Europe. This strategic move follows a notable partnership for AI cluster deployment powered by NVIDIA GPUs. The investment will not only bolster their infrastructure but also pave the way for new facilities in Kolkata and Sahibabad, positioning ESDS as a trailblazer.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133526906,imgsize-43310.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-to-expand-data-centre-operations-with-of-rs-720-cr-ipo-proceeds/articleshow/133526906.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-26T01:08:24.804793Z"
+    },
+    {
       "id": "4457918b08d09bb3e8d4b3a2dd2e35bc",
       "title": "Musk-led SpaceX to launch first Nvidia-powered AI satellite, eyes orbital data centre debut in 2027",
       "description": "SpaceX founder Elon Musk announced that the company plans to launch its first AI satellites powered by Nvidia chips in Q4 next year, with the fleet expected to reach significant scale by 2028. The company is also pursuing plans for orbital data centres. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
