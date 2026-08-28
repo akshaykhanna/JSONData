@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "b10fce6d810af3d295b1fb0afdbc401a",
+      "title": "Sebi gives green light to Jio Platforms IPO, six other public offers",
+      "description": "Jio Platforms' IPO will comprise a fresh issue of up to 270 million shares with a face value of ₹10 each, with the price to be set through book-building. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260828/full-126082800898.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/sebi-gives-green-light-to-jio-platforms-ipo-six-other-public-offers-126082800898_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-28T21:43:02.295737Z"
+    },
+    {
+      "id": "5ce8fa8ae07a2d2d01e9ed9e4ab2c1e1",
+      "title": "Bernstein retains Nifty target of 26,000, flags policy-driven distortions",
+      "description": "Brokerage says subsidies, GST cuts, external borrowings and wage revisions are shaping earnings and valuations, favouring select sectors but limiting index returns. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260828/full-126082800997.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/bernstein-retains-nifty-target-at-26-000-flags-policy-led-distortions-126082800997_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-28T21:43:02.295383Z"
+    },
+    {
+      "id": "c3ebd1602bf193938639e2f46df9e630",
+      "title": "RBI to conduct ₹6 trillion VRRR auction to soak up excess liquidity",
+      "description": "Benchmark 10-year government bond yield settles at 6.91 per cent, while the rupee closes at 95.39 per dollar as RBI dollar sales support the local currency. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260828/full-126082801119.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/bond-yields-hit-over-two-month-high-rupee-gains-on-rbi-intervention-126082801119_1.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-28T21:43:02.295310Z"
+    },
+    {
+      "id": "4713416e7af6c8762d7b6ac522a57829",
+      "title": "Money doubled in this IPO just after listing - Book profit or hold to earn more or buy more stocks? What expert says",
+      "description": "Tempsens Instruments IPO made a strong debut on the NSE, listing at ₹634, a 111% premium over the ₹300 issue price. The stock closed at ₹586.65, still yielding a 95.55% premium, attracting significant investor interest with its substantial listing success. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/IPO_2_1787914085360_1787914102768_9ee44be5-a59f-4ebd-a99c-e33a83c1f68c.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/money-doubled-in-this-ipo-just-after-listing-book-profit-or-hold-to-earn-more-or-buy-more-stocks-what-expert-says-11787912103331.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-28T21:43:00.797829Z"
+    },
+    {
+      "id": "5560f717a043d43c6e22574dc9f1b6ea",
+      "title": "Upcoming IPO: Bharat PET receives SEBI approval to raise ₹760 crore through public issue",
+      "description": "Bharat PET Limited has received SEBI approval for its IPO to raise ₹760 crore. The offering includes a fresh issue of ₹120 crore and an OFS of ₹640 crore, involving selling shareholders. Proceeds will fund debt repayment and capital expenditures. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/Upcoming_IPO_1787920588354_1787920601636_00be318a-0605-4b31-b848-5f345d315a4b.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/upcoming-ipo-bharat-pet-receives-sebi-approval-to-raise-rs-760-crore-through-public-issue-11787919425466.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-28T21:43:00.797750Z"
+    },
+    {
+      "id": "2cb2e13554bf5e69bac1f308a592cc76",
+      "title": "Jio Platforms gets Sebi nod for ₹35,000 crore IPO, India’s biggest potential listing",
+      "description": "The Reliance Industries digital arm is planning to raise ₹35,000 crore in a fresh issue, with strong initial interest from global investors and a listing targeted within the next couple of months. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/INDIA-ECONOMY-IPO-JIO-0_1787920710978_1787920718334_03e3ac9f-af95-4bb5-b963-320db8a8a2b8.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/jio-platforms-gets-sebi-nod-for-35-000-crore-ipo-india-s-biggest-potential-listing-11787919901062.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-28T21:43:00.797714Z"
+    },
+    {
+      "id": "1d2666e4b179c910398d86bc9763a2b8",
+      "title": "SBI General Insurance Q1 GDPI rises to Rs 3,506 crore; comprehensive income jumps 17%",
+      "description": "SBI General Insurance reported 10.9% year-on-year GDPI growth to Rs 3,506 crore in Q1 FY27. Comprehensive income rose 17.4% to Rs 573 crore, while health, engineering and personal accident segments delivered strong growth, alongside a 2.0-times solvency ratio. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133588949,imgsize-2176740.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-general-insurance-q1-gdpi-rises-to-rs-3506-crore-comprehensive-income-jumps-17/articleshow/133588949.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-28T21:42:59.887094Z"
+    },
+    {
+      "id": "fd9fd092f2d366c9448b5fe8ca8935c0",
+      "title": "Was Sensex’s 2,000-point expiry crash a one-off? Here's what Friday's close hints about CAS",
+      "description": "Sensex stayed relatively calm during Friday’s closing auction, a day after a 2,000-point plunge during the monthly expiry raised fresh concerns over CAS. The subdued move suggests Thursday’s sharp swings may have been an expiry-driven anomaly rather than a persistent issue with the new closing-price mechanism, experts said. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133591046,imgsize-1989165.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/was-sensexs-2000-point-expiry-crash-a-one-off-heres-what-fridays-close-hints-about-cas/articleshow/133591046.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-28T21:42:59.886958Z"
+    },
+    {
+      "id": "8c8530a4766883eb12e9f47ab919033a",
+      "title": "Lenskart Rs 1,857-crore block deal: Goldman Sachs, Morgan Stanley, ICICI Prudential, SBI MF among buyers as Alpha Wave exits",
+      "description": "Lenskart Solutions experienced institutional transactions totaling Rs 1,857 crore on August 28. Numerous domestic and global investors purchased shares at Rs 630 apiece from sellers. The company's shares closed at Rs 636.15 on the NSE, down slightly from the previous day. Lenskart's stock has gained 45.06% year-to-date in 2026. The eyewear company debuted on the stock market in November 2025.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133594276,imgsize-40368.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-rs-1857-crore-block-deal-goldman-sachs-morgan-stanley-icici-prudential-sbi-mf-among-buyers-as-alpha-wave-exits/articleshow/133594276.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-28T21:42:59.886913Z"
+    },
+    {
+      "id": "39957b0760ace34d95bbb866b1294f2b",
+      "title": "Sebi bars Trafiksol ITS, promoters for 1 year for misleading IPO disclosures",
+      "description": "Sebi has banned Trafiksol and its promoters from the securities market for one year. Monetary penalties were also imposed on the company and its two promoters. The regulator found misleading financial disclosures and inflated revenue figures in the company's IPO documents. Sebi also noted concealment of material facts and submission of false information regarding Oasis Corpcare. The IPO was unwound.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133594730,imgsize-78988.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-trafiksol-its-promoters-for-1-year-for-misleading-ipo-disclosures/articleshow/133594730.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-08-28T21:42:59.886874Z"
+    },
+    {
+      "id": "d58119c11e1b86cc6562ca863eb1e9f4",
+      "title": "Jackson Hole: Will Kevin Warsh's inflation warning put Nifty under pressure on Monday?",
+      "description": "Nifty faces potential pressure on Monday following US Fed Chairman Kevin Warsh's hawkish inflation comments at Jackson Hole. Elevated US bond yields, a stronger dollar, and rising crude oil prices threaten foreign institutional flows, while technical analysts highlight 24,200 as a key resistance level for the Indian stock market. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133595035,imgsize-74838.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jackson-hole-will-kevin-warshs-inflation-warning-put-nifty-under-pressure-on-monday/articleshow/133595035.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-08-28T21:42:59.886781Z"
+    },
+    {
+      "id": "e379ca849ae131002e8c8b659ca34ace",
+      "title": "Jio IPO soon! RIL's telecom arm gets Sebi nod for Rs 37,700 crore offering",
+      "description": "Jio Platforms has received Sebi approval for its proposed Rs 37,700 crore IPO, bringing Reliance Industries’ much-awaited listing closer. The issue could value Jio at nearly Rs 9.5 trillion and become India’s largest IPO. The company plans to use Rs 27,500 crore of proceeds to repay borrowings of Reliance Jio Infocomm. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133590054,imgsize-214002.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-soon-reliances-telecom-arm-gets-sebi-nod-for-rs-37000-crore-offering/articleshow/133590054.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-28T21:42:59.197026Z"
+    },
+    {
+      "id": "4c196e2636d594fa7dd0a58e438d6979",
+      "title": "India's 10-year bond yield scales over 2-month peak ahead of Warsh speech",
+      "description": "The Indian bond market experienced notable losses on Friday, with government bond yields climbing to a two-month peak. As investors anticipate key policy hints from Federal Reserve Chair Kevin Warsh during his Jackson Hole address, the hawkish tone in the latest RBI minutes has intensified expectations for future monetary policy adjustments. This escalation in yields has enhanced the attractiveness.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133590611,imgsize-111102.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-yield-scales-over-2-month-peak-ahead-of-warsh-speech/articleshow/133590611.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-28T21:42:59.196952Z"
+    },
+    {
+      "id": "6a7fab1e4b635157addd7c2f2da1e970",
+      "title": "Sebi approves 7 IPOs including Jio Platforms, Paras Healthcare and Bharat PET",
+      "description": "Sebi has approved seven IPOs, led by Reliance-backed Jio Platforms’ proposed Rs 37,700 crore offering. Paras Healthcare, Bharat PET, Paramotor Digital Technology, Pushp Brand, MK Sons Fine Jewels and Sadbhav Futuretech also received approvals, expanding India’s primary-market pipeline. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133590542,imgsize-107032.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-7-ipos-including-jio-platforms-paras-healthcare-and-bharat-pet/articleshow/133590542.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-28T21:42:59.196910Z"
+    },
+    {
+      "id": "d9f51e1fa7bb4b4722095fb138c6989d",
+      "title": "Reliance Jio IPO approved: Is it too late to buy RIL shares to be eligible for shareholder quota?",
+      "description": "Jio Platforms has received SEBI approval for its upcoming initial public offering. Reliance Industries shareholders may still qualify for a reserved portion of the offering. The final details regarding share reservation and the record date are pending. This IPO marks a major value creation milestone for Reliance shareholders. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133592960,imgsize-69342.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-approved-is-it-too-late-to-buy-ril-shares-to-be-eligible-for-shareholder-quota/articleshow/133592960.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-28T21:42:59.196717Z"
+    },
+    {
       "id": "1d296ff9ea07886780181badcf13dba8",
       "title": "Sebi plans bigger institutional role in public offers by small firms",
       "description": "The regulator is also mulling raising the limit on the size of ​companies that can list on platforms dedicated to small firms and mandating larger operating profit requirements before listing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
