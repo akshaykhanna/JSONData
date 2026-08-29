@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "f7da5ba7cb7e8421201220cf0ab6cf41",
+      "title": "Sebi bars Debock Industries, promoter for seven years in fraud case",
+      "description": "Regulator orders disgorgement of ₹59.30 crore with interest and directs Debock to bring back ₹49 crore allegedly diverted from its 2023 rights issue. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260828/full-126082801267.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-bars-debock-industries-promoter-for-seven-years-in-fraud-case-126082801267_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-29T16:12:00.873358Z"
+    },
+    {
+      "id": "b75f7e3ec45d25d2c28b13eed40712fd",
+      "title": "Reliance Group rejects Subhash Chandra's allegations against media entities",
+      "description": "The Reliance Group on Friday, 28 August 2026, rejected allegations made by Essel Group chairman Subhash Chandra against media entities associated with the group, describing his remarks as baseless. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/reliance-group-rejects-subhash-chandra-s-allegations-against-media-entities-126082900207_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-29T16:12:00.873291Z"
+    },
+    {
+      "id": "ba7d4ea2486d3d1e84111ce6145ce5b4",
+      "title": "Tata Chemicals acquires certain soda ash customer contract from Searles Valley Minerals Inc.",
+      "description": "Tata Chemicals North America Inc. (TCNA), a wholly owned subsidiary of Tata Chemicals, has been declared the successful bidder in the Chapter 11 bankruptcy proceedings of Searles Valley Minerals Inc. (SVM), USA, for the acquisition of North American soda ash customer contracts of SVM representing over half million metric tons customer orders through December 2028.",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/tata-chemicals-acquires-certain-soda-ash-customer-contract-from-searles-valley-minerals-inc-126082900347_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-29T16:12:00.873215Z"
+    },
+    {
+      "id": "43966429b0ae43849369b5d50567a2bd",
+      "title": "Tata Sons gets 3-month extension for AGM amid SRTT restrictions and leadership transition",
+      "description": "Tata Sons has secured a three-month extension to hold its AGM due to a lack of quorum, marking the first time the company has sought such an extension. This postponement is linked to restrictions on the Sir Ratan Tata Trust, a key shareholder. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/boardroom_strategy_1787995363621_1787995372448_2332b620-c2f6-4e19-9bed-d5928d770442.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-gets-3-month-extension-for-agm-amid-srtt-restrictions-and-leadership-transition-11787992720441.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-29T16:12:00.188457Z"
+    },
+    {
+      "id": "26c86c5ffe04154358a8755884538554",
+      "title": "Who is Lax Gopisetty? Infosys says their subsidiary firm's CEO remains unreachable amid Nepal flash floods",
+      "description": "Infosys Public Services CEO Lax Gopisetty was in Nepal for personal reasons, revealed the company in a statement. He remains unreachable following the devastating floods in the Nepal-Tiber border region. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/21431_1787997530888_1787997542581_d8ad9251-c974-4d4d-a9fe-78f14ce12b82.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/who-is-lax-gopisetty-infosys-says-their-subsidiary-firms-ceo-remains-unreachable-amid-nepal-flash-floods-11787994457311.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-08-29T16:12:00.188410Z"
+    },
+    {
+      "id": "ce196db60e56a7b89fdc68b48adc4d46",
+      "title": "HDFC Bank CEO Sashidhar Jagdishan to step down after term ends in October",
+      "description": "HDFC Bank CEO Sashidhar Jagdishan leaves India's largest private lender amid a crisis, and nearly 30 years after he first joined the company as a manager. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/Sashidhar_Jagdishan_HDFC_1746367542708_1788011362671_8a9bc7d8-4d18-4914-914b-ca82b32f5460.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/hdfc-bank-ceo-sashidhar-jagdishan-to-step-down-after-term-ends-in-october-11788007166302.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-29T16:12:00.188254Z"
+    },
+    {
+      "id": "a6cff7149abbc266eb088d91d091a5a1",
+      "title": "Sashidhar Jagdishan opts out of reappointment as HDFC Bank CEO, puts succession in focus | Career timeline",
+      "description": "Sashidhar Jagdishan, HDFC Bank's MD &amp; CEO, will retire on October 26 after opting out of reappointment. The bank will fast-track his successor's appointment. Jagdishan spent nearly three decades at HDFC Bank, including overseeing its merger with HDFC Ltd. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/HDFC_1788012306363_1788012317792_8651a768-fd21-4d3a-bd5c-072cb537b0b9.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/sashidhar-jagdishan-opts-out-of-reappointment-as-hdfc-bank-ceo-puts-succession-in-focus-career-timeline-11788011934897.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-29T16:12:00.188111Z"
+    },
+    {
+      "id": "f1d68b742bf2f7792bec11a6c8ed78b1",
+      "title": "Jio Platforms IPO: SEBI clears DRHP; here's all you need to know",
+      "description": "Jio Platforms Ltd has received approval from India’s markets regulator for its IPO, which could become the largest in India. The company plans to raise ₹35,000 crore through new shares, and global investors have shown significant interest amid the upcoming listing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/RELIANCE-JIO-INDIA-IPO-0_1753096654585_1753096666716_1787990295820_25e2c98e-2e95-4ba9-b834-4b2ce3956ac6.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/jio-platforms-ipo-sebi-clears-drhp-heres-all-you-need-to-know-11787989307888.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-29T16:11:59.303492Z"
+    },
+    {
+      "id": "59ae71b89ec1ebaa1411bbc428f5372f",
+      "title": "This AI stock surges over 600% YTD; delivers bigger returns than Nvidia, SanDisk, Micron and Intel",
+      "description": "In the AI boom, Netlist has seen significant growth, rising over 600% in 2026 after a deal with Samsung. Strong second-quarter earnings indicate improving financial health, yet the stock's volatility raises concerns about sustaining its gains over time. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/AI_stocks_1788013821859_1788013838637_24664b94-a587-4c90-97b2-a700f0759c86.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/this-ai-stock-surges-over-600-ytd-delivers-bigger-than-nvidia-sandisk-micron-and-intel-11787988705946.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-29T16:11:59.303257Z"
+    },
+    {
+      "id": "3b52de72e03d5be1a4b60f33447898b9",
+      "title": "BSE, Hindustan Zinc among 5 stocks with revenue growth of up to 64% in 1 year. Check details",
+      "description": "B SE, Muthoot Finance and Hindustan Zinc led five stocks with the highest revenue growth over the past year, alongside strong profit growth and five-star Value Research ratings. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133604588,imgsize-11504.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bse-hindustan-zinc-among-5-stocks-with-revenue-growth-of-up-to-64-in-1-year-check-details/slideshow/133604773.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-29T16:11:58.345847Z"
+    },
+    {
+      "id": "655c4e8b38794d88c8de9966d3bde8f0",
+      "title": "Vedanta, Wipro among 10 stocks that saw biggest jump in retail holders in Q1. See full list",
+      "description": "Vedanta, Wipro and Bajaj Auto were among the stocks that saw the biggest additions to their retail shareholder base in Q1FY27, with several large companies witnessing strong retail participation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133608198,imgsize-35438.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-wipro-among-10-stocks-that-saw-biggest-jump-in-retail-holders-in-q1-see-full-list/slideshow/133608528.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-29T16:11:58.345649Z"
+    },
+    {
+      "id": "063b205cae6f593fdba39c335fe4c5fa",
+      "title": "Wall Street Week Ahead: Jobs report, Broadcom results pose next hurdles for stock market rally",
+      "description": "In the coming week, the U.S. jobs data will be a focal point for investors, potentially impacting the Federal Reserve's interest rate strategies. Broadcom's quarterly results are anticipated right after Nvidia's stellar performance. The sustained rise in corporate profits is driving a bullish phase in U.S. equities, with optimism fueled by robust activities in the manufacturing and services sectors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133603682,imgsize-113476.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-steet-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally/articleshow/133603682.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-29T16:11:57.422067Z"
+    },
+    {
+      "id": "a2c34ebda620a16a7abacb70abbfab9c",
+      "title": "RBI rate hike risk rises: Bandhan AMC’s Suyash Choudhary dials back duration in bond portfolios",
+      "description": "Bandhan AMC has reduced duration across several bond funds as RBI rate hike risks rise following the latest MPC minutes. CIO Suyash Choudhary said markets are increasingly debating the timing and magnitude of potential hikes, while fading FCNR flows and changing policy expectations could drive a flatter bond yield curve. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133605170,imgsize-.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/rbi-rate-hike-risk-rises-bandhan-amcs-suyash-choudhary-dials-back-duration-in-bond-portfolios/articleshow/133605170.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-08-29T16:11:57.421875Z"
+    },
+    {
+      "id": "2e5b1d5184cd04e1370f207eadc02bd9",
+      "title": "IPO fever grips D-Street: 3 issues to open for subscription; 8 new listings lined up for next week",
+      "description": "India’s primary market is set for a busy week, with three mainboard IPOs opening to raise a combined Rs 1,264.72 crore. Meanwhile, eight companies are scheduled to list, including five that have completed their IPOs and three whose ongoing issues will close before their shares make their D-Street debut. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133605837,imgsize-4022.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-fever-grips-d-street-3-companies-to-raise-rs-1265-crore-8-set-to-list-next-week/articleshow/133605837.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-29T16:11:57.421840Z"
+    },
+    {
+      "id": "3607130bef9ff44fa3fe65994b04dae3",
+      "title": "Will Dalal Street see record Rs 70,000 crore IPOs in September? Jio and NSE buzz raises stakes",
+      "description": "India’s IPO market could see a record fundraising month in September, with companies potentially raising up to Rs 70,000 crore if Jio Platforms or NSE launches its public issue. More than 25 IPOs are expected, as strong domestic liquidity, improved listing performance, and pent-up supply drive the primary market revival. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133606653,imgsize-2627831.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/will-dalal-street-see-record-rs-70000-crore-ipos-in-september-jio-and-nse-buzz-raises-stakes/articleshow/133606653.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-29T16:11:57.421751Z"
+    },
+    {
       "id": "6902de90329e4a51ab7c818993827a29",
       "title": "RIL says Jio Platforms receives SEBI observation letter for proposed IPO",
       "description": "Jio Platforms, a subsidiary of Reliance Industries, has received an observation letter from the Securities and Exchange Board of India (SEBI) for its Draft Red Herring Prospectus (DRHP) for the proposed initial public offering (IPO). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
