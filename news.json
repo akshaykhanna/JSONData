@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "6902de90329e4a51ab7c818993827a29",
+      "title": "RIL says Jio Platforms receives SEBI observation letter for proposed IPO",
+      "description": "Jio Platforms, a subsidiary of Reliance Industries, has received an observation letter from the Securities and Exchange Board of India (SEBI) for its Draft Red Herring Prospectus (DRHP) for the proposed initial public offering (IPO). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/ril-says-jio-platforms-receives-sebi-observation-letter-for-proposed-ipo-126082900085_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-29T05:36:41.634571Z"
+    },
+    {
+      "id": "17b99019911c03254c64ee95b7d2a72f",
+      "title": "Augmont Enterprises IPO GMP today: What grey market premium signals ahead of listing",
+      "description": "Augmont Enterprises' IPO, which saw 111 times subscription, is set to list on August 31. The shares are trading at a premium of ₹300 in the grey market. Proceeds from the IPO will support working capital and inventory needs, amidst strong operational growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/GMP_1787907635366_1787907644970_092c98dc-8ba1-4cd4-a450-5938c8bbb06e.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/augmont-enterprises-ipo-gmp-today-what-grey-market-premium-signals-ahead-of-listing-11787906266491.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-08-29T05:36:40.387024Z"
+    },
+    {
+      "id": "7a2c8a0f79eb22dfb1447847f2138d86",
+      "title": "Varun Beverages share price target 2026: 31% returns ahead? Why Choice Broking recommends 'buy' - Rationale explained",
+      "description": "Choice Broking predicts a 31% upside for Varun Beverages' shares, setting a target price of ₹550, driven by growth in India and international markets. The broker expects strong revenue and margin improvements, despite rising competition and regulatory risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/Varun_Beverages_1_1777291624644_1777291634732_1787911062423_52c0c87b-7ffa-4868-98fa-9d18340b1fc0.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/varun-beverages-share-price-target-2026-31-returns-ahead-why-choice-broking-recommends-buy-rationale-explained-11787909854407.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-29T05:36:40.386892Z"
+    },
+    {
+      "id": "ddc310ed0c0cc91bac60f590b6d5d125",
+      "title": "Pulse of the Street: Foreign buying fails to break August stalemate in Indian equities",
+      "description": "Indian equities are likely to end August in a narrow range despite more than ₹30,000 crore of foreign inflows, as domestic profit booking and heavy primary-market supply absorbed liquidity. Investors now await GDP data for clues on the market's next move. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/adam-smigielski-K5mPtONmpHM-unsplash_1700479308572_1787921602074_c0bd55a0-acf4-4292-85df-7168544d4d15.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/indian-stock-market-sensex-nifty-today-11787920505576.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-29T05:36:40.386524Z"
+    },
+    {
+      "id": "a001082bb1194b2ee1d6bf93345584f9",
+      "title": "Park Medi World targets 5,740-bed network by FY28 under expansion roadmap",
+      "description": "Park Medi plans to expand its North India hospital network by adding 2,130 beds to reach a total of 5,740 in two years, focusing on existing states like Delhi and Uttarakhand. The company reported a 21% revenue increase in FY26, with notable acquisitions enhancing its market presence. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/Park_Medi_World_IPO_1765332430081_1765332436689_1787926220317_44461a68-a73d-4423-a272-6c9fff260d26.webp",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/park-medi-world-targets-5-740-bed-network-by-fy28-under-expansion-roadmap-11787926171520.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-08-29T05:36:40.386398Z"
+    },
+    {
+      "id": "da9283384a14a14f482305f3fbd197cd",
+      "title": "Wall Street Piles On Rate-Hike Bets as Warsh Renews Hawkish Tone",
+      "description": "For one day at least, bond traders got the message they were waiting for as Federal Reserve Chairman Kevin Warsh doubled down on his vow to finally tame inflation that’s outpaced the central bank’s target for five straight years. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/maxresdefault_live_1787963206197_1787963211684_9d8981f9-3955-42ce-bfbf-5d160a6bbbec.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/wall-street-piles-on-rate-hike-bets-as-warsh-renews-hawkish-tone-11787949474200.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-29T05:36:40.386029Z"
+    },
+    {
+      "id": "c342fee30163a2ba460211e36e6007c1",
+      "title": "Tempsens Instruments doubles IPO investors’ money as stock lists at 111% premium. Should you buy, sell or hold?",
+      "description": "Tempsens Instruments made a blockbuster debut, listing at Rs 634 on the NSE, an 111% premium over its Rs 300 IPO price. The stock briefly gained further before falling over 8% from its debut level, though it remained 94% above the issue price. Analysts advised investors who missed the rally to consider buying on dips.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133585440,imgsize-1921615.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tempsens-instruments-doubles-ipo-investors-money-as-stock-lists-at-111-premium-should-you-buy-sell-or-hold/articleshow/133585440.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-08-29T05:36:39.729324Z"
+    },
+    {
+      "id": "5a611c7243fc2fc9d6b1ed3edd18ce4d",
+      "title": "JM Financial calls Metropolis Healthcare ‘best-value diagnostic stock’, sees up to 27% upside",
+      "description": "JM Financial has retained its Buy rating on Metropolis Healthcare with a target price of Rs 734, implying 27.2% upside. The brokerage calls it the cheapest among India’s leading listed diagnostic players, citing attractive valuations, network expansion, stronger B2C growth and improving margins as key drivers. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133587019,imgsize-1692412.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-calls-metropolis-healthcare-best-value-diagnostic-stock-sees-up-to-27-upside/articleshow/133587019.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-29T05:36:39.729132Z"
+    },
+    {
+      "id": "2f242a5bc81bac4343e4747ed77f62e3",
+      "title": "Ola Electric shares rally over 5%, rebound 79% from March low. Here’s what’s driving the stock",
+      "description": "Ola Electric shares rallied on Friday after the EV maker launched its new S1Z scooter range with indigenous Bharat Cell LFP technology. The stock has rebounded nearly 79% from its March low, while the new models target India’s mass-market EV segment with prices starting at Rs 79,999. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133587828,imgsize-87744.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-rally-over-5-rebound-79-from-march-low-heres-whats-driving-the-stock/articleshow/133587828.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-29T05:36:39.729077Z"
+    },
+    {
+      "id": "ecf4deb92487a46c39c2e4dc85119479",
+      "title": "HSBC initiates coverage on this recently listed healthcare stock that can rally up to 26%. Do you own?",
+      "description": "HSBC has initiated coverage on recently listed Manipal Health with a Buy rating and Rs 1,000 target price, implying 26% upside. The brokerage sees strong growth potential from improving hospital utilisation, the Sahyadri turnaround, higher-margin speciality mix and deleveraging, with adjusted PAT expected to nearly triple by FY29. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133587950,imgsize-1628643.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-initiates-coverage-on-this-recently-listed-healthcare-stock-that-can-rally-up-to-26-do-you-own/articleshow/133587950.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-29T05:36:39.729017Z"
+    },
+    {
+      "id": "d89ba50b7b93d0c9c95a1b64262c1db1",
+      "title": "Suzlon, Tata Motors among 10 stocks that saw sharpest drop in retail shareholders in Q1. Own any?",
+      "description": "Retail shareholder counts fell sharply in several widely held stocks during Q1FY27. Suzlon Energy, Tata Motors, Yes Bank and Adani Green Energy were among the biggest decliners. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133603114,imgsize-391986.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-tata-motors-among-10-stocks-that-saw-the-sharpest-drop-in-retail-shareholders-in-q1-own-any/slideshow/133603296.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-08-29T05:36:39.728493Z"
+    },
+    {
+      "id": "f97371ce6899b18619c862042b351632",
+      "title": "Bajaj Finance, L&T Finance poised to benefit as NBFC earnings recovery broadens: Siddhartha Khemka",
+      "description": "India’s NBFC sector is showing signs of a broad-based cyclical recovery, with FY27 first-quarter results pointing to stronger loan growth, improving asset quality, lower credit costs and emerging operating leverage. Earnings estimates are also being upgraded, raising expectations of sustained profitability and a potential valuation re-rating across leading lenders. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133604560,imgsize-2496866.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-lt-finance-poised-to-benefit-as-nbfc-earnings-recovery-broadens-siddhartha-khemka/articleshow/133604560.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-08-29T05:36:39.728282Z"
+    },
+    {
+      "id": "960d4524351b5e6a49895f520b970f7a",
+      "title": "US Treasury yields rise after comments from Fed's Kevin Warsh at Jackson Hole",
+      "description": "U.S. Treasury yields saw an increase during trading sessions. Federal Reserve Chairman Kevin Warsh indicated further action may be necessary. Policymakers need confidence that inflation is returning to the target. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133593960,imgsize-55694.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-yields-rise-after-comments-from-feds-kevin-warsh-at-jackson-hole/articleshow/133593960.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-08-29T05:36:39.165893Z"
+    },
+    {
+      "id": "d7cad4cb8b8f0a933ea7b0a161823893",
+      "title": "At $729 billion, India's forex kitty a record",
+      "description": "India's foreign exchange reserves achieved a historic high of $729.3 billion by August 21, fueled by substantial NRI deposits under a specialized swap window. The foreign currency assets grew by $9.4 billion, while gold reserves also experienced a positive shift. The RBI's new facility has helped gather $72.85 billion in inflows since its June launch, resulting in a total growth.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133599614,imgsize-2597592.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/at-729-billion-forex-kitty-hits-a-record/articleshow/133599614.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-29T05:36:39.165544Z"
+    },
+    {
+      "id": "8cd4ae48888ac4e9e642c24f316f9795",
+      "title": "RBI plans buyback of Rs 30,000 crore G-Secs",
+      "description": "The Reserve Bank of India has announced a buyback of government securities amounting to Rs 30,000 crore, targeting those set to mature in the fiscal year 2027. This strategic decision aims to alleviate the impending redemption pressure, as over Rs 6 lakh crore in securities are approaching maturity. The buyback is scheduled for September 3.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133603407,imgsize-68432.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/rbi-plans-buyback-of-rs-30000-crore-g-secs/articleshow/133603407.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-08-29T05:36:39.165294Z"
+    },
+    {
       "id": "b10fce6d810af3d295b1fb0afdbc401a",
       "title": "Sebi gives green light to Jio Platforms IPO, six other public offers",
       "description": "Jio Platforms' IPO will comprise a fresh issue of up to 270 million shares with a face value of ₹10 each, with the price to be set through book-building. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
