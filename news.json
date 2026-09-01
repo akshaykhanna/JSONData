@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "a7b6538f02cdfe6b54443e2bc1c11bbc",
+      "title": "Stocks to watch: ITC, Happiest Minds, ICICI Bank, PVR Inox, Cipla & more",
+      "description": "PVR Inox approved a buyback of up to 20,68,965 fully paid-up equity shares at ₹1,450 per share, for an aggregate amount of up to ₹300 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260901/full-126090100090.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-itc-happiest-minds-icici-bank-pvr-inox-cipla-more-126090100090_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-01T03:32:26.101899Z"
+    },
+    {
+      "id": "82c7697de8c01c364320f06848ccb674",
+      "title": "Amid HDFC Bank CEO exit, the lingering poser on post-merger math",
+      "description": "The one big challenge for HDFC Bank CEO Sashidhar Jagdishan’s successor will be to deliver on a merger whose promised benefits have been slow to show up. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/31/1600x900/logo/3-0-80202670-Sashidhar-Jagdishan--ABH0061-0_1679796349659_1788198924144_44f9e3f2-85e5-4385-9715-7b417add6c3d.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hdfc-bank-ceo-sashidhar-jagdishan-succession-hdfc-bank-merger-11788176700378.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-01T03:32:24.848305Z"
+    },
+    {
+      "id": "723f285d2d37de962d824ab1000d5756",
+      "title": "Sebi weighs refining F&O warnings on brokerage apps as retail losses remain high",
+      "description": "The discussions follow a Sebi study on individual traders’ losses in the F&amp;O segment in 2025-26, which showed that while total losses moderated year-on-year, the average loss per trader rose. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/31/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101_1788172056514_0e32eac7-6371-4067-abf7-78a7b003b3b2.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sebi-weighs-refining-f-o-warnings-on-brokerage-apps-as-retail-losses-remain-high-11788156820818.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-01T03:32:24.848229Z"
+    },
+    {
+      "id": "fad62f7b8fdc19ff06bfdd57cc11ea68",
+      "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 1 September 2026",
+      "description": "Indian stock indices Sensex and Nifty 50 are expected to open flat to negative on 1 Sept, influenced by weak global cues. Previous session saw Nifty close below 24,100 with lower momentum. Analysts suggest broader trading range with stocks like Sona BLW and Aurobindo Pharma recommended for buying. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/01/1600x900/logo/Chandan_Taparia_1715614105669_1788228634178_64a9722a-04c2-4537-8461-7325988aa703.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-1-september-2026-11788226667822.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-01T03:32:24.847775Z"
+    },
+    {
+      "id": "a3844e457bb03aadb36ac539b4445e10",
+      "title": "HDFC Bank share price hits 52-week low after gaining 2.5% on CEO resignation | What's next?",
+      "description": "The private lender stock initially rose over 2.5%; however, it pared its gains in the second half of the trading session, falling as much as 5% from its intraday high. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/01/1600x900/logo/HDFC_share_1788232245595_1788232254863_7ac87982-d243-4736-9abf-e330520e8998.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-hits-52-week-low-after-gaining-2-5-on-ceo-resignation-whats-next-11788229555181.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-01T03:32:24.847555Z"
+    },
+    {
+      "id": "d7cf1a23d9af16298db4eec9e5413695",
+      "title": "Shein IPO debut disappoints: Fashion Giant tanks 10% on Hong Kong listing, valuation drops",
+      "description": "Shein shares fell to a low of HK$43.72, compared with the IPO price of HK$48.56 per share. According to a Bloomberg report, the pricing gave Shein a market capitalisation of slightly more than $26 billion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/01/1600x900/logo/Shein_IPO_listing_1788232213883_1788232214003_4cd90661-e760-4f2a-9367-c4e701161f98.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/shein-ipo-debut-disappoints-fashion-giant-shein-share-price-tanks-10-on-hong-kong-ipo-listing-valuation-drops-11788232030187.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-01T03:32:24.847511Z"
+    },
+    {
+      "id": "260e706f4c26a79911bd5b4abda4ca5a",
+      "title": "New trade rules raise compliance worries for banks over cross-border payments",
+      "description": "As of October first, banks will bear the new burden of overseeing cross-border payment transactions. They are required to confirm the validity of service contracts and foreign entities involved. Furthermore, banks will also be tasked with tracking export revenues and handling overdue export bills, creating a challenging landscape in service imports and exports aimed at curbing money laundering and suspicious.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133665342,imgsize-47622.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/new-trade-rules-raise-compliance-worries-for-banks-over-cross-border-payments/articleshow/133665342.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-01T03:32:24.280483Z"
+    },
+    {
+      "id": "364b4e131a784f67e61c82cd66f71d5f",
+      "title": "HDFC's search for a new CEO may go beyond its inner circle",
+      "description": "HDFC Bank's board faces a difficult CEO succession task with a thin internal leadership pipeline. Regulatory tenure limits may push the bank towards a wider external executive search. Analysts suggest candidates from other banks and NBFCs could be considered. Jagdishan's exit offers an opportunity for a strategic reset and narrative change. The bank's strong franchise and financial profile should mitigate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133665370,imgsize-67874.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hdfcs-search-for-a-new-ceo-may-go-beyond-its-inner-circle/articleshow/133665370.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-01T03:32:24.280440Z"
+    },
+    {
+      "id": "bc09a00de3c528ffb2e4feead858f064",
+      "title": "Rajesh Exports repays ₹510 crore dues to Canara Bank after DRT order",
+      "description": "Canara Bank recovered all dues totaling ₹510 crore from Rajesh Exports. This recovery followed an order by a debt recovery tribunal. The bank initiated this action after the company blocked other recovery attempts. Rajesh Exports faced allegations of financial misrepresentation from SEBI. The bank was the largest creditor for the gold and jewellery exporter. This key financial update highlights evolving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133665428,imgsize-118444.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-repays-510-crore-dues-to-canara-bank-after-drt-order/articleshow/133665428.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-01T03:32:24.280387Z"
+    },
+    {
+      "id": "4fa6dc9bd2310b3e07c6951c32032625",
+      "title": "Mid, smallcaps likely to outperform in September; Nifty seen range-bound: Analysts",
+      "description": "September historically favors mid- and small-cap stocks over large-caps. Analysts anticipate this trend continuing, expecting limited upside for the Nifty. Heavyweight sectors show recent weakness, and foreign investor selling has resumed. Domestic fund flows remain concentrated in mid- and small-cap stocks. Market action is expected to remain stock-specific until fresh triggers emerge. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133665449,imgsize-16118.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mid-small-caps-do-well-in-sept-and-it-looks-no-different-this-time/articleshow/133665449.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-01T03:32:24.280279Z"
+    },
+    {
+      "id": "0fdd2dbca38234615351014db49e0a5b",
+      "title": "Stocks in news: Bharti Airtel, Happiest Minds Technologies, PVR INOX, Milky Mist Dairy and Mankind Pharma",
+      "description": "Indian equity markets ended lower on August 31, responding to prevailing global economic dynamics. A modest decline in the Nifty50 index brought it below essential moving averages. Key corporate updates emerged, including major merger announcements and buyback initiatives from Happiest Minds Technologies and PVR INOX. Milky Mist Dairy showed remarkable profit growth, whereas E2E Networks secured a vital contract.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133658328,imgsize-131508.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bharti-airtel-happiest-minds-technologies-pvr-inox-milky-mist-dairy-and-mankind-pharma/articleshow/133658328.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-01T03:32:24.280241Z"
+    },
+    {
+      "id": "34a0a5881a714102950e0d93cd65b5b3",
+      "title": "MSCI rejig disrupts arbitrage playbook, fuels late-session volatility",
+      "description": "MSCI index rebalancing on Monday saw sharp stock swings in the final minutes. Global funds adjusted holdings, impacting several stocks significantly during the new Closing Auction System. The Closing Auction Session accounted for a substantial portion of the day's total cash market turnover. Some large-cap stocks experienced unexpected declines without clear fundamental reasons. Traders and investors are now adapting.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133665601,imgsize-60292.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/msci-index-rebalancing-causes-sharp-stock-swings-with-new-cas/articleshow/133665601.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-01T03:32:24.280181Z"
+    },
+    {
+      "id": "36636e2c78b50a99ac387e329a1224ce",
+      "title": "RBI's net short forward positions hit record $137 billion in July",
+      "description": "The Reserve Bank of India's net short forward positions soared to a record high of $137 billion in July, driven by long-term swaps related to forex inflow strategies. The most notable rise occurred in short positions exceeding one year, climbing to $91 billion. The central bank's intervention tactics cover spot, NDF, and forward markets as India’s foreign exchange reserves reached.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133665649,imgsize-97192.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbis-net-short-forward-positions-hit-record-137-billion-in-july/articleshow/133665649.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-01T03:32:24.280127Z"
+    },
+    {
+      "id": "a1df164ec25bcf97a953647d1a599fbb",
+      "title": "Symbiotec Pharmalab shares to list today; GMP signals 19% listing gain",
+      "description": "The Symbiotec Pharmalab IPO plans to channel Rs 112.50 crore towards the prepayment and/or repayment, fully or partially, of select outstanding borrowings, helping strengthen the company’s balance sheet and potentially reduce its debt burden. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133666090,imgsize-2269149.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/symbiotec-pharmalab-shares-to-list-today-gmp-signals-19-listing-gain/articleshow/133666090.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-01T03:32:24.280013Z"
+    },
+    {
+      "id": "e4c05162d4fa861532637676ae070b01",
+      "title": "Dividend alert! Last day to buy NTPC, GAIL and 11 other stocks to qualify for dividend payouts",
+      "description": "Under Sebi's T+1 settlement cycle, investors need to purchase a company's shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time, and they become eligible for the corporate action. Accordingly, today is the last opportunity for investors to buy the shares so that they are credited to their.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133666153,imgsize-2306278.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-ntpc-gail-among-13-stocks-for-dividend-payouts-do-you-own-any/articleshow/133666153.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-01T03:32:24.279892Z"
+    },
+    {
       "id": "9ee9d692571263b5e3e575b157d59f1e",
       "title": "Mutual funds' overseas equity holdings rose 37.5% in FY26: RBI data",
       "description": "Growth was largely driven by mark-to-market gains amid a rally in key global markets and rising investor interest in overseas schemes as domestic markets underperformed. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
