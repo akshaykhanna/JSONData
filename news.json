@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "3ae1a3631c43eaad6ef94a230c412516",
+      "title": "Zerodha receives Sebi nod to foray into investment banking business",
+      "description": "Zerodha Corporate Advisors can now manage IPOs and offer corporate finance and issue-related services as the group broadens its business beyond broking. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260902/full-126090200835.jpg",
+      "fullArticleLink": "https://www.business-standard.com/companies/news/zerodha-receives-sebi-approval-to-enter-investment-banking-business-126090200835_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-09-03T02:54:22.400715Z"
+    },
+    {
+      "id": "a0d81f55ae97dccbd4974c4b0a7d8e05",
+      "title": "Pranav Constructions' ₹351 cr IPO to open on Sep 7 at ₹118-124/share",
+      "description": "Pranav Constructions has set a ₹118-124 price band for its ₹351-crore IPO, comprising a fresh issue of ₹315.6 crore and an OFS worth ₹35.4 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260902/full-126090201697.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/pranav-constructions-351-cr-ipo-to-open-on-sep-7-at-118-124-share-126090201697_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-03T02:54:22.399963Z"
+    },
+    {
+      "id": "ad0c092e8a139e7c94bef4cd25f3a671",
+      "title": "Market rout brings dividend stocks in limelight: Time to switch?",
+      "description": "Dividend stocks aren't immune to market-wide sell-offs, but their yields create a natural floor for the stock price. As the price drops, the yield rises, which naturally brings in value investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260902/full-126090200534.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/market-rout-brings-dividend-stocks-in-limelight-time-to-switch-126090200534_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-03T02:54:22.399869Z"
+    },
+    {
+      "id": "75d91feeff48904a1344019fe2d1197c",
+      "title": "Stocks to watch: Meesho, SAIL, ICICI Bank, L&T Fin, Blue Star, OMCs & more",
+      "description": "Meesho's shares will remain in focus after a likely block deal to sell 1.5 per cent of Meesho's paid-up equity by SoftBank Vision Fund entity SVF II Meerkat is expected today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260903/full-126090300083.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-meesho-sail-icici-bank-l-t-fin-blue-star-omcs-more-126090300083_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-03T02:54:22.399747Z"
+    },
+    {
+      "id": "469f4a2237af98cbded53b3144e3c6b5",
+      "title": "Global stocks climb as investors watch US-Iran conflict, yen surges",
+      "description": "Global stock indexes mostly rose after three days of declines, while the yen jumped sharply and US Treasury yields eased as investors tracked the latest developments in the US-Iran conflict. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260903/full-126090300045.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/global-stocks-climb-as-investors-watch-us-iran-conflict-yen-surges-126090300045_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-03T02:54:22.399680Z"
+    },
+    {
+      "id": "11e0dacf3717de853ad5ca33a5747839",
+      "title": "Nifty may test 23,600, says Ajit Mishra; bets on BEML among others",
+      "description": "Religare Broking's Ajit Mishra said that the sharp decline has pushed Nifty closer to our initial downside target and support of 23,800. A break below this could extend the correction towards 23,600. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260903/full-126090300088.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-may-test-23-600-says-ajit-mishra-bets-on-beml-among-others-126090300088_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-03T02:54:22.399575Z"
+    },
+    {
+      "id": "02138a58bb3b8c9202f4cb63a3e77598",
+      "title": "Buy healthcare stock for over 41% upside potential, says Ventura; target price | 'Positioned for next growth inflection'",
+      "description": "Ventura Securities forecasts significant growth for Park Medi World. Expected revenue growth of 26.8% by FY29 and improved margins highlight the company's strong position in the healthcare sector. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/Park_Medi_1788346740498_775583c8-c99a-4b5c-b077-d61cd72333db_1788346747040_425e6436-d475-4a0f-bb16-813a497a0bdd_77467a59-d660-4392-b78f-279daed989fa_6f3716e1-add7-4e59-9d28-06e0d917c072.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/buy-healthcare-stock-park-medi-world-share-price-for-over-41-upside-potential-says-ventura-check-target-price-11788344986120.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-03T02:54:21.049702Z"
+    },
+    {
+      "id": "6f35ecf147d8aac110dd55c46c4537c6",
+      "title": "Broadcom shares flat ahead of Q3 earnings: Here's what Wall Street expects from the chipmaker",
+      "description": "Broadcom Inc shares remain stable at $370 as investors anticipate strong Q3 earnings. Following Nvidia's report, expectations are high for a 210% EPS increase and an 85% revenue rise to $29.4 billion, both crucial for evaluating the sustainability of AI sector growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/BROADCOM-RESULTS--1_1787417574068_1787417649750_fe7396e7-1e43-4073-8b57-2159a73f666d_1788355684334_667c0290-6d80-4ff3-b2bd-fe50162b2c2e_33079b98-b477-48f6-a5c7-0f6bc0d279d7_4f403549-f3f0-47db-8271-82e513c3d3d4.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/broadcom-shares-flat-ahead-of-q3-earnings-heres-what-wall-street-expects-from-the-chipmaker-11788355667154.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-03T02:54:21.049439Z"
+    },
+    {
+      "id": "c1008846fd0fbdfcfb9596e5d94b9e29",
+      "title": "Indian IPOs set to breach $20 billion this year on strong primary and secondary activity: Avendus Capital MD",
+      "description": "A rebound in primary and secondary trades, along with mega-IPOs and strong domestic mutual fund participation, is driving a massive $20-billion pipeline, said Gaurav Sood. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/Gaurav_Sood_1788402127244_293c5f38-fc44-4f77-aa5a-_1788402169802_b6ba2d78-0111-4557-a0b9-8b11871d8c91_1788402169951_d2699567-b222-4ce8-838a-6cd37870273c_6a97ddae-5470-40fc-b56a-adb5f2df0909_04513306-6e0d-45d6-8336-45fb8e454841.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/india-ipo-fundraising-activity-in-2026-avendus-capital-md-gaurav-sood-11788343043809.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-03T02:54:21.049059Z"
+    },
+    {
+      "id": "095c221c355439c4ee9e2077b89f1a99",
+      "title": "ICICI Bank raises $17.9 billion through FCNR(B) window, boosts lending liquidity",
+      "description": "ICICI Bank secured approximately $17.88 billion via the RBI's special swap facility. This mobilization provides the bank with substantial foreign-currency funding for loans. Loans extended against these deposits and supported by SBLCs reached over seventy percent. Indian banks collectively gathered $65.4 billion through FCNR(B) deposits by August twenty-first. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133722671,imgsize-68620.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-raises-17-88-billion-through-fcnrb-deposits-amid-strong-demand/articleshow/133722671.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-03T02:54:20.370441Z"
+    },
+    {
+      "id": "2cf172723c77aa1dc26825a5fd26135f",
+      "title": "'Revolver' misfire hits credit card issuers: India's credit card boom sees lower bank profits",
+      "description": "Credit card profits are shrinking for Indian banks as spending rises. Customers now use cards more for payments than borrowing, reducing interest income. Interest-bearing balances have significantly fallen as a percentage of total card spending. This trend is impacting major lenders like HDFC Bank and SBI Cards. Analysts predict further profit margin declines in the coming years.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133722593,imgsize-54402.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/revolver-misfire-hits-credit-card-issuers-indias-credit-card-boom-sees-lower-bank-profits/articleshow/133722593.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-03T02:54:20.370153Z"
+    },
+    {
+      "id": "cc556bdad7cf160d1b4cfc7cbed6b442",
+      "title": "D-Street poised for a positive start as GIFT Nifty trades firmly higher",
+      "description": "The Nifty index fell for a third straight day, closing lower amid rising market volatility. Analysts suggest markets may face continued pressure due to oil prices and bond yields. Foreign portfolio investors and domestic institutional investors were net buyers of shares on Wednesday. The Indian rupee ended little changed, supported by the Reserve Bank of India. SAIL and LIC Housing.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133722490,imgsize-229332.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133722490.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-03T02:54:20.369979Z"
+    },
+    {
+      "id": "e12660f1ac7a6502c4f602c8a760eb35",
+      "title": "Stocks in news: Swiggy, Adani Ports, IDFC First Bank, Hexaware Technologies and Sun Pharma",
+      "description": "Indian markets experienced a sharp decline on Wednesday due to global factors. Technical analysis suggests further downside potential for the Nifty index. Several companies like Swiggy and Adani Ports are in focus today. Hyundai Motor India aims to regain its market position with new launches. ONGC is reviewing its Venezuelan assets after receiving US approval.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133722510,imgsize-117272.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-swiggy-adani-ports-idfc-first-bank-hexaware-technologies-and-sun-pharma/articleshow/133722510.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-03T02:54:20.369938Z"
+    },
+    {
+      "id": "abdf328abbc4492bf9cc8b07fbdb5e9a",
+      "title": "Happiest Minds shares fall for 5th day as merger concerns weigh",
+      "description": "The stock of Happiest Minds Technologies has experienced a significant downturn due to uncertainty related to the ITC Infotech integration. Promoters will cash in, whereas minority shareholders are set to receive shares in the merger. The merger is expected to enhance long-term profitability. Yet, HDFC Securities has downgraded the stock, pointing out the lack of a takeover premium.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133722904,imgsize-31456.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/happiest-minds-faces-a-bumpy-ride-as-many-on-d-street-unhappy/articleshow/133722904.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-03T02:54:20.369828Z"
+    },
+    {
+      "id": "59e508196fb766a499161929e75badcd",
+      "title": "Rupee holds firm at 94.97 on RBI dollar sales",
+      "description": "The Indian rupee remained above 95 against the dollar for a second day. Traders attribute this performance to aggressive dollar sales by the central bank. The rupee closed at 94.97, showing little movement during trading. This stability contrasted with a significant slump in equity markets. State-run banks likely sold dollars to prevent further depreciation past the 95 mark.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133722826,imgsize-69630.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-holds-firm-at-94-97-as-rbi-intervenes-with-dollar-sales/articleshow/133722826.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-03T02:54:19.760079Z"
+    },
+    {
       "id": "71155409e0276ba47f363685d70befbf",
       "title": "Adani Group's listed companies report drop in headcount as jobs get outsourced to vendors",
       "description": "The number of people employed with nine listed Adani companies dropped in FY26 as the group moved towards deeper vendor integration. Including the vendor workforce, the &nbsp;group's headcount continues to rise rapidly, surpassing 390,000 in July.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
