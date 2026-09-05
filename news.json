@@ -1,6 +1,202 @@
 {
   "news": [
     {
+      "id": "c37839e469bc61ea21995bcf15ac86d0",
+      "title": "TCS’s HyperVault to build 1GW AI data centre in Telangana's Hyderabad: Inside ₹70,000 crore ‘historic’ project",
+      "description": "TCS's HyperVault AI Data Center will create an AI-focused facility in Hyderabad with a 1 GW capacity, supported by ₹70,000 crore investment. The project promises job creation and aims to become a leading AI infrastructure hub, integrating advanced technologies and sustainability practices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Untitled_design_1788613014145_bb3aef86-b3e6-4d85-92f3-98d1e34dc6c0_1788613018417_6f81e031-5523-4211-9081-6796340d7762_b470e700-cf79-46f2-b080-0e081e5a0ffc_c6981446-6399-4949-8c2e-f6a1dcc6a1ef.png",
+      "fullArticleLink": "https://www.livemint.com/companies/tcss-hypervault-to-build-1gw-ai-data-centre-in-telanganas-hyderabad-inside-70-000-crore-historic-project-11788610018101.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-05T14:34:18.872822Z"
+    },
+    {
+      "id": "a8c798353c83820276c27990c5cf498d",
+      "title": "Who’ll be next Tata Sons Chairman? TV Narendran or Saurabh Agarwal? But, NSE’s Ashish Chauhan emerges as dark horse",
+      "description": "While Narendran has emerged as the frontrunner among internal candidates, Agrawal is also in the reckoning with his investment-banking and capital-allocation experience. Chauhan, a veteran of India's capital markets and one of the founding executives of the NSE, could turn out to be the dark horse. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Untitled_design_1788617475948_415a8da4-98be-49a7-ab02-3fbd0d72d97b_1788617481912_369a22e4-57a6-4dbf-a065-a1582d2d5fec_c76fa5da-548e-45ec-904e-79cf62d6a632_dfb9bdb3-8542-4afe-bb18-5ab4b8b42000.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/wholl-be-next-tata-sons-chairman-tv-narendran-or-saurabh-agarwal-but-nse-s-ashish-chauhan-emerges-as-dark-horse-11788614697874.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-05T14:34:18.872694Z"
+    },
+    {
+      "id": "4c3aa1f4be8b96f13528cf3c55be736a",
+      "title": "NSE IPO: Ahead of mega ₹30k cr issue, should you buy SBI, Bank of Baroda shares? What investors should do?",
+      "description": "NSE IPO news: SBI and Bank of Baroda are among the four listed companies that have offered to offload their shareholding in the National Stock Exchange. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/NSE_IPO_News_SBI_share_price_BoB_share_price_1788591350299_fae81fe9-46c6-42d6-a26b-bb023792e396_1788591350432_2915685e-6480-4914-b291-23a23dcd067e_c726a3dc-e08b-49db-b309-a3cd26000a63_88101741-89c0-4c69-bc63-1fee47634b07.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nse-ipo-ahead-of-mega-rs-30k-cr-issue-should-you-buy-sbi-bank-of-baroda-shares-what-investors-should-do-11788589785827.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-05T14:34:18.316020Z"
+    },
+    {
+      "id": "783de5ad68216bc72c2e0e760aaacdbf",
+      "title": "Stocks to buy under ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy for short term",
+      "description": "Stocks to buy under ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy for short term — Tata Steel, UCO Bank, and Sagility. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Stocks_to_buy_Mehul_Kothari_Stock_Recommendations_1788599042920_9c21e0f4-02cc-4507-9500-ec407c2a8a31_1788599043087_2457a192-e671-4899-80ee-fc7746d81887_c74e8cae-29a1-4148-b000-c8dc420aa87d_1230a801-2a9f-4ae8-bf3c-fa571bbb228b.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-for-short-term-11788598636353.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-05T14:34:18.315979Z"
+    },
+    {
+      "id": "2b401dbd08f0059e839fa1e7047be7d3",
+      "title": "7.8% GDP is good news but why skyrocketing KOSPI, Nikkei, Taiwan remain a major concern for Sensex, Nifty | Explained",
+      "description": "The key benchmark indices of the Indian stock market, Nifty 50, registered an 8.60% loss in YTD despite a 7.80% GDP growth rate of India in Q1FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/GDP_Growth_Rate_of_India_2026_Sensex_today_KOSPI_1788608889180_5cc99adf-9a3b-4932-a116-0f570e2c5cf8_1788608889345_5ce8758a-d3ae-4eb7-93ad-2bc5b601e634_51157ae9-3889-4490-9bca-5d116c041437_17a888ac-c440-40bd-96b7-8537867ffac9.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/78-gdp-is-good-news-but-why-skyrocketing-kospi-nikkei-taiwan-remain-a-major-concern-for-sensex-nifty-explained-11788603071280.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-05T14:34:18.315856Z"
+    },
+    {
+      "id": "2f22bac83f2d4d3d016b4cd59f5e9972",
+      "title": "Nifty ends below 24,000 for 4th week of losses",
+      "description": "Indian equity markets faced a downturn for the fourth straight week, with the Nifty index retreating under 24,000. A combination of soaring crude oil prices and sluggish leading stocks contributed to the bleak market outlook. Analysts suggest the Nifty is likely to hover in a limited range without significant catalysts. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133787443,imgsize-925540.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-ends-below-24000-for-4th-week-of-losses/articleshow/133787443.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-05T14:34:17.655050Z"
+    },
+    {
+      "id": "51e20d456629f8644f1de32f69153482",
+      "title": "Capital market stocks rise on CAS fix hopes, index closes 1% higher",
+      "description": "Capital market stocks saw gains Friday after regulator Sebi's circular on the Closing Auction Session mechanism. Trader pushback against CAS-linked settlement pricing prompted Sebi to respond to market concerns. Erratic settlement prints since August 3 caused option premiums to swing significantly. Market participants anticipate Sebi's paper will reduce reliance on the single CAS print. This move is expected to restore.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133787577,imgsize-90560.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/capital-market-stocks-rise-on-cas-fix-hopes-index-closes-1-higher/articleshow/133787577.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-05T14:34:17.654997Z"
+    },
+    {
+      "id": "a318085cef43e1a594980c4dc9ed0d16",
+      "title": "Nifty’s 21-day calm before the storm? History warns of a sharp move ahead",
+      "description": "Nifty 50’s August 2026 stability historically signals significant volatility ahead. With future direction unclear, analysts advise shifting investment strategies toward earnings-led, stock-specific selections rather than broad index-level performance as the market faces potential near-term turbulence. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133789812,imgsize-46266.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-21-day-calm-before-the-storm-history-warns-of-a-sharp-move-ahead/articleshow/133789812.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-05T14:34:17.654920Z"
+    },
+    {
+      "id": "b4d705aff28af9b330fc7a8f7589c87a",
+      "title": "NSE IPO gets Sebi approval: 10 important points investors should know as D-Street debut inches closer",
+      "description": "NSE’s IPO moved closer to launch after Sebi approved its draft offer document, with the proposed Rs 30,000-crore issue likely to list on BSE. The OFS could involve nearly 6% stake, with several shareholders selling. Strong financials, dominant derivatives market share and premium unlisted valuation make it a closely watched offering. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133790889,imgsize-2009578.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-gets-sebi-approval-10-important-points-investors-should-know-as-d-street-debut-inches-closer/articleshow/133790889.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-05T14:34:17.654783Z"
+    },
+    {
+      "id": "e3873603b730ad75ead9a67d2e8dbe6e",
+      "title": "GQG sale of Adani Energy shares said to disrupt hedge fund bets",
+      "description": "GQG Partners’ Adani Energy Solutions stake sale added unexpected supply during MSCI’s rebalancing auction, overwhelming passive-fund demand and contributing to a 10% stock decline. Hedge funds positioned for index-driven buying were also affected. About $569 million of shares changed hands, while GQG’s stake had fallen to 3.46% by August-end. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133791044,imgsize-2134099.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-sale-of-adani-energy-shares-said-to-disrupt-hedge-fund-bets/articleshow/133791044.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-05T14:34:17.654714Z"
+    },
+    {
+      "id": "b903fcc2bce153b130c892778e4f4f0d",
+      "title": "Former Tata Technologies CEO McGoldrick sells shares worth Rs 165 crore",
+      "description": "Patrick McGoldrick, former Tata Technologies CEO, sold shares worth Rs 165 crore. He offloaded 21 lakh shares, reducing his stake to 0.62 percent. Mutual funds and asset management firms acquired these shares at Rs 785 each. Tata Technologies reported an 8 percent net profit rise for the March quarter. The company had a strong stock market debut in November 2023.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133794536,imgsize-13864.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/former-tata-technologies-ceo-mcgoldrick-sells-shares-worth-rs-165-crore/articleshow/133794536.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-05T14:34:17.654567Z"
+    },
+    {
+      "id": "32d16457ff0168f5229100a601bdfb5f",
+      "title": "Tata Motors launches tender offer for Iveco Group; deal values company at €3.82 billion",
+      "description": "Tata Motors has launched a €14.1-per-share cash tender offer for Iveco Group, valuing the Italian commercial vehicle maker at €3.82 billion. Backed by Iveco’s largest shareholder Exor, the deal targets full acquisition and delisting, amid strong Tata Motors commercial vehicle sales. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133798356,imgsize-54096.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-launches-tender-offer-for-iveco-group-deal-values-company-at-3-82-billion/articleshow/133798356.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-05T14:34:17.654312Z"
+    },
+    {
+      "id": "8cd7d431644b4fc81b762437ff47e7e6",
+      "title": "Rentomojo set to go public at Rs 4,246 crore valuation, set to raise Rs 1,256 crore via IPO",
+      "description": "In its ambitious IPO initiative, Rentomojo targets a valuation of ₹4,246 crore, while securing ₹150 crore in fresh funding. Additionally, existing investors plan to divest shares valued at ₹1,106 crore through an offer for sale. Impressively, the startup reported a 142% jump in net profit, which reached ₹104.3 crore in FY26. Mark your calendars, as the IPO launches on September.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133787663,imgsize-2096359.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-set-to-go-public-at-rs-4246-crore-valuation-set-to-raise-rs-1256-crore-via-ipo/articleshow/133787663.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-09-05T14:34:17.073011Z"
+    },
+    {
+      "id": "57fba4e9544ce32ea76ab01f75be7b79",
+      "title": "ETMarkets Smart Talk | Don't judge India by Nifty's 21x PE; stock-level valuations still offer opportunities: Emkay Investment Managers: Kashyap Javeri",
+      "description": "Kashyap Javeri suggests India’s market valuation premium is misleading due to index concentration. He highlights strong mid- and small-cap earnings growth, reliable SIP inflows, and easing FPI selling, while cautioning against risks like rising crude prices and currency fluctuations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133789173,imgsize-632312.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-dont-judge-india-by-niftys-21x-pe-stock-level-valuations-still-offer-opportunities-emkay-investment-managers-kashyap-javeri/articleshow/133789173.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-05T14:34:17.072869Z"
+    },
+    {
+      "id": "f18e1ac0a63c8d47d57242b6e2bd557f",
+      "title": "F&O Talk: Nifty indicating little evidence of sustained recovery, says Sudeep Shah; outlines BSE, Groww strategy amid CAS",
+      "description": "Nifty faces continued bearish pressure after a fourth weekly decline, with 23,750-23,700 as crucial support and 24,150-24,200 resistance. Analysts expect volatility to stay subdued, while Bank Nifty remains range-bound. BSE, Groww and Angel One also await decisive breakouts for direction. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133792130,imgsize-84812.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-indicating-little-evidence-of-sustained-recovery-says-sudeep-shah-outlines-bse-groww-strategy-amid-cas/articleshow/133792130.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-05T14:34:17.072371Z"
+    },
+    {
       "id": "2c4c84c5e397d3d5792b33cec6e2b0d8",
       "title": "ACME Solar rallies 7%, hits new high; stock up 120% from CY2026 low",
       "description": "Looking ahead, ACME Solar said it is steadily executing its long-term growth plan to scale up to 10 GW of generation capacity alongside 25 GWh of battery storage capacity by 2030. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
