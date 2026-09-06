@@ -1,6 +1,189 @@
 {
   "news": [
     {
+      "id": "3d91276c3786c4700e31e79d3f9aaa99",
+      "title": "Sensex, Nifty snap 4-day losses; metal shares shine",
+      "description": "The Nifty settled near the 23,900 level, while the Sensex also closed above 76,500 mark. However, market sentiment remained cautious ahead of the US nonfarm payrolls report, due later today. Investors are awaiting the data for fresh cues on the Federal Reserves monetary policy trajectory and the outlook for interest rates. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-snap-4-day-losses-metal-shares-shine-126090400870_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-06T02:54:28.889793Z"
+    },
+    {
+      "id": "2c672100ad4cafd2419b9c081043818a",
+      "title": "Sensex, Nifty rebound as easing US yields, Asian gains boost sentiment",
+      "description": "The key equity benchmarks ended with modest gains on Friday, snapping a four-session losing streak. The rebound was supported by positive Asian cues and easing US Treasury yields, as expectations of an imminent Federal Reserve rate hike moderated. The Nifty settled near the 23,900 level, while the Sensex also closed above 76,500 mark. Gains were led by metal and private.",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-rebound-as-easing-us-yields-asian-gains-boost-sentiment-126090400955_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-06T02:54:28.889711Z"
+    },
+    {
+      "id": "e0645b59327cf71adfbc578088016e77",
+      "title": "Sebi, ESMA sign MoU to deepen regulatory cooperation on clearing houses",
+      "description": "The pact establishes a framework for cooperation and information exchange relating to central counterparties regulated and supervised by the Indian markets regulator. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260904/full-126090400993.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-esma-sign-mou-to-deepen-regulatory-cooperation-on-clearing-houses-126090400993_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-06T02:54:28.889604Z"
+    },
+    {
+      "id": "39f5adbfcee377e389e317d35a28c5f8",
+      "title": "Devson receives orders for newly developed product Ammonia Decomposition Catalyst from NMDC and Tata Steel",
+      "description": "Devson Catalyst announced the successful development of its Ammonia Decomposition Catalyst through its in-house R&D and technical capabilities. The Company has received commercial orders for the newly developed product from NMDC and Tata Steel, following customer evaluation and approval. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/devson-receives-orders-for-newly-developed-product-ammonia-decomposition-catalyst-from-nmdc-and-tata-steel-126090401182_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-06T02:54:28.889392Z"
+    },
+    {
+      "id": "32f41c91c220dca385dbcd0ff9705a0e",
+      "title": "Traders turn to bullish Chinese stock bets as AI trades crowd Korea, Japan",
+      "description": "Trading desks from Barclays Plc to UBS Group AG are seeing rising client demand for bullish options and swap contracts tied to China's CSI indexes in recent weeks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260906/full-126090600057.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/traders-turn-to-bullish-chinese-stock-bets-as-ai-trades-crowd-korea-japan-126090600057_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-06T02:54:28.888946Z"
+    },
+    {
+      "id": "a4e5d57a1e64a92adace527a27480f35",
+      "title": "Aditya Birla repeats Opus playbook with UltraVolt, eyes wires market leadership",
+      "description": "Housed under the group’s cement unit UltraTech, the new business, named UltraVolt, aims to become one of India’s top two wires and cables players within five years, according to group chair Kumar Mangalam Birla. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/abds_1690873041334_1788455585569_5afb0b47-623f-49a6-adc2-315594dc6acc_b652d384-c295-48d4-906d-ac113550f6ba_9454764f-4090-4b64-b14c-7174c2073508.png",
+      "fullArticleLink": "https://www.livemint.com/companies/aditya-birla-repeats-opus-playbook-with-ultravolt-eyes-wires-market-leadership-cables-wires-polycab-kei-havells-11788447089967.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-06T02:54:28.116512Z"
+    },
+    {
+      "id": "d14b3fb10b4871574173051278ccccd9",
+      "title": "Newspace Research in talks to raise $35-40 million from 360 One, Avendus, others",
+      "description": "Defence-tech startup Newspace Research and Technologies is seeking $35-40 million in a Series C round, even as investors weigh its uneven revenue growth and delayed government contract payments. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/g03796fb0a2561922e0f461f609892400b1b31d144493fa26d_1788496869329_1fb8e20a-7724-4795-8aae-b0f542d9edfd_1788496869488_0beb469d-46c5-4d29-8e39-6770a292d097_61985606-1148-413b-a502-1d0c39dd64ed_13799a2c-22a3-465b-8735-b42d59b25db9.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/start-ups/newspace-research-and-technologies-nrt-series-c-defence-tech-aerospace-drones-deeptech-360-one-asset-avendus-11787457991475.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-06T02:54:28.116174Z"
+    },
+    {
+      "id": "fb0b8a6e89ee0973de34c35332955e3f",
+      "title": "Adani Defence signs 5-year ammunition deal for India-made AK-203 assault rifles: All you need to know",
+      "description": "Adani Defence &amp; Aerospace has signed a five-year contract with Indo-Russian Rifles Pvt Ltd to supply 7.62x39 mm ammunition for AK-203 rifles, enhancing India's domestic defense manufacturing and supporting the Aatmanirbhar Bharat initiative. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Untitled_design_1788616965733_8cff79b1-5216-4ca6-b3d2-af86c9650afa_1788616969632_ea30422f-f77e-4ef9-aea2-8b83fc34007a_8147c3dc-7e47-412f-bcaf-c459bf8ab1a9_13fd2491-56b6-4142-94bb-5402e9163d5d.png",
+      "fullArticleLink": "https://www.livemint.com/companies/adani-defence-signs-5-year-ammunition-deal-for-india-made-ak-203-assault-rifles-all-you-need-to-know-11788614220612.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-06T02:54:28.115724Z"
+    },
+    {
+      "id": "5464a546a6842e439a1eabb469484fc3",
+      "title": "Top 3 stocks to buy with target price, stop-loss: Expert Sumeet Bagadia shares recommendations for Monday, 7 Sept 2026",
+      "description": "Top stocks to buy: Sumeet Bagadia recommends three stocks to buy on Monday — Tata Steel, Reliance Industries, and Bajaj Finance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Buy_or_Sell_Sumeet_Bagadia_share_recommendations_1788580924230_77d5cf75-d72c-4acf-8972-441db5ddb4eb_1788580924379_2b31abed-c693-4acc-a778-7fe6c5d7d628_c32729df-2a36-4aba-b6a5-e496ad92450d_eeb0a444-b273-4db7-9f6e-00912902b124.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-7-september-2026-11788580369064.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-06T02:54:27.512583Z"
+    },
+    {
+      "id": "c1c603cc08c804bf1c648399cd257412",
+      "title": "Swiggy sees 4% equity change hands in block deals; shares gain 2.5%",
+      "description": "Swiggy shares rose 2.53% following block deals involving 4% equity. The company faces MSCI index removal on September 7 due to foreign ownership caps, while Q1 FY27 results showed a narrowed net loss of Rs 791 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133763789,imgsize-23918.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-sees-4-equity-change-hands-in-block-deals-shares-gain-2-5/articleshow/133763789.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-06T02:54:26.792637Z"
+    },
+    {
+      "id": "74cec21a7dede27fb4a3a775d961144a",
+      "title": "How the rise of institutional investors is changing the IPO playbook",
+      "description": "India’s IPO market is evolving beyond capital raising, with mutual funds, AIFs, insurers, global institutions and family offices driving deeper participation. Growing institutional selectivity highlights the need for sharper price discovery, better segmentation and a potential micro-cap category. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133790656,imgsize-48640.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/how-the-rise-of-institutional-investors-is-changing-the-ipo-playbook/articleshow/133790656.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-06T02:54:26.792440Z"
+    },
+    {
+      "id": "b4f6f809d63f51bdade60211d712ed87",
+      "title": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible: View",
+      "description": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133785076,imgsize-1344973.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-06T02:54:26.077420Z"
+    },
+    {
+      "id": "47c6339b559551541cf27e99823cdec5",
+      "title": "Wall Street Week Ahead:Investors to pore over inflation data for signals on rate trajectory",
+      "description": "Investors await crucial inflation data next week which may decide the Fed's interest rate move. The S&P 500 index is nearing its record high while facing market volatility. Producer and Consumer Price Index reports will offer insights into August's inflation trends. Odds for a Fed rate hike are currently around a coin flip. Treasury yields and AI trade developments also.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133786604,imgsize-121932.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-investors-to-pore-over-inflation-data-for-signals-on-rate-trajectory/articleshow/133786604.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-06T02:54:26.077389Z"
+    },
+    {
+      "id": "1d4c18962adc0b29115ddc84c9c3d8e8",
+      "title": "Anthropic IPO launch shifts toward mid-October, sources say",
+      "description": "The artificial intelligence company had been expected to make its IPO prospectus public as early as next week, two of the ‌people said, a ⁠crucial ⁠step that would kick off the final stages of the offering. Now that is not expected ​until late September, the people added, cautioning that the plans, including the timing, are subject ​to change.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133791934,imgsize-34338.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-launch-shifts-toward-mid-october-sources-say/articleshow/133791934.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-06T02:54:26.077357Z"
+    },
+    {
+      "id": "64a55b5e17b24e0e1ced118b0b245eae",
+      "title": "RBI turns to longer-dated VRRR for liquidity mop-up",
+      "description": "In an effort to control escalating inflation, the Reserve Bank of India is running auctions to draw in surplus liquidity from the financial system. This move comes as call money rates fall beneath the policy repo rate, with predictions indicating liquidity levels could exceed fifteen lakh crore by the close of September. Additionally, the central bank recently sold government securities.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133787243,imgsize-87206.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-turns-to-longer-dated-vrrr-for-liquidity-mop-up/articleshow/133787243.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-06T02:54:26.077124Z"
+    },
+    {
       "id": "c37839e469bc61ea21995bcf15ac86d0",
       "title": "TCS’s HyperVault to build 1GW AI data centre in Telangana's Hyderabad: Inside ₹70,000 crore ‘historic’ project",
       "description": "TCS's HyperVault AI Data Center will create an AI-focused facility in Hyderabad with a 1 GW capacity, supported by ₹70,000 crore investment. The project promises job creation and aims to become a leading AI infrastructure hub, integrating advanced technologies and sustainability practices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
