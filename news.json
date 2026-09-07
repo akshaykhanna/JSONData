@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "7fa155501009523bc6c0e06804d69c48",
+      "title": "Stocks to watch: LIC, ICICI Bank, SBI, Dixon, Chalet Hotels, TCS & more",
+      "description": "Stocks to watch today: ICICI Bank, LIC, SBI, Dixon Tech, TCS, NMDC, JSW Steel, RVNL, Tata Motors, CG Power, BEML, among others, will be in focus today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260907/full-126090700074.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-lic-icici-bank-sbi-dixon-chalet-hotels-tcs-more-126090700074_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-07T02:51:41.977076Z"
+    },
+    {
+      "id": "98dddc18e9b42f7081d06659537eba14",
+      "title": "'Speculative and factually incorrect': NSE denies Ashishkumar Chauhan being considered for Tata Sons chairman post",
+      "description": "NSE has denied reports that its MD and CEO Ashishkumar Chauhan is being considered for the Tata Sons chairman post. Chauhan called the reports entirely baseless and said he remains focused on NSE’s planned IPO and his responsibilities at the exchange. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Tata_1788707975622_8fbcda27-1bde-419e-8131-3acd08fdfcb5_1788707980772_f45d3816-3744-4ee5-8b05-c07f7a11f90b_381b5b5b-7d86-4996-8d17-87943d17764a_8ae3aac2-35db-4a31-aa51-0e9f7dd6a2be.png",
+      "fullArticleLink": "https://www.livemint.com/companies/people/speculative-and-factually-incorrect-nse-denies-ashishkumar-chauhan-being-considered-for-tata-sons-chairman-post-11788707471704.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-07T02:51:41.328312Z"
+    },
+    {
+      "id": "a46281e4fb8c31757c9241cebbe87419",
+      "title": "An email throws up fresh questions on Tata Sons' clean chit to top exec",
+      "description": "A previously unreported email detailing Tata Sons group company secretary Suprakash Mukhopadhyay's role in soliciting an investment for his family’s wealth-advisory business raises questions over whether the internal probe that cleared him before was thorough enough and examined all relevant details. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1788706584988_d4ee488c-d718-40f8-9fc3-bd60edb2eb7a_cbf49480-ac3c-42ad-9812-aa5ea25673a5_84c1d1c5-7a78-4247-9bba-4abbe94357e1.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-trusts-tata-sons-group-company-secretary-suprakash-mukhopadhyay-11788684881220.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-07T02:51:41.328190Z"
+    },
+    {
+      "id": "fb88c094ffb6b0790fefbed52586629f",
+      "title": "Amara Raja joins Indian groups monetizing family-owned brands",
+      "description": "Amara Raja Energy &amp; Mobility Ltd paid ₹6.76 crore in royalty to Amara Raja Enterprises Pvt. Ltd in the year ended March 2026, according to filings reviewed. The payment was equivalent to 0.05% of the company’s ₹13,814 crore revenue and 0.8% of its ₹896 crore net profit during that period. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Amara_Raja_Family_1694454655939_1788703542216_05ab32a1-f589-4839-8ba7-1ffa3824e1cb_5f38562b-94c9-4096-857f-4ccbdf3119d1_ff4bdeb3-b652-400b-bc29-eca9be806cf1.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/amara-raja-energy-mobility-royalty-revenue-to-promoter-family-11788688391432.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-07T02:51:41.328134Z"
+    },
+    {
+      "id": "0923f5f3584063918f13eec8fb44ab2d",
+      "title": "Coforge confident of hitting $5 billion revenue target well before FY30, brushes off AI deflation fears",
+      "description": "Driven by proactive deal wins, legacy modernization, and strategic M&amp;A, CEO Sudhir Singh expects organic growth to keep top-line expansion on track despite industry price wars and governance pushback. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Coforge-CEO-Sudhir-Singh_1785323833768_1785323845553_307fa36f-326b-46bd-a0ae-f0e62678e38a_1788704856984_b6538035-cf1d-44b5-9018-f145d65600e9_5370689e-f268-4a7c-856d-cc11e53f5ce6_a2aa5bc7-723d-4e3d-9acf-c69c7bfa1994.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/coforge-ceo-sudhir-singh-interview-ai-revenue-target-11788685575295.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-07T02:51:41.327935Z"
+    },
+    {
+      "id": "a04572a1d7a39f04313b2b719a4c3323",
+      "title": "NSE IPO: GMP jumps | Expected date of opening, allotment to listing — all facts and news that you must know",
+      "description": "NSE IPO GMP: According to IPO Watch, NSE shares are available at a premium of ₹285 in the grey market today, up ₹85 from yesterday's NSE IPO GMP of ₹200. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/NSE_IPO_News_Date_GMP_Price_Status_Details_1788586496808_a372f981-2631-499b-8c29-ac22efb393ff_1788586496941_b1d5c54c-3710-4819-9675-5cf78d9acec0_9ec5fb61-7aaa-4ce5-bc9e-e8a74d0d2558_8f0d56a2-ef9d-4e34-b6cf-ed635fe48220.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/nse-ipo-latest-gmp-price-expected-date-of-opening-allotment-to-listing-all-facts-and-news-that-you-must-know-11788584640136.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-07T02:51:40.699232Z"
+    },
+    {
+      "id": "a9c51a2e473af336c3f3590affb6f798",
+      "title": "Top stocks to buy: Ganesh Dongre of Anand Rathi recommends these 3 shares for today | Target price, stop-loss",
+      "description": "Indian stock market: Amid ongoing Middle East Tension, Ganesh Dongre of Anand Rathi recommends three stocks to buy on Monday. Check top stock picks by the market expert. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/Ganesh_Dongre_1788681936783_cb29f9ac-43e0-4111-8d1f-b3aef3fb6243_1788681936920_346bf40e-6bdb-43ab-9033-06d5f206b885_d8f7b9ea-7d12-4476-a7a2-8a24ac9d1aec_4c71b0fc-3f5a-406f-bdfc-c8ac85634eab.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-picks-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-target-stop-loss-other-details-11788678761802.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-07T02:51:40.699041Z"
+    },
+    {
+      "id": "b9888f807bd643765818f3c8db23fe0f",
+      "title": "CAS fights teething troubles; will VWAP return on expiry days?",
+      "description": "Regulator to issue consultation paper seeking comments on whether Nifty and Sensex&nbsp;weekly options&nbsp;could be settled at old volume-based price mechanism with monthly&nbsp;stock futures and options expiring at a combination of volume-weighted and auction prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/INDIA-SEBI-0_1760105208232_1760105217336_1788700228268_263ef7dc-f56b-4151-a393-9a45d4dfc4e4_4a1d1346-fc3b-4daf-bfd5-5924a4834ad6_99fcd9b8-238d-4bbf-8d2e-2f470c0e1ed0.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/closing-auction-session-nse-sebi-stock-market-11788679287492.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-07T02:51:40.698685Z"
+    },
+    {
+      "id": "79f8452c241f5456ca5b7720055f5e23",
+      "title": "Nifty’s technical setup weakens; 100-DMA key to recovery",
+      "description": "The selling was particularly strong at the start of the week, when the index fell on heavy volume. From its recent swing high, the Nifty has now declined 3.54%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Dalal_Street_Investment_1788741983352_f6f14852-632b-48a8-a7a1-7f139fd752b5_1788741983535_c2f56b04-e937-4068-a6af-9d4028c01060_4df204cf-b31d-4c93-827e-83f65a39792b_93a31b6d-c15b-4d7e-b9de-f0ad6e8c37f9.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/niftys-technical-setup-weakens-100-dma-key-to-recovery-11788741820178.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-07T02:51:40.698486Z"
+    },
+    {
+      "id": "57311144f34f173433b4946db4ec8d84",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy",
+      "description": "Stock market today: The Indian stock market is expected to open lower on 7 September amid global cues and rising oil prices. Experts suggest a cautious approach, with immediate resistance and support levels outlined for investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Stock_market_today_1788744926406_51246a88-8835-4794-9786-7a086b10e668_1788744930568_55626f12-b6f9-4ecf-b437-cfde2248e2a0_a82199ae-2053-4f65-8fcb-8c72e0ad60b9_f70c1021-82ad-4211-bd53-d444e83c75dd.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-sensex-nifty-50-crude-oil-to-gold-eight-stocks-to-buy-11788742075083.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-07T02:51:40.698343Z"
+    },
+    {
+      "id": "87ab27e690c9811d22deb83bb01d1191",
+      "title": "RBI's liquidity test may set future course",
+      "description": "The Reserve Bank of India is currently grappling with a notable liquidity dilemma due to a surge in FCNR(B) scheme inflows. To navigate this, a pivotal variable rate reverse repo auction is set to influence the liquidity management strategy. The central bank may also utilize measures such as dollar swaps and bond sales. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133856932,imgsize-.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbis-liquidity-test-may-set-future-course/articleshow/133856932.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-07T02:51:39.972565Z"
+    },
+    {
+      "id": "adedd9770122c57507b3d2eb4311671b",
+      "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
+      "description": "Indian equity markets experienced volatility, with the Nifty 50 extending its losing streak for four weeks. Escalating US-Iran hostilities pushed crude oil prices higher, impacting overall market sentiment. Several companies, including Tata Motors and Rail Vikas Nigam, are expected to be active on Monday. Mazagon Dock Shipbuilders and Eicher Motors also reported significant corporate developments. Lupin received US FDA approval.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133844968,imgsize-155154.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin/articleshow/133844968.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-07T02:51:39.972441Z"
+    },
+    {
+      "id": "b1519eae76a6ee8727de6ee2ef74e67f",
+      "title": "Demat account additions hit 7-month high in August as IPO boom draws investors",
+      "description": "August witnessed a surge in new demat accounts, reaching a seven-month peak due to strong initial public offering activity that spurred many newcomers to the markets. Collectively, NSDL and CDSL welcomed around 3.27 million new accounts, even as benchmark stock indices faced a minor dip. Analysts are optimistic about continued growth, especially with major upcoming IPOs from Jio and NSE.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133856460,imgsize-22590.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/demat-account-additions-hit-7-month-high-in-august-as-ipo-boom-draws-investors/articleshow/133856460.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-07T02:51:39.972393Z"
+    },
+    {
+      "id": "f2c7385d44c28546163270e97c897af1",
+      "title": "Nifty Outlook: Analysts pick key levels and stocks to watch",
+      "description": "Nifty has experienced a decline for four straight weeks, breaking through the crucial 24,000 support level. Experts recommend adopting a market-neutral approach to capitalize on expected volatility. Among the stocks to watch are APL Apollo Tubes and One 97 Communications, which may offer promising returns. The Bank Nifty indicates upward trends, encouraging investors to buy on dips around 56,400. Additionally.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133859423,imgsize-14992.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-extends-losing-streak-breaks-24000-support/articleshow/133859423.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-07T02:51:39.972053Z"
+    },
+    {
+      "id": "e0f0b25400a6a8e440cb0d0c6f859743",
+      "title": "NSE grey market premium soars on Sebi's IPO approval",
+      "description": "The National Stock Exchange's IPO has gained the necessary regulatory approval, leading to an increase in grey market premiums. Investors are now looking at a potential price hike for shares before they officially list. Brokers foresee the IPO launch by late September, with unlisted NSE shares trading at about ₹1,975, while the IPO size is estimated at around ₹30,000 crore.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133857380,imgsize-297808.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-grey-market-premium-soars-on-sebis-ipo-approval/articleshow/133857380.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-07T02:51:39.366039Z"
+    },
+    {
       "id": "08b3bec7409b5b6524e24eac414179cf",
       "title": "FPIs resume selling, pull out ₹7,443 cr from equities in first week of Sep",
       "description": "After investing in Indian equities for two consecutive months, foreign investors turned net sellers in the first week of September, pulling out Rs 7,443 crore as a rebound in crude oil prices, rising US bond yields, and a firm dollar dented risk appetite. The outflow came after foreign portfolio investors (FPIs) infused Rs 30,919 crore in August and Rs 20,200.",
