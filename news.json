@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "cb66d88d4541ce221d592ee3fce8b2d1",
+      "title": "Smallcap 500 index hits 52-week high; Syrma, Strides, Avalon soar up to 12%",
+      "description": "A total of 36 stocks from the Nifty Smallcap 500 index gained between 5-9%, another 38 stocks rose 4% each, 35 added 3% each and 38 stocks were up 2 per cent each in Monday's intra-day trade. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260907/full-126090700717.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/smallcap-500-index-hits-52-week-high-syrma-strides-avalon-soar-up-to-12-126090700717_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-07T17:13:48.430906Z"
+    },
+    {
+      "id": "a8bfba2ace3d7a1cdf69976e35b52547",
+      "title": "Sebi eases investor group disclosure for FPIs investing in govt bonds",
+      "description": "The move extends a relaxation Sebi had first carved out in September 2025 for FPIs investing only in government bonds under the Fully Accessible Route. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260907/full-126090701180.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-eases-investor-group-disclosure-for-fpis-investing-in-govt-bonds-126090701180_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-07T17:13:48.430000Z"
+    },
+    {
+      "id": "bffe576abb15da7d9c22624180c699cf",
+      "title": "Tata Capital Healthcare Fund expects more IPO candidates from its latest ₹2,500 crore fund",
+      "description": "Tata Capital Healthcare Fund aims to exit over half of its portfolio companies from its new ₹2,500 crore fund via IPOs, pivoting away from traditional strategic sales. The firm is raising ticket sizes while targeting growth drivers like medical devices, and single-specialty chains. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Visalakshi_1788763794427_78bf1c15-fafd-4ac1-80bc-bab6a9a8a1d3_1788763794560_51b53ef8-0bfd-4e80-acd5-d93a64231add_e1f1fd3a-8e7d-4088-be8b-79023d3d70be_ec900d71-4883-414d-b99a-2cd2498f4bfb.jpeg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-capital-healthcare-fund-ipo-exits-rs-2500-crore-fund-11788763641627.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-07T17:13:47.759473Z"
+    },
+    {
+      "id": "3a0ad547582b2867355c7ddc7c524136",
+      "title": "Tata Motors’ Jaguar Land Rover aims to reduce costs by ₹21,700 crore by laying off 4,000 jobs",
+      "description": "Jaguar Land Rover plans to cut up to 4,000 jobs in the UK due to falling sales, American tariffs and competition. The UK government has refused financial aid. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/JLR_1788777751307_6b6fb7d8-bf0c-4dc6-8305-4eb9cb771d83_1788777764423_de47cbfe-1cde-4055-9be3-858dc4f7602f_4303d209-eb4c-4431-a289-6ef366d52535_fb361071-c503-4cf0-b8f4-57d9387c3798.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-motors-jaguar-land-rover-to-lay-off-4-000-jobs-reduce-costs-by-21-700-crore-11788777549404.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-07T17:13:47.759358Z"
+    },
+    {
+      "id": "f362987c694396be76044a93d9581af6",
+      "title": "Penny stock under 10 rupees Nandan Denim jumps 9% despite stock market sell-off",
+      "description": "Nandan Denim's penny stock surged 9% to ₹3.08 on September 7, amid broader market weakness. The Sensex and Nifty fell, influenced by rising crude oil prices and US-Iran tensions. Despite recent gains, the stock is down 13% over the past year. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/nandan_denim_1788775270129_b8029f48-c3b6-4ca3-9597-6d59be7080e3_1788775277907_59765add-62d1-48bd-bfe7-213e369a4d87_030771c5-f60a-4f6a-ae62-41823ee05de7_dd7d9fb8-6006-4400-80f7-e64f4548bac3.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/penny-stock-under-10-rupees-nandan-denim-jumps-9-despite-stock-market-selloff-11788774193408.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-07T17:13:47.128033Z"
+    },
+    {
+      "id": "3c1071aeea0d89d16aa20e836a84b273",
+      "title": "SEBI eases regulatory compliance for FPIs investing only in government securities | Details here",
+      "description": "Indian capital market regulator Securities and Exchange Board of India (SEBI) has reduced the regulatory compliance for all foreign portfolio investors (FPIs) investing exclusively in government securities (G-Secs). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/SEBI_1788782874435_75c7c515-afb7-4e97-a99a-86b4405b4c3f_1788782883408_10bf03a3-e0ad-4fc9-af91-6294d9e35c67_4470245d-e0c0-4c3f-88d5-98cb19e84892_95ce59da-0bb6-46b4-b00c-6afe9254ba56.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sebi-eases-regulatory-compliance-for-fpis-investing-only-in-government-securities-11788782595999.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-07T17:13:47.127747Z"
+    },
+    {
+      "id": "0398508166e8539abc5723bca668cc8f",
+      "title": "Jio Platforms said to target IPO in November, roadshows from next week",
+      "description": "Jio Platforms is targeting a November IPO in its discussions with banks, though deliberations are ongoing and details, including size, valuation and dates, could change. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/INDIA-RELIANCE-24_1713787018722_1788790768353_12fb06ce-b46f-4333-ab70-4204d65b6765_49966eaa-b950-4c9c-83ad-ffe33574b900_1f2cc4f1-c21b-4090-a69a-56fe7fc0e279.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-details-listing-date-share-price-size-valuation-11788790657127.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-09-07T17:13:47.127500Z"
+    },
+    {
+      "id": "8752d7939b1275c9c9bd1a348d45e7f6",
+      "title": "Top stocks in focus tomorrow: Investors must watch Adani Power, Swiggy, Shiprocket shares on Tuesday, 8 Sept | Triggers",
+      "description": "Container Corporation of India, Swiggy, BCPL Railway Infrastructure, Adani Power, Rajputana Stainless, 63 Moons Technologies, and Shiprocket are among the stocks likely to remain in focus on Tuesday.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/07/1600x900/logo/Stocks_to_watc_1788792965494_06d0fec4-d0ac-4b86-91b1-db4da5b7f3f4_1788792979778_a855370b-e125-460b-ae68-01dd60824bda_cbf98d9c-d4e7-425e-920c-134d7efc322e_013d80da-793b-464d-b9db-2105ca205edf.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-adani-power-swiggy-shiprocket-shares-on-tuesday-8-sept-triggers-11788790989089.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-07T17:13:47.127459Z"
+    },
+    {
+      "id": "a22988aeb69cef21136ed69c6f2cff52",
+      "title": "HFCL shares jump 5% as FY26 order book surges 113% to Rs 21,206 crore",
+      "description": "HFCL shares gained nearly 5% after the company’s FY26 Annual Report highlighted a 113% year-on-year surge in its order book to Rs 21,206 crore. Strong growth in revenue, EBITDA and profit, along with a fresh Rs 2,329 crore export order, further strengthened the company’s growth outlook. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133864767,imgsize-2747881.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-jump-5-as-fy26-order-book-surges-113-to-rs-21206-crore/articleshow/133864767.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-07T17:13:46.375220Z"
+    },
+    {
+      "id": "debd8ea2ea0453b8f8864aa5895f75ad",
+      "title": "BSE shares surge 10% in just 3 sessions. What’s driving the rally?",
+      "description": "BSE shares extended their winning streak as Sebi announced a review of the methodology used to determine derivative settlement prices following concerns over the new Closing Auction Session. Trading volumes and option activity have declined sharply, particularly at BSE. A consultation paper expected next week could propose changes aimed at reducing expiry-day volatility and improving risk management.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133865305,imgsize-725358.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-surge-10-in-just-3-sessions-whats-driving-the-rally/articleshow/133865305.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-07T17:13:46.375117Z"
+    },
+    {
+      "id": "e13591925d6c47e205b7439727431f73",
+      "title": "IFCI shares rally 6%, turn multibagger as NSE IPO gets SEBI nod. More upside ahead?",
+      "description": "IFCI shares rallied 6% after Sebi approved NSE’s much-awaited IPO, clearing a key hurdle for the exchange’s listing. IFCI has indirect exposure to NSE through its majority stake in Stock Holding Corporation of India. The stock has surged over 500% in three years, with analysts seeing further upside. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133865991,imgsize-2212645.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-6-turn-multibagger-as-nse-ipo-gets-sebi-nod-more-upside-ahead/articleshow/133865991.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-07T17:13:46.374938Z"
+    },
+    {
+      "id": "6cadff4565eebeef6813ef05fc918313",
+      "title": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why",
+      "description": "Indian IT stocks dropped on Monday as stronger-than-expected US jobs data revived concerns over a September Federal Reserve rate hike. The Nifty IT index dropped over 2%, with Infosys, HCLTech, TCS and others declining. Analysts, however, see longer-term opportunities from AI-led spending on deployment, integration and modernisation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133866433,imgsize-1940011.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-tcs-other-it-stocks-drop-up-to-3-as-fed-rate-hike-worries-return-heres-why/articleshow/133866433.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-07T17:13:46.374845Z"
+    },
+    {
+      "id": "abe79b33329e0db66c41cea06afbe826",
+      "title": "Sebi’s new ETF rules apply today: What changes from September 7 and how they impact investors?",
+      "description": "Sebi’s revised ETF trading rules have come into effect from September 7, changing how price bands and reference prices are determined. The new framework introduces dynamic price bands based on underlying assets and a pre-open auction for gold and silver ETFs, aiming to improve price discovery and reduce premiums or discounts to NAV. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133869479,imgsize-1985885.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebis-new-etf-rules-apply-today-what-changes-from-september-7-and-how-they-impact-investors/articleshow/133869479.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-07T17:13:46.374798Z"
+    },
+    {
+      "id": "ae1c5729b5a4f7c4995a8875eb727539",
+      "title": "India in multi quarter growth upcycle, says Morgan Stanley; sees Sensex at 89,000 by June 2027",
+      "description": "Morgan Stanley sees India entering a multi-quarter growth upcycle, supported by improving investments, monetary policy and domestic demand. The brokerage expects the Sensex to reach 89,000 by June 2027 in its base case, while assigning 25% probabilities to a bull-case target of 100,000 and a bear-case target of 66,000. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133871432,imgsize-2102022.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/india-in-multi-quarter-growth-upcycle-says-morgan-stanley-sees-sensex-at-89000-by-june-2027/articleshow/133871432.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-07T17:13:46.374694Z"
+    },
+    {
+      "id": "0da45bc4eaa55733aa90f7d800c23807",
+      "title": "Prasol Chemicals mobilises Rs 150 cr from anchor investors ahead of IPO",
+      "description": "Prasol Chemicals has raised nearly Rs 150 crore from anchor investors ahead of its Rs 500-crore IPO, which opens on September 8. The speciality chemicals maker allocated shares at Rs 676 each to investors including Tata Mutual Fund, Kotak Mahindra Mutual Fund and Aditya Birla Sun Life Insurance. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133889916,imgsize-103.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/prasol-chemicals-mobilises-rs-150-cr-from-anchor-investors-ahead-of-ipo/articleshow/133889916.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-07T17:13:45.760864Z"
+    },
+    {
       "id": "7fa155501009523bc6c0e06804d69c48",
       "title": "Stocks to watch: LIC, ICICI Bank, SBI, Dixon, Chalet Hotels, TCS & more",
       "description": "Stocks to watch today: ICICI Bank, LIC, SBI, Dixon Tech, TCS, NMDC, JSW Steel, RVNL, Tata Motors, CG Power, BEML, among others, will be in focus today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14501,46 +14686,6 @@
       "imageUrl": "https://images.cnbctv18.com/wp-content/uploads/2019/06/DMart-2-768x494.jpg",
       "type": "news",
       "fullArticleLink": "https://www.business-standard.com/article/companies/dmart-q4-consolidated-net-profit-jumps-52-to-rs-413-cr-121050800519_1.html",
-      "fullArticleName": "Business Standard"
-    },
-    {
-      "id": 168,
-      "date": "Thu May 13 2021",
-      "title": "Asian Paints net profit grows 81% in Q4 of FY21",
-      "description": "Asian Paints consolidated net profit grows 81% from Rs 480 crore in Q4 of FY20 to Rs 870 crore in Q4 of FY21. The company revenue improved to Rs 6,651 crore, a growth of 43% in Q4 of FY21. Its earnings before interest, tax, depreciation and amortization (EBITDA) grew by 53% to Rs 1,318 crore. Asian Paints announced a final dividend of Rs 14.5 per share. The current share price of Asian Paints Ltd is 2560.",
-      "imageUrl": "https://trak.in/wp-content/uploads/2020/05/Untitled-design-1-2.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.moneycontrol.com/news/business/earnings/asian-paints-q4-profit-jumps-81-to-rs-870-crore-volume-and-revenue-beat-estimates-6884601.html",
-      "fullArticleName": "Moneycontrol"
-    },
-    {
-      "id": 169,
-      "date": "Sat May 15 2021",
-      "title": "BPCL supplies free oxygen for Covid treatment",
-      "description": "Bharat Petroleum Corporation Limited (BPCL) will provide free oxygen, power, and water to a 100-bed make-shift Covid treatment centre in Kochi. The company is also setting up PSA Oxygen Plants in two government hospitals in Maharashtra, three Hospitals in Kerala, and five hospitals in Madhya Pradesh. It supplies 600 tonnes of free gaseous oxygen & 100 tonnes of liquid oxygen per month to hospitals. BPCL stock is trading at 442.",
-      "imageUrl": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/03/bpcl-1583555132.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.thehindubusinessline.com/news/bpcl-supplies-oxygen-and-utilities-for-covid-treatment-centre-in-kochi/article34555401.ece",
-      "fullArticleName": "Business Line"
-    },
-    {
-      "id": 170,
-      "date": "Sun May 30 2021",
-      "title": "TCS named the best company to work in the UK",
-      "description": "Tata Consultancy Services (TCS) has been listed among the top 25 Best Big Companies to Work for in the United Kingdom (UK) and among the Best Companies in the Consultancy sector. The company was recognized for prioritising the health and wellness of its employees with initiatives like virtual access to a GP and mental health awareness programs. It has over 4.8 lakh employees in 46 countries. TCS stock is trading at 3146.",
-      "imageUrl": "https://images.cnbctv18.com/wp-content/uploads/2019/01/TCS1-1-768x463.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.business-standard.com/article/companies/tata-consultancy-services-named-the-best-big-company-to-work-for-in-the-uk-121052800482_1.html",
-      "fullArticleName": "Business Standard"
-    },
-    {
-      "id": 171,
-      "date": "Sun Jun 06 2021",
-      "title": "Lupin launched \"Brovana\" Inhalation Solution ",
-      "description": "Lupin has launched an authorized generic version of Brovana (arformoterol tartrate) Inhalation Solution 15 mcg/2 mL of Sunovion Pharmaceuticals in the United States. The drug is used for the maintenance treatment of bronchoconstriction in patients with chronic obstructive pulmonary disease (COPD). COPD is a chronic inflammatory lung disease that causes obstructed airflow from the lungs. Lupin Limited stock is trading at 1231.",
-      "imageUrl": "https://www.lupin.com/wp-content/uploads/2019/12/api-nagpur.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.business-standard.com/article/markets/stocks-to-watch-m-m-pnb-bharat-forge-lupin-rate-sensitive-stocks-121060400153_1.html",
       "fullArticleName": "Business Standard"
     }
   ]
