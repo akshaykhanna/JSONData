@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "d321c922d57a9cd2eae4066a3c343f9f",
+      "title": "HAL, Divis Labs among 3 stocks MOFSL's Chandan Taparia is bullish on",
+      "description": "Till Nifty holds below 23,700, weakness could extend towards 23,500, then 23,400 levels, while on the upside, hurdles can be seen at 23,800, then 23,900 zones. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260909/full-126090900119.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/hal-divis-labs-among-3-stocks-mofsl-s-chandan-taparia-is-bullish-on-126090900119_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-09T03:02:38.459557Z"
+    },
+    {
+      "id": "6096c2266a8091d539931e4801b4ab2a",
+      "title": "Stocks to watch: Sun Pharma, Suzlon Energy, OMCs, Biocon, IHCL, Tata Power",
+      "description": "Stocks to watch: Sun Pharma, Suzlon Energy, OMCs, Biocon, IHCL, Tata Power, TCS, Jio Financial Services, HCL Technologies, Emami Ltd, Bajaj Finance, among others, will be in focus today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260909/full-126090900126.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-sun-pharma-suzlon-energy-omcs-biocon-ihcl-tata-power-126090900126_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T03:02:38.459453Z"
+    },
+    {
+      "id": "0540290564b128d5729975df52efea14",
+      "title": "Adani Enterprises leads rush for ₹37,500 crore coal gasification scheme",
+      "description": "Five companies have filed seven applications in the first round of the ₹37,500 crore scheme, which aims to build 25 gasification plants and curb import dependence. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Adani_Power_Bangladesh_contract_breach_allege_news_1734595305290_1788883096513_d155f5d6-fe8a-4759-bb12-0f24811146df_76d2367d-7299-47bd-ae06-d59110892b4e_09b5eda0-c132-437d-831b-7d0d3d2d0810.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/adani-ntpc-talcher-fertilizers-among-five-applicants-for-rs-37-500-crore-coal-gasification-scheme-11788878908476.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T03:02:37.657507Z"
+    },
+    {
+      "id": "76f6c214cf275c083104a0be578fa533",
+      "title": "With eight acquisitions, Adani Power is the most prolific buyer from bankruptcy court",
+      "description": "Adani Power has made distressed assets a thrifty route to scale, with a third of its operational capacity now coming from acquisitions under the bankruptcy law. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/Adani_Power_Bangladesh_contract_breach_allege_news_1734595305290_1788869158230_e7fb556d-fa90-47ed-b3f4-70e3e0681be9_f8b58032-9262-402d-b0e3-2e7eb0ab1ba2_86558267-3b10-41a9-b6c2-f5c00190e11a.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/adani-power-acquisition-strategy-bankrupt-companies-gvk-energy-11788855834581.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T03:02:37.657351Z"
+    },
+    {
+      "id": "348cb7af9f1bc9684971a6bd54c69e33",
+      "title": "Current IPO GMPs: Open now - Kanohar Electricals vs Prasol Chemicals vs Glass Walls | Subscription status",
+      "description": "IPO GMP Today: On September 8, 2026, Kanohar Electricals, Glass Wall Systems, and Prasol Chemicals launched their IPOs. Check their subscription status for day 1 and IPO gmp today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/IPO_comparison_1788870325164_dab7b531-880a-4183-8f90-c4770849a225_1788870371354_8e1dadb7-b561-4d48-85c7-b26fae8d758a_20b9b207-c9fc-4847-a711-e1cca006639d_044369d3-b910-4bf5-b027-88572697ed65.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/current-ipo-gmps-open-now-kanohar-electricals-vs-prasol-chemicals-vs-glass-walls-subscription-status-11788869932975.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-09T03:02:36.930759Z"
+    },
+    {
+      "id": "89cae1b65aa514f5ac1b21a6a85642e6",
+      "title": "NSE IPO: Bank of Baroda to divest up to 35% of holding in National Stock Exchange through OFS in exchange’s public offer",
+      "description": "Bank of Baroda plans to sell up to 76.90 lakh equity shares, representing 35% of its shareholding in the NSE, through an Offer for Sale as part of the IPO, pending regulatory approvals. The transaction is expected to complete by the end of September 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/logo/NSE_IPO_1788877231719_a5c8b48f-066e-4cce-bc50-7871c0a5bf84_1788877237408_54113f5b-2111-4980-b73e-895df247b5a2_05bdd957-594a-4c20-a076-4c2665f56b7c_368d8273-1cca-4236-aa7d-5c7a826ff126.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nse-ipo-bank-of-baroda-to-divest-up-to-35-of-holding-in-national-stock-exchange-through-ofs-in-exchange-s-public-offer-11788877071192.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-09-09T03:02:36.930607Z"
+    },
+    {
+      "id": "8ed419f585e2c33f6cffd56f92eefebe",
+      "title": "HFCL, Sterlite Tech shares jump 5%: What’s driving up to 705% multibagger run?",
+      "description": "HFCL and Sterlite Technologies hit their upper circuits on Tuesday, extending their sharp 2026 rallies on strong business updates. HFCL has surged over 267% so far this year, while Sterlite Tech has delivered a staggering 705% return, making both standout multibaggers. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133911653,imgsize-2232981.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-sterlite-tech-shares-jump-5-whats-driving-up-to-705-multibagger-run/articleshow/133911653.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-09T03:02:36.067107Z"
+    },
+    {
+      "id": "aadfe7b9ce37d2b48a74fbb861bdcaed",
+      "title": "PC Jeweller shares fall 5% after sharp 3-day rally; stock up 388% in 3 years",
+      "description": "PC Jeweller shares retreated after a 37% three-session rally, likely due to profit booking. Despite the decline, the stock remains up 31% in a week and 45% in 2026, with gains of 388% over three years and 424% over five years. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133911978,imgsize-2139576.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-fall-5-after-sharp-3-day-rally-stock-up-388-in-3-years/articleshow/133911978.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-09T03:02:36.067065Z"
+    },
+    {
+      "id": "fa9208c8ac122734af46020daba3e51b",
+      "title": "Madhu Kela-backed fund invests in Steamhouse India IPO as company raises Rs 124 crore from anchor investors",
+      "description": "Steamhouse India raised Rs 124.2 crore from anchor investors, including funds backed by Madhusudhan Kela and Sunil Singhania, ahead of its Rs 414 crore IPO opening on September 9. The issue, priced at Rs 77-81 per share, comprises a fresh issue of Rs 353 crore and an OFS of Rs 61 crore. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133930760,imgsize-21670.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/madhu-kela-backed-fund-invests-in-steamhouse-india-ipo-as-company-raises-rs-124-crore-from-anchor-investors/articleshow/133930760.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-09T03:02:36.066614Z"
+    },
+    {
+      "id": "bfadbf15d9ecef25e55124f12e256f45",
+      "title": "Defence stocks rally as DAC clears Rs 1.10 lakh crore acquisition proposals",
+      "description": "Defence stocks experienced a notable surge on Tuesday following government approval for military acquisitions. These proposals, valued at approximately ₹1.10 lakh crore, will largely benefit domestic manufacturers. The Nifty India Defence index reached a record high, reflecting strong investor confidence in the sector. Analysts highlight the significant order inflow visibility and structural growth opportunities for Indian companies.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133946794,imgsize-861611.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-rally-as-dac-clears-rs-1-10-lakh-crore-acquisition-proposals/articleshow/133946794.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-09T03:02:36.066473Z"
+    },
+    {
+      "id": "e91f4fbeca439fc2c0bc999ce293235b",
+      "title": "FPIs sell $1.6 billion of Indian stocks in five trading sessions",
+      "description": "After a brief period of optimism, foreign investors are retreating from Indian stocks as rising crude oil prices and escalating global bond yields shift market dynamics. This change reflects a waning interest in emerging market growth assets, compounded by profit-taking strategies and a pivot towards AI investments. While domestic buying could offer some support, ongoing external pressures may dampen overall.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133947090,imgsize-33730.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-sell-1-6-billion-of-indian-stocks-in-five-trading-sessions/articleshow/133947090.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-09T03:02:36.066397Z"
+    },
+    {
+      "id": "5e3824cdbeca2a86633c3cd5bdb93270",
+      "title": "Stocks in news: Biocon, Bank of Baroda, TCS, Sanofi India and Tata Capital",
+      "description": "Indian equity markets hit a seven-week low on Tuesday, primarily due to escalating crude oil prices and geopolitical instability that swayed investor morale. Notably, Bank of Baroda announced plans to divest its interest in the NSE, while TCS secured a major contract. Other companies such as Sanofi India and Piramal Finance also shared pivotal developments, highlighting a mixed bag.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133910314,imgsize-101060.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-biocon-bank-of-baroda-tcs-sanofi-india-and-tata-capital/articleshow/133910314.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T03:02:36.066296Z"
+    },
+    {
+      "id": "a30955cad3f398ebb3f7ffe47c080339",
+      "title": "RIL to tap local bond market after 3 years, lines up Rs 12,500 crore issue",
+      "description": "Reliance Industries takes the forefront as Indian companies turn to domestic bonds for fund-raising. Banks, with their significant surplus funds, are eager to actively invest as they anticipate potential interest rate hikes. The influx of foreign currency has injected substantial liquidity into the banking system, empowering financial institutions to seize high-quality corporate credit opportunities. This key financial update highlights evolving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133948121,imgsize-1427514.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ril-to-tap-local-bond-market-after-3-years-lines-up-12-5k-crore-issue/articleshow/133948121.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T03:02:36.066246Z"
+    },
+    {
+      "id": "6001715c6846536ad6f044299c6fa210",
+      "title": "Industrial stocks lose momentum as Iran war, AI reversal take toll",
+      "description": "Industrial shares have seen a sudden reversal, falling significantly after reaching record highs recently. Rising oil prices and a reversal in the artificial intelligence trade are impacting this sector. Technical indicators signal potential further declines as the index drops below key moving averages. Higher production costs and borrowing expenses threaten manufacturers amid elevated valuations. However, some signs suggest the worst.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133948467,imgsize-58956.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/industrial-stocks-lose-momentum-as-iran-war-ai-reversal-take-toll/articleshow/133948467.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-09T03:02:35.503932Z"
+    },
+    {
+      "id": "26d3f38fc06f6fcc26328733e63c9ed2",
+      "title": "Three SME IPOs to open today: Vinod Texworld, Amtech Esters, Infrax Renewable; check GMP and other details",
+      "description": "Today marks the opening of three Indian SME IPOs: Vinod Texworld, Amtech Esters, and Infrax Renewable. Vinod Texworld is generating significant interest in the grey market, while Amtech Esters is also attracting a premium. In contrast, Infrax Renewable is expected to have a flat listing without any market premium. Collectively, these offerings aim to raise around Rs 101.59 crore, giving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133949289,imgsize-18940.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/three-sme-ipos-to-open-today-vinod-texworld-amtech-esters-infrax-renewable-check-gmp-and-other-details/articleshow/133949289.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-09T03:02:35.503496Z"
+    },
+    {
       "id": "9dded5188113d0ff2f9927fdc1264220",
       "title": "Symphony stock rallies 13.5% on foray into AC, air purifiers & BLDC fans",
       "description": "Symphony share price opened at ₹585.05 as against the last closing price of ₹574.60 and soon rallied to the day's high of ₹652.25, resulting in a 13.51 per cent upside. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14617,156 +14804,6 @@
       "type": "news",
       "fullArticleLink": "https://auto.hindustantimes.com/auto/two-wheelers/signs-of-recovery-hero-motocorp-sells-4-5-lakh-units-in-june-41593597293315.html",
       "fullArticleName": "htauto"
-    },
-    {
-      "id": 100,
-      "date": "Thu Jul 02 2020",
-      "title": "Axis Bank to raise 15,000 crore through share sale",
-      "description": "The country's third-largest private lender, Axis Bank Ltd will raise to ₹15,000 crore. The bank will raise the money through a qualified institutions placement (QIP) or issuance of equity shares or issuance of American depository receipts (ADRs). Some private equity players, including Carlyle, KKR, and Fidelity, have shown interest to buy Axis Bank shares in the proposed QIP. The current stock price of Axis Bank Ltd is 425.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Axis_Bank%2C_Temple_Road%2C_Mysore.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.thehindubusinessline.com/money-and-banking/axis-bank-to-raise-15000-crore-as-capital/article31971186.ece",
-      "fullArticleName": "Business Line"
-    },
-    {
-      "id": 101,
-      "date": "Thu Jul 02 2020",
-      "title": "COVID-19 becomes culprit for the IPO market",
-      "description": "The first six months of 2020 has been one of the worst periods for the Initial Public Offering (IPO) market since the first half of 2012. Many companies were scheduled to launch their IPOs after SBI Card, but COVID-19 punctured the sentiment on the market. Experts feel the trend may revive in the second half of the calendar year (CY) 2020 only if the market and economic activity regains.",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/04/02/19/11/covid-19-4996393_1280.png",
-      "type": "news",
-      "fullArticleLink": "https://www.moneycontrol.com/news/business/markets/ipo-market-sees-worst-h1-in-almost-a-decade-can-the-trend-continue-in-rest-of-2020-5494331.html",
-      "fullArticleName": "Moneycontrol"
-    },
-    {
-      "id": 102,
-      "date": "Fri Jul 03 2020",
-      "title": "Bharat Biotech developed COVID-19 vaccine ",
-      "description": "Bharat Biotech developed a coronavirus vaccine named COVAXIN. A Hyderabad-based company  Bharat Biotech has achieved this success in collaboration with the Indian Council of Medical Research (ICMR) and the National Institute of Virology, Pune. It has got the approval for human trials by the Drug Controller General of India (DCGI). The stock price of Bharat Immunologicals & Biologicals Corporation Ltd (BIBCL) is 16.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bharat_Biotech_Logo.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.financialexpress.com/lifestyle/health/covaxin-coronavirus-vaccine-covid19-vaccine-15-august-icmr-bharat-biotech/2011985/",
-      "fullArticleName": "Financial Express"
-    },
-    {
-      "id": 103,
-      "date": "Fri Jul 03 2020",
-      "title": "Cadila COVID-19 vaccine gets DCGI permission",
-      "description": "Cadila Healthcare COVID-19 vaccine gets Drug Controller General of India's (DCGI's) permission to initiate Phase one and second human clinical trials in India. The vaccine was found a strong response in multiple animal species such as mice, rats, guinea pigs, and rabbits. The company has plans to initiate clinical trials in July 2020 across multiple sites in India in over 1000 subjects. The stock price of Cadila Healthcare Ltd is 365.",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/07/24/21/01/thermometer-1539191_1280.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.livemint.com/companies/news/cadila-health-shares-rise-after-its-covid-vaccine-gets-dcgi-nod-for-human-trials-11593768852156.html",
-      "fullArticleName": "Livemint"
-    },
-    {
-      "id": 104,
-      "date": "Sat Jul 04 2020",
-      "title": "Axis Bank to close its business in Britain",
-      "description": "Private lender Axis Bank will wind up its business in the UK. The bank has initiated proceedings with the regulators in the UK to close down operations of Axis Bank UK Limited, a subsidiary of Axis Bank, and aims to wind up all operations by April 2021. Bank has adopted a clear objective to focus on the Indian banking market. The decision will not impact the financial position of the bank. The stock price of Axis Bank Ltd is 429.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Axis_Bank_Branch_Bagha_Purana_at_Mudki_Road%2C_Bagha_Purana.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-to-close-british-subsidiary-focus-on-indian-business/articleshow/76766077.cms",
-      "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 105,
-      "date": "Sat Jul 04 2020",
-      "title": "Indiabulls Housing FY19-20 Q4 results",
-      "description": "Indiabulls Housing Finance has reported a 37 percent decline in profit before tax for the Q4 of FY19-20. The company reported a pre-tax profit of Rs 789 crore in Q4 of FY19-20 against Rs 1,252 crore in the same period last year. Net profit declined 20.77 percent to Rs 693.53 crore, from Rs 875.39 crore. It results are not good. The stock price of Indiabulls Housing Finance Ltd is 228.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Indiabulls_Park_in_Panvel_Navi_Mumbai_by_Indiabulls_Real_Estate_Dwello.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.business-standard.com/article/companies/indiabulls-housing-finance-reports-37-drop-in-standalone-q4-pre-tax-profit-120070400012_1.html",
-      "fullArticleName": "Business Standard"
-    },
-    {
-      "id": 106,
-      "date": "Sun Jul 05 2020",
-      "title": "Sovereign gold bond 4th tranche opens on July 6",
-      "description": "The fourth tranche of sovereign gold bond of financial year 2020 will open for subscription on July 6 and will close on July 10. The issue price has been fixed at ₹4,852 per gram. But, investors applying online and making payments through digital mode will get a discount of ₹50 per gram. So, the price for them will be ₹4,802 per gram of gold. The minimum investment allowed in the bond is one gram of gold. Its issuance date on July 14.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Gold-295936.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.ndtv.com/business/gold-bond-sgb-scheme-2020-21-gold-bonds-to-be-available-from-july-6-read-this-before-investing-2257440",
-      "fullArticleName": "Ndtv"
-    },
-    {
-      "id": 107,
-      "date": "Mon Jul 06 2020",
-      "title": " Key things to know about the Sovereign Gold Bond",
-      "description": "1) It is issued by the Reserve Bank of India (RBI) on behalf of the government.\n2) The scheme was launched in 2015 to reduce the demand for physical gold.\n3) Its issue price is fixed based on the recent closing price of gold of 999 purity as published by the India Bullion and Jewellers Association Ltd. \n4) It offers an annual interest rate of 2.5% to investors.\n5) Its maturity period is eight years.\n6) Exit option after 5 years.",
-      "imageUrl": "https://c1.wallpaperflare.com/preview/908/857/237/gold-bars-gold-shop-gold-is-money-money.jpg",
-      "type": "learn",
-      "fullArticleLink": "https://www.livemint.com/money/personal-finance/sovereign-gold-bonds-open-for-subscription-today-10-things-to-know-11593921277944.html",
-      "fullArticleName": "Livemint"
-    },
-    {
-      "id": 108,
-      "date": "Mon Jul 06 2020",
-      "title": "Cadila COVID-19 drug \"Desidustat\" gets approval",
-      "description": "Cadila Healthcare Ltd has received approval from Mexico's regulatory authority Cofepris to test one of its lead research vaccine Desidustat in the management of COVID-19 patients. The company will conduct a study to evaluate the response and safety of Desidustat tablets. As a part of the study,100 mg tablets of Desidustat will be used for 14 days during the trial. The current stock price of Cadila is 363.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cylmin_100mg_by_Tsuruhara.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/zydus-cadila-gets-approval-from-mexican-authority-to-test-covid-19-drug/articleshow/76807437.cms",
-      "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 109,
-      "date": "Wed Jul 08 2020",
-      "title": "Cipla launches COVID drug \"Cipremi\" at lowest cost",
-      "description": "Pharma major Cipla has launched its COVID drug Cipremi at Rs 4,000 per 100 mg bottle, which is among the lowest globally, and is looking to supply over 80,000 bottles within the first month. Cipremi has been approved by the Drug Controller General of India (DCGI) for restricted emergency use in the country. It is a generic version of remdesivir. The current stock price of Cipla Ltd is 634.",
-      "imageUrl": "https://c1.wallpaperflare.com/preview/705/44/892/ampoules-vaccination-vaccine-medicine.jpg",
-      "type": "news",
-      "fullArticleLink": "https://timesofindia.indiatimes.com/business/india-business/cipla-launches-generic-version-of-remdesivir-in-india/articleshow/76858964.cms",
-      "fullArticleName": "Times of India"
-    },
-    {
-      "id": 111,
-      "date": "Thu Jul 09 2020",
-      "title": "DHFL done a fraud to PNB of Rs 3688 crore",
-      "description": "India’s second-largest lender Punjab National Bank (PNB) declared its Rs 3688 crore exposure to bankrupt mortgage lender Dewan Housing Finance Limited (DHFL). A fraud of Rs 3688 crore is being reported by Bank to RBI in the accounts of DHFL. The bank has already made provisions amounting to Rs.1246.58 Crore. DHFL has accumulated debt of over Rs 85,000 crore. The current stock price of PNB is 37.15.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/PNB_Head_Office.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.news18.com/news/business/pnb-reports-fraud-of-rs-3688-58-crore-in-npa-account-of-dhfl-2709145.html",
-      "fullArticleName": "News18"
-    },
-    {
-      "id": 112,
-      "date": "Sun Jul 12 2020",
-      "title": "Punjab & Sind Bank reports fraud of 112 crore",
-      "description": "Punjab & Sind Bank reported fraud of Rs 112.42 crore in two Nonperforming assets (NPA) accounts of Maha Associated Hotels and Edyar Zinc. Maha Associated Hotels Pvt Ltd account with outstanding dues of Rs 71.18 crore has been declared as fraud and reported to RBI. The NPA account of Edyar Zinc with outstanding dues of Rs 41.24 crore has been also declared as fraud and reported to RBI. The stock price of Punjab and Sind Bank is 14.10.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/ATM_%28Plahi_Sahib%29.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.indiatvnews.com/business/news-punjab-and-sindh-bank-fraud-633243",
-      "fullArticleName": "Indiatv"
-    },
-    {
-      "id": 113,
-      "date": "Sun Jul 12 2020",
-      "title": "Biocon COVID drug Itolizumab gets DCGI permission",
-      "description": "Biocon drug Itolizumab has been approved by the Drugs Controller General of India (DCGI) for treating moderate to severe Covid-19 patients. Itolizumab Injection 5mL solution is for emergency use in India for the treatment of cytokine release syndrome (CRS) due to Covid-19. The drug was launched in India in 2013 for treating skin disease. The current stock price of Biocon Ltd is 414.",
-      "imageUrl": "https://p1.pxfuel.com/preview/729/511/790/pill-medicine-drug-capsule.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.bloombergquint.com/business/biocon-drug-receives-dcgi-nod-for-use-in-moderate-to-severe-covid-19-patients",
-      "fullArticleName": "Bloombergquint"
-    },
-    {
-      "id": 114,
-      "date": "Mon Jul 13 2020",
-      "title": "Rossari Biotech IPO opens today",
-      "description": "The Rossari Biotech IPO opens on Jul 13, 2020, and closes on Jul 15, 2020. It is a main-board IPO of 11,682,033 equity shares of the face value of ₹2 Per Equity Share. The mainboard IPO's are listed on stock exchanges like NSE and BSE. The issue price of the IPO is ₹423 to ₹425 Per Equity Share. The minimum order quantity is 35 Shares per application and the lot size is 35 Shares. Its allotment will be done on Jul 20, 2020.",
-      "imageUrl": "https://c1.wallpaperflare.com/preview/100/10/335/lab-research-chemistry-test.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.ndtv.com/business/rossari-biotech-ipo-subscription-news-rossari-initial-public-offer-subscribed-over-4-on-day-1-2261730",
-      "fullArticleName": "Ndtv"
-    },
-    {
-      "id": 115,
-      "date": "Mon Jul 13 2020",
-      "title": "Things to know about the Rossari Biotech company",
-      "description": "The company is among the largest manufacturers of textile specialty chemicals in India. It also manufactures acrylic polymers. The company offers three main product categories namely home, personal care, and performance chemicals. Rossari Biotech has a presence in 17 foreign countries including Vietnam, Bangladesh, and Mauritius. The company has two R&D facilities one in the Silvassa, Gujarat, and the second in Mumbai.",
-      "imageUrl": "https://cdn.pixabay.com/photo/2015/10/27/15/24/laboratory-1009178_1280.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/rossari-biotech-ipo-things-you-must-know-about-specialty-chemical-company/articleshow/76907314.cms",
-      "fullArticleName": "Economic Times"
     }
   ]
 }
