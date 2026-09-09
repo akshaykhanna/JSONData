@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "351d2aea72daff11ca01288dacd646aa",
+      "title": "Sensex sheds 813 pts, Nifty ends below 23,450 as crude boils",
+      "description": "The domestic equity benchmarks ended sharply lower today, extending their decline for the third consecutive session as elevated crude oil prices heightened concerns over the macroeconomic outlook. Persistent geopolitical uncertainty, rupee weakness and renewed FII selling further weighed on investor sentiment. The ongoing IPO rush, with 10 issues open for subscription, also diverted liquidity from the secondary market. The Nifty.",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sensex-sheds-813-pts-nifty-ends-below-23-450-as-crude-boils-126090901140_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-09T15:54:21.122294Z"
+    },
+    {
+      "id": "e2a3674724253383dcdec89d9d94b724",
+      "title": "Oil tops $100, rupee breaches 95/$ as stocks reel on US-Iran tensions",
+      "description": "The rupee touched a low of 95.23 against the dollar before settling at 95.11 as Brent crude topped $100 a barrel; dealers cited RBI intervention in spot and swap markets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260909/full-126090901376.jpg",
+      "fullArticleLink": "https://www.business-standard.com/india-news/rupee-falls-past-95-as-crude-surges-rbi-steps-in-with-dollar-sales-126090901376_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-09T15:54:21.121742Z"
+    },
+    {
+      "id": "e9f22d4222d4fa499e09d3b20c4ee863",
+      "title": "Sebi proposes easier director eligibility, norms for key MII officials",
+      "description": "Markets regulator Sebi on Wednesday proposed changes to the eligibility criteria for directors on governing boards of market infrastructure institutions (MIIs), along with standard qualification and experience norms for key officials such as chief technology officers and chief information security officers. In its consultation paper, the regulator said the proposals are aimed at strengthening the governance of MIIs, which include.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260909/full-126090901169.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-proposes-easier-director-eligibility-norms-for-key-mii-officials-126090901169_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-09T15:54:21.121520Z"
+    },
+    {
+      "id": "4ff74c004e4927922c046cddd049ddff",
+      "title": "Tata Trusts gets time till October 15 to respond to ex-trustee Mehli Mistry’s objections: Report",
+      "description": "Former Tata Trustee Mehli Mistry's objections concern change reports recording his exit from three Tata trusts, alleged governance lapses and the eligibility of certain trustees of the Bai Hirabai Trust. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Tata_1788927756162_0dd25961-2820-4488-9558-5e5d26a080a6_1788927780635_f2487367-7329-4b9a-832e-18c683447e6e_40a3f094-9dc0-4209-b891-af2f774198b5_74d4ff7f-8098-4086-84a6-3f92bef01272.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/tata-trusts-gets-time-till-october-15-to-respond-to-ex-trustee-mehli-mistry-s-objections-report-11788927382052.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T15:54:20.444155Z"
+    },
+    {
+      "id": "5b1a51893b7fc8457c96691c6c2fc821",
+      "title": "Singapore Airlines said to seek tougher terms for any fresh Air India funding",
+      "description": "The tougher terms, which would be negotiated with Tata Sons, is likely to include greater board voting power and requirements for Air India to narrow its loss. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Air-India_1788937369016_4d41bb74-0cf9-4275-93f5-b9e7b40c770f_1788937369170_f6034001-42e4-47c9-81e5-badc7b2f288d_ad049b18-17b7-4801-ba1f-6027f41ba702_452e80d0-0f3a-4a1e-ae1d-d9e14e41d943.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/singapore-airlines-said-to-seek-tougher-terms-for-any-fresh-air-india-funding-11788936471598.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T15:54:20.444015Z"
+    },
+    {
+      "id": "a08e6a3d8360bff59b3acd8f65b33c45",
+      "title": "Adani plans $2.5 billion refinancing in India’s biggest offshore loan this year",
+      "description": "Adani Group is breaking the $2.5 billion refinancing loan into two parts to tap different pools of liquidity bring down borrowing costs amid fast changing credit markets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/INDIA-ADANI-ENVIRONMENT-0_1749362592338_1788951153933_e73f3fef-029d-492a-a2d8-a028eeddb297_8872f175-ec7d-430d-b4c5-2ec2118f7a1e_a5e8266f-7ecb-4e69-b3d6-0764510fadcb.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/adani-plans-2-5-billion-refinancing-in-india-s-biggest-offshore-loan-this-year-11788950926206.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T15:54:20.443741Z"
+    },
+    {
+      "id": "c18436d37edf928ff119ad7bef2d455e",
+      "title": "NSE IPO: New India Assurance to sell 1.05 crore shares in the upcoming mega OFS | Details here",
+      "description": "The New India Assurance Company on Wednesday, 9 September, said it will divest 1.05 crore shares of the National Stock Exchange of India (NSE) through the proposed NSE IPO. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/New_India_Assurance_NSE_IPO_1788944951523_9826d873-a28c-4256-afa6-a1e9174dc9d7_1788944959544_7d4ac89b-f026-474a-8c25-c8df9f7df046_8e1cb0a3-50f8-4a80-958b-c3ae62d56409_4649659d-3f46-447e-8857-a6e61516c106.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nse-ipo-new-india-assurance-to-sell-1-05-crore-shares-in-the-upcoming-mega-ofs-details-here-11788944435862.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-09T15:54:19.722777Z"
+    },
+    {
+      "id": "187d30514cb4fc0899b55d54331b64bf",
+      "title": "'Buy' Knowledge Realty Trust for 16% upside, says ICICI Securities; check share price target",
+      "description": "ICICI Securities assigns a Buy rating to Knowledge Realty Trust (KRT) with a target price of ₹130, indicating a 16% upside. The firm is optimistic about KRT's office portfolio and anticipates a 9% NOI CAGR from FY26-29E as occupancy improves. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/knowledge_1788951479964_d2f7a269-1eb9-4460-b0e3-f4196dd5553d_1788951490693_fd7c6a6a-e95e-4553-8dd6-8db2f3f849fc_a4d239c0-cc33-4115-b210-726d6961e10e_cdc227a6-f86b-411c-aed9-cbae53153325.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/buy-knowledge-realty-trust-for-16-upside-says-icici-securities-check-share-price-target-11788946808099.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T15:54:19.722395Z"
+    },
+    {
+      "id": "56f825e821292ffb6237a7fc90d02b65",
+      "title": "Sebi seeks to widen talent pool for stock exchanges and depositories",
+      "description": "The market regulator&nbsp; has proposed easing eligibility rules for directors of market infrastructure institutions while introducing standardised requirements for key technology, cybersecurity, compliance and risk roles. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/INDIA-SEBI-0_1760105208232_1760105217336_1788960793901_b5854432-3974-4f05-b849-3b11fd42aed3_2a054850-44ed-4d9b-962c-56c527883870_72f3f046-2487-4d4f-98e7-58f5f81b7891.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/sebi-seeks-to-widen-talent-pool-for-stock-exchanges-and-depositories-11788956255869.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-09T15:54:19.722020Z"
+    },
+    {
+      "id": "6629e0dcfbf22584718db15668339b57",
+      "title": "Adani Enterprises shares gain over 4% as airports arm plans to raise $1 billion from Temasek, BlackRock, others",
+      "description": "Adani Enterprises shares rose over 4% after Adani Airport Holdings announced a Rs 9,825-crore equity raise from Alpha Wave Global, Premji Invest, Temasek and BlackRock-managed funds. The funds will support airport expansion, modernisation and Airport City projects. AAHL expects the investment to boost capacity, while Adani Enterprises continues delivering strong share-price gains. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133954243,imgsize-2365511.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-shares-gain-over-4-as-airports-arm-plans-to-raise-1-billion-from-temasek-blackrock-others/articleshow/133954243.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-09T15:54:19.120118Z"
+    },
+    {
+      "id": "c2d586763efa2f5c95697e4c0d6e5141",
+      "title": "Paytm shares jump 5% as workplace AI push gains traction",
+      "description": "Paytm shares surged on Wednesday, as investors welcomed the company’s push into enterprise AI, marking an expansion beyond its core payments business. The stock has gained over 20% in the past month, significantly outperforming the broader Nifty 500 and Nifty 50. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133957200,imgsize-1867770.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-jump-5-as-workplace-ai-push-gains-traction/articleshow/133957200.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-09T15:54:19.119892Z"
+    },
+    {
+      "id": "6d481707b0921916083bf7bfd7654169",
+      "title": "Sebi fines two Jindal Steel designated persons for trading-window violations",
+      "description": "Sebi has fined two designated persons of Jindal Steel & Power Rs 1 lakh each for trading in the company’s shares and stock options during the trading-window closure period. The regulator also found that they executed trades above the prescribed threshold without obtaining pre-clearance, in violation of the company’s insider trading code. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133968938,imgsize-54082.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-fines-two-jindal-steel-designated-persons-for-trading-window-violations/articleshow/133968938.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-09T15:54:19.119236Z"
+    },
+    {
+      "id": "2727cfd1b0963e73c64a20a388967856",
+      "title": "India lifts ban on JPMorgan unit in index manipulation charge",
+      "description": "India lifted its trading ban on JPMorgan unit Copthall Mauritius and Mansi Share after they deposited Rs 2.96 crore ($311,230) in alleged unlawful gains. Accused by SEBI of manipulating BSE Sensex closing auction prices to boost options bets, both entities can trade again while the investigation continues. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133969969,imgsize-137410.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/india-lifts-ban-on-jpmorgan-unit-in-index-manipulation-charge/articleshow/133969969.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-09T15:54:19.119122Z"
+    },
+    {
+      "id": "eccaec2ba86fc40724e4dbc790a777ca",
+      "title": "Sebi revises rules for open interest violations in commodity derivatives",
+      "description": "Sebi has revised commodity derivatives position limits and penalties, effective immediately. The new framework caps violation charges, strengthens action against repeated breaches, and updates agri commodity classifications and limits, aiming to ease compliance while improving market risk management across exchanges. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133970428,imgsize-103708.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-rules-for-open-interest-violations-in-commodity-derivatives/articleshow/133970428.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-09T15:54:19.119066Z"
+    },
+    {
+      "id": "09c030f88b9557496c41ccb520c97091",
+      "title": "Rupee falls to 95.11 vs US dollar as West Asia tensions drive oil fears",
+      "description": "The rupee weakened 0.3% to 95.1050 against the dollar as escalating West Asia military tensions pushed Brent crude above $100. RBI intervention helped limit losses, while traders expect the currency to remain volatile amid oil prices, geopolitical risks and potential de-escalation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133971268,imgsize-32366.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-to-95-11-vs-us-dollar-as-west-asia-tensions-drive-oil-fears/articleshow/133971268.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-09T15:54:18.463223Z"
+    },
+    {
       "id": "d321c922d57a9cd2eae4066a3c343f9f",
       "title": "HAL, Divis Labs among 3 stocks MOFSL's Chandan Taparia is bullish on",
       "description": "Till Nifty holds below 23,700, weakness could extend towards 23,500, then 23,400 levels, while on the upside, hurdles can be seen at 23,800, then 23,900 zones. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14654,156 +14840,6 @@
       "type": "news",
       "fullArticleLink": "https://www.newindianexpress.com/business/2020/jun/23/tcs-deploys-digital-solution-remotely-to-help-adani-ports-transform-mundra-operations-2160389.html",
       "fullArticleName": "New Indian Express"
-    },
-    {
-      "id": 85,
-      "date": "Wed Jun 24 2020",
-      "title": "Asian Paints FY19-20 Q4 results",
-      "description": "Paints maker Asian Paints net profit decreased by 2.1 percent to Rs 461.89 crore in the Q4 of FY19-20 as compared to Rs 471.65 crores in the Q4 of FY18-19. The company’s revenue from operations decreased by 7.1 percent to Rs 4,635.59 crore from Rs 4,991.50 crore a year ago. Its profit before tax decreased by 5.7 percent to Rs 699.22 crore from Rs 741.35 crore. It results are not good. Asian Paints Ltd current stock price is 1,748.\n",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Multicolored_tempera_paints.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.bloombergquint.com/quarterly-earnings/what-analysts-have-to-say-about-asian-paints-q4-results",
-      "fullArticleName": "Bloomberg Quint"
-    },
-    {
-      "id": 86,
-      "date": "Thu Jun 25 2020",
-      "title": "HUL will stop using 'Fair' in its skincare brand",
-      "description": "Hindustan Unilever (HUL) the country's biggest consumer products firm will rename its skincare brand \"Fair & Lovely\" and will stop using ‘Fair’ in the product due to an anti-racism protest. Last year, it had removed words such as white and light from its packaging. The product with the revised name will be available in the market in the next few months. The current stock price of Hindustan Unilever Ltd is 2,157.",
-      "imageUrl": "https://p1.pxfuel.com/preview/801/227/629/cream-skin-cream-glass-flowers-dahlia-pink.jpg",
-      "type": "news",
-      "fullArticleLink": "https://timesofindia.indiatimes.com/business/india-business/hindustan-unilever-to-drop-fair-from-fair-lovely/articleshow/76620813.cms",
-      "fullArticleName": "Times of India"
-    },
-    {
-      "id": 87,
-      "date": "Thu Jun 25 2020",
-      "title": "PFC sanctions 1 lakh crore loans in FY19-20",
-      "description": " Power Finance Corporation (PFC) sanctioned loans over Rs 1 lakh crore for power projects during the 2019-20 financial year (FY). Out of the Rs 1 lakh crore, it successfully payout Rs 68,000 crore loans during the last financial year. The company disbursed Rs 11,000 crore during the last week of March. Its non-performing assets (NPAs) reduced to 3.8 percent in 2019-20 from 4.55 percent in 2018-19. The current stock price of PFC is 90.",
-      "imageUrl": "https://c1.wallpaperflare.com/preview/281/821/196/power-line-pylon-electricity.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.moneycontrol.com/news/india/power-finance-corporation-sanctions-over-rs-1-lakh-crore-loans-for-power-projects-in-fy20-5458321.html",
-      "fullArticleName": "Moneycontrol"
-    },
-    {
-      "id": 88,
-      "date": "Fri Jun 26 2020",
-      "title": "IHCL plans to launch \"Qmin\" mobile application",
-      "description": "Tata group's Indian Hotels Company Ltd (IHCL), which owns the high-quality Taj Hotels, announced the launch of the \"Qmin\" mobile application on 25 July. It is an online food delivery platform. With the launch of \"Qmin\", the company will bring Taj to homes. The launch will cover the top ten markets in India including Delhi, Chennai, and Bengaluru in five weeks. The current stock price of IHCL is 81.80.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Taj_Mahal_Palace_Hotel.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/ihcl-forays-into-online-gourmet-food-delivery-with-qmin/articleshow/76625299.cms",
-      "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 89,
-      "date": "Fri Jun 26 2020",
-      "title": "PNC Infratech wins Rs 1,412 crore project",
-      "description": "PNC Infratech has won a Rs 1,412 crore highway project from the National Highways Authority of India (NHAI) in Uttar Pradesh. The company announces receipt of Letter of Award (LOA)  for an NHAI Project of 53.95 km long four-laning of Meerut-Nazibabad section of NH-34 in the state of Uttar Pradesh. The project under Bharatmala Pariyojna will be executed on hybrid payment mode. The current stock price of PNC Infratech Ltd is 139.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/4_lane_roads_network_highways_NH_53_and_NH_6_in_Chhattisgarh_India_2.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.business-standard.com/article/markets/pnc-infratech-jumps-16-on-receipt-of-loa-for-ham-project-of-rs-1-412-cr-120062600243_1.html",
-      "fullArticleName": "Business Standard"
-    },
-    {
-      "id": 90,
-      "date": "Sat Jun 27 2020",
-      "title": "Adani Transmission Kharghar-Vikhroli project ",
-      "description": "Adani Transmission Ltd (ATL) has signed an agreement with the Maharashtra State Electricity Transmission Company for the execution of the Kharghar Vikhroli transmission project. The project comprises approximately 34 km of 400 kV and 220 kV transmission lines at Vikhroli in Mumbai. This project would enable additional power into the Mumbai and help in meeting the future demand of the city. The current stock price of ATL is 277.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pylon_Sheung_Shui.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.outlookindia.com/newsscroll/adani-transmission-inks-pact-to-execute-kharghar-vikhroli-transmission-project/1878380",
-      "fullArticleName": "Outlook India"
-    },
-    {
-      "id": 91,
-      "date": "Sat Jun 27 2020",
-      "title": "JSW Steel reduce workforce due to Covid-19 cases",
-      "description": "According to reports, about 509 Covid-19 cases have been reported from the Bellary district of Karnataka. Out of which 296 cases from the JSW Steel plant. The company is not allowing nearly 11,000 migrant labour coming from nearby villages to work at the 12 million tonne capacity steel plant. But, It will continue operations with the 17,000-18,000 workers at their four colonies and plant sites. The stock price of JSW Steel is 193.",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/10/10/23/22/steel-2839316_1280.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.business-standard.com/article/companies/covid-19-threat-forces-jsw-steel-to-reduce-workforce-at-karnataka-plant-120062601141_1.html",
-      "fullArticleName": "Business Standard"
-    },
-    {
-      "id": 92,
-      "date": "Sun Jun 28 2020",
-      "title": "Bonlon Industries IPO coming on 30th June",
-      "description": "1) The IPO opens on Jun 30, 2020, and closes on Jul 3, 2020. \n2) It is an SME Initial Public Offer (IPO) of 3,756,000 equity shares of the face value of ₹10 aggregating up to ₹10.52 Crores.\n3) The issue price of the IPO is ₹28 Per Share.\n4) The minimum quantity to apply is 4000 Shares per application.\n5) Bonlon Industries Ltd is engaged in manufacturing, trading, and marketing of copper rods and bars.\n6) It is a Fixed Price Issue.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Copper_wire_rod_produced_by_LS_Cable_%26_System.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.chittorgarh.com/ipo/bonlon-industries-ipo/1048/",
-      "fullArticleName": "Chittorgarh"
-    },
-    {
-      "id": 93,
-      "date": "Sun Jun 28 2020",
-      "title": "Sumitomo Chemical India Ltd OFS opens on 29th June",
-      "description": "Sumitomo Chemical Company, promoter of Sumitomo Chemical India Ltd proposes to sell up to 49.91 lakh shares, representing one percent of the total paid-up equity share capital of the company. The OFS will open for Retail Investors on 29th June 2020. The floor price for the sale has been fixed as ₹265. The current stock price of Sumitomo Chemical India Ltd is 290.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sumitomo_Chemical.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.thehindubusinessline.com/markets/stock-markets/offer-for-sale-in-sumitomo-india/article31916758.ece#:~:text=The%20OFS%20has%20an%20option,%E2%82%B9309.5%20on%20the%20BSE",
-      "fullArticleName": "Thehindu Businessline"
-    },
-    {
-      "id": 94,
-      "date": "Mon Jun 29 2020",
-      "title": "Reliance postpones natural gas production in KG-D6",
-      "description": "Reliance Industries Limited (RIL) has postponed the start of production in its eastern offshore Krishna Godavari (KG) D6 block to September/October due to a lockdown. The three deepwater projects in block KG- D6 are R-Cluster, Satellite Cluster, and MJ fields. The combined production of gas from these three fields is expected to be 30 million standard cubic meters per day (mmscmd) by FY2024. The current stock price of RIL is 1,723.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Deepwater_Horizon_oil_spill_-_static_kill.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/industry/energy/oil-gas/reliance-pushes-back-kg-d6-production-to-september/october/articleshow/76670918.cms",
-      "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 95,
-      "date": "Mon Jun 29 2020",
-      "title": "Coal India invest 15,700 crore in conveyor belts",
-      "description": "Coal India Ltd will invest Rs 15,700 crore in conveyor belts to replace the road movement between mines and wagons. Coal will be loaded directly onto wagons with the help of a conveyor. In the first phase, it will upgrade infrastructure at 35 mines. This involved capital expenditure of about Rs 12,300 crore. Phase-2 includes 14 projects in which four subsidiaries will spend Rs 3,400 crore. The stock price of Coal India Ltd is 135.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Coal_Mine.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.business-standard.com/article/companies/coal-india-ups-investment-to-rs-15-700-cr-to-boost-mechanised-transport-120062901400_1.html",
-      "fullArticleName": "Business Standard"
-    },
-    {
-      "id": 96,
-      "date": "Tue Jun 30 2020",
-      "title": "Ruchi Soya stock increases 8,818% in 103 days",
-      "description": "Ruchi Soya Industries Ltd is one of the largest manufacturers of edible oil in India. They have been acquired by Patanjali Ayurved in 2019. The company becomes one of the top 60 companies on Dalal Street in terms of market capitalization after the Baba Ramdev’s Patanjali Group buying in it. Its market value increase to Rs 44,600 crore from Rs 500 crore in just 103 days. The current share price of Ruchi Soya is 1,371.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Devanagari_script_used_in_product_name.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.businesstoday.in/markets/company-stock/patanjali-subsidiary-ruchi-soya-share-gained-8819-2020-here-why/story/408151.html",
-      "fullArticleName": "Business Today"
-    },
-    {
-      "id": 97,
-      "date": "Tue Jun 30 2020",
-      "title": "TCS to announce FY20 Q1 results on 9th July",
-      "description": "IT services major Tata Consultancy Services (TCS) Board of Directors will meet on July 9 to approve the financial results for the quarter one (Q1) of FY20. The company's board will also consider declaration of interim dividend to equity shareholders. The dividend shall be paid to only those shareholders whose names appear on the Register of Members of the company. The current stock price of TCS is 2085.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Butterfly_Head_Tower%2C_TCS%2C_SIPCOT.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.moneycontrol.com/news/business/tcs-to-announce-q1-results-on-july-9-5486041.htm",
-      "fullArticleName": "Moneycontrol"
-    },
-    {
-      "id": 98,
-      "date": "Wed Jul 01 2020",
-      "title": "M&M reports a 55% fall in total sales in June",
-      "description": "Auto major Mahindra & Mahindra (M&M) reported a 55 percent fall in total sales from 42,547 units to 19,358 units in June 2020. Domestic sales dropped 53 percent to 18,505 units in June 2020 as against 39,471 units in June 2019. The commercial vehicle sales fall 36 percent to 10,417 units in June 2020 as against 16,394 units in the last year of June month. The current stock price of M&M is 502.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Mahindra_XUV_500_W6_2013.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.livemint.com/companies/news/mahindra-records-55-fall-in-total-sales-at-19-358-units-in-june-11593597309946.html",
-      "fullArticleName": "Livemint"
-    },
-    {
-      "id": 99,
-      "date": "Wed Jul 01 2020",
-      "title": "Hero MotoCorp records 4.5 lakh units sales in June",
-      "description": "Hero MotoCorp the world's largest two-wheeler manufacturer has made 4.5 lakh units of sales in June 2020. The company's records four times rise in a sale from 112,682 units in May 2020 to 450,744 units in June 2020 due to a large demand from rural and semi-urban markets. In June of last year, it sold 6.16 lakh two-wheelers. The current stock price of Hero Motocorp Ltd is 2,544.\n",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Hero_passion_pro_bike_2014-05-30_14-18.jpg",
-      "type": "news",
-      "fullArticleLink": "https://auto.hindustantimes.com/auto/two-wheelers/signs-of-recovery-hero-motocorp-sells-4-5-lakh-units-in-june-41593597293315.html",
-      "fullArticleName": "htauto"
     }
   ]
 }
