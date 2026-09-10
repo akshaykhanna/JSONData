@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "e0882f0423cd949fba9fd9336827c177",
+      "title": "NSE IPO shrinks as SBI, Bank of Baroda, MS Strategic trim their OFS size",
+      "description": "Key selling shareholders have reduced the offer to 126.4 million shares from 148.9 million earlier; IPO is now expected to garner up to Rs 23,000 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260910/full-126091001138.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/stock-market-news/nse-ipo-shrinks-as-sbi-bank-of-baroda-ms-strategic-trim-their-ofs-size-126091001138_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T15:49:09.146982Z"
+    },
+    {
+      "id": "e0b330d37751e8fdd1da015ac8674743",
+      "title": "CAS faced initial liquidity issues across global markets: Sebi chairman",
+      "description": "Says AI can help the regulator shift to 'proactive' monitoring from 'periodic' monitoring; Sebi is also set to propose changes to the closing auction framework. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260910/full-126091001263.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/cas-faced-initial-liquidity-issues-across-global-markets-sebi-chairman-126091001263_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-10T15:49:09.146703Z"
+    },
+    {
+      "id": "30857558bf9838810c3e926f124aabf7",
+      "title": "Sebi launches Demat 2.0 pilot for tokenised corporate bonds using DLT",
+      "description": "Three companies have issued tokenised bonds worth Rs 1,025 crore so far; the pilot will test issuance, holding, trading and settlement using distributed ledger technology. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260910/full-126091001301.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-launches-demat-2-0-pilot-for-tokenised-corporate-bonds-using-dlt-126091001301_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-10T15:49:09.146615Z"
+    },
+    {
+      "id": "c406dbd869ae297310d9072e6bd42e7a",
+      "title": "HDFC Bank wins all seven Bahrain cases over Credit Suisse AT1 bonds",
+      "description": "HDFC Bank said the Bahrain court found that the investors had failed to provide sufficient admissible evidence to substantiate the allegations or establish that they suffered losses because of the bank. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/HDB-FINANCIALSERVICES-IPO--0_1733848469052_1789048895824_a035948c-2b1d-44be-a1fa-30c438567f38_0532bc08-6d99-4dbe-88e2-cc6d200aa3f8_c64777d5-0fae-4997-9138-88278b2268d1.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/hdfc-bank-wins-all-seven-bahrain-cases-over-credit-suisse-at1-bonds-11789043137629.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T15:49:08.289840Z"
+    },
+    {
+      "id": "de1dcc3610b0c0093ed85f929b714a14",
+      "title": "Coforge eyes industry-leading growth. Will chairman’s exit derail the story?",
+      "description": "Coforge’s strong deal wins, sustained execution and improving cash conversion have kept it in good stead. So far in 2026, the stock has fetched 11% returns, widely beating the 26% drop in the Nifty IT index. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/2-0-92795709--ABH0030-0_1681816800466_1789027554185_c760e68c-c36d-4ea8-a227-d6d1434fce63_20d4424a-477e-49cc-80c2-8c3281473d65_8ce61e17-2453-4586-be2b-3bd133415a31.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/coforge-chairman-resignation-coforge-share-price-it-sector-india-nifty-it-11789024044076.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-10T15:49:07.487041Z"
+    },
+    {
+      "id": "31eba58440c0ccdc5a20e3158a93fe63",
+      "title": "Enviro Infra Engineers shares rise 5% on Rs 224 crore wind EPC order from Tata Power RE",
+      "description": "Enviro Infra Engineers shares sharply after its step-down subsidiary Suyog Urja received a Rs 224.19 crore LOI from Tata Power Renewable Energy for EPC works on a 180 MW NTPC wind project in Maharashtra. The contract covers foundation, balance-of-plant and transmission-line works, strengthening the company’s renewable energy portfolio. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133994920,imgsize-2061244.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/enviro-infra-engineers-shares-rise-5-on-rs-224-crore-wind-epc-order-from-tata-power-re/articleshow/133994920.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T15:49:06.349575Z"
+    },
+    {
+      "id": "7b8de28659fa9dacfaf3e1bbdece4bf1",
+      "title": "Jefferies says Adani Enterprises is the ‘platform behind platforms’ with 4 major growth levers",
+      "description": "Jefferies retained a Buy rating on Adani Enterprises with a Rs 3,830 target, citing its infrastructure incubation model and strong growth potential. The brokerage expects a 23% EBITDA CAGR through FY31, led by airports, data centres and ANIL. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133996418,imgsize-2421753.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-adani-enterprises-is-the-platform-behind-platforms-with-4-major-growth-levers/articleshow/133996418.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T15:49:06.349385Z"
+    },
+    {
+      "id": "5f105304d9b804ee3c91705cd701308a",
+      "title": "Molbio Diagnostics shares rally 30% in 2 days, jump 80% since debut. What lies ahead?",
+      "description": "Molbio Diagnostics shares have surged nearly 30% in two sessions, extending their post-listing gains to around 80% from the IPO price. The sharp rally comes as the newly listed company reported a strong Q1 FY27 performance, swinging to a profit of Rs 58.75 crore from a loss in the year-ago quarter. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133997329,imgsize-1880072.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/molbio-diagnostics-shares-rally-30-in-2-days-jump-80-since-debut-what-lies-ahead/articleshow/133997329.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-09-10T15:49:06.349251Z"
+    },
+    {
+      "id": "ababd30381964f2a9fba795ca745f92c",
+      "title": "Losing money in Nifty? 8 beaten-down largecap stocks see promoters increase stake in 2026",
+      "description": "Promoters raised stakes in eight Nifty largecaps despite stock declines in 2026, with Jio Financial, Bharti Airtel and Reliance among the companies seeing higher holdings. The moves suggest continued promoter confidence amid a challenging phase for largecap equities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133998097,imgsize-2376266.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/losing-money-in-nifty-8-beaten-down-largecap-stocks-see-promoters-increase-stake-in-2026/articleshow/133998097.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T15:49:06.349163Z"
+    },
+    {
+      "id": "976e35ea772710df61513f3c041840b4",
+      "title": "HFCL shares hit lower circuit after 240% rally in 2026. What technical charts now indicate",
+      "description": "HFCL shares hit the 5% lower circuit on Thursday, extending their two-day decline to 7% despite a 240% rally so far in 2026. The stock is currently consolidating in the Rs 257–218 range, with technical indicators pointing to a sideways bias, according to SBI Securities’ Sudeep Shah. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133998015,imgsize-1988104.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-hit-lower-circuit-after-240-rally-in-2026-what-technical-charts-now-indicate/articleshow/133998015.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T15:49:06.349073Z"
+    },
+    {
+      "id": "5f73bb280e3ab7af827ebcbd0b74e346",
+      "title": "CAS wild swing: Sensex soars 1,000 points on expiry day but ends only 138 points higher",
+      "description": "In a surprising turnaround, India's stock market indices, Sensex and Nifty, erased intraday losses to close positively on Thursday. Ending a three-day decline, the benchmarks saw Power Grid and Axis Bank surge by nearly two percent, contributing to the upward momentum. Additionally, significant names like UltraTech Cement and NTPC also recorded gains. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134003708,imgsize-32934.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cas-swing-sensex-closes-138-pts-higher-nifty-above-23450-as-market-reverses-losses-despite-soaring-oil-prices-whats-ahead/articleshow/134003708.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-10T15:49:06.348834Z"
+    },
+    {
+      "id": "ae01b4b951a70fa66f4916976414ea55",
+      "title": "Karan Adani settles PMC Projects case with Sebi by paying Rs 13.65 lakh",
+      "description": "The settlement relates to ​an investigation into banking transactions and inter-corporate security deposits involving ​PMC Projects (India) Private Limited, Adani Ports and Special Economic Zone Ltd (APSEZ), and the port operator's ​subsidiaries. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134008216,imgsize-122564.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-settles-disclosure-violation-charges-against-adani-ports-ceo-cfo/articleshow/134008216.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T15:49:06.348611Z"
+    },
+    {
+      "id": "8a200e5704eb0b4a8f8fdb9e74e3ec28",
+      "title": "Sebi completes first phase of Demat 2.0 bond pilot; secondary trading next: Tuhin Kanta Pandey",
+      "description": "The Securities and Exchange Board of India (SEBI) has completed the first phase of its Demat 2.0 pilot for corporate bonds and will next bring secondary-market trading into the new technology framework, SEBI Chairman said on Thursday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134008996,imgsize-73248.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-completes-first-phase-of-demat-2-0-bond-pilot-secondary-trading-next-tuhin-kanta-pandey/articleshow/134008996.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-10T15:49:06.348556Z"
+    },
+    {
+      "id": "c185e5c1480712f1f27d69d39ecdcb6d",
+      "title": "Sonaselection India IPO opens on September 17 at Rs 94-99 per share",
+      "description": "Sonaselection India will launch its IPO on September 17 at Rs 94-99 per share, targeting around Rs 141.6 crore. The Rajasthan-based fabric maker will use proceeds to repay borrowings, buy machinery and fund corporate purposes before NSE-BSE listing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134008483,imgsize-18718.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/sonaselection-india-ipo-opens-on-september-17-at-rs-94-99-per-share/articleshow/134008483.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-10T15:49:05.694265Z"
+    },
+    {
+      "id": "8db91165646fd12b19150d60ff0fe610",
+      "title": "Sebi settles disclosure violation charges against Adani Ports CEO, CFO",
+      "description": "India's Securities and Exchange Board of India has resolved disclosure breach allegations against two Adani Ports executives, who each settled by paying 1.37 million rupees without acknowledging any fault. This action comes after a thorough probe into banking operations and inter-corporate security deposits, triggered by concerns over financial reporting violations. The inquiry was part of a broader review sparked.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134008815,imgsize-244970.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/india-market-regulator-settles-disclosure-violation-charges-against-adani-ports-ceo-cfo/articleshow/134008815.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T15:49:05.694146Z"
+    },
+    {
       "id": "fa4084ee41e1464999bd147c93cbcbe4",
       "title": "Nifty could edge lower to 23,300; HAL among 3 stock ideas: Ajit Mishra",
       "description": "Stock ideas for today: The index could now move towards the next support zone of 23,300-23,100, while any recovery is likely to face resistance around 23,600-23,800. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14736,148 +14927,6 @@
       "type": "news",
       "fullArticleLink": "https://www.business-standard.com/article/companies/hyderabad-s-raghav-life-sciences-develops-favipiravir-for-covid-19-patients-120060500792_1.html",
       "fullArticleName": "Business Standard"
-    },
-    {
-      "id": 54,
-      "title": "US drug maker launch covid-19 drug",
-      "description": "US drugmaker to launch its brand of Covid-19 experimental drug Remdesivir in the country in a July month. Gilead has licensed the drug to four companies i.e Cipla, Mylan, Hetero, and Jubilant Life Sciences for sale in India, but none of these firms have received approval from the drug controller. Most of the four companies are ready with their products and are awaiting a nod from the regulator to manufacture. ",
-      "imageUrl": "https://media.defense.gov/2020/Apr/30/2002293722/780/780/0/200429-A-HZ730-1005.JPG",
-      "type": "news",
-      "fullArticleName": "Economic Times",
-      "fullArticleLink": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-licensees-free-to-price-remdesivir-gilead/articleshow/76185458.cms"
-    },
-    {
-      "id": 55,
-      "title": "Sun pharma phase 2 clinical trial",
-      "description": "Sun Pharma initiates the Phase 2 clinical trial on AQCH, a phytopharmaceutical drug, as a potential treatment for COVID-19 patients. The clinical trial will be conducted across 12 centers in India in 210 patients. The treatment duration for patients will be 10 days. The results of the clinical trial are expected by October 2020. This is the first phytopharmaceutical drug approved\nfor clinical trials by the DCGI. ",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/03/16/19/45/drug-4938120_1280.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.ndtv.com/business/coronavirus-pandemic-news-sun-pharma-testing-plant-based-drug-aqch-as-potential-covid-19-treatment-2241164",
-      "fullArticleName": "NDTV"
-    },
-    {
-      "id": 57,
-      "title": "PVR experiencing huge losses due to covid-19",
-      "description": "PVR Ltd reported a net loss of Rs 74.61 crore for the Q4. Due to the coronavirus outbreak in India, theatres had stopped operations since the second week of March which led to 0 collections. Further cinemas are in the last phase of unlocking and even dates of reopening will be decided after assessing the situation. Cinema business in  March have suffered losses of around Rs800 crore & many releases have delayed like Sooryavanshi, Radhe.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/PVR_Plaza_No_poster_for_Padmaavati.jpg",
-      "type": "news",
-      "fullArticleName": "moneycontrol.com",
-      "fullArticleLink": "https://www.moneycontrol.com/news/business/earnings/pvr-feels-lockdown-pain-slumps-to-q4-loss-of-rs-74-61-crore-5376301.html"
-    },
-    {
-      "id": 58,
-      "title": "Hero motocorp started selling there bikes online",
-      "description": "In the current times of maintaining social distancing, Hero MotoCorp has started online eSHOP to buy & book two-wheeler from the home. Via eShop user can select the variant of 2 Wheeler colour, city, choose dealer & make payment. After doc verification, the vehicle would be delivered & there a representative will collect physical sign ( that is RTO mandate). Companies who had previously done the same are Harley-Davidson, Suzuki and KTM.",
-      "imageUrl": "https://c.pxhere.com/photos/95/ef/photo-89751.jpg!d",
-      "type": "news",
-      "fullArticleName": "Time Now",
-      "fullArticleLink": "https://www.timesnownews.com/auto/bike-news/article/hero-motocorp-eshop-now-buy-hero-scooters-and-bikes-online/603778"
-    },
-    {
-      "id": 59,
-      "title": "Court orders franklin templeton to suspend e-vote",
-      "description": "Franklin Templeton created panic in MF markets in April when it announced of closing 6 funds which invested in lower-rated debt in return of higher yields. This effected $3bn of customers funds & they ask for approval before shutting these. The fund house purposed investor to e-vote on the decision whether it be managed by them or third party. But high court said that the vote could not go until an audit of the 6 funds is made public.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_Ben_Head.jpg/800px-Logo_Ben_Head.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/mf/mf-news/franklin-templeton-mutual-fund-suspends-e-vote-on-winding-up-of-six-schemes/articleshow/76272003.cms",
-      "fullArticleName": "economictimes"
-    },
-    {
-      "id": 60,
-      "title": "Sovereign gold bond scheme 2020-21 series-3",
-      "description": "The Sovereign Gold Bond Scheme (SGB) 2020-21 Series 3 is open for subscription for the period from June 08, 2020, to June 12, 2020. The minimum investment in SGB is one gram while the maximum is 4 kg of gold. And, the price has been set at Rs 4677 per gram of gold. However, for those applying online and making payment through digital mode, there is a discount of Rs 50 per gram, hence the price for them is set at Rs 4627. ",
-      "imageUrl": "https://i2.pickpik.com/photos/203/660/898/gold-gold-is-money-business-money-preview.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.financialexpress.com/money/sovereign-gold-bond-scheme-sgb-2020-21-series-iii-opens-at-rs-4677-per-gram-should-you-invest/1984617/",
-      "fullArticleName": "Financial Express"
-    },
-    {
-      "id": 61,
-      "title": "What is an offer for sale ?",
-      "description": "An Offer for Sale(OFS) is a mechanism where promoters in a listed company sell their shares directly to the public in a transparent manner. This mechanism was first introduced in the market by SEBI in 2012.  In an OFS, promoters of a company dilute their stake by selling their shares on an exchange platform. Retail investors, companies, and Foreign Institutional Investors (FIIs) can bid on these shares at the floor price set.",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/09/07/12/57/sale-2725059_1280.png",
-      "type": "learn",
-      "fullArticleLink": "https://www.edelweiss.in/investology/introduction-to-primary-market-79a025/what-is-ofs-offer-for-sale-3414d3",
-      "fullArticleName": "Edelweiss"
-    },
-    {
-      "id": 62,
-      "title": "SBI life insurance ofs coming",
-      "description": "State Bank of India (SBI) proposed to sell a 2.10 percent stake in SBI Life, set a floor price of Rs 725 for the offer for sale (OFS), which stands at 2.24 percent discount to the closing price of Rs 741.25. The country’s biggest lender by assets is aiming to sell around 2.10 crore shares through OFS. The issue will open on June 12 for non-retail investors and on June 15 for retail investors.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/SBI_in_Huzurabad.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-sets-floor-price-of-rs-725-for-ofs-to-divest-2-1-stake-in-sbi-life-insurance/articleshow/76325803.cms",
-      "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 63,
-      "date": "Sun Jun 14 2020",
-      "title": "Books to eliminate fear of stock market volatility",
-      "description": "'Warren Buffett's Ground Rules,' by Jeremy C. Miller: curated from the compilation of letter sent by buffet on conservative investing. \"I Will Teach You To Be Rich\" talks about prioritizing spending, reducing debt & automate financing. Mastering The Market Cycle,' by Howard Marks: focuses on the cyclical nature of investing and markets. 'Unshakeable: Your Financial Freedom Playbook: deals to keep money solid through the ups and downs.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Books_HD_%288314929977%29.jpg",
-      "type": "learn",
-      "fullArticleLink": "https://www.businessinsider.in/stock-market/news/6-of-the-best-personal-finance-books-to-read-if-youre-freaking-out-about-the-stock-market/articleshow/74748076.cms",
-      "fullArticleName": "businessinsider"
-    },
-    {
-      "id": 64,
-      "date": "Sun Jun 14 2020",
-      "title": "Reliance jio got 10 investment deals in 2 months",
-      "description": "New investments to the bandwagon of investment in reliance Jio is by global alternative asset firm TPG which would invest Rs 4,546.80 crore and L Catterton Rs 1,894.50 crore at an enterprise value of Rs 5.16 lakh crore. Previous eight investment deals were by Facebook, Silver Lake, Vista Equity Partners, General Atlantic, KKR, Mubadala, ADIA, and TPG which since April 22 brought in Rs 104,326.95 crore.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jio_sim.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/10-deals-in-2-months-ril-says-tpg-l-catterton-will-invest-rs-6441-cr-in-jio-platforms/articleshow/76363719.cms",
-      "fullArticleName": "economictimes"
-    },
-    {
-      "id": 65,
-      "date": "Mon Jun 15 2020",
-      "title": "RBI decision can bring bad news for kotak bank ",
-      "description": "RBI plans to limit the tenure of the CEO of Kotak Mahindra bank. RBI suggested that the tenure of promoter CEOs should be limited to 10 & Non-promoter for 15 years. Currently, Uday Kotak, is the promoter and CEO of the bank, has been in this position since inception. The stock price could show some volatility due to this. RBI reason behind this is his bad experience with promoters of other banks like Bank of Rajasthan, GTB & Yes Bank",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kotak_Mahindra_Bank_ATM.JPG",
-      "type": "news",
-      "fullArticleLink": "https://www.livemint.com/industry/banking/rbi-s-plan-to-hit-kotak-mahindra-the-hardest-11591982061499.html",
-      "fullArticleName": "livemint"
-    },
-    {
-      "id": 66,
-      "date": "Tue Jun 16 2020",
-      "title": "Tata motors discontinue JTP brand",
-      "description": "Tata Motors will discontinue its Jayem Tata Performance(JTP) brand of performance cars due to reduced demand for such vehicles in the consequences of the Covid-19 pandemic. JT Special Vehicles (JTSV), a 50:50 joint venture between Jayem Automotives and Tata Motors, made high-performance versions of Tata Motors’ passenger cars. The venture had so far developed and marketed the Tiago JTP and Tigor JTP.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Tiago_Test_Drive_Car_Bengaluru.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.cnbctv18.com/auto/tata-motors-to-discontinue-jtp-performance-cars-will-acquire-jayem-automotives-stake-in-jt-special-vehicles-6133101.htm",
-      "fullArticleName": "Cnbctv18"
-    },
-    {
-      "id": 67,
-      "date": "Tue Jun 16 2020",
-      "title": "Indiabulls housing finance raises 200 crore ",
-      "description": "Indiabulls Housing Finance has raised Rs 200 crore by issuing securities to two large public sector banks on a private placement basis. The company has allotted 2,000 secured, redeemable, non-convertible debentures (NCDs) of face value Rs 10 lakh each aggregating to Rs 200 crore. The NCDs with 546 days maturity carry a coupon of 9 percent per annum payable annually.",
-      "imageUrl": "https://p1.pxfuel.com/preview/394/842/338/rupee-indian-india-money-bank-note-bill.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.zeebiz.com/companies/news-indiabulls-housing-finance-raises-rs-200-cr-from-2-public-lenders-128979",
-      "fullArticleName": "Zeebiz"
-    },
-    {
-      "id": 68,
-      "date": "Tue Jun 16 2020",
-      "title": "Hamdard launched RoohAfza Fusion",
-      "description": "Hamdard Laboratories India enters into the ready-to-drink segment with the launch of fruit juice flavors and milkshake under its popular RoohAfza brand. The company has launched RoohAfza Fusion with real fruit juices in five flavors of litchi, lemon, orange, pineapple, and mango in a convenient ready to drink, Tetrapak format for the Indian market.\n",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Milk_Roohafza.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/roohafza-fusion-hamdard-laboratories-india-enters-ready-to-drink-segment/articleshow/76401692.cms",
-      "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 69,
-      "date": "Wed Jun 17 2020",
-      "title": "HDFC AMC ofs opened today",
-      "description": "Promoter entity Standard Life Investments will sell a 5.64 percent stake in HDFC Asset Management Company (AMC) via an offer for sale (OFS). \"Standard Life Investments proposes to sell up to 60,00,000 equity shares. The floor price for the sale has been fixed as Rs 2,362 per share. Non-retail investors can participate in the issue on June 17. On June 18, the issue will remain open for non-retail as well as retail investors.",
-      "imageUrl": "https://cdn.pixabay.com/photo/2019/10/23/15/35/sale-4571926_960_720.png",
-      "type": "news",
-      "fullArticleLink": "https://www.moneycontrol.com/news/business/markets/standard-life-investments-to-offload-5-64-stake-in-hdfc-amc-via-ofs-5412581.html",
-      "fullArticleName": "Moneycontrol"
     }
   ]
 }
