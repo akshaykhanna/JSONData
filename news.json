@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "fa4084ee41e1464999bd147c93cbcbe4",
+      "title": "Nifty could edge lower to 23,300; HAL among 3 stock ideas: Ajit Mishra",
+      "description": "Stock ideas for today: The index could now move towards the next support zone of 23,300-23,100, while any recovery is likely to face resistance around 23,600-23,800. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260910/full-126091000103.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-buy-nifty-could-edge-lower-to-23-300-hal-among-3-stock-ideas-ajit-mishra-126091000103_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-10T03:03:12.309437Z"
+    },
+    {
+      "id": "856851ea23b44d9ce4e15865f2a490da",
+      "title": "Stocks to watch: ICICI Pru AMC, Meesho, Wipro, Shakti Pumps, Hindustan Zinc",
+      "description": "Stocks to watch: ICICI Pru AMC, Meesho, Wipro, Shakti Pumps, Hindustan Zinc, Sun Pharma, Bank of Baroda, Axis Bank, MCX, among others, will be in focus today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260910/full-126091000109.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-icici-pru-amc-meesho-wipro-shakti-pumps-hindustan-zinc-126091000109_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T03:03:12.309384Z"
+    },
+    {
+      "id": "cbe3554d89730edfd791f7748defc9b9",
+      "title": "NSE IPO: Exchange to freeze ISIN from September 11; no offline share transfers allowed until listing",
+      "description": "The NSE will freeze its ISIN starting September 11, 2026, ahead of its IPO. Shareholders are advised against pledging shares during the freeze, which prevents transfers without corporate action. Additionally, Indian Bank and others plan to sell stakes as part of the offering process. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/NSE_IPO_news_1788972515643_7aae7b64-bfcd-4e20-b184-3ebfa60c99ba_1788972523625_cc0bbe85-1abf-4abd-8c1f-c9dfa41c5eb3_fc025413-f6ef-4b45-9767-e51f31f69d52_4cbe4736-f44d-427e-bcd7-b331fb81d603.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nse-ipo-exchange-to-freeze-isin-from-september-11-no-offline-share-transfers-allowed-until-listing-11788971269619.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-09-10T03:03:10.836949Z"
+    },
+    {
+      "id": "516b7499444ca7ce26049d1ec65da444",
+      "title": "AI-Driven IPO Wave Set to Accompany Anthropic Listing",
+      "description": "With the Labor Day holiday — and summer in the US — now officially over, the traditional push to the end of the year in the market for initial public offerings is on. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "fullArticleLink": "https://www.livemint.com/market/aidriven-ipo-wave-set-to-accompany-anthropic-listing-11788992244915.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-10T03:03:10.836642Z"
+    },
+    {
+      "id": "45a556686bc53dce6f3f42e6b7260946",
+      "title": "Vodafone Idea a high-beta turnaround play, says Jefferies; initiates buy with 29% upside potential",
+      "description": "Jefferies initiated coverage on Vodafone Idea with a Buy rating and Rs 20 target, citing subscriber stabilisation, tariff hikes and operating leverage. The brokerage expects strong revenue and cash EBITDA growth, but flags funding needs, execution risks and cash outflows. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133969890,imgsize-173354.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-a-high-beta-turnaround-play-says-jefferies-initiates-buy-with-29-upside-potential/articleshow/133969890.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-10T03:03:10.061366Z"
+    },
+    {
+      "id": "8f64283cd3dcb8b5d631c274da15caf5",
+      "title": "RBI Deputy Governor Rohit Jain flags speed, concentration and opacity as fintech risks; says technology must serve customers",
+      "description": "RBI Deputy Governor Rohit Jain warned financial institutions and fintech firms that rapid adoption of emerging technologies brings risks around speed, concentration and opacity. He said institutions must ensure technology works fairly, reliably and safely for customers, while retaining responsibility for outcomes even when computing, cloud infrastructure or models are outsourced. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133988633,imgsize-53672.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-deputy-governor-rohit-jain-flags-speed-concentration-and-opacity-as-fintech-risks-says-technology-must-serve-customers/articleshow/133988633.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-10T03:03:10.061265Z"
+    },
+    {
+      "id": "e688401fe07a2b7180172f8652a9b9b5",
+      "title": "ICICI Prudential AMC gets RBI approval to buy up to 9.95% stake in Kotak and 3 other banks",
+      "description": "ICICI Prudential AMC secured Reserve Bank of India approval for significant bank share acquisitions. The approval allows for aggregate holdings up to 9.95 percent in four specific banks. These banks include Kotak Mahindra Bank, AU Small Finance Bank, CSB Bank, and DCB Bank. The acquisitions will be made as an investment manager for various mutual fund schemes. This move provides.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133979457,imgsize-23450.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-gets-rbi-approval-to-buy-up-to-9-95-stake-in-kotak-and-3-other-banks/articleshow/133979457.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T03:03:10.061187Z"
+    },
+    {
+      "id": "5e53e772e37e7eb02c48eb7427ec32d6",
+      "title": "Nifty IT index plunges 3.2%, posts biggest single-day fall in 3 months",
+      "description": "The Nifty IT index experienced its largest single-day drop in three months on Wednesday. Several IT stocks saw significant declines, reversing recent gains in the market. Renewed risk-off sentiment and US interest rate hike worries triggered the broad sell-off. Geopolitical tensions and rising oil prices also contributed to the pressure on IT firms. Concerns over H-1B visa costs and generative.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133988374,imgsize-109054.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-it-index-plunges-nearly-5-on-us-rate-hike-worries/articleshow/133988374.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-10T03:03:10.061010Z"
+    },
+    {
+      "id": "7bb839e113eb5f7cdcce8aef69e5d337",
+      "title": "Stocks in news: Reliance Industries, Wipro, ICICI Bank, Coal India and Hindustan Zinc",
+      "description": "Indian equity markets experienced a decline on Wednesday, extending their recent corrective phase. Several companies, including Reliance Industries and Coal India, are expected to be in focus. Railway stocks will be watched after the government approved five new projects costing over ₹10,000 crore. Hindustan Zinc signed a six-year contract for electric trucks, while Wipro launched a new cybersecurity center.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133988014,imgsize-232918.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-wipro-icici-bank-coal-india-and-hindustan-zinc/articleshow/133988014.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-10T03:03:10.060888Z"
+    },
+    {
+      "id": "c2fb34e454cb2fd7c9a0f6f9214f182e",
+      "title": "ESDS Software surges 235% in 4 sessions as AI infra fever grips markets",
+      "description": "After the recent launch of its IPO, ESDS Software Solutions has seen a noteworthy increase in stock performance, indicating strong investor confidence in the expansion of India's data-centre landscape. This shift is largely due to the soaring demand for cloud technology and AI services. By 2030, India's data-centre capacity is anticipated to grow significantly, fueled by favorable policies and investments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133988900,imgsize-421805.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/esds-software-surges-235-in-4-sessions-as-ai-infra-fever-grips-markets/articleshow/133988900.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-10T03:03:10.060765Z"
+    },
+    {
+      "id": "0d5cfc742e3c9841ae300cb6fa6d9243",
+      "title": "JPMorgan unit, Mansi Share gets nod to trade, but can’t participate in CAS",
+      "description": "Sebi has removed trading restrictions on Copthall Mauritius Investment and Mansi Share after they deposited questionable gains with the regulator last month. This decision aligns with Sebi's directive to block certain funds from their accounts. Nevertheless, they will still face limitations when participating in the closing auction session, as investigations into claims of market manipulation persist.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133989698,imgsize-152930.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jpmorgan-unit-mansi-share-gets-nod-to-trade-but-cant-participate-in-cas/articleshow/133989698.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-10T03:03:10.060676Z"
+    },
+    {
+      "id": "d29de638d2dbc5e7f2084801b56dd35d",
+      "title": "Dividend alert! Last day to buy IREDA, Kalyan Jewellers among more than 100 stocks for dividends. Do you own any?",
+      "description": "Under Sebi's T+1 settlement cycle, investors need to purchase a company's shares at least one trading day before the record date to ensure the shares are credited to their demat accounts in time, and they become eligible for the corporate action. Accordingly, today is the last opportunity for investors to buy the shares so that they are credited to their.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133991174,imgsize-1809020.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-ireda-kalyan-jewellers-among-more-than-100-stocks-for-dividends-do-you-own-any/articleshow/133991174.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-10T03:03:10.060483Z"
+    },
+    {
+      "id": "e13e9ae48080cf43a975eb7a762184f0",
+      "title": "NSE slashes IPO size to Rs 23,500 crore in revised Sebi filing",
+      "description": "The National Stock Exchange has updated its draft prospectus with Sebi, slashing its initial public offering size to about twenty-two thousand five hundred crore rupees. Existing shareholders will see their offer for sale drop to five point two five percent of the paid-up capital. Anticipating a launch in the third week of September, this adjustment may enable Hyundai Motor India.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133988238,imgsize-312510.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-slashes-ipo-size-to-rs-23500-crore-in-revised-sebi-filing/articleshow/133988238.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-10T03:03:09.201486Z"
+    },
+    {
+      "id": "e917f26e2de4b28237a27a34e7840d95",
+      "title": "Oil Price Today (September 10): Crude oil at $101 as Iran attack on 10 ships raises supply fears. $120 in sight?",
+      "description": "On Thursday, oil prices surged above one hundred dollars per barrel as traders evaluated the risks associated with supply disruptions stemming from recent shipping attacks. Iran has claimed responsibility for targeting ten vessels after the United States destroyed five tankers. Market analysts warn that if tensions continue in the contested Strait of Hormuz, oil prices could escalate further, potentially reaching.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133990953,imgsize-131462.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-10-crude-oil-at-101-as-iran-attack-on-10-ships-raises-supply-fears-120-in-sight/articleshow/133990953.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-10T03:03:09.201012Z"
+    },
+    {
+      "id": "8ae3584ed8eb7f8a3ef07e3e12f0e48c",
+      "title": "Hero Motors fixes IPO price band at Rs 79-84 for Rs 1,000-crore issue. Know important dates, other details",
+      "description": "Hero Motors has announced an initial public offering (IPO) price range between Rs 79 and Rs 84, set to open for subscription on Wednesday, September 16. Anchor investors have the opportunity to place their bids a day prior to the public offering. The funds generated through the IPO are earmarked for reducing debt and expanding facilities. The company's stock market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-133991003,imgsize-2120715.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-fixes-ipo-price-band-at-rs-79-84-for-rs-1000-crore-issue-know-important-dates-other-details/articleshow/133991003.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-10T03:03:09.200950Z"
+    },
+    {
       "id": "351d2aea72daff11ca01288dacd646aa",
       "title": "Sensex sheds 813 pts, Nifty ends below 23,450 as crude boils",
       "description": "The domestic equity benchmarks ended sharply lower today, extending their decline for the third consecutive session as elevated crude oil prices heightened concerns over the macroeconomic outlook. Persistent geopolitical uncertainty, rupee weakness and renewed FII selling further weighed on investor sentiment. The ongoing IPO rush, with 10 issues open for subscription, also diverted liquidity from the secondary market. The Nifty.",
@@ -14690,156 +14878,6 @@
       "type": "news",
       "fullArticleLink": "https://www.moneycontrol.com/news/business/markets/standard-life-investments-to-offload-5-64-stake-in-hdfc-amc-via-ofs-5412581.html",
       "fullArticleName": "Moneycontrol"
-    },
-    {
-      "id": 70,
-      "date": "Wed Jun 17 2020",
-      "title": "Ashok Leyland plans to raise 200 crore.",
-      "description": "Hinduja group company Ashok Leyland board will meet later this week to discuss a plan to raise Rs 200 crore via NCDs. A meeting of the fundraising committee of the board is proposed to be held on June 19 to consider and issue secured, rated, listed, redeemable nonconvertible debentures (NCDs) aggregating to Rs 200 crore on a private placement basis, in one or more tranches.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ashok_Leyland_Ecomet_912.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.livemint.com/companies/news/ashok-leyland-plans-to-raise-rs-200-crore-via-ncds-11592329067328.html",
-      "fullArticleName": "Livemint"
-    },
-    {
-      "id": 71,
-      "date": "Thu Jun 18 2020",
-      "title": "Pidilite Industries FY19-20 Q4 results",
-      "description": "Pidilite Industries reported a 33.92 percent decline in its consolidated net profit to Rs 156.51 crore for the fourth quarter (Q4) of FY19-20. The company had posted a net profit of Rs 236.87 crore for the Q4 of FY18-19. Its revenue from operations declined to Rs 1,544.68 crore for the Q4 of the financial year (FY) 2019-20 as compared with Rs 1,639.28 crore in the same period of 2018-19.",
-      "imageUrl": "https://c1.peakpx.com/wallpaper/986/339/647/adhesive-fix-glue-repair-wallpaper-preview.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/pidilite-industries-q4-results-reports-33-dip-in-net-profit/articleshow/76430598.cms",
-      "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 72,
-      "date": "Thu Jun 18 2020",
-      "title": "Mahindra & Mahindra launched Supro Ambulance",
-      "description": "Mahindra & Mahindra has launched the Supro ambulance in two variants, LX and ZX at Rs 6.94 lakh. The first batch of the Supro has been produced exclusively for the Maharashtra government to meet the ambulance requirements in their fight against Coronavirus. It is powered by a BS-VI compliant 909cc diesel engine that produces 47PS and 100 Newton Metre (Nm) of torque and is connected to a 5-speed manual gearbox.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/QAS-ambulance.png",
-      "type": "news",
-      "fullArticleLink": "https://www.moneycontrol.com/news/technology/auto/mahindra-supro-ambulance-launched-at-rs-6-94-lakh-first-batch-manufactured-for-maharashtra-5422241.html",
-      "fullArticleName": "Moneycontrol"
-    },
-    {
-      "id": 73,
-      "date": "Fri Jun 19 2020",
-      "title": "RIL becomes India's first $150 bn company",
-      "description": "The oil-to-telecom powerful organization Reliance Industries (RIL) became the first Indian company to be valued at $150 billion. In rupee terms, it also became the first company to be valued at over Rs 11 lakh crore. RIL now net-debt free after raising Rs 1.69 lakh crore in less than two months. Shares of the company rallied to its all-time high of Rs 1,738.95 on June 19 from its panic low of Rs 867.82, record on March 23.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Reliance_Industries.jpg",
-      "type": "news",
-      "fullArticleLink": "https://indianexpress.com/article/business/companies/mukesh-ambani-reliance-industries-ril-net-debt-free-jio-platforms-rights-issue-6465968/",
-      "fullArticleName": "Indian Express"
-    },
-    {
-      "id": 74,
-      "date": "Fri Jun 19 2020",
-      "title": "Grant permission to sell Favipiravir Covid drug ",
-      "description": "The Drug Controller General of India (DCGI) has granted permission to manufacture and sell Glenmark pharmaceuticals Favipiravir for Covid-19. The approval has been given under “restricted use” in mild to moderate cases of Covid-19 infection. Its every strip containing 34 tablets will come at an approximate MRP of Rs 3500. For the treatment, 122 tablets will be required for 14 days.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Covid_19_vaccins.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/dcgi-grants-permission-to-manufacture-and-sell-glenmark-pharmaceuticals-favipiravir-for-covid-19/articleshow/76468590.cms",
-      "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 75,
-      "date": "Sat Jun 20 2020",
-      "title": "Bajaj Auto launches split seat Pulsar 125",
-      "description": "Bajaj Auto launches a split seat variant of Pulsar 125, priced at Rs 79,091. The new Pulsar 125 split seat is powered by 125cc BS6 DTS-i engine and comes with features such a 5-speed gearbox with a primary kick to enable the rider start the bike in any gear, clip-on handlebars on a 31mm front fork, a wide digital console with trip meter and an anti-skid braking system.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Pulsar_ug3.JPG",
-      "type": "news",
-      "fullArticleLink": "https://www.carandbike.com/news/bajaj-pulsar-125-split-seat-variant-launched-in-india-priced-at-rs-79-091-2248231",
-      "fullArticleName": "Car and bike"
-    },
-    {
-      "id": 76,
-      "date": "Sat Jun 20 2020",
-      "title": "Punjab National Bank FY19-20 Q4 results",
-      "description": "Punjab National Bank net loss reduced to Rs 697.20 crore for the Q4 of FY19-20. Its net loss reduced to Rs 4,749.64 crore in the same quarter of FY18-19. The asset quality of the lender improved with the percentage of gross non-performing assets (NPA) at 14.21 percent against 15.90 percent year on year (YoY). PNB made provisions of Rs 4,901.31 crore for bad loans which is 51.33 percent down from the last year. It results are good. ",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Punjab_national_bank_in_South_Road_-_geograph.org.uk_-_1519911.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.moneycontrol.com/news/business/earnings/punjab-national-bank-narrows-q4-loss-to-rs-697-crore-as-bad-loans-ease-5433521.html",
-      "fullArticleName": "Moneycontrol"
-    },
-    {
-      "id": 77,
-      "date": "Sun Jun 21 2020",
-      "title": "Cipla launches remdesivir drug for COVID-19",
-      "description": "Homegrown pharma major Cipla Ltd announced the launch of its generic version of remdesivir, which has been authorized for emergency use in the treatment of COVID-19 patients by the USFDA, under its brand name Cipremi. Remdesivir is the only USFDA approved Emergency Use Authorisation (EUA) treatment for adult and paediatric patients hospitalized with laboratory-confirmed COVID-19 infection.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Generic_finasteride_tablets_cipla.jpg",
-      "type": "news",
-      "fullArticleName": "Economic Times",
-      "fullArticleLink": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-launches-generic-remdesivir-for-covid-19-patients/articleshow/76498277.cms"
-    },
-    {
-      "id": 78,
-      "date": "Sun Jun 21 2020",
-      "title": "Dr Reddy's launches drug for prostate cancer",
-      "description": "Pharma major Dr. Reddy's Laboratories has launched generic Abiraterone Acetate tablets, used for the treatment of prostate cancer, in the US market. The company has launched Abiraterone Acetate tablets in the strength of 250 mg, after the approval from the United States Food and Drug Administration (USFDA). The product is a generic version of Johnson & Johnson's Zytiga tablets.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Dr_reddys_logo_%281%29.jpg",
-      "type": "news",
-      "fullArticleName": "Business Standard",
-      "fullArticleLink": "https://www.business-standard.com/article/companies/dr-reddy-s-launches-cancer-drug-abiraterone-acetate-in-us-market-120061900983_1.html"
-    },
-    {
-      "id": 79,
-      "date": "Mon Jun 22 2020",
-      "title": "Alembic Pharma tentative approval for its tablets",
-      "description": "Alembic Pharma has received tentative approval from the US health regulator for its generic version of Rivaroxaban tablets used in the treatment of embolism and deep vein thrombosis(DVT). The approval by the US Food & Drug Administration (USFDA) for the Rivaroxaban tablet is for multiple strengths of 10 mg, 15 mg, and 20 mg. The tablet is also used for the reduction of risk of stroke. The current stock price of Alembic Pharma is 934.50.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Blausen_0290_DeepVeinThrombosis.png",
-      "type": "news",
-      "fullArticleLink": "https://www.expresspharma.in/latest-updates/alembic-pharma-gets-tentative-us-fda-nod-for-generic-rivaroxaban-tablets/",
-      "fullArticleName": "Express Pharma"
-    },
-    {
-      "id": 80,
-      "date": "Mon Jun 22 2020",
-      "title": "Biocon expand drugs business with DKSH company",
-      "description": "Biocon has partnered with DKSH company to expand its generic drugs business. Biocon Pharma has signed an agreement with DKSH Business Unit Healthcare to sell and distribute seven generic medicines in Singapore and Thailand. These seven generic doses from various areas like diabetology, cardiology, oncology, and immunology will be sold under Biocon’s brand in these key Asian markets. The current stock price of Biocon Ltd is 387.70.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Syngene.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.thehindubusinessline.com/companies/biocon-ties-up-with-dksh-for-distribution-of-seven-products-in-singapore-thailand/article31886745.ece",
-      "fullArticleName": "Business Line"
-    },
-    {
-      "id": 81,
-      "date": "Mon Jun 22 2020",
-      "title": "What is a Debenture ?",
-      "description": "1) A debenture is a type of debt instrument with no collateral backing.\n2) It relies on the creditworthiness and reputation of the issuer for support.\n3) It usually has a term greater than 10 years.\n4) Corporations and governments frequently issue debentures to raise capital or funds.\n5) This debt instrument pays an interest rate and is repayable on a fixed date.\n6) Some debentures can convert to equity shares while others cannot.",
-      "imageUrl": "https://www.thebluediamondgallery.com/hand-held-card/images/debenture-holders.jpg",
-      "type": "learn",
-      "fullArticleLink": "https://www.investopedia.com/terms/d/debenture.asp",
-      "fullArticleName": "Investopedia"
-    },
-    {
-      "id": 82,
-      "date": "Tue Jun 23 2020",
-      "title": "Kamdhenu Group resumes 60% operations",
-      "description": "The Steel Bars manufacturer Kamdhenu Group has resumed 60 percent operations at its plants across the country. The company has manufacturing plants in states like Odisha, Gujarat, Karnataka, Telangana, Andhra Pradesh, Bihar, Goa, Rajasthan, Uttar Pradesh, Uttarakhand, Himachal Pradesh, Punjab, etc. The Gurugram-based company has also a presence in the power and paints segment. The current stock price of Kamdhenu Ltd is 79.",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/10/12/08/45/steel-construction-1733848_1280.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.moneycontrol.com/news/business/kamdhenu-group-resumes-operations-across-all-plants-5438431.html",
-      "fullArticleName": "Moneycontrol"
-    },
-    {
-      "id": 83,
-      "date": "Tue Jun 23 2020",
-      "title": "Eicher Motors sales volume reduced",
-      "description": "Eicher Motors, the maker of Royal Enfield bikes, is expected to face a significant drop in sales volume as customers go to postpone spending amid pay cuts and job losses. Royal Enfield’s (RE) volumes have contracted for the past six quarters in a row. The total volume for FY19-20 fell by 15.6% to nearly seven lakh units. The current stock price of Eicher Motors Ltd is 17,911.15.",
-      "imageUrl": "https://cdn.pixabay.com/photo/2017/11/23/04/08/royal-enfield-2972007_1280.jpg",
-      "type": "news",
-      "fullArticleLink": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/eicher-motors-expects-significant-drop-in-sales/articleshow/76507574.cms",
-      "fullArticleName": "Economic Times"
-    },
-    {
-      "id": 84,
-      "date": "Wed Jun 24 2020",
-      "title": "TCS deploys the DynaPORT solution for Adani Ports",
-      "description": "IT services major Tata Consultancy Services (TCS) has deployed its terminal operating system 'TCS DynaPORT' at the Mundra CT4 terminal for Adani Ports and Special Economic Zone (APSEZ), India's largest private port operator and end-to-end logistics provider. APSEZ operates 11 ports and terminals that represent 24 percent of India's port capacity. The current stock price of TCS is 2,042.\n",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/TCS_Gitabitan_-_DN_54-55_Sector_V_Salt_Lake_City_-_Kolkata_20170515121609.jpg",
-      "type": "news",
-      "fullArticleLink": "https://www.newindianexpress.com/business/2020/jun/23/tcs-deploys-digital-solution-remotely-to-help-adani-ports-transform-mundra-operations-2160389.html",
-      "fullArticleName": "New Indian Express"
     }
   ]
 }
