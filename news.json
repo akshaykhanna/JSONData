@@ -1,6 +1,206 @@
 {
   "news": [
     {
+      "id": "52e4de51eddeaad35537190b9b25cae4",
+      "title": "Global funds turn wary of Indian stocks as AI boom draws money elsewhere",
+      "description": "India's appeal to global fund managers is weakening amid muted corporate earnings and the lack of a major AI investment theme, pushing foreign ownership of NSE-listed companies to a 17-year low. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260912/full-126091200092.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/global-funds-turn-wary-of-indian-stocks-as-ai-boom-draws-money-elsewhere-126091200092_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-14T03:20:47.920028Z"
+    },
+    {
+      "id": "f568d715df42229c8d4f41cae06b835b",
+      "title": "Zeta targets global profitability in FY27 as overseas business scales",
+      "description": "The banking-tech firm expects years of investment in international markets to start translating into revenue, while larger bank partnerships drive its India expansion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/3-0-5879100-Ramki-Gaddipati-0_1679807245151_1789293222895_cd2b2647-bf55-4266-b292-9dc0458b8343_2699a185-11ec-4b6a-8858-ff59c847eba8_2581f765-1766-46ce-b763-26f085bf2c93.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/zeta-targets-global-profitability-in-fy27-as-overseas-business-scales-11789282205322.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-14T03:20:47.229876Z"
+    },
+    {
+      "id": "b60d2ee100b00131efb0b2a582d6410d",
+      "title": "Yes to Shanghvi, no to Tata: Why RBI did not follow its precedent set in 2023",
+      "description": "Like Shanghvi Finance, Tata Sons too paid off all its borrowings and applied to surrender its NBFC licence but didn't get a reprieve on listing from the RBI. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/INDIA-TECH--16_1760276645095_1760276654484_1789292147876_264627e4-592a-49f4-99d6-86a7266b7837_29412db1-c1b3-4890-9c00-880edb644d6b_39185483-1b3a-48bd-b596-d0aec6f90ce4.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-ipo-listing-shanghvi-finance-rbi-upper-layer-nbfc-list-11789283397025.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T03:20:47.229619Z"
+    },
+    {
+      "id": "5334fad9f0473232de9897ed521a7830",
+      "title": "Test looms for Tata Sons board meet amid division in Tata Trusts",
+      "description": "Only a consensus between Noel Tata, who wants to keep Tata Sons private, and Venu Srinivasan, who wants a Tata Sons IPO, can resolve the deadlock. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/INDIA-TATA-21_1789313373222_fb205cd9-3ad6-439d-8003-c49e36322fb2_1789313380630_de97260b-65c4-4f56-8644-cd6df5ed7ffe_0127063e-5efa-4459-8468-f38319143cf1_60781a16-7339-4807-b155-1cff4e35e8a5.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-board-meeting-ipo-listing-discussion-tata-trusts-noel-tata-11789307136577.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T03:20:47.229568Z"
+    },
+    {
+      "id": "cff18dc4f34a7e7c70e582d2773202c4",
+      "title": "RBI's Tata Sons listing push may be a lifeline for SP Group — if it comes in time",
+      "description": "The Shapoorji Pallonji Group sees a potential solution through a Tata Sons listing as suggested by the RBI, despite the lengthy timeline. Liquidity issues persist, complicating settlement talks over its minority stake while the group navigates significant debt obligations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/INDIA-TATA-22_1789311049283_679ff3b3-bd2e-4dc3-a34a-4b89da98e839_1789311055228_a0c4a2af-ef1e-441c-8c0f-05eb552b3237_2a3711be-0b78-409f-90d0-d7e62cb770c4_b93e406e-ed38-4caa-b434-143b430f825d.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/rbi-tata-sons-ipo-listing-impact-on-shapoorji-pallonji-group-debt-11789296937772.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T03:20:47.229460Z"
+    },
+    {
+      "id": "515774fc0f8555948c7ab3b6000dbb7b",
+      "title": "Upcoming IPOs: GMP comparison | NSE IPO, SS Retail IPO to Hero Motors IPO - Grey market winner is?",
+      "description": "Upcoming IPOs: This week sees around five IPOs opening for subscription, with nearly 10 listings following. The NSE's IPO will start on 17 September, raising an estimated ₹21,494 crore to ₹22,569 crore. Other IPOs include SS Retail, Jindal Supreme, and Hero Motors.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/Upcoming_ipos_1789351146511_d5a5990d-1363-48c6-86b9-e0c56c62bd09_1789351152453_412126e7-e1de-4ab8-a3cf-7f19560a3739_70a4ed21-ff9c-4a76-b5ec-26a105e53320_3ed7fb0e-0367-4dc4-bead-d880af3e828c.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/upcoming-ipos-gmp-comparison-nse-ipo-ss-retail-ipo-to-hero-motors-ipo-grey-market-winner-is-11789348906997.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-14T03:20:46.614617Z"
+    },
+    {
+      "id": "2d50fea3d71cbec35108724980c43f3f",
+      "title": "HDFC CEO race: One insider, one outsider in contention for the top job",
+      "description": "HDFC Bank has nominated Kaizad Bharucha and an external candidate for the top leadership role. The bank seeks a six-month tenure rule relaxation for Bharucha to complete a full term. Anup Bagchi and K Balasubramanian were strong external contenders for the position. Bharucha offers continuity during the bank's ongoing integration and leadership transition. The external candidate was chosen for experience.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134230002,imgsize-2713085.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-ceo-race-one-insider-one-outsider-in-contention-for-the-top-job/articleshow/134230002.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T03:20:45.830373Z"
+    },
+    {
+      "id": "bc2b041289d1df0fb771ee42a4695a50",
+      "title": "SP Group weighs Rs 3,500 crore debt repayment options",
+      "description": "Shapoorji Pallonji Group is exploring debt options for a ₹3,500 crore repayment. The central bank's Tata Sons listing mandate offers investors a clear repayment path. This directive will build investor confidence in monetizing Tata group stakes. It also assures future redemption commitments for the conglomerate. The group seeks to manage its financial obligations effectively. This key financial update highlights evolving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134229719,imgsize-44596.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/shapoorji-pallonji-weighs-options-to-refinance-rs-3500-crore-debt-due-this-month/articleshow/134229719.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T03:20:45.830340Z"
+    },
+    {
+      "id": "0161189d28dc09f89d3c38454b958866",
+      "title": "CAS set for a rework: What's up for change",
+      "description": "India's securities regulator is reviewing its new closing auction framework. This review follows initial implementation challenges and market participant concerns. Sebi proposes changes to derivatives settlement and market timings. Order cancellation rules are also being tightened to prevent price manipulation. These adjustments aim to improve the robustness of closing price discovery. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134230014,imgsize-2663348.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cas-set-for-a-rework-whats-up-for-change/articleshow/134230014.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-14T03:20:45.830226Z"
+    },
+    {
+      "id": "3f700a29d891ee2b39d287d4e9ed259e",
+      "title": "Oversold Nifty could see a short-term rebound: Analysts",
+      "description": "Indian stock indices, Sensex and Nifty, have extended their losing streak for a fifth week. Analysts suggest the indices have entered oversold territory, indicating a potential short-term rebound. Traders are advised to consider specific strategies like a Bull Put Spread for the September 29, 2026 expiry. Several top stocks, including Kotak Mahindra Bank and BHEL, are recommended for buying.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134230304,imgsize-122798.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/market-outlook-analysts-pick-key-levels-and-stocks-to-watch/articleshow/134230304.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-14T03:20:45.830164Z"
+    },
+    {
+      "id": "f0d931de847288621b99909937251ae4",
+      "title": "Vodafone Idea shares zoom 102% in one year. Is there more steam left after multibagger returns?",
+      "description": "Vodafone Idea shares have surged 102% over the past year, prompting investors to reassess whether the rally has further room to run. While Jefferies sees the stock as a high-beta turnaround opportunity and expects it to reach Rs 20, other brokerages remain cautious. With the stock already above most analyst targets, technical indicators suggest further upside, but risks remain.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134180333,imgsize-121482.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/vodafone-idea-shares-zoom-102-in-one-year-is-there-more-steam-left-after-multibagger-returns/articleshow/134180333.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-14T03:20:45.134575Z"
+    },
+    {
+      "id": "c8f7ec2a787ae12b4e636c13923eb853",
+      "title": "Inside NSE IPO journey: Why India's largest exchange took 10 long years to reach Dalal Street",
+      "description": "After nearly a decade of delays, NSE is finally set to enter the public markets with its IPO. The issue will be entirely an offer for sale, allowing existing shareholders to sell their stakes without raising fresh capital for the exchange. From the co-location controversy to the Supreme Court settlement, several regulatory and legal hurdles had delayed NSE’s market debut.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134188204,imgsize-79350.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/inside-nse-ipo-journey-why-indias-largest-exchange-took-10-long-years-to-reach-dalal-street/articleshow/134188204.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-14T03:20:45.134456Z"
+    },
+    {
+      "id": "10bc060f8e78a50fefba8f0063b98dac",
+      "title": "Tata Sons may be valued up to Rs 12.5 lakh cr in IPO",
+      "description": "Tata Sons' potential IPO valuation is estimated between ₹9-12.5 lakh crore., reflecting a discount on its underlying portfolio worth ₹15-16 lakh crore. Investors will price listed stakes and unlisted businesses, applying a holding company discount. The Reserve Bank of India rejected Tata Sons' plea to remain private. This decision effectively mandates the conglomerate's public listing soon.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134229861,imgsize-23014.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-may-be-valued-up-to-12-5-lakh-cr-in-ipo/articleshow/134229861.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T03:20:45.134349Z"
+    },
+    {
+      "id": "2221024335fa5c3d9ab2e5e2b0343455",
+      "title": "Tata Sons listing could unlock value in Tata group stocks after recent selloff",
+      "description": "Tata group stocks may see gains after recent declines. Investors anticipate Tata Sons' upcoming public listing and its impact. Several listed companies hold significant stakes in the group's holding company. These stakes are valued at substantial amounts relative to their market capitalizations. The potential listing is expected to influence the valuation of these group entities.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134229835,imgsize-13678.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-listing-could-unlock-value-in-tata-group-stocks-after-recent-selloff/articleshow/134229835.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T03:20:45.134216Z"
+    },
+    {
+      "id": "4f112bcb7c6d8bb90f7036904b4416aa",
+      "title": "Tata Sons listing to improve SP Group bond outlook; yields seen tightening",
+      "description": "Shapoorji Pallonji bond yields are expected to tighten significantly after the RBI rejected Tata Sons' application. The Reserve Bank of India's decision mandates the listing of Tata Sons, ending regulatory uncertainty. This development provides a clearer path for monetizing the SP group's stake in Tata Sons. Investors who financed the SP group at high yields anticipate improved risk rewards.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134229864,imgsize-19756.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/sp-group-bond-yields-set-to-tighten-as-tata-sons-listing-improves-repayment-visibility/articleshow/134229864.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T03:20:45.134123Z"
+    },
+    {
       "id": "616c24d8fa29dfd045965f5fe0619be4",
       "title": "Who is Asha Sharma? Indian-origin Xbox CEO who lives by ‘clarity is kindness’ as she tries to reshape company's future",
       "description": "Asha Sharma, CEO of Microsoft’s Xbox division, is pursuing an aggressive turnaround amid declining revenue, weak Game Pass projections and major job cuts. Her hands-on leadership style and ambitious growth targets have drawn attention as she seeks to reshape the gaming business. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
@@ -14807,198 +15007,6 @@
         "Corporate"
       ],
       "pubDate": "2026-08-05T02:13:43.811336Z"
-    },
-    {
-      "id": "c43346d2e46b9e6d5ce623188bccae5d",
-      "title": "Nykaa says quick delivery isn’t hurting margins as Q1 profit jumps 226%",
-      "description": "FSN E-Commerce's Q1 net profit rose to ₹80 crore as higher order frequency sustained quick-commerce margins, while its fashion arm turned Ebitda-positive.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/NYKAA-RESULTS--0_1720688266151_1785855908267_95d51948-a47a-4443-b301-8ab2fa1384b6.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/company-results/nykaa-says-quick-delivery-isn-t-hurting-margins-as-q1-profit-jumps-226-11785850197928.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T02:13:43.811000Z"
-    },
-    {
-      "id": "e0958ecc61ab493e9fa75d4c43732b1c",
-      "title": "Kalyan Jewellers Q1 Results: Net profit jumps 32% YoY to ₹349 crore; margins contract",
-      "description": "Kalyan Jewellers reported a net profit of ₹348 crore for the June quarter, a 32% YoY increase. However, it declined sequentially from ₹409 crore. Revenue rose 46% YoY to ₹10,589 crore, but fell 3% QoQ, with lower contribution from studded jewellery.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/gb365710801d188b2dd5df7c299f8fb7a0aa0eb4cc86a61669_1736747336579_1785845250601_d09b2432-317e-4ce8-bbe7-22d9a2f6a4d7.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/kalyan-jewellers-q1-results-net-profit-jumps-32-yoy-to-rs-349-crore-margins-contract-11785845252707.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T02:13:43.225651Z"
-    },
-    {
-      "id": "6c14afa9d1a28ef32a91d3ac59b88389",
-      "title": "HSBC India profit rises 4% to $965 million in H1 2026, corporate and institutional banking drives growth",
-      "description": "HSBC India's profit before tax rose four percent in the first half of 2026. Higher revenue from corporate and institutional banking fueled this significant profit increase. The bank's wealth and premier banking division, however, saw profits drop sharply. HSBC India also led in mobilising foreign currency deposits under a special RBI scheme. Globally, HSBC reported a substantial twenty-three percent rise in pre-tax profit.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132882369,imgsize-44996.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/hsbc-india-profit-rises-4-to-965-million-in-h1-2026-corporate-and-institutional-banking-drives-growth/articleshow/132882369.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T02:13:42.568300Z"
-    },
-    {
-      "id": "e8ead3544eaa9f9e8beb48f37e7fd0e7",
-      "title": "PNB Housing Q1 profit rises 4% as loan book grows 15%",
-      "description": "PNB Housing Finance posted a 4.3% rise in June-quarter net profit as loan assets and AUM recorded double-digit growth. Net interest margin narrowed, while asset quality improved with lower gross NPAs despite higher operating expenses during the quarter.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132866405,imgsize-27010.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-housing-q1-profit-rises-4-as-loan-book-grows-15/articleshow/132866405.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T02:13:42.567836Z"
-    },
-    {
-      "id": "1aa51f7b5ea2d4793212b2249f405ffc",
-      "title": "Closing auction keeps traders on edge as divergence persists",
-      "description": "Market participants faced confusion with the new closing auction system on Tuesday. This system change affected the determination of official stock closing prices. The expiry of Nifty weekly futures and options contracts added to market complexity. Traders reported unexpected derivative price movements and position losses. The Sensex and Nifty experienced divergence for a second consecutive day.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132881434,imgsize-329880.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/closing-auction-keeps-traders-on-edge-as-divergence-persists/articleshow/132881434.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-05T02:13:42.567687Z"
-    },
-    {
-      "id": "81c7cfd69b0e5512cbf7fbe1e8da9bd2",
-      "title": "REITs, publicly-listed InvITs may get to raise foreign capital via DRs",
-      "description": "Sebi proposed allowing real estate and infrastructure trusts to raise foreign capital. This move aims to broaden foreign investor access to India's investment trust market. Depository receipts will enable trading in foreign currency on international exchanges. Privately listed infrastructure trusts will not be eligible for this new facility. The proposal seeks to attract more global capital into these investment vehicles.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132882080,imgsize-73294.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/reits-publicly-listed-invits-may-get-to-raise-foreign-capital-via-drs/articleshow/132882080.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-05T02:13:42.567568Z"
-    },
-    {
-      "id": "cdb7c68e107c8da79942e61e0e4cc1e7",
-      "title": "Stocks in news: BSE, PB Fintech, Nykaa, Airtel, and LIC",
-      "description": "Markets experienced profit-taking after Monday's rally, with indices closing lower. Investors await the Reserve Bank of India's monetary policy announcement on Wednesday. BSE reported a significant profit increase for the June quarter, driven by revenue growth. Bharti Airtel and Nykaa also announced strong quarterly earnings, showing substantial profit jumps. The government began an offer for sale in LIC for non-retail investors.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132881774,imgsize-49432.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bse-pb-fintech-nykaa-airtel-and-lic/articleshow/132881774.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T02:13:42.567528Z"
-    },
-    {
-      "id": "c2b21262af00a30eb782cfea81cf48c5",
-      "title": "Spotify's higher spending on marketing, AI features to hit profit",
-      "description": "Spotify anticipates that increased marketing and development expenditures will adversely affect profits in the current quarter. The platform forecasts its third-quarter monthly active users to fall short of Wall Street's expectations, a decline attributed to product changes in emerging markets. To counteract this, Spotify is investing significantly in AI features aimed at attracting and retaining its user base, alongside introducing a new agreement for fan-generated covers and remixes.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132866568,imgsize-69042.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/spotifys-higher-spending-on-marketing-ai-features-to-hit-profit/articleshow/132866568.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T02:13:41.933098Z"
-    },
-    {
-      "id": "ca7233a633a9333a14554ac49d9cecda",
-      "title": "Drugmaker Pfizer beats earnings estimates, targets $2.5 billion in additional cost cuts",
-      "description": "Pfizer has reported impressive second-quarter earnings, driven by the success of Eliquis and newly acquired pharmaceutical products. The company is planning $2.5 billion in cost-saving measures expected to be in place by 2029. With a focus on innovative treatments, Pfizer aims to reduce reliance on older, high-grossing medications and looks forward to a notable growth revival post-2028, actively pushing its obesity treatment initiatives.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132866592,imgsize-83398.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/drugmaker-pfizer-beats-earnings-estimates-targets-2-5-billion-in-additional-cost-cuts/articleshow/132866592.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-05T02:13:41.933057Z"
-    },
-    {
-      "id": "9e991158188d08daffe822cf128035f2",
-      "title": "SK Hynix rises 5% as brokerages launch coverage with bullish ratings",
-      "description": "SK Hynix shares jumped five percent as brokerages began coverage with positive assessments, spurred by the company's strong position within the artificial intelligence memory sector. Although there was a recent dip, the U.S. listing enhances global investor accessibility. Despite reporting record quarterly profits, shipment delays caused a miss on analyst expectations. Nonetheless, robust orders from U.S. tech firms bolster forecasts for ongoing AI infrastructure investments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132866674,imgsize-38954.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-rises-5-as-brokerages-launch-coverage-with-bullish-ratings/articleshow/132866674.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-05T02:13:41.933002Z"
-    },
-    {
-      "id": "dabeecdd1a06258d77ec37e6311deebd",
-      "title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble",
-      "description": "Stock markets soared to all-time highs on Tuesday, fueled by stellar earnings from corporations. AI-focused entities like Palantir and the esteemed Caterpillar delivered eye-popping results. The drop in oil prices and Treasury yields created a favorable backdrop for continued growth. Moreover, the possibility of a peaceful resolution in the Iran conflict greatly enhanced investor optimism. Overall, corporate earnings have been significantly exceeding forecasts this reporting period.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132872181,imgsize-184100.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T02:13:41.932667Z"
-    },
-    {
-      "id": "515c053f6030be0d6d295d3fe27371ef",
-      "title": "US stocks: SpaceX quarterly revenue surges in debut results on strong growth in its Starlink business",
-      "description": "SpaceX has announced an impressive 92% increase in revenue for the latest quarter, primarily fueled by the growth of Starlink and its AI initiatives. Despite this surge, the firm faced a net loss due to significant capital allocated towards infrastructure and future projects. After a strong IPO, its stock is now under scrutiny, especially with the impending lock-up expiration.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132872768,imgsize-40040.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business/articleshow/132872768.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-05T02:13:41.932625Z"
-    },
-    {
-      "id": "ec1503f62f2be8cdaa6cf863a8fd3cd7",
-      "title": "Rupee remains stable at 95.37 ahead of RBI policy outcome",
-      "description": "The Indian rupee closed nearly unchanged on Tuesday, trading within a narrow band. Importer hedging demand and FPI inflows supported the currency's stability. Caution ahead of the monetary policy announcement also influenced its movement. Brent crude prices remained between eighty and eighty-three dollars per barrel. The rupee settled at ninety-five point thirty-seven against the dollar.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132882887,imgsize-120799.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-remains-stable-at-95-37-ahead-of-rbi-policy/articleshow/132882887.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-05T02:13:41.932296Z"
-    },
-    {
-      "id": "4184fddbf7584aa84f5cffad4eb13378",
-      "title": "Dhoot Transmission IPO priced at Rs 829-871",
-      "description": "Dhoot Transmission has set the price band for its ₹3,067-crore IPO at ₹829–871 per share. The public issue will be open for subscription from August 10 to 12, with Axis Capital, Jefferies India, Kotak Mahindra Capital, Nomura Financial Advisory and Securities, SBI Capital Markets, and 360 ONE WAM serving as the book-running lead managers.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132883008,imgsize-27032.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-ipo-priced-at-rs-829-871/articleshow/132883008.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-05T02:13:41.932209Z"
-    },
-    {
-      "id": "dc3f2f68664b9701704115414814d532",
-      "title": "Bharti Airtel Q1 Results: Profit climbs on higher subscriber upgrades, robust data usage",
-      "description": "Bharti Airtel reported a consolidated net profit of ₹8,167 crore for Q1FY27, a 37.3% YoY increase, announced on August 04. However, net profit declined 11.5% compared to ₹7,325 crore in Q4FY26.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/INDIA-BHARTI-ARTEL-4_1730280143198_1785842960111_47ea6d1f-9a0a-463d-bdbd-7d5cf6b3d83a.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bharti-airtel-q1-results-net-profit-rises-37-yoy-to-rs-8-167-crore-revenue-jumps-18-11785842962022.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-04T14:05:12.812053Z"
     }
   ]
 }
