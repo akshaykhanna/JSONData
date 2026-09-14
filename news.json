@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "4d6a0f5ff17cf5d0ec649a91de18d885",
+      "title": "NSE to increase Nifty 50 real-time dissemination frequency from 250 ms to 100 ms",
+      "description": "Under the revised framework, the Nifty 50 index will be disseminated live at a frequency of 100 milliseconds, or 0.10 second, compared with the current frequency of 250 milliseconds, or 0.25 second. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/nse-to-increase-nifty-50-real-time-dissemination-frequency-from-250-ms-to-100-ms-126091200120_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-14T17:40:37.468134Z"
+    },
+    {
+      "id": "7d779ce0887465758dce8e0b1ea7b58b",
+      "title": "Fed decision, inflation, oil may drive markets in holiday-shortened week",
+      "description": "The US Fed interest rate decision, domestic inflation data, crude oil prices and development in West Asia would be the major drivers for stock market movement in a holiday-shortened week ahead, analysts said. Equity markets would remain closed on Monday for Ganesh Chaturthi. \"Globally, developments in the US-Iran conflict and movement in Brent crude will remain critical market drivers. This.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260913/full-126091300251.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/fed-decision-inflation-oil-may-drive-markets-in-holiday-shortened-week-126091300251_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-14T17:40:37.467762Z"
+    },
+    {
+      "id": "32ed32fbcd33fd1d2588b28f54a16d82",
+      "title": "Asian shares slide as oil spike fuels inflation, rate hike concerns",
+      "description": "With shipping through the strait and the Bab el-Mandeb under threat, analysts fear oil prices could stay elevated for a lengthy period, stoking inflation globally. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260914/full-126091400050.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/asian-shares-slide-as-oil-spike-fuels-inflation-rate-hike-concerns-126091400050_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-14T17:40:37.467687Z"
+    },
+    {
+      "id": "7323d70f78a648fa2b09a72e060159f0",
+      "title": "Stock market holiday: BSE, NSE closed today for Ganesh Chaturthi",
+      "description": "The National Stock Exchange (NSE) and the BSE will have no trading or settlement in stocks, derivatives, securities lending and borrowing (SLB) segments on Monday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260914/full-126091400057.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/ganesh-chaturthi-stock-market-holiday-bse-and-nse-closed-on-sept-14-126091400057_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-14T17:40:37.467659Z"
+    },
+    {
+      "id": "103656e04feda57c98db0dc62e357a64",
+      "title": "Trump backs new ethics rules to push crypto bill, but it may not be enough",
+      "description": "President Donald Trump had been hearing the message loud and clear for weeks about the sweeping cryptocurrency bill being written in the Senate: to get it across the line, he would have to agree to ethics provisions that apply to him, too. First, Trump agreed to a measure that would bar him and his wife from issuing the types.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260914/full-126091400155.jpg",
+      "fullArticleLink": "https://www.business-standard.com/world-news/trump-backs-new-ethics-rules-to-push-crypto-bill-but-it-may-not-be-enough-126091400155_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-14T17:40:37.467568Z"
+    },
+    {
+      "id": "09873521f43748986bfed88a4381330c",
+      "title": "Auto parts maker Victura picks Rothschild to help with $300-400 mn IPO process",
+      "description": "Victura's IPO is expected to hit next year and will likely be a mix of primary capital raise and secondary share sale by existing shareholders. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/AdobeStock_1205122139_1759118299308_1759118308920_1789353353733_043e41c2-3125-4e1f-9652-46263bf59763_c832de84-4c4f-4e6a-9442-09f33c0bcb87_857cfc75-f194-465d-aeba-ade98c783325.jpeg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/victura-ipo-process-rothschild-auto-parts-makers-india-public-listing-11789351781890.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-14T17:40:36.715745Z"
+    },
+    {
+      "id": "81029ce0178e2678458fc6577b6ebe33",
+      "title": "Tata Steel taps Lloyds Metals JV unit to develop, operate manganese mine in Odisha",
+      "description": "Tata Steel has stepped up its partnership with Lloyds Metals as it looks to secure access to key raw materials and strengthen its mining and steelmaking operations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/TATA-STEEL-RESULTS--0_1765786614129_1765786711607_1789370904504_5b5b3dfe-4f21-4935-8d1b-d192f4d8e395_5507ec44-08ad-4f44-8078-7b9244395097_5e0bd7f8-d5cf-4d49-9b72-f9aed9229e78.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-steel-lloyds-metals-jv-manganese-mine-odisha-mine-steelmaking-raw-materials-iron-ore-11789363434752.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T17:40:36.715651Z"
+    },
+    {
+      "id": "21ef44e02f55ef429f499e0b8eef0b30",
+      "title": "Tata Sons under IPO pressure: Noel faces biggest crisis amid RBI push for public listing",
+      "description": "RBI's IPO mandate poses unprecedented challenge for Tata Sons. Chairman Noel Tata faces biggest crisis as India’s oldest conglomerate struggles to navigate through regulatory push. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/tata_1789378364190_9ac188dd-6759-49d5-8a6e-1aa240cda51c_1789378376614_c5390167-a2a6-4567-a3e1-697ffebbfe4b_774b7218-d164-4fe3-9dc9-43c191f7c38c_2a21e054-d61a-4d4d-a36e-4cb6de10bb80.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-under-ipo-pressure-noel-faces-biggest-crisis-amid-rbis-regulatory-push-for-public-listing-11789377205627.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T17:40:36.715542Z"
+    },
+    {
+      "id": "496a69e029db78bb4089e99c428eecc8",
+      "title": "Who is Kaizad Bharucha? HDFC's Deputy Managing Director, who is among frontrunners to succeed CEO Sashidhar Jagdishan",
+      "description": "CEO, MD Sashidhar Jagdishan will retire on October 26, 2026 with no wish for reappointment. Reportedly, HDFC Bank has sent two names of candidates among which one will selected for the post. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/21522_1789404140111_olWU_1789404143392_30wh_8198b9e9-91e3-4832-a0c2-2165c564b784_JLVL.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/who-is-kaizad-bharucha-hdfcs-deputy-managing-director-who-is-among-frontrunners-to-succeed-ceo-sashidhar-jagdishan-11789392560059.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T17:40:36.715367Z"
+    },
+    {
+      "id": "5827f580c9e758014c62c53cd77dd168",
+      "title": "Mint Explainer| What do Sebi’s proposed changes to closing auction mean for the markets?",
+      "description": "Sebi's framework for F&amp;O stocks, introduced on 3 August, had led to unexpected price swings and market uncertainty, prompting the market regulator to propose tweaks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/INDIA-SEBI-0_1760105208232_1760105217336_1789373316911_6ea7e8e6-0a65-47ec-8229-486bbdf86b31_cdc57f94-b825-4267-bf60-63601bb73af5_e8068735-87bf-4b00-b032-9bc5609e14fe.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/explainer-sebi-proposed-changes-to-closing-auction-session-mean-for-markets-stocks-shares-11789368461763.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-14T17:40:36.125083Z"
+    },
+    {
+      "id": "e07182f39af4803d275101cbaeb9ad10",
+      "title": "SoftBank share price tumbles 14%| What investors need to know",
+      "description": "SoftBank Group Corp shares fell over 14% in Tokyo amid investors' concerns about its significant AI investments. The decline follows cautious remarks from AI leaders and reflects worries over potential delays in OpenAI’s IPO and the future valuation of AI ventures. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/SoftBank_1789377245907_44700f2d-611e-4165-b2e7-e9e1a9d96c14_1789377251603_99b427a3-8367-41c2-bdbc-efed33dbdf2e_bb71b189-33af-4c35-a585-d1c714fba148_ec38a890-df6b-4c45-8272-f2945c572371.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/softbank-share-price-tumbles-14-what-investors-need-to-know-11789375972638.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-09-14T17:40:36.124895Z"
+    },
+    {
+      "id": "2a60a588199649d975f1fbcece1e65bc",
+      "title": "India beats a hasty retreat from a crucial market reform",
+      "description": "India’s market-closing auction reform, designed by Sebi to curb price manipulation, has faced volatility and investor backlash within weeks. The regulator may weaken or abandon it, exposing deeper problems: high securities taxes, inadequate arbitrage, shallow liquidity and restrictions on short selling. Poor coordination between fiscal and regulatory policies ultimately undermined reform efforts. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134232570,imgsize-2391358.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/india-beats-a-hasty-retreat-from-a-crucial-market-reform/articleshow/134232570.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-14T17:40:35.498353Z"
+    },
+    {
+      "id": "39ce95a64e560804f7ba717873a57634",
+      "title": "HDFC Bank shares hit 52-week lows over consecutive sessions while analysts scream Buy. Has the stock hit its bottom?",
+      "description": "HDFC Bank shares have hit fresh 52-week lows despite continued ‘Buy’ calls from brokerages. Analysts cite attractive valuations and potential margin improvement, while technical indicators remain weak, raising questions over whether the stock has bottomed. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134233328,imgsize-2294096.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-hit-52-week-lows-over-consecutive-sessions-while-analysts-scream-buy-has-the-stock-hit-its-bottom/articleshow/134233328.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-14T17:40:35.498312Z"
+    },
+    {
+      "id": "bacfcc3dbc33c49bd9f63255568bf8a8",
+      "title": "Jefferies says Sebi's proposed CAS changes will remove uncertainty, but still remains negative on BSE. Here’s why",
+      "description": "Jefferies expects Sebi’s proposed CAS changes to reduce expiry-day volatility and uncertainty but remains negative on BSE shares, citing limited options-industry growth, a ceiling in market-share gains, tighter bank guarantee norms and a potential management transition. The brokerage prefers Groww, citing strong earnings growth levers and recovery in F&O activity. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134233906,imgsize-1953606.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-sebis-proposed-cas-changes-will-remove-uncertainty-but-still-remains-negative-on-bse-heres-why/articleshow/134233906.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-14T17:40:35.498230Z"
+    },
+    {
+      "id": "823e68680f841109e860ca1c3b8ab7c7",
+      "title": "BofA turns bullish on Nifty after 2 years, cautious on small, midcaps. Here's what it expects now",
+      "description": "BofA Securities has turned constructive on the Nifty after two years, seeing 12% upside to 26,200 by December 2026. The brokerage said five of eight earlier risks have played out, while primary market issuances, Fed rate hikes and AI disruption remain concerns. It also turned cautious on small- and midcaps. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134237764,imgsize-869143.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-turns-bullish-on-nifty-after-2-years-cautious-on-small-midcaps-heres-what-it-expects-now/articleshow/134237764.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-14T17:40:35.498127Z"
+    },
+    {
       "id": "52e4de51eddeaad35537190b9b25cae4",
       "title": "Global funds turn wary of Indian stocks as AI boom draws money elsewhere",
       "description": "India's appeal to global fund managers is weakening amid muted corporate earnings and the lack of a major AI investment theme, pushing foreign ownership of NSE-listed companies to a 17-year low. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14819,194 +15008,6 @@
         "Earnings"
       ],
       "pubDate": "2026-08-05T14:03:11.830585Z"
-    },
-    {
-      "id": "d1173c8d45d9caef2a31b7d7a49c0a06",
-      "title": "Rate-sensitive stocks rise after RBI MPC outcome; Nifty Auto hits record high, Nifty Realty up over 2.5%",
-      "description": "The RBI's unchanged rates prompted strong buying in rate-sensitive sectors, with the Nifty Auto hitting a record high. The bank upgraded its GDP growth forecast for FY27 to 6.7% and reduced inflation expectations, reflecting overall positive economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/maxresdefault_1785934193482_1785934197377_25d9293b-8c52-4107-b6d6-329bdc88c90d.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rate-sensitive-stocks-rise-after-rbi-mpc-outcome-nifty-auto-hits-record-high-nifty-realty-up-over-25-11785910914631.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-08-05T14:03:11.096014Z"
-    },
-    {
-      "id": "4986393565b3958e4e71b9f9340faed4",
-      "title": "Milky Mist IPO to open on 11 August; cuts issue size by ₹482 crore",
-      "description": "Milky Mist Dairy Food will launch its ₹1,553-crore IPO on 11 August, with subscriptions open until 13 August. The company has reported a significant increase in profit and plans to use IPO proceeds to repay debt and expand facilities.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/oden-cubes-cold-grey-light-background-w_1782374793_1785913277629_1785913277911_cfefde0f-b55e-43d0-bc0d-20fe072e59f4.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/milky-mist-ipo-to-open-on-11-august-cuts-issue-size-by-rs-482-crore-11785912453341.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-05T14:03:11.095972Z"
-    },
-    {
-      "id": "59a9b2a51fcb0bf30c925b1facca8ef6",
-      "title": "Kalyan Jewellers shares extend slide, tumble 5% after Q1 results; down 11% in four days",
-      "description": "Kalyan Jewellers shares fell 5% to ₹562.70 due to disappointing June quarter earnings. Year-on-year net profit rose 32%, but profit declined sequentially. Revenue increased 46% YoY, although gross and EBITDA margins were impacted by changing sales dynamics.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/g9e38e4abc3fabece8d46af535786c7f32ab3f78aeb4b511c0_1724299457790_1785921603213_8a039173-7ce0-43f1-b625-c5ed9c952d52.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/kalyan-jewellers-shares-extend-slide-tumble-5-after-q1-results-down-11-in-four-days-11785919994880.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T14:03:11.095498Z"
-    },
-    {
-      "id": "3f6138d93e09e673c35a5c278b1adbbb",
-      "title": "Stock to buy after Q1 results 2026: Emkay sees over 32% upside in this healthcare stock",
-      "description": "Emkay Global Financial Services maintains its 'Buy' rating on Park Medi World, raising the target price to ₹375 following strong June quarter results, with revenue growth of 19% YoY and profit after tax increasing by 31%. Capacity expands amid risks in government collections.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/ipo_1765267321232_1765267321363_1785927703423_7ec8e70c-a8d3-4195-9f5a-8ba2c8a69f52.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q1-results-2026-emkay-sees-over-32-upside-in-this-healthcare-stock-11785927249886.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T14:03:11.095149Z"
-    },
-    {
-      "id": "e8ca585c506d8ab9182821ede857e6f2",
-      "title": "Nifty stuck in slow lane even as Sensex rallies 450 pts. How long can this divergence last?",
-      "description": "Sensex and Nifty continued to diverge on Wednesday, with the Sensex gaining over 450 points while Nifty remained largely flat. The divergence comes amid caution following the introduction of the Closing Auction Session (CAS), which triggered sharp volatility in Nifty during Monday’s final minutes. Markets were also reacting to the RBI’s decision to keep the repo rate unchanged.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132894436,imgsize-147826.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-over-450-points-but-nifty-stays-flat-how-long-can-this-divergence-last/articleshow/132894436.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-08-05T14:03:10.116454Z"
-    },
-    {
-      "id": "c4c5ddab35a34ced859a955b58b2e852",
-      "title": "MCX shares fall 4% after Q1 profit falls 22% QoQ to Rs 413 crore. What should investors do?",
-      "description": "Multi Commodity Exchange shares fell after reporting lower June quarter profit and revenue. Profit after tax declined twenty-two percent sequentially while revenue also dropped. However, profit surged one hundred three percent year-on-year with strong trading volumes. Operational milestones included significant growth in average daily turnover and active clients. MCX remains dominant domestically and a major global commodity derivatives exchange.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132900030,imgsize-100574.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-fall-4-after-q1-profit-falls-22-qoq-to-rs-413-crore-what-should-investors-do/articleshow/132900030.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T14:03:10.116157Z"
-    },
-    {
-      "id": "709a700a705d2357f10eaaafbf54cb25",
-      "title": "Nifty can rally to 28,615 by this December in Axis’ bull case scenario. Here’s why",
-      "description": "Axis Direct expects the Nifty to climb to 28,615 by December in its bull-case scenario, driven by a revival in private capex, resilient domestic demand and improving earnings. The brokerage remains overweight on BFSI, healthcare and capital goods, while cautioning that global risks and elevated valuations could trigger near-term volatility.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132901622,imgsize-55378.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-can-rally-to-28615-by-this-december-in-axis-bull-case-scenario-heres-why/articleshow/132901622.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T14:03:10.116059Z"
-    },
-    {
-      "id": "7d053cc8e78575a05fa270fc98ace5e1",
-      "title": "Sensex rises 152 points, Nifty closes above 24,600 as market trims gains. What lies ahead?",
-      "description": "Indian equity benchmarks Sensex and Nifty ended higher on Wednesday after the RBI MPC maintained interest rates and raised the FY27 GDP growth outlook. Despite early upswings, markets trimmed gains due to rising crude prices and West Asia tensions. Auto and realty stocks outperformed, while IT shares faced selling pressure.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132915892,imgsize-91214.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-152-points-nifty-closes-above-24600-as-market-trims-gains-what-lies-ahead/articleshow/132915892.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-08-05T14:03:10.115692Z"
-    },
-    {
-      "id": "fb7641d63502fcb96fbfb1cb72419814",
-      "title": "The next RBI policy: Likely more of the same",
-      "description": "The RBI's decision to keep the repo rate unchanged and retain a neutral stance signals policy continuity over pre-emptive action. With inflation seen as temporary, financial conditions already tightening and global risks under watch, the central bank is expected to stay on hold in October unless macroeconomic conditions change materially.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132926883,imgsize-54000.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/the-next-rbi-policy-likely-more-of-the-same/articleshow/132926883.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-05T14:03:10.115465Z"
-    },
-    {
-      "id": "02cdec8e2a60f7d23f0b0af10d4da39b",
-      "title": "RBI's status quo on rates to support housing demand, keep real estate sentiment intact: Industry",
-      "description": "The RBI's decision to keep the repo rate unchanged at 5.25% for the fourth straight review has received a positive response from the real estate sector. Developers and consultants believe stable interest rates will support housing demand, boost buyer confidence and provide better visibility for project planning. However, rising construction costs remain a concern for affordability, especially in mid-income segments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132905070,imgsize-19636.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rbis-status-quo-on-rates-to-support-housing-demand-keep-real-estate-sentiment-intact-industry/articleshow/132905070.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-08-05T14:03:09.157541Z"
-    },
-    {
-      "id": "98ab4226acc90edc8e4a889dfd6dd9bc",
-      "title": "SpaceX posts 92% revenue surge, but stock tumbles 7% in after-hours. Here's why",
-      "description": "SpaceX reported a strong debut quarterly performance as a public company, with revenue surging 92% year-on-year to $7.8 billion in the April–June quarter, driven by robust growth in its Starlink and AI businesses. Despite the strong earnings, the stock fell in after-hours trading as investors reacted to a sharp rise in capital expenditure and concerns over upcoming IPO lock-up expirations.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132910245,imgsize-210377.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-posts-92-revenue-surge-but-stock-tumbles-7-in-after-hours-heres-why/articleshow/132910245.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-05T14:03:09.157202Z"
-    },
-    {
-      "id": "197600a7940669822d9c4957033ae91b",
-      "title": "Rupee hits one-month closing high as oil slide outweighs RBI pause",
-      "description": "On Wednesday, the Indian rupee climbed to its highest point in a month, bolstered by a dip in crude oil prices that fueled early gains. Although the Reserve Bank of India's decision to maintain rates restricted further growth, analysts pointed out that immediate support lies around 94.75 with resistance levels at 95.60. Additionally, FX inflows and a weakening dollar contributed positively to the rupee's overall sentiment.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132916592,imgsize-34378.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-one-month-closing-high-as-oil-slide-outweighs-rbi-pause/articleshow/132916592.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-05T14:03:09.156956Z"
-    },
-    {
-      "id": "d3cf1777a78a4efd31df1dff8959a851",
-      "title": "India bonds rally on 'dovish' RBI hold, lower oil prices",
-      "description": "Indian government bonds surged on Wednesday, with yields falling below important levels. The Reserve Bank of India decided to keep the repo rate steady, in line with anticipated market outcomes. A drop in oil prices helped ease inflation fears, supporting the economy. This favorable policy not only uplifted bond markets but also stimulated capital inflows, resulting in reduced overnight index swap rates.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132927259,imgsize-125370.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rally-on-dovish-rbi-hold-lower-oil-prices/articleshow/132927259.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-08-05T14:03:09.156585Z"
-    },
-    {
-      "id": "29af70369a99e0c6c382b38d0d00629c",
-      "title": "CREDAI, NAREDCO hail RBI policy, stable home loan interest rate to help sustain housing demand",
-      "description": "The real estate industry's leading organizations, CREDAI and NAREDCO, applaud the RBI's decision to maintain the current repo rate. This move stabilizes home loan rates, which is anticipated to bolster housing demand and offer comfort to buyers. Additionally, the RBI has fine-tuned its GDP outlook and slightly adjusted inflation estimates. Developers emphasize that clear policies enhance project strategies and investment confidence, promoting a robust residential real estate market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132927569,imgsize-100814.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/credai-naredco-hail-rbi-policy-stable-home-loan-interest-rate-to-help-sustain-housing-demand/articleshow/132927569.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-05T14:03:09.156531Z"
-    },
-    {
-      "id": "25898bb7b87c7045bf4ec540326c8cbd",
-      "title": "Hyundai admits slower car launches hurt sales as market share slips",
-      "description": "Hyundai India's domestic sales in FY26 declined 2% 584,906 cars while exports rose 16% to 190,125 units. Mahindra’s sales surged 20% to 660,276 units while Tata Motors PV sales grew 15% to 642,000 units.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/Venue-review-7_1763893019548_1767368362205_1767368373501_1785829216921_79129342-9708-43ea-b8b1-cec72dbfdf1d.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/hyundai-motor-india-market-share-loss-new-model-launches-fy26-11785822646622.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-05T02:13:43.811336Z"
     }
   ]
 }
