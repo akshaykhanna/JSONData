@@ -1,6 +1,196 @@
 {
   "news": [
     {
+      "id": "670337996b96a7fa1a180d6db9f12d24",
+      "title": "TCS to support Aareal Bank digital transformation programme",
+      "description": "Tata Consultancy Services (TCS) announced a long-term strategic partnership with Aareal Bank, a leading international property specialist, to transform its technology landscape with an AI-powered, cloud-first operating model. The collaboration marks a significant milestone in the Bank's ongoing technological transformation programme, supporting its ambition to further modernise its IT landscape, strengthen resilience, and create a future-ready digital foundation.",
+      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/tcs-to-support-aareal-bank-digital-transformation-programme-126091500692_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T16:14:03.481973Z"
+    },
+    {
+      "id": "58470fa9c5adbd05c0c8f011c2254515",
+      "title": "Tata Trusts may urge Tata Sons to seek RBI review of public listing order before legal action",
+      "description": "All options open, but Trusts would first want to take up the matter with RBI. Developments on the listing front have also muddled Tatas' plans to find a successor for N Chandrasekaran. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/INDIA-TECH--16_1760276645095_1760276654484_1789483115260_39Pt_266c8b12-81f3-4eb0-b933-e6e2ccd95486_3CyS.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/tata-trusts-to-urge-tata-sons-to-seek-rbi-reconsideration-on-public-listing-order-before-pursuing-legal-action-11789476679910.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T16:14:02.771436Z"
+    },
+    {
+      "id": "66ff1bd4e694d8451fab48248dd96192",
+      "title": "Shriram Finance, Hindustan Aeronautics, Siemens Energy shares fall nearly 4%, among top Nifty 100 laggards",
+      "description": "Shares of Shriram Finance, Hindustan Aeronautics Limited, and Siemens Energy India Limited lagged in Tuesday's trading session due to profit booking and weak market sentiment.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/shriram_hal_siemens_1789459580124_zFW8_1789459613137_24RS_e2925b26-d0c5-4a93-9816-1fe26d879823_LOLS.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/shriram-finance-hindustan-aeronautics-siemens-energy-shares-fall-nearly-4-among-top-nifty-100-laggards-11789459288755.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-15T16:14:02.182729Z"
+    },
+    {
+      "id": "749bf7067a1a3f30d3f9c63e6b493a95",
+      "title": "Sensex, Nifty today: Why is stock market down today? Top 3 factors driving the selloff explained",
+      "description": "Sensex, Nifty today: The Sensex dropped more than 500 points, or 0.70%, to an intraday low of 74,240, while the Nifty 50 slipped to 23,195.30 during the session, falling more than 200 points, or 0.90%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/Stock_market_crash_1776851765838_1776851771064_1789460359070_AmQJ_4faca2e2-9ddb-4456-a00c-7d006a0d6a85_Tqux.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-nifty-today-why-is-stock-market-down-today-top-3-factors-driving-the-selloff-explained-11789460084552.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-15T16:14:02.182612Z"
+    },
+    {
+      "id": "ff55240b7d565ec3db55764bc150a9ce",
+      "title": "Afcons Infra stock surges on Tata Sons listing hopes. Is a re-rating on the cards?",
+      "description": "A potential Tata Sons listing could help promoter Shapoorji Pallonji ease Afcons’s high interest burden, paving the way for a stock re-rating backed by a strong ₹43,300-crore order book. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/Q4_results_earning_today_April_21_Tata_Indraprasta_1745202511548_1789466426293_xlvc_f2cc546b-25bb-466e-915d-0a82da6c05eb_qhRN.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/afcons-infrastructure-share-price-tata-sons-listing-11789459737661.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T16:14:02.182342Z"
+    },
+    {
+      "id": "82da5847778f5eea4ac13c4250030759",
+      "title": "How Tata Sons listing may impact Tata Power shares? Axis Capital explains",
+      "description": "Tata Sons' potential listing may unlock significant value for Tata Power, which holds a 1.65% stake in Tata Sons. Axis Capital predicts a 14% price upside, valuing Tata Power's stake up to ₹16500 crore if Tata Sons lists at ₹10 lakh crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/tatasons_1789471397857_aiyM_1789471412442_5exe_ed5c9978-bd04-4088-8e50-b060f0a5e1e7_VMmS.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/how-tata-sons-listing-may-impact-tata-power-shares-axis-capital-explains-11789466953739.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T16:14:02.182146Z"
+    },
+    {
+      "id": "9dbf449ed529eee92cce8ef70c41ea7e",
+      "title": "Expert View: Don’t wait for Nifty to stabilise, buy the dip, says Shweta Rajani of Anand Rathi Wealth",
+      "description": "Indian equities face challenges from high crude oil prices, geopolitical uncertainty, and evolving US monetary policy. Investors are assessing if they should buy on corrections or await stability. Long-term strategies like SIPs are recommended to capitalize on potential recoveries amidst volatility. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/shweta_1789472766772_z5lN_1789472773029_t2bg_0a889bae-7f07-4f5f-bbd1-a28ddf472836_brNi.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/expert-view-don-t-wait-for-nifty-to-stabilise-buy-the-dip-says-shweta-rajani-of-anand-rathi-wealth-11789471660373.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-15T16:14:02.182045Z"
+    },
+    {
+      "id": "ef63cba11c16973698784436cdbc3909",
+      "title": "From borrowed rules to a bespoke rulebook: Can IFSCA create an international market conduct regime?",
+      "description": "The IFSCA announced on August 25, 2026, the implementation of new market abuse regulations, which will replace existing SEBI guidelines for the GIFT-IFSC securities market. These regulations are designed to comprehensively combat insider trading and manipulation, employing international language and a unified coding system. The true measure of their effectiveness will become evident with future enforcement initiatives.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134255601,imgsize-2456902.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/from-borrowed-rules-to-a-bespoke-rulebook-can-ifsca-create-an-international-market-conduct-regime/articleshow/134255601.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-15T16:14:01.476097Z"
+    },
+    {
+      "id": "5db34e3e54dc6c953221e631db4cd461",
+      "title": "Tech picks: Adani Ports, Data Patterns among 5 stocks that could give up to 23% returns in short term",
+      "description": "Technical analysts recommend five stocks, including Black Box, Adani Ports, ABSL AMC, Torrent Pharma and Data Patterns, with upside potential of up to 23% as markets navigate crude oil, geopolitical and Fed-related uncertainties. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134256480,imgsize-3972.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-adani-ports-data-patterns-among-5-stocks-that-could-give-up-to-23-returns-in-short-term/slideshow/134256630.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T16:14:01.476002Z"
+    },
+    {
+      "id": "6908525d21a7cc9f1595498433117941",
+      "title": "Sensex crashes over 1,400 pts from day’s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout",
+      "description": "Indian markets faced a notable downturn, witnessing significant erosion of capitalisation. Factors like climbing US bond yields and escalating oil prices heightened inflation fears among investors. Anticipation of a rate hike by the Federal Reserve added to the market's woes. Additionally, growing geopolitical tensions in the Middle East, combined with a thriving IPO environment, intensified the pressure, culminating.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134257556,imgsize-155020.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-down-today-sensex-crashes-over-1300-pts-from-days-high-nifty-below-23200-5-triggers-behind-rs-7l-cr-wipeout/articleshow/134257556.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-15T16:14:01.475849Z"
+    },
+    {
+      "id": "e89cf48ce39fd9ca53e19ca2cc2fbec1",
+      "title": "CAS crash: Nifty plunges 462 points in less than 30 seconds. Will Sebi’s review break trend?",
+      "description": "Nifty witnessed a sharp 2% plunge in indicative price within seconds during Tuesday’s closing auction session before recovering losses. The volatility comes amid concerns over the new CAS system, with Sebi proposing changes to expiry-day settlement and trading mechanisms. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134260167,imgsize-729301.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cas-crash-nifty-plunges-462-points-in-less-than-30-seconds-will-sebis-review-break-trend/articleshow/134260167.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-15T16:14:01.475744Z"
+    },
+    {
+      "id": "75137b97b6cc70ec85d683b23fd8b6e1",
+      "title": "Sebi proposes shorter DR drills, stronger resilience norms for mkt infrastructure institutions",
+      "description": "Sebi has put forth a proposal to lessen the duration of disaster recovery drills for market infrastructure institutions, reducing them from a full trading day to a minimum of four hours. This step aims to bolster operational resilience and improve data recovery processes within exchanges. The drills will be held on non-working days to replicate realistic trading conditions.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134263391,imgsize-244970.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-shorter-dr-drills-stronger-resilience-norms-for-mkt-infrastructure-institutions/articleshow/134263391.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-15T16:14:01.475692Z"
+    },
+    {
+      "id": "230545c5af0026637e6d116b72dabe8a",
+      "title": "Sebi plans shorter disaster recovery drills, stronger backup rules for exchanges",
+      "description": "Sebi has proposed tighter business continuity and disaster recovery norms for market infrastructure institutions, including shorter mock drills, stronger data centre stress testing, improved configuration controls and enhanced data recovery mechanisms to strengthen resilience against operational disruptions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134265901,imgsize-104178.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-shorter-disaster-recovery-drills-stronger-backup-rules-for-exchanges/articleshow/134265901.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-15T16:14:01.475648Z"
+    },
+    {
+      "id": "0c64e74257a796571476c6186ef5c77b",
+      "title": "Will NSE be allowed to trade on NSE? Stock exchange may seek Sebi’s nod after listing",
+      "description": "NSE may seek Sebi’s approval to allow its shares to trade on its own platform after its IPO, despite being formally listed only on BSE. The exchange is exploring the permitted-to-trade route, which could expand investor access while keeping NSE subject to regulatory oversight and its existing compliance obligations. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134260142,imgsize-227164.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/will-nse-be-allowed-to-trade-on-nse-stock-exchange-may-seek-sebis-nod-after-listing/articleshow/134260142.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-15T16:14:00.919440Z"
+    },
+    {
+      "id": "e7f95d93dcb46adb8cd3e80ba5f0819e",
+      "title": "Digital lending platform Fibe gets Sebi nod to launch IPO",
+      "description": "Social Worth Technologies, the parent company of Fibe, has obtained the necessary approval from Sebi for its initial public offering. The venture aims to raise Rs 750 crore through a fresh share issue, with the funds primarily targeting the enhancement of its subsidiary’s capital for lending activities. Additionally, an offer-for-sale section will enable current shareholders to reduce their holdings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134267101,imgsize-55664.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/digital-lending-platform-fibe-gets-sebi-nod-to-launch-ipo/articleshow/134267101.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-09-15T16:14:00.918968Z"
+    },
+    {
       "id": "2e68c15d354d3cf69fe9900ab262e976",
       "title": "NSE vs BSE: Comparing dividends, bonuses & splits for shareholders",
       "description": "As NSE prepares to list its shares publicly, here's a look at the dividends, bonus issues and stock splits undertaken by the two leading stock exchanges (BSE and NSE) over the past 10 years. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14824,195 +15014,6 @@
         "Corporate"
       ],
       "pubDate": "2026-08-06T14:02:06.694190Z"
-    },
-    {
-      "id": "688ad40361ab00dbd3516e91f445a418",
-      "title": "Bharti Airtel stock lacks near-term triggers and even raising stake in Africa biz won’t help much",
-      "description": "Apart from tariff hike, a higher-than-expected IPO valuation for Reliance Industries’ telecom business Jio Platforms, can act as a re-rating catalyst for the Bharti Airtel stock.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/BHARTI-AIRTEL-TARIFFS--0_1719760830379_1785989554824_ab595910-aa21-4285-a57e-a68515fc92a4.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/bharti-airtel-stock-bharti-airtel-earnings-airtle-vs-jio-telecom-industry-india-11785986967076.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T14:02:06.094325Z"
-    },
-    {
-      "id": "1a156f4285eb71efa93aae080ffcb386",
-      "title": "Samvardhana Motherson International Q1 results 2026: Net profit rises 102% to ₹1,032 crore",
-      "description": "Samvardhana Motherson International Q1 results 2026: The company had reported a consolidated net profit of ₹511.84 crore in the corresponding quarter of the previous financial year, according to a regulatory filing.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/stock_1785999187300_1785999187511_48e60a07-764f-4b0e-a130-5077e6e38907.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/samvardhana-motherson-international-q1-results-2026-net-profit-46-yoy-to-1-561-crore-11785998162407.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T14:02:06.094057Z"
-    },
-    {
-      "id": "42ee786fd29772a7d2f3ec8724e34fb6",
-      "title": "Navin Fluorine shares jump 14% to record high as analysts stay bullish, lift target price after Q1",
-      "description": "Navin Fluorine's shares jumped 14% to ₹8.647, following strong quarterly results. Brokerages raised target prices, with Axis Securities lifting it to ₹8,600, while JM Financial also raised its target price on the stock to ₹9,000 from ₹8,200",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/TCS_on_overseas_payments_for_investments_1695628348453_1786008062378_7b77d2b1-db04-45ef-b97d-bceb5111a050.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/navin-fluorine-shares-jump-14-to-record-high-as-analysts-stay-bullish-lift-target-price-after-q1-11786007717400.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T14:02:06.093795Z"
-    },
-    {
-      "id": "70a1b8f5c9e24361f6cc5f66dbe78dc2",
-      "title": "MV Electrosystems makes a strong debut with 22% premium. Should investors book profits or stay invested?",
-      "description": "MV Electrosystems made a strong stock market debut, listing at over 22% premium to its IPO price. While experts recommend booking partial profits after the sharp listing gains, they advise holding the remaining shares with a stop-loss as the company works to improve profitability.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132986635,imgsize-16340.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mv-electrosystems-makes-a-strong-debut-with-22-premium-should-investors-book-profits-or-stay-invested/articleshow/132986635.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-06T14:02:05.395295Z"
-    },
-    {
-      "id": "a1988edfa047b908366da78747fa6127",
-      "title": "Manipal Health shares slide 6% on account of profit booking. What should investors do?",
-      "description": "Manipal Health Enterprises shares fell sharply on Thursday day after their strong market debut, triggering profit booking. Analysts remain constructive on the company's long-term prospects but advise fresh investors to wait for better entry levels, citing premium valuations, while allotted investors can continue holding with a stop-loss at Rs 620.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132990960,imgsize-2120634.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-shares-slide-6-on-account-of-profit-booking-what-should-investors-do/articleshow/132990960.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T14:02:05.395097Z"
-    },
-    {
-      "id": "b9f466dcb9a15b80faebb09f035d50c6",
-      "title": "Can Tata Sons stay unlisted? Here's what RBI Governor Sanjay Malhotra said",
-      "description": "Tata Sons may face renewed pressure to list if the RBI classifies it as an upper-layer NBFC under revised principle-based norms. Governor Sanjay Malhotra said the new framework will simplify classification. With assets above the regulatory threshold, Tata Sons could be required to go public, reviving its long-running IPO debate.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132991783,imgsize-18544.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/can-tata-sons-stay-unlisted-heres-what-rbi-governor-sanjay-malhotra-said/articleshow/132991783.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T14:02:05.395032Z"
-    },
-    {
-      "id": "8fcd356e32713daf8b12aa2a13d2295a",
-      "title": "Indo MIM shares surge 10%, extend gains to 82% over issue price. Should investors book profits?",
-      "description": "Indo-MIM's shares skyrocketed by 82%, surpassing their original IPO price, with robust interest from investors and a firm market position. The company reported impressive financial growth in FY26, with both revenue and profitability on the rise. As a premier global manufacturer, Indo-MIM specializes in precision engineering components through MIM technology, serving a wide range of industries, from automotive to medical devices.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132997743,imgsize-13112.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indo-mim-shares-surge-10-extend-gains-to-82-over-issue-price-should-investors-book-profits/articleshow/132997743.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-06T14:02:05.394893Z"
-    },
-    {
-      "id": "a3e0123f479f850288c06d6d79835d05",
-      "title": "HDFC Securities initiates coverage on Sona BLW with 'Add'; sees upside on EV-led growth",
-      "description": "HDFC Securities initiated coverage on Sona BLW Precision Forgings with an Add rating and Rs 845 target, citing EV-led growth, strong R&D and product expansion. The brokerage expects sustained margin strength but flagged geopolitical, tariff and promoter-related risks as potential headwinds.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133005367,imgsize-142202.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-securities-initiates-coverage-on-sona-blw-with-add-sees-upside-on-ev-led-growth/articleshow/133005367.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T14:02:05.394710Z"
-    },
-    {
-      "id": "d2f916941f207fdae8fce3dde95b831b",
-      "title": "Sebi proposes investment by REITs, InvITs in third party projects without controlling interest",
-      "description": "Sebi has put forth proposals to permit REITs and InvITs to channel their investments into under-construction projects. This initiative is designed to establish a consistent stream of revenue-producing assets over the long term. Moreover, the regulator plans to shorten the cooling-off period for privately placed InvITs. Notably, common remote infrastructure will now be classified as real estate for REITs.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133007047,imgsize-55652.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-investment-by-reits-invits-in-third-party-projects-without-controlling-interest/articleshow/133007047.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T14:02:05.394627Z"
-    },
-    {
-      "id": "3355862fa3c09032f80bd552da792ccb",
-      "title": "Sebi proposes separate master circular for clearing corporations",
-      "description": "The Securities and Exchange Board of India (Sebi) is set to refine regulations for stock exchanges and clearing corporations. There will be a distinct master circular for clearing entities, alongside enhanced website disclosure obligations. Additionally, existing provisions regarding stock brokers are to be eliminated from current master circulars. This initiative seeks to unify standards and ease the regulatory landscape.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133007125,imgsize-455410.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-separate-master-circular-for-clearing-corporations/articleshow/133007125.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-06T14:02:05.394564Z"
-    },
-    {
-      "id": "d3daff429bf36f19371c3b3efa6ea589",
-      "title": "RBI policy-led India bond rally continues; Friday's debt sale in focus",
-      "description": "Indian government bonds saw a slight increase early Thursday, continuing Wednesday's strong rally. The Reserve Bank of India's dovish stance and falling oil prices supported this upward movement. Investors remain cautious, however, as New Delhi prepares for a significant bond auction on Friday. This auction will test market demand and the sustainability of the recent bond price gains.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132993202,imgsize-69942.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/rbi-policy-led-india-bond-rally-continues-fridays-debt-sale-in-focus/articleshow/132993202.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-06T14:02:04.730848Z"
-    },
-    {
-      "id": "e02c0ce58972d35e35ae047185f950fd",
-      "title": "Global Market: European shares hit record high as peace hopes, strong earnings lift sentiment",
-      "description": "European stock markets extended record gains as optimism over a potential U.S.-Iran peace agreement eased energy supply concerns and strong corporate earnings boosted investor confidence. Deutsche Telekom and Glanbia led sectoral advances, while resilient technology shares and improving earnings expectations supported broader market sentiment ahead of euro zone retail sales data.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132996067,imgsize-140616.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hit-record-high-as-peace-hopes-strong-earnings-lift-sentiment/articleshow/132996067.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T14:02:04.730724Z"
-    },
-    {
-      "id": "c39b95551bac57c0edbf1ed6f3d5ca48",
-      "title": "Global Market: SoftBank's AI strategy stays on course despite flat OpenAI valuation in Q1",
-      "description": "SoftBank reported an 18% decline in first-quarter net profit, though earnings exceeded expectations as strong gains from Intel and ByteDance investments offset weaker contributions from OpenAI. The company remains focused on expanding its AI portfolio, with major investments, new financing and long-term commitments reinforcing its artificial intelligence growth strategy, according to Reuters.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132996579,imgsize-183888.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-softbanks-ai-strategy-stays-on-course-despite-flat-openai-valuation-in-q1/articleshow/132996579.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T14:02:04.730650Z"
-    },
-    {
-      "id": "48727edcee670fe5d5e556882195c974",
-      "title": "Profit-taking, debt supply stall India bond rally",
-      "description": "Indian government bonds exhibited slight fluctuations as profit-taking coincided with substantial debt issuance. The supportive dovish stance from the Reserve Bank of India helped stabilize the situation. Since early August, bond yields have decreased by nearly seven basis points. Market participants are now focused on a major bond auction set for Friday, while overnight indexed swap rates saw a modest rise as traders adjusted their positions.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133003162,imgsize-125370.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/profit-taking-debt-supply-stall-india-bond-rally/articleshow/133003162.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T14:02:04.730385Z"
-    },
-    {
-      "id": "ed135e48c309734f439c36d47ae10e29",
-      "title": "Adani's bumper capex trickles down to smaller infra firms",
-      "description": "The Adani Group’s ₹1.53 trillion capex plan for FY26 is emerging as a major growth driver for smaller listed engineering and construction companies. For some, the conglomerate accounted for over 80% of new orders last year, reflecting its growing influence on India’s EPC ecosystem.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/Total_Energies_pauses_business_Adani_Nelson_Amenya_1732583419530_1785846861314_0a492486-befb-44ae-99ec-d74be92ecff1.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/adanis-bumper-capex-trickles-down-to-smaller-infra-firms-11785822338520.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T02:22:23.600577Z"
     }
   ]
 }
