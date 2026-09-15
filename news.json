@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "2e68c15d354d3cf69fe9900ab262e976",
+      "title": "NSE vs BSE: Comparing dividends, bonuses & splits for shareholders",
+      "description": "As NSE prepares to list its shares publicly, here's a look at the dividends, bonus issues and stock splits undertaken by the two leading stock exchanges (BSE and NSE) over the past 10 years. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260914/full-126091400315.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nse-vs-bse-comparing-dividends-bonuses-splits-for-shareholders-126091400315_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-15T03:22:11.052410Z"
+    },
+    {
+      "id": "8f97b360ab970090d56114f0d6d2efe9",
+      "title": "Nifty outlook: 23,000-23,200 crucial support; near-term rebound likely",
+      "description": "Black Box and Adani Ports present attractive technical buying opportunities, while the Nifty remains weak but could see a short-term bounce from key support levels. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260915/full-126091500079.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-outlook-2-stock-ideas-for-today-by-angel-one-s-hitesh-rathi-126091500079_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T03:22:11.052331Z"
+    },
+    {
+      "id": "e9e25e5523c499a79f18a231b440b82e",
+      "title": "Stocks to watch: HDFC Bank, HFCL, Emami, Coforge, Solar Inds, Vodafone Idea",
+      "description": "Stocks to watch today: Shares of Pranav Constructions will list on the exchanges today. According to grey market trends, the stock could debut at a 36 per cent premium. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260915/full-126091500081.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-september-15-hdfc-bank-hfcl-emami-coforge-solar-inds-vodafone-idea-126091500081_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T03:22:11.052291Z"
+    },
+    {
+      "id": "56e11040e9346fa11c8855b9147d8f09",
+      "title": "HDFC Bank proposes Kaizad Bharucha, Anup Bhagchi as CEO candidates to RBI, reports reveal — Here's all we know",
+      "description": "HDFC Bank has proposed two CEO candidates to the RBI: Kaizad Bharucha, Deputy MD and Anup Bagchi, MD of ICICI Prudential. This follows incumbent Sashidhar Jagdishan's decision to step down at the end of his term in October. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/HDFC_1788077148898_1788077154406_5ece725d-b3b4-4ab9-87a4-0a44ef1201c2_1789409200211_dJsr_875e55b1-2865-4316-bff4-c958f139bb89_usmd.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/hdfc-bank-proposes-kaizad-bharucha-dmd-anup-bhagchi-icici-prulife-ceo-candidates-reports-rbi-replace-sashidhar-jagdishan-11789405991248.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T03:22:09.252992Z"
+    },
+    {
+      "id": "d9325c5dbad72c811e10b4803107223b",
+      "title": "PE majors eye Orbicular Pharma stake, valuation seen up to $1.5 bn",
+      "description": "Private equity firms such as Warburg Pincus and CVC Capital Partners have evinced interest in Orbicular Pharma as the specialty pharma firm explores a stake sale in a deal that will likely value the company up to $1.5 billion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/pexels-photo-33175650_1789355122442_5ddc3c0b-036d-4b59-8308-0b5b0559a749_1789355146159_e78ea251-46ef-44fb-853a-7bd9698759fc_489407d3-0d4e-4685-902f-5071375b8ef4_eaaef4ff-05eb-46d2-9b6d-6fac47950cac.jpeg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/orbicular-pharma-stake-sale-deal-valuation-warburg-pincus-cvc-capital-11789352026674.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-15T03:22:09.252862Z"
+    },
+    {
+      "id": "49be911288458966aecff4624d615833",
+      "title": "Stock Market prediction today: Sensex, Nifty outlook for Tue | Kospi, Taiwan Index, Nikkei cues to watch | 15 Sept",
+      "description": "Indian stock market indices Sensex and Nifty 50 are expected to open flat as global markets face declines, particularly in AI stocks. Rising tensions in the Middle East and the upcoming US Federal Reserve meeting further influence market caution. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/AI_1789390083960_6ySN_1789390095732_TsHF_66019874-4cdc-44d8-9735-5b7c485ed2fe_4fuz.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-sensex-nifty-outlook-for-tue-kospi-taiwan-index-nikkei-cues-to-watch-15-sept-11789387045689.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-15T03:22:08.563338Z"
+    },
+    {
+      "id": "b1b063682fbaed80635e53d8a027e3a4",
+      "title": "Top stocks in focus today: Investors must watch HDFC Bank, HCL Tech, Sun Pharma shares on Tue, 15 Sept | Triggers",
+      "description": "On September 15, Indian stock market investors will focus on HCL Technologies, KEC International, and HDFC Bank amid important announcements. Key highlights involve HCL's new AI partnership, KEC's orders, and Dr. Reddy's FDA assessment. Dividends and corporate changes are also significant. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/STW_Tue_1789394816038_ZjbW_1789394821509_3cI2_2c1b3a89-d3ac-4d33-a1ba-7ea718ac57b7_Y7YI.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-hdfc-bank-hcl-tech-sun-pharma-shares-on-tue-15-sept-triggers-11789391805059.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T03:22:08.563314Z"
+    },
+    {
+      "id": "2365314febe5ffc6a0a1d394444356c9",
+      "title": "Infosys, Wipro ADRs surge up to 6%: What it means for Indian IT stocks on Tuesday",
+      "description": "The divergence in performance is evident as Indian IT ADRs like Infosys and Wipro gain amidst a US tech sell-off. Investor sentiment shifts post AI developments raise concerns about future spending.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/ADRs_1789407659071_SmqY_1789407669715_BooN_3ce4f0ff-6595-4954-9ebf-9674c964a940_fSYM.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/infosys-wipro-adrs-surge-up-to-6-what-it-means-for-indian-it-stocks-on-tuesday-11789404651598.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T03:22:08.563226Z"
+    },
+    {
+      "id": "ff7a3dbe786d06cc1f5dfe5ae73ef311",
+      "title": "Landmark NSE IPO Threatens to Hollow Out India Shadow Market",
+      "description": "The landmark listing of National Stock Exchange of India Ltd. is set to deliver a major boost to the country’s primary market, but it will be a significant blow to the booming trade in unlisted shares. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/landmark-nse-ipo-threatens-to-hollow-out-india-shadow-market-11789437539366.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-15T03:22:08.562865Z"
+    },
+    {
+      "id": "27d2d001765f109088ecaffeb686aa93",
+      "title": "Volatility Surges in First After-Hours Session on Korea Exchange",
+      "description": "The first after-hours session on South Korea’s main stock exchange saw erratic and retail-dominated trading, in a sign of the challenges ahead as it seeks to attract more global investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/volatility-surges-in-first-after-hours-session-on-korea-exchange-11789438030937.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-15T03:22:08.562835Z"
+    },
+    {
+      "id": "49bc07fd3324dfe72bc272c82b54dfcf",
+      "title": "SBI Research, IDFC First expect rate hike in October as crude prices climb: Higher oil prices & inflation raise likelihood of policy tightening",
+      "description": "Economists are gearing up for a potential rate hike from the central bank as soon as October, driven by escalating crude oil prices and ongoing food inflation concerns. The CEO of Axis Bank has raised alarms about the increasing risks of inflation. This shift in monetary policy timing comes as the Monetary Policy Committee prepares to evaluate interest rates.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134249553,imgsize-36548.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-research-idfc-first-expect-rate-hike-in-october-as-crude-prices-climb-higher-oil-prices-inflation-raise-likelihood-of-policy-tightening/articleshow/134249553.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T03:22:07.754531Z"
+    },
+    {
+      "id": "e803fa4fc2d1bfebcc4ac4f3bfc4d26f",
+      "title": "BofA turns bullish on Nifty, forecasts 12% upside by December",
+      "description": "BofA Securities expresses an optimistic outlook for the Nifty, projecting a growth to 26,200 by December 2026. They anticipate that current market risks due to Fed rate hikes and issuances will peak around October. This optimistic stance comes in light of identified risks altering market dynamics and recent valuation shifts. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134249495,imgsize-359246.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-turns-bullish-on-nifty-forecasts-12-upside-by-december/articleshow/134249495.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-15T03:22:07.754464Z"
+    },
+    {
+      "id": "9ea150bcfe82135b9823853724ca95d4",
+      "title": "Stocks in news: Tata Group stocks, HDFC Bank, Coforge, HFCL, Sun Pharma and Varun Beverages",
+      "description": "On September 11, Indian stock markets experienced a remarkable bounce back after an initial dip at opening. Key index heavyweights attracted selective buying, which limited the day’s overall losses. Major players like HDFC Bank and IT sectors remained in focus amid relevant corporate announcements. Additionally, SEBI's discussion paper regarding the Closing Auction Session received input on five critical areas.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134245046,imgsize-208414.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hdfc-bank-coforge-hfcl-sun-pharma-and-varun-beverages/articleshow/134245046.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T03:22:07.754438Z"
+    },
+    {
+      "id": "351cdfae405c7f9d3e4fedcc6f6ff5ed",
+      "title": "Tata Group stocks: TCS, Tata Motors, Tata Steel, Titan among others in focus as RBI rejects Tata Sons’ CoR surrender; Tata Sons IPO back in spotlight",
+      "description": "Other Tata Group stocks likely to remain in focus include Tata Motors PV, Tata Chemicals, The Indian Hotels Company, Tata Communications, Trent, Tata Elxsi, Tata Technologies, Tata Capital, Titan Company, The Tata Power Company, Tata Consumer Products, Voltas, Tata Investment Corporation, Nelco and Tejas Networks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134250288,imgsize-2544746.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stocks-tcs-tata-motors-tata-steel-titan-among-others-in-focus-as-rbi-rejects-tata-sons-cor-surrender-tata-sons-ipo-back-in-spotlight/articleshow/134250288.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-15T03:22:07.754225Z"
+    },
+    {
+      "id": "ba60097c3d98fdd2d5e9a8d787636d2d",
+      "title": "CVC-backed Bamboo Insurance targets $3.24 billion valuation in US IPO",
+      "description": "Bamboo Insurance is targeting a valuation of up to $3.24 billion in its US IPO, with selling shareholders seeking to raise as much as $700 million. The residential property insurer plans to offer 35 million shares at $18-$20 apiece and list on the New York Stock Exchange under BMB. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134246642,imgsize-104414.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/cvc-backed-bamboo-insurance-targets-3-24-billion-valuation-in-us-ipo/articleshow/134246642.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-15T03:22:07.093898Z"
+    },
+    {
       "id": "4d6a0f5ff17cf5d0ec649a91de18d885",
       "title": "NSE to increase Nifty 50 real-time dissemination frequency from 250 ms to 100 ms",
       "description": "Under the revised framework, the Nifty 50 index will be disseminated live at a frequency of 100 milliseconds, or 0.10 second, compared with the current frequency of 250 milliseconds, or 0.25 second. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14822,192 +15013,6 @@
         "Corporate"
       ],
       "pubDate": "2026-08-06T02:22:23.600577Z"
-    },
-    {
-      "id": "ea515752ff93788c6b60c93cacea599d",
-      "title": "Airtel shifts broadband focus back to fibre, slows FWA push",
-      "description": "Higher hardware costs and weaker customer retention have prompted the telecom operator to curb FWA expansion even as Reliance Jio accelerates AirFiber growth.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/BHARTI-AIRTEL-TARIFFS--0_1719760830379_1785926642993_9bc19610-eb56-4549-b843-f8f9a1228cf5.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/airtel-scales-back-5g-fwa-focuses-on-fibre-broadband-growth-11785922722243.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T02:22:23.600399Z"
-    },
-    {
-      "id": "feef7f655ae8ab27f256cd7aa41c958a",
-      "title": "Air India names former Ethiopian Airlines head Tewolde Gebremariam as CEO",
-      "description": "The Tata Group-owned carrier hopes the aviation veteran can replicate his success at Africa's largest airline to stem mounting losses and steer its global expansion.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/Air-India-CEO_1785938633116_1785938642787_cd1a6812-e259-40a0-8443-441c48e53815.jpeg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/air-india-new-ceo-tewolde-gebremariam-11785937178297.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T02:22:23.600139Z"
-    },
-    {
-      "id": "e2347a8baa43ca99b264f06d66b29d9c",
-      "title": "RBI hints Tata Sons may remain upper-layer NBFC",
-      "description": "Governor Sanjay Malhotra said the central bank's principle-based framework will determine upper-layer NBFC status, while Tata Sons' listing question continues to hinge on its CIC licence application.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1785940714197_f9900108-73b4-43c9-8d7f-df2075b3a9ae.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/rbi-hints-tata-sons-may-remain-upper-layer-nbfc-11785933190187.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T02:22:23.600089Z"
-    },
-    {
-      "id": "46aaea4569a7d578f398fb4ebfc0568f",
-      "title": "PB Fintech Q1 Results: Net profit nearly doubles to ₹163 crore; revenue climbs 40%",
-      "description": "PB Fintech reported a Q1FY27 net profit of ₹163 crore, a 92% increase from last year, with revenue rising 40% YoY to ₹1,888 crore. However, both profit and revenue declined sequentially from the previous quarter.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/g5c726494707760802f2af17f61ebfba054abd5fd8db031b80_1730867505541_1785932739252_fc9f0601-0d7e-4df1-9a60-28e7e330e72c.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/pb-fintech-q1-results-net-profit-nearly-doubles-to-rs-163-crore-revenue-climbs-40-11785932741631.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T02:22:22.868290Z"
-    },
-    {
-      "id": "a09dd65ef1ad722d01ffc2562d191e15",
-      "title": "RBI upper-layer NBFC list to come out soon",
-      "description": "The Reserve Bank of India will soon release a list of upper-layer NBFCs. New principle-based regulations will classify these financial companies into different layers. Companies in the upper layer will be required to publicly list their shares. Tata Sons may be included on this upcoming list of NBFCs. The central bank has not published this specific list since January 2025.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132978765,imgsize-113552.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-upper-layer-nbfc-list-to-come-out-soon/articleshow/132978765.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T02:22:22.230737Z"
-    },
-    {
-      "id": "990d07e2c606054567a016419788cde3",
-      "title": "PB Fintech Q1 Results: Policybazaar parent's profit soars 92% to Rs 163 crore as insurance premium grows 41%",
-      "description": "PB Fintech reported a 92% year-on-year rise in Q1FY27 consolidated profit to Rs 163 crore, driven by robust insurance premium growth, higher operating revenue and improving margins. Operating revenue rose 40%, while total insurance premium increased 41%, supported by strong protection and health insurance demand.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132942100,imgsize-58886.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T02:22:22.230630Z"
-    },
-    {
-      "id": "0c6dbb83743dda4765bf29fb48881a25",
-      "title": "Sebi settles case against India Power Corp's Raghav Raj Kanoria for Rs 24.7 lakh",
-      "description": "The Securities and Exchange Board of India (Sebi) has concluded adjudication proceedings against Raghav Raj Kanoria, managing director of India Power Corporation. Kanoria has agreed to pay a settlement sum of Rs 24.7 lakh to settle allegations concerning misstatements in financial records for two fiscal years. He resolved the issue without admitting to any wrongdoing, leading to the conclusion of the proceedings.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132945850,imgsize-55652.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-settles-case-against-india-power-corps-raghav-raj-kanoria-for-rs-24-7-lakh/articleshow/132945850.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-06T02:22:22.230571Z"
-    },
-    {
-      "id": "2d577c396a6dc0f0efd982a5b399e78c",
-      "title": "'No US lawsuits filed yet, ready to defend on facts if needed': HDFC Bank CEO clarifies on governance allegations",
-      "description": "HDFC Bank assured shareholders about its strong governance credentials. No US lawsuits have been filed against the bank following investigations. The bank's leadership stated they are well-positioned to defend any potential legal action. HDFC Bank is fundamentally strong with a pristine balance sheet. The integration with HDFC Limited is unlocking meaningful synergies for future growth.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132978449,imgsize-97064.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/no-us-lawsuits-filed-yet-ready-to-defend-on-facts-if-needed-hdfc-bank-ceo-clarifies-on-governance-allegations/articleshow/132978449.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T02:22:22.230513Z"
-    },
-    {
-      "id": "a7930216ec7b4ea74ec2735ffef0d7b9",
-      "title": "No case for early closure or extension of swap window: RBI",
-      "description": "The Reserve Bank of India will not close the swap window early. Robust foreign currency inflows have strengthened India's balance of payments position. The central bank has not received any proposals for extending the deadline. This facility allows banks to swap overseas borrowings at concessional rates. The swap window has already attracted significant dollar inflows by July.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132978737,imgsize-85430.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/no-case-for-early-closure-or-extension-of-swap-window-rbi/articleshow/132978737.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-06T02:22:22.230480Z"
-    },
-    {
-      "id": "42799502f1bb48452a23c5ed6e0f3bdc",
-      "title": "New framework to standardise interest rate rules on the anvil, says RBI",
-      "description": "The Reserve Bank of India plans to standardize interest rate rules for all regulated entities. This new principle-based framework aims to increase transparency and ensure uniformity across lending. The proposed changes are unlikely to affect EMIs or bring NBFCs into the external benchmark regime. Governor Sanjay Malhotra stated this move will improve consumer protection and rationalise existing norms.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132978749,imgsize-118022.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/new-framework-to-standardise-interest-rate-rules-on-the-anvil-says-rbi/articleshow/132978749.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-06T02:22:22.230447Z"
-    },
-    {
-      "id": "571797be591e994a0c32d9ffc563d799",
-      "title": "Liquidity to peak in Sept, but big surplus won't last long: RBI",
-      "description": "The Reserve Bank of India will absorb surplus liquidity from a special forex swap facility. This absorption will occur through higher currency in circulation and maturing forward positions. Banking system liquidity is expected to peak in September due to FCNR(B) deposit inflows. Economists anticipate a surplus of around ₹4-5 lakh crore in the banking system. The central bank will then begin withdrawing excess liquidity through durable absorption measures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132978753,imgsize-137778.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/liquidity-to-peak-in-sept-but-big-surplus-wont-last-long-rbi/articleshow/132978753.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-06T02:22:22.230408Z"
-    },
-    {
-      "id": "5a950029082a39437a711b9157d8e11e",
-      "title": "CAS sparks trader backlash as losses mount, Sebi holds firm",
-      "description": "Concerns are mounting among traders regarding the recent shift to a closing auction system, which has led to significant price volatility. Numerous market participants have reported unexpected losses, prompting authorities to engage with brokers to explore these issues. Despite regulators' attempts to bolster trader involvement, the contentious pricing mechanism continues to stir debate within the financial community.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132978167,imgsize-79364.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cas-sparks-trader-backlash-as-losses-mount-sebi-holds-firm/articleshow/132978167.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-06T02:22:22.230330Z"
-    },
-    {
-      "id": "fb3769495487bb82aa0ab139a93371fa",
-      "title": "Circle shares fall nearly 4% as revenue miss overshadows quarterly profit beat",
-      "description": "Circle's profits in the second quarter significantly outperformed expectations, attributed to the growing adoption of USDC tokens. The surge in USDC circulation, accompanied by a marked increase in onchain transaction activity, highlighted a positive trend. Despite a dip in the reserve return rate during this period, stronger circulation volumes partially mitigated the effects of reduced yields.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132948385,imgsize-40684.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/circle-shares-fall-nearly-4-as-revenue-miss-overshadows-quarterly-profit-beat/articleshow/132948385.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-06T02:22:21.589468Z"
-    },
-    {
-      "id": "2775166b6fc4a8db7cbb4cc37e84a77b",
-      "title": "Manipal Health lists at 11% premium",
-      "description": "Manipal Health Enterprises celebrated a successful market entry on Wednesday, with shares launching at ₹652 on the NSE and ₹655 on the BSE, achieving an eleven percent premium. By closing time, the company's market capitalization reached ₹87,229.24 crore. Their impressive initial public offering, valued at ₹9,275 crore, saw nearly five times subscription, making it the year's second-largest IPO, following SBI Funds Management's offering.",
-      "imageUrl": "https://img.etimg.com/photo/msid-132978912,imgsize-317624.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-lists-at-11-premium/articleshow/132978912.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T02:22:21.588880Z"
-    },
-    {
-      "id": "5c8bed6175825fd1c3d0114345b50145",
-      "title": "Top realtors line up massive launches to meet FY27 sales aim",
-      "description": "After a weak Q1 marked by delayed launches, India's top four listed developers are betting on over ₹1 trillion of premium project launches to meet their ambitious FY27 sales targets. The success of these launches will be crucial for them to meet their annual sales targets.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/g697573323ca95e44c396f38ccc3156f4fc100ca56add8c3f8_1722850231584_1785935099614_a05ba776-0593-431d-80a5-63dd39b6ea65.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/top-real-estate-dlf-lodha-prestige-godrej-premium-launch-fy27-sales-aim-housing-projects-11785915560490.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-05T14:03:11.830585Z"
     }
   ]
 }
