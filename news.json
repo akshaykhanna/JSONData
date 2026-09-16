@@ -1,6 +1,196 @@
 {
   "news": [
     {
+      "id": "b27c8b4df5b07ba769c840423b662ed0",
+      "title": "NSE IPO draws 'unexpectedly large' demand, anchor book tops ₹6,000 cr: CEO",
+      "description": "NSE's Ashishkumar Chauhan said demand for the IPO significantly exceeded shares available, while the anchor book was reduced from about ₹9,000 crore to over ₹6,000 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260915/full-126091500875.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/nse-ipo-draws-unexpectedly-large-demand-anchor-book-tops-6-000-cr-ceo-126091500875_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-16T03:18:14.484337Z"
+    },
+    {
+      "id": "3a7851159862092e7c080832fbafb774",
+      "title": "Nifty support slips to 22,950; Kalyan Jewellers, DLF on analyst radar",
+      "description": "Till Nifty 50 holds below 23,200 zones weakness could extend towards 23,050 then 22,950 levels while on the upside hurdles can be seen at 23,350 then 23,450 zones. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260916/full-126091600090.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-support-slips-to-22-950-kalyan-jewellers-dlf-on-analyst-radar-126091600090_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-16T03:18:14.483924Z"
+    },
+    {
+      "id": "36c0ff46a9f7044bf3d4272d241ca7bd",
+      "title": "PhonePe may restart IPO process after new MDR rules bring clarity",
+      "description": "NPCI’s decision to allow a 0.4% fee on high-value UPI transactions from 15 October gives the payment giant long-awaited revenue visibility, rekindling its IPO plans, two sources told Mint. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/INDIA-PHONEPE-3_1682324041240_1789491498098_WiDc_f841fa0d-b05e-4130-8612-d34700f06e54_ps2M.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/phonepe-ipo-mdr-on-upi-11789486939686.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-09-16T03:18:13.846275Z"
+    },
+    {
+      "id": "d3eaf0df61b2e0bcf100d60447383358",
+      "title": "Tokenized bonds pass the launch test. The real challenge starts now",
+      "description": "Three companies have already launched tokenized corporate bonds under Sebi's Demat 2.0. However, the real success hinges on whether a big enough secondary market develops, and whether a financing ecosystem evolves alongside. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/bond_1765998974370_1765998987080_1789490376742_kioa_1de02df4-91b6-4038-88a7-ed980c86b9a2_3RS7.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/bonds/tokenized-bonds-india-rec-lt-iifl-finance-11789443601058.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-16T03:18:13.294595Z"
+    },
+    {
+      "id": "ce65443b50a3d8ee69a5c80c0e4742f1",
+      "title": "HDFC Bank stock: Is its low valuation finally a buying opportunity?",
+      "description": "HDFC Bank trades at a steep discount to its earlier premium valuation, but weaker ROE and margins raise a key question: can the bank restore the returns that once justified a higher multiple?. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/logo/INDIA-HDFC-BANK-23_1789464722858_c81l_1789464879714_6WaA_e273089f-326b-4d8a-b866-3116236e1647_5ONs.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hdfc-bank-stock-is-its-low-valuation-finally-a-buying-opportunity-11789462298143.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-16T03:18:13.294037Z"
+    },
+    {
+      "id": "a3ef24cda9e13c3d37aaa05b2f9e6ac1",
+      "title": "Coforge shares fall over 3%. What are Jefferies, Emkay saying after Chairman, independent director exit?",
+      "description": "Coforge shares fell after independent director and NRC chairperson DK Singh resigned, days after chairman OP Bhatt stepped down, raising concerns over the board changes. However, the company reiterated its FY27 guidance, retaining its targets of 20.5–21% consolidated EBITDA margin. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134256354,imgsize-142144.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-fall-over-3-what-are-jefferies-emkay-saying-after-chairman-independent-director-exit/articleshow/134256354.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-16T03:18:12.663523Z"
+    },
+    {
+      "id": "ee3dba8f1a7083b9e09092a073182c3b",
+      "title": "HSBC raises ACME Solar target price by 15%; stock jumps 5%. Why is the brokerage bullish?",
+      "description": "ACME Solar shares rose sharply after HSBC raised its target price by 15% to Rs 450 and retained its Buy rating. The brokerage sees signs of a recovery in renewable energy auctions, supported by rising power demand and growing adoption of battery storage and firm, dispatchable renewable energy projects. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134257471,imgsize-211272.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-raises-acme-solar-target-price-by-15-stock-jumps-5-why-is-the-brokerage-bullish/articleshow/134257471.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-16T03:18:12.663468Z"
+    },
+    {
+      "id": "6f3f9993c2c33d505038959e5bc0d60f",
+      "title": "SBI targets Rs 2.4 lakh crore wealth management market, eyes shareholder value growth",
+      "description": "State Bank of India is expanding its wealth management services to existing customers. The bank aims to manage significant investments for affluent clients. SBI is also developing new growth engines like acquisition financing. These initiatives are projected to enhance shareholder value over time. Analysts suggest these new ventures will take time to impact profits. This key financial update highlights evolving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134275863,imgsize-661080.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-targets-rs-2-4-lakh-crore-wealth-management-market-eyes-shareholder-value-growth-state-bank-of-india/articleshow/134275863.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-16T03:18:12.663223Z"
+    },
+    {
+      "id": "0b2796ac3000db6f4b76ef3bed18b13e",
+      "title": "Tata stocks rally on RBI ruling, potential Tata Sons listing",
+      "description": "On Tuesday, shares of Tata Group companies with minority interests in Tata Sons experienced a notable rise. This followed the Reserve Bank of India's decision to deny Tata Sons the ability to surrender its lender status. Analysts suggest that a potential listing of Tata Sons might primarily benefit Tata Chemicals and Tata Steel. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134275508,imgsize-293803.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tata-stocks-rally-on-rbi-ruling-potential-tata-sons-listing/articleshow/134275508.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-16T03:18:12.663077Z"
+    },
+    {
+      "id": "3b48f139235cb4557f6cc909237d6eff",
+      "title": "D-St set for a cautious opening as GIFT Nifty signals muted start",
+      "description": "Indian equities declined as crude prices and inflation concerns persisted. Foreign investors sold shares while domestic institutions bought them on Tuesday. The rupee weakened against the dollar due to global conflicts and oil prices. Analysts expect markets to remain weak ahead of the US Federal Reserve's policy decision. Investors will closely watch the Fed's September meeting for rate guidance.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134269676,imgsize-105644.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134269676.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-16T03:18:12.663038Z"
+    },
+    {
+      "id": "94137faa95c2e25c2e46f4161617b57f",
+      "title": "Stocks in news: Yes Bank, Vedanta, Groww, BHEL, Bharat Forge and NBCC",
+      "description": "Indian equity markets closed lower on Tuesday, extending their monthly decline. Nifty50 reached a key support level, indicating a potential technical bounce. Several companies, including Yes Bank and Vedanta, are expected to be in focus. Bharat Forge and BHEL announced significant collaborations and joint ventures. Other firms reported regulatory updates and investment plans for future growth.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134275479,imgsize-101060.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-yes-bank-vedanta-groww-bhel-bharat-forge-and-nbcc/articleshow/134275479.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-16T03:18:12.663002Z"
+    },
+    {
+      "id": "6b0abface9026c26f5f7572ef90078a3",
+      "title": "IT stocks rebound as AI disruption fears ease; Nifty IT index gains 2.19%",
+      "description": "On Tuesday, information technology stocks saw a notable recovery as investor confidence returned, easing worries surrounding artificial intelligence disruptions. The Nifty IT index performed robustly, surpassing other sector indices. Analysts suggest that AI holds promising prospects for Indian IT firms, yet technical experts express caution regarding the sector's short-term forecasts. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134275729,imgsize-190568.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-rebound-as-ai-disruption-fears-ease-nifty-it-index-gains-2-19/articleshow/134275729.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-16T03:18:12.662958Z"
+    },
+    {
+      "id": "6c98e0e91838f14616eab52ec2a60277",
+      "title": "Glass Wall Systems shares to make market debut today; GMP signals 23% listing gains",
+      "description": "Glass Wall Systems is set to debut on the NSE and BSE on September 16, with its shares commanding a 23% grey market premium over the IPO price. The Rs 427.89 crore issue was subscribed 81.65 times overall. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134276895,imgsize-2105729.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/glass-wall-systems-shares-to-make-market-debut-today-gmp-signals-23-listing-gains/articleshow/134276895.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-16T03:18:12.662612Z"
+    },
+    {
+      "id": "9c55ad52461905945d395f145450f35c",
+      "title": "Rupee seen in 94.50-96.50 range as RBI steps up intervention",
+      "description": "The rupee is expected to trade within a narrow range over the medium term. Stepped-up Reserve Bank of India interventions have helped curb volatility significantly. Stronger dollar inflows via the FCNR(B) scheme also contributed to this stability. The central bank's substantial foreign exchange reserves provide confidence in its intervention capabilities. Traders anticipate subdued near-term volatility as the RBI manages market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134276147,imgsize-34722.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/rupee-expected-to-trade-in-narrow-range-of-94-50-96-50-as-rbi-steps-up-intervention/articleshow/134276147.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-16T03:18:12.095144Z"
+    },
+    {
+      "id": "2bd824d59ec25bcd4d29b0f347bfe55f",
+      "title": "Reliance Industries to raise Rs 12,500 crore via five-year bonds",
+      "description": "In a significant financial maneuver, Reliance Industries aims to secure ₹12,500 crore via a five-year bond issuance, orchestrated by Indian banks. As liquidity from foreign currency deposits rises, banks are keen to channel these resources into corporate lending. This substantial inflow is predicted to stimulate credit growth in the near future. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134276232,imgsize-48864.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/reliance-industries-to-raise-rs-12500-crore-via-five-year-bonds/articleshow/134276232.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-16T03:18:12.095089Z"
+    },
+    {
       "id": "670337996b96a7fa1a180d6db9f12d24",
       "title": "TCS to support Aareal Bank digital transformation programme",
       "description": "Tata Consultancy Services (TCS) announced a long-term strategic partnership with Aareal Bank, a leading international property specialist, to transform its technology landscape with an AI-powered, cloud-first operating model. The collaboration marks a significant milestone in the Bank's ongoing technological transformation programme, supporting its ambition to further modernise its IT landscape, strengthen resilience, and create a future-ready digital foundation.",
@@ -14818,202 +15008,6 @@
         "Corporate"
       ],
       "pubDate": "2026-08-07T02:32:25.669665Z"
-    },
-    {
-      "id": "6d041f6aa0962c62eb264e8d7d9edd87",
-      "title": "Tata Sons faces continued listing uncertainty after RBI classification",
-      "description": "The Reserve Bank of India has placed Tata Sons under intensified regulatory oversight. This designation will not influence its ongoing bid to relinquish its NBFC license. Tata Sons had cleared its debts and sought deregistration approximately two years ago. The regulator is expected not to mandate a listing until the application is resolved, which, in turn, affects the philanthropic ventures and investments of Tata Trusts.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133008884,imgsize-19994.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-faces-continued-listing-uncertainty-after-rbi-classification/articleshow/133008884.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-07T02:32:25.030351Z"
-    },
-    {
-      "id": "31fe01740e0d4c8ea0f7cdc74f02ebd7",
-      "title": "Sebi takes up 402 investigation cases in FY26; completes 338",
-      "description": "Sebi investigated 402 cases in 2025-26 for securities law violations. Fraudulent and unfair trade practices saw 121 cases taken up for scrutiny. Insider trading and illegal trade practices accounted for 224 investigations initiated. Financial statement fraud also came under regulatory focus with 57 cases. Market intermediaries underwent increased surveillance with over 900 brokers inspected.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133010399,imgsize-52066.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-takes-up-402-investigation-cases-in-fy26-completes-338/articleshow/133010399.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-07T02:32:25.030187Z"
-    },
-    {
-      "id": "6f5723fcf4fe0971562fe7ee2a3783ba",
-      "title": "Fortis Healthcare Q1 Results: Profit rises 2.3% to Rs 273 crore",
-      "description": "Fortis Healthcare's financial report for the first quarter showcases a promising 2.3 percent rise in profit. The consolidated profit after tax now stands at Rs 273 crore, reflecting growth from last year. Additionally, revenue surged 17.5 percent to reach Rs 2,545 crore. The hospital segment thrived, alongside successful diagnostics operations. Leaders of the company highlighted ongoing investment in infrastructure and a positive business momentum for the future.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133010459,imgsize-105038.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/fortis-healthcare-q1-results-profit-rises-2-3-to-rs-273-crore/articleshow/133010459.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-07T02:32:25.030102Z"
-    },
-    {
-      "id": "418b2bd4dbd159297e9936c0e7de935f",
-      "title": "RBI plans to bar NBFCs from offering revolving credit without approval",
-      "description": "In a recent announcement, the Reserve Bank of India has introduced fresh regulations for non-banking financial companies. Moving forward, NBFCs will be restricted to providing only term loans, effectively barring revolving credit offerings, though those currently authorized to issue credit cards are not affected. Standalone NBFCs will require prior permissions and significant funding to independently offer credit cards. The central bank is actively seeking input on these upcoming policies.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018244,imgsize-87206.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-plans-to-bar-nbfcs-from-offering-revolving-credit-without-approval/articleshow/133018244.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO"
-      ],
-      "pubDate": "2026-08-07T02:32:25.030060Z"
-    },
-    {
-      "id": "a5a11014e9df36b86c3ebeb1a4ee3ea9",
-      "title": "Weekly Expiry: Sensex mirrors Nifty's swings, but with milder spurts",
-      "description": "The recent weekly expiry of Sensex showcased unexpected surges in the index and heightened options premiums. Traders observe that such fluctuations are now standard until liquidity conditions improve. Notably, substantial implied volatility spikes arose without impactful news. Significant trades in ICICI Bank hinted at efforts to sway the index's trajectory. This market landscape creates challenges for option writers while benefiting buyers.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018069,imgsize-75064.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-expiry-sensex-mirrors-niftys-swings-but-with-milder-spurts/articleshow/133018069.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-07T02:32:25.029957Z"
-    },
-    {
-      "id": "ab5324cac79db5966d7f4e718b4f3b43",
-      "title": "D-Street braces for weak opening on negative GIFT Nifty cues",
-      "description": "Indian equities appear set for gradual gains, supported by encouraging news. Growing hopes for peace in West Asia and solid Q1FY27 earnings are enhancing investor confidence. Brent crude prices have fallen below eighty dollars per barrel, reflecting optimism in talks. The market will keep an eye on crucial Q1 earnings and US employment figures as the Indian rupee slightly weakened against the dollar on Thursday.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018171,imgsize-34964.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133018171.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-07T02:32:25.029920Z"
-    },
-    {
-      "id": "b301bac720574a78234b6e0ad50e67a4",
-      "title": "Stocks in news: LIC, Trent, AWL Agri Business, SBI, Titan",
-      "description": "Indian markets experienced a quiet day of trading on weekly expiry, influenced by varying signals. LIC announced a remarkable 23% increase in its net profit year-on-year, while Trent reported a solid 21% growth in consolidated net profit. PNB Housing is optimistic about its micro-housing loan business aiming for Rs 100 crore. Additionally, Dabur has taken legal action against FSSAI's directive concerning its product claims in the Delhi High Court.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018256,imgsize-64466.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lic-trent-awl-agri-business-sbi-titan/articleshow/133018256.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-07T02:32:25.029879Z"
-    },
-    {
-      "id": "c0b6a8e66fdeb2a45948f7c849ee6b6b",
-      "title": "Banks tone down rate-hike bets as RBI sounds dovish on prices",
-      "description": "Some banks now anticipate fewer policy rate increases from the Reserve Bank of India. Yes Bank and State Bank of India have revised their earlier rate hike forecasts. MUFG Bank has also pushed back its expected policy rate hike timing. Other banks maintain their forecasts for cumulative rate increases this fiscal year. Inflation projections remain sensitive to future crude oil price movements.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018263,imgsize-54980.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/banks-tone-down-rate-hike-bets-as-rbi-sounds-dovish-on-prices/articleshow/133018263.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-07T02:32:25.029837Z"
-    },
-    {
-      "id": "a4c73f27ce218243c6e38dcc09371ff2",
-      "title": "FPIs, trading companies tap Sebi, centre for tax breather",
-      "description": "Investors from abroad are pressing regulators for a decrease in securities transaction taxes to alleviate the burden of double capital gains taxes. With the Reserve Bank of India's stringent leverage rules potentially pushing trading activities offshore, there's a risk of reduced government revenues and diminished market liquidity. Authorities are considering these issues in light of the recent tax cuts on government securities.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018389,imgsize-134168.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-trading-companies-tap-sebi-centre-for-tax-breather/articleshow/133018389.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-07T02:32:25.029749Z"
-    },
-    {
-      "id": "fb8ce8b543b61239dc19f60075f42ee3",
-      "title": "RBI relaxes device-loan recovery norms",
-      "description": "The Reserve Bank of India has updated its regulations on mobile loan financing. Lenders are now required to reinstate device functionality within one hour of confirmation of payment. Additionally, borrower compensation is limited to the total loan amount. These regulations will take effect starting January 1, 2027. Furthermore, technology may be employed to limit device functions following a loan default.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018590,imgsize-146124.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-relaxes-device-loan-recovery-norms/articleshow/133018590.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-07T02:32:25.029650Z"
-    },
-    {
-      "id": "b42e32420b5fa05dfd09e3c7698571a7",
-      "title": "LIC Q1 profit surges 23% on growth in value of new business",
-      "description": "Life Insurance Corporation of India reported a twenty-three percent net profit rise. Value of new business jumped sixty-one percent, boosting profitability margins significantly. Diversification into non-participating savings and protection products aided this strong performance. The insurer's solvency ratio strengthened, and assets under management also increased. Government's recent offer for sale was well received by the market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018657,imgsize-51392.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/lic-q1-profit-surges-23-on-growth-in-value-of-new-business/articleshow/133018657.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-07T02:32:25.029552Z"
-    },
-    {
-      "id": "516545b949089fe99e46afb572960f73",
-      "title": "Specialised realty platforms drive India's next wave of IPOs",
-      "description": "India's real estate sector is on the rise, with innovative public market listings through specialized platforms. These enterprises demonstrate stability with recurring revenue and institutional support, drawing in investors. The surge began with flexible workspace providers post-pandemic, while residential developers and student housing firms are now eyeing their own listings. This movement creates new avenues for investment in the unfolding realty growth landscape.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018215,imgsize-41968.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/specialised-realty-platforms-drive-indias-next-wave-of-ipos/articleshow/133018215.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-07T02:32:24.469199Z"
-    },
-    {
-      "id": "5935c66a4236a10a72be35d20309c6c9",
-      "title": "Can LEAP India IPO deliver long-term growth for high risk investors?",
-      "description": "LEAP India is on a mission to secure ₹480 crore through a new issuance aimed at settling its debts. Additionally, the company plans to garner ₹2,000 crore via an offer for sale. After acquiring CHEP India, LEAP India has significantly enhanced its asset-pooling network, resulting in a remarkable 41.4% revenue increase year-on-year and a net profit surge of 29.5%. This IPO might attract high-risk investors looking for long-term gains.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133018305,imgsize-39124.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-leap-india-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133018305.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-07T02:32:24.469079Z"
-    },
-    {
-      "id": "79a8751efea6f62821a0b859c7dde511",
-      "title": "Leap India raises Rs 743.6 crore from 32 anchor investors ahead of IPO launch",
-      "description": "The anchor allocation witnessed participation from some of the world’s most prominent institutional investors, including the Monetary Authority of Singapore, Morgan Stanley India Investment Fund Inc., Goldman Sachs Investments (Mauritius) I Ltd., Government Pension Fund Global, Citigroup Global Markets Mauritius Private Limited, Société Générale – ODI, and BNP Paribas Financial Markets – ODI.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133019081,imgsize-276124.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/leap-india-raises-rs-743-6-crore-from-32-anchor-investors-ahead-of-ipo-launch/articleshow/133019081.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-08-07T02:32:24.468531Z"
-    },
-    {
-      "id": "8161d14e23b088c312627a8c8a66d162",
-      "title": "Trent misses Q1 estimates as store-led growth masks weak demand",
-      "description": "Revenue and profit rose in double digits as the Tata Group retailer accelerated store expansion, but sluggish like-for-like growth at existing outlets weighed on quarterly performance.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/TRENT-STOCKS--1_1749711887712_1786011159452_8e193483-3a48-41d0-8174-083d2e14a21b.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/trent-misses-q1-estimates-as-store-led-growth-masks-weak-demand-11786008256128.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-06T14:02:06.694190Z"
     }
   ]
 }
