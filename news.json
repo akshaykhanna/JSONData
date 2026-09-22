@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "6fa29f1fbc5e53ab55b17caa681ce967",
+      "title": "NSE IPO receives $10 billion in bids after being subscribed 5.7 times",
+      "description": "NSE's $2.3 billion IPO ​was subscribed 5.7 times by ​the end of the final ‌day of bidding on Monday as investors bet on continued equity market growth in Asia's third-largest economy. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260921/full-126092100869.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nse-ipo-receives-10-billion-in-bids-after-being-subscribed-5-7-times-126092100869_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-22T03:17:26.051169Z"
+    },
+    {
+      "id": "b535ea4b00058ca08411b355c5900b37",
+      "title": "Why NSE's mega ₹22,562 crore IPO met a rather small retail appetite",
+      "description": "Market data showed NSE's grey-market premium weakening sharply during the IPO period. The premium had fallen to around 2 per cent from a peak of about 20 per cent during the bidding. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260922/full-126092200089.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/why-nse-s-mega-22-560-crore-ipo-met-a-rather-small-retail-appetite-126092200089_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-22T03:17:26.050866Z"
+    },
+    {
+      "id": "5506506e0bcff3b8dc50e65ef1ea07d2",
+      "title": "Emami share price jumps 4% ahead of buyback: What should investors do? Check stop loss, target",
+      "description": "Emami's buyback plan targets ₹475 per share, with a maximum buyback size of ₹282 crore. Existing shareholding may shift, increasing promoter ownership to 55.6%. Analysts suggest accumulating shares in the ₹360-380 range, while key support stands at ₹340. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Emami_1789985858630_65E2_1789985863871_xXUO_0dd810a0-41da-459b-a0e6-3250da7f9a67_qCyz.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/emami-share-price-jumps-4-ahead-of-buyback-what-should-investors-do-check-stop-loss-target-11789983617370.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-22T03:17:23.604820Z"
+    },
+    {
+      "id": "e45e5ff13039015a73d0e856be36b7ec",
+      "title": "Pine Labs share price target: MOFSL sees 72% upside in bull case - know bear case | Rationale explained",
+      "description": "Pine Labs shares ended higher after Motilal Oswal initiated coverage, forecasting a 72% upside in a bull case. The company is positioned to benefit from a growing digital payments ecosystem, with expected FY26-28 revenue CAGR at 24%.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/pine_labs_1789993188553_KdgL_1789993206233_bK9j_fe3162bc-3d90-4680-a99f-c28a697e4762_HkFQ.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/pine-labs-share-price-target-mofsl-sees-72-upside-in-bull-case-know-bear-case-rationale-explained-11789993017685.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-22T03:17:23.604547Z"
+    },
+    {
+      "id": "5812e316b2288e61a21a9370a158d26f",
+      "title": "Pine Labs block deal: Mastercard Asia-Pacific to sell entire stake worth nearly ₹890 crore: Report",
+      "description": "Mastercard will liquidate its holdings in Pine Labs through a ₹890 crore deal, offering shares at ₹179.50 on 22 September. This action coincides with Pine Labs' stock recovery and profit growth from increased digital payment adoption and UPI usage in India. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/PINE-LABS-IPO-INTERVIEW-0_1763101608407_1763101637552_1789997140446_708C_c7e636a0-bac4-4a71-a826-d3233c5cd0ae_tzpz.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/pine-labs-block-deal-mastercard-asia-pacific-to-sell-entire-stake-worth-nearly-rs-890-crore-report-11789997088408.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-22T03:17:23.604457Z"
+    },
+    {
+      "id": "8e813fff2865ac5e16ce2f7cc8a04a65",
+      "title": "Paytm is looking beyond payments. What it means for the stock",
+      "description": "Stronger profits, tighter spending and a push into wealth products are reshaping Paytm’s growth story, while competition, regulation and a steep valuation remain key risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/INDIA-PAYMENTS-UPI-0_1789989931549_zFcp_1789989953455_GtN6_ffee7ab0-1b37-49ea-968c-f0d1746a2beb_RQ0D.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/paytm-is-looking-beyond-payments-what-it-means-for-the-stock-11789987671394.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-22T03:17:23.603623Z"
+    },
+    {
+      "id": "3f25abc41d3701a78e3e427d4e23f9e4",
+      "title": "JSW Cement shares gain 2% after Motilal Oswal upgrades stock to Buy. Check target price",
+      "description": "JSW Cement shares gained nearly 2% after Motilal Oswal upgraded the stock to Buy from Neutral, citing strong volume growth, North India expansion, cost efficiencies and an improving medium-term growth outlook. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134380119,imgsize-241740.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-cement-shares-gain-2-after-motilal-oswal-upgrades-stock-to-buy-check-target-price/articleshow/134380119.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-22T03:17:22.818168Z"
+    },
+    {
+      "id": "1ea6d0decbaea3dac4f10468668c092c",
+      "title": "NMDC shares rally 2% after company sets target to achieve net-zero operational emissions by 2047",
+      "description": "NMDC shares rallied up to 2% on Monday to Rs 80.85 after setting a target to achieve net-zero operational emissions by 2047. Covering Scope 1 and Scope 2 emissions, the roadmap spans three phases focusing on renewable energy, fleet electrification, energy efficiency, and low-carbon logistics to reduce operational emissions by 90%. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134382521,imgsize-2354439.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-rally-2-after-company-sets-target-to-achieve-net-zero-operational-emissions-by-2047/articleshow/134382521.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-22T03:17:22.817918Z"
+    },
+    {
+      "id": "7ee41f6ae72163d76cef7a12dd508e8b",
+      "title": "FIIs raise stakes in 14 stocks in Q1; shares rally up to 75% in less than 3 months",
+      "description": "FIIs increased stakes in 14 BSE 500 stocks during the June 2026 quarter, with shares gaining 20% to 75% in less than three months after the quarter-end. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134382647,imgsize-4334.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-raise-stakes-in-14-stocks-in-q1-shares-rally-up-to-75-in-less-than-3-months/slideshow/134383306.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-22T03:17:22.817790Z"
+    },
+    {
+      "id": "4ac34f1c4c97f51028b36cf0fd5b4016",
+      "title": "Bandhan Bank promoter to gradually reduce stake to meet RBI norms",
+      "description": "Bandhan Financial Services will reduce its stake in Bandhan Bank gradually. The promoter aims to comply with RBI regulations by 2030. Recent share sales occurred on the open market, lowering holdings. A proposed stock split will divide shares to attract retail investors. Shareholders will review this plan at the upcoming annual general meeting. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134399800,imgsize-84366.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-promoter-to-gradually-reduce-stake-to-meet-rbi-norms/articleshow/134399800.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-22T03:17:22.817137Z"
+    },
+    {
+      "id": "ff166aadc39a95e0546ee89c443e7aa0",
+      "title": "Stocks in news: ONGC, Lloyds Metals, Canara Bank, Rays of Belief and GRSE",
+      "description": "Indian stock markets closed higher on Monday, with the Nifty 50 and BSE Sensex gaining points. Several companies, including ONGC and Canara Bank, are expected to be active on Tuesday. ONGC announced a gas discovery in the Mahanadi Offshore Basin, while Canara Bank received a rating from Moody’s. Lloyds Metals and Energy approved capacity expansion, and Suryoday Small Finance Bank.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134394479,imgsize-155014.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ongc-lloyds-metals-canara-bank-rays-of-belief-and-grse/articleshow/134394479.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-22T03:17:22.817049Z"
+    },
+    {
+      "id": "cea82489ec40bf7b9d1f3a83e594410b",
+      "title": "Explained: 13 reasons why the Nifty could not deliver more in last 5 years",
+      "description": "Over a five-year period, thirteen stocks within the Nifty index adversely affected its overall performance, resulting in negative returns for these specific laggards. Conversely, the Nifty 50 index itself witnessed gains. Had these underperforming stocks been excluded, the index's returns would have been significantly enhanced. Active mutual funds, benefiting from reduced exposure to these stocks, ultimately outperformed the Nifty 50.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134399807,imgsize-16064.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/explained-13-reasons-why-the-nifty-could-not-deliver-more-in-last-5-years/articleshow/134399807.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-22T03:17:22.816987Z"
+    },
+    {
+      "id": "9dac536503616157d185abfc539affb6",
+      "title": "AI is real, and it will pay off, just as the Internet did, says JPMorganChase CEO Jamie Dimon",
+      "description": "Jamie Dimon sees India as a fast-growing economy with bright future prospects. He believes consistent regulations and taxing policies will strengthen foreign investment. The RBI's plan to raise dollars is viewed as appropriate for supporting the rupee. AI is a real investment, though its long-term revenue generation remains uncertain. Dimon supports transparency and good governance, especially concerning Tata Group's leadership.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134399772,imgsize-2911718.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/ai-is-real-and-it-will-pay-off-just-as-the-internet-did-says-jpmorganchase-ceo-jamie-dimon/articleshow/134399772.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-22T03:17:22.228337Z"
+    },
+    {
+      "id": "35a9c4fba0b4c616b887baa09cd40e43",
+      "title": "23 firms race to launch IPOs worth Rs 40,775 crore before September 30 deadline",
+      "description": "Around two dozen companies must launch their IPOs by September 30. These firms need to start the share sale process or refile offer documents. Approvals for at least 23 companies, seeking ₹40,775 crore, expire this month. Companies have one year from Sebi approval to launch their issues. Refiling would add significant costs and delays to fundraising plans.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134399560,imgsize-57026.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/the-great-ipo-crush-23-firms-rush-to-launch-rs-40775-crore-ipos-before-september-30-deadline/articleshow/134399560.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-22T03:17:22.228160Z"
+    },
+    {
+      "id": "3db8b1d9da5e92811ffe89f897d05eef",
+      "title": "Varmora Granito raises Rs 212 crore from anchor investors ahead of Rs 708 crore IPO",
+      "description": "Varmora Granito secured ₹212.4 crore from anchor investors on Monday. This fundraising occurred a day before its ₹708-crore initial public offering. The company allocated 1.43 crore equity shares to seventeen funds. Goldman Sachs and ICICI Prudential Mutual Fund were among the key participants. Other notable investors included Bandhan Mutual Fund and Bharti AXA Life Insurance.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134399926,imgsize-382136.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/varmora-granito-raises-rs-212-4-crore-from-anchor-investors-ahead-of-rs-708-crore-ipo/articleshow/134399926.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-22T03:17:22.227803Z"
+    },
+    {
       "id": "3a24ecb7e12e31e16ae5ef5e497859c2",
       "title": "Sensex settles 564 pts higher; Nifty ends above 23,400 level",
       "description": "As per provisional closing data, the S&P BSE Sensex jumped 564.03 points or 0.76% to 74,858.99. The Nifty 50 index added 67.90 points or 0.29% to 23,414.30. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14856,193 +15043,6 @@
         "Corporate"
       ],
       "pubDate": "2026-08-13T01:46:38.657085Z"
-    },
-    {
-      "id": "a16055f47376db3fbb98c6a5656b1031",
-      "title": "Apollo Hospitals beats estimates for Q1FY27, net profit up 34%",
-      "description": "Apollo Hospitals' Q1FY27 net profit rose 34% to ₹581 crore, beating street estimates, as high-complexity specialty volumes and pharmacy growth lifted revenue 21% to ₹7,043 crore.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/Rep_1757931401905_1757931402084_1786550982168_719b7a51-cb12-40a9-806b-2b2527a7f284.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/apollo-hospitals-beats-estimates-for-q1fy27-net-profit-up-34-11786547873029.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-13T01:46:38.656830Z"
-    },
-    {
-      "id": "63942f1cdf857490877343ec7dcd0ac1",
-      "title": "Chandrasekaran steps down from Tata Sons after third-term bid stalls",
-      "description": "The decision came eight days before the Tata Sons annual general meeting, scheduled for 18 August, and caught Noel Tata and most of the Tata Trusts trustees off guard, two executives aware of the development said. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/TCS-AI--0_1786542616480_1786542628752_f1ae9c87-1822-4d12-93f2-0bf97bff1f80.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/people/chandrasekaran-steps-down-from-tata-sons-after-third-term-bid-stalls-11786537435883.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-13T01:46:38.656794Z"
-    },
-    {
-      "id": "91bc6adec3918acc326ca9a6cfdd15bb",
-      "title": "Chandrasekaran’s decision to step down underlines a lack of succession planning at Tata Sons",
-      "description": "On Tuesday, Godrej Consumer Products CEO Sudhir Sitapati resigned after the Godrej board granted him a second five-year term and shareholders approved the decision on 7 August. Global chief financial officer Aasif Malbari was appointed in his place on the same day. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/PTI10-11-2024-000143B-0_1728661392978_1786557321490_6b1f0216-ce92-43ab-88dd-d204c33e414b.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/chandrasekarans-decision-to-step-down-underlines-a-lack-of-succession-planning-at-tata-sons-11786533165565.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-13T01:46:38.656697Z"
-    },
-    {
-      "id": "3b09ff119ae23eb8fd6bc19fc88d06cc",
-      "title": "When silence isn't golden: The rift that ended N Chandrasekaran's Tata tenure",
-      "description": "N Chandrasekaran's resignation as Tata Sons chairman reveals a breakdown in communication, highlighting complications with board decisions and unresolved leadership gaps. It raises fundamental questions about trust and governance in a complex corporate landscape. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/TATA-SONS-CHAIRMAN--1_1786537511117_1786537525332_bad45adb-70e6-45ca-bc7b-815ff2c51030_1786546283447_205ec329-67e7-4886-b412-8b733e79dae4.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/when-silence-isnt-golden-the-rift-that-ended-n-chandrasekarans-tata-tenure-11786541887594.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-13T01:46:38.656652Z"
-    },
-    {
-      "id": "b402a0c9e18cccea3e9dcf26bb86031c",
-      "title": "Govt views Chandra's exit as internal Tata Sons issue, sees no reason to step in",
-      "description": "The government’s position is that it would consider stepping in only if the Tata Group or relevant stakeholders formally seek its involvement. As a matter of policy, the government generally refrains from intervening in the internal governance of private companies. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/ANI-20260526316-0_1786016372858_1786016380084_acadaea8-1bb7-4ac1-82ab-ebfc010428da_1786549363632_351f44b6-e719-4645-a930-7a3e96d03572.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/govt-views-chandras-exit-as-internal-tata-sons-issue-sees-no-reason-to-step-in-11786542824899.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-13T01:46:38.656572Z"
-    },
-    {
-      "id": "4c5a0eda0db4456803d86c08370e3640",
-      "title": "Penny stock under ₹5 hits upper circuit after Q1 results 2026",
-      "description": "NHC Foods shares rose 5% to ₹1.30 after a strong Q1 FY27, with revenue up 234.54% YoY. The company reported an EBITDA growth of 512.43% and a profit increase of 919.81%. Plans include a strategic investment in Agriconnect Solutions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/gef07ab7b3371a3242342a8b0cba0308efcec1496b6ef49c5a_1737349257013_1786541134002_448a201e-b79b-44e2-8b70-d3b355bebc58.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-hits-upper-circuit-after-q1-results-2026-11786540874838.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-13T01:46:38.045712Z"
-    },
-    {
-      "id": "2ef5edf6dc77e21829007a340aab5620",
-      "title": "From Trent to Titan: Over 15 Tata Group stocks more than doubled investors' wealth during Chandrasekaran's tenure",
-      "description": "Under N Chandrasekaran, Tata Group stocks significantly increased in value, with many achieving over 1,000% gains. Chandrasekaran has announced that he will not seek reappointment as chairman when his term ends in February 2027, marking the end of a notable 40-year tenure. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/ANI-20260526316-0_1786016372858_1786016380084_acadaea8-1bb7-4ac1-82ab-ebfc010428da_1786543715363_291cbc5c-d8f7-410e-858c-47ae88ea85aa.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/over-15-tata-group-stocks-more-than-doubled-investors-wealth-under-chandras-tenure-as-chairman-of-tata-sons-11786543718013.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-13T01:46:38.045619Z"
-    },
-    {
-      "id": "24af4c9bef05fd6fafe0f0ba1cd6a140",
-      "title": "IRCTC Q1 Results: Revenue rises 18%, profit remains largely flat at ₹330 crore",
-      "description": "IRCTC reported a net profit of 330.16 crore for the June quarter, slightly down from 330.71 crore a year ago. Revenue rose 18.1% to 1,369.53 crore YoY but fell 6.2% sequentially. Tourism revenue declined sharply, while catering showed strong growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/g73526b69afd620ef69655e9655003d8a3a3b237aebf14b7fc_1721739734952_1786550679736_dd1f66d9-dd56-4d20-995c-c790e63b1e58.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/irctc-q1-results-revenue-rises-18-profit-remains-largely-flat-at-rs-330-crore-11786550554016.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-13T01:46:38.045542Z"
-    },
-    {
-      "id": "4087579177f61e9591970219c60ea686",
-      "title": "Gokaldas Exports Q1 profit jumps 7% as US tariff pressure eases",
-      "description": "Gokaldas Exports reported a 7% year-on-year rise in Q1FY27 net profit to ₹44 crore, while income climbed 21% to ₹1,180 crore. Recovery followed tariff disruptions, supported by stronger India order execution, Africa volumes and productivity initiatives. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133184564,imgsize-27480.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/gokaldas-exports-q1-profit-jumps-7-as-us-tariff-pressure-eases/articleshow/133184564.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-13T01:46:37.334208Z"
-    },
-    {
-      "id": "638a5b61fb9ad560d6b3e443023021e6",
-      "title": "Banks to reveal loan rates every month in RBI's disclosure tweak",
-      "description": "The Reserve Bank of India has proposed new lending rate guidelines. Regulated entities must declare lending rates monthly and reset floating loans quarterly. Total charges for microfinance and small loans will be capped by the regulator. These new norms aim to harmonize interest rate determination methods. Final guidelines will take effect from April 1, 2027.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133195387,imgsize-138915.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/banks-to-reveal-loan-rates-every-month-in-rbis-disclosure-tweak/articleshow/133195387.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-13T01:46:37.333851Z"
-    },
-    {
-      "id": "84c219ccfe82810a7184db8afd831822",
-      "title": "Stocks in news: UltraTech Cement, Tata Motors PV, Axis Bank, Apollo Hospitals and Ircon",
-      "description": "Indian equity markets saw a decline on Wednesday, influenced by Middle East tensions and rising oil prices. Several companies will be in focus today due to corporate developments and first-quarter earnings reports. UltraTech Cement shares are set for a block deal, while Apollo Hospitals reported strong profit growth. Lenskart Solutions and Astral also announced significant profit increases for the first.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133189372,imgsize-209024.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ultratech-cement-tata-motors-pv-axis-bank-apollo-hospitals-and-ircon/articleshow/133189372.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-13T01:46:37.333644Z"
-    },
-    {
-      "id": "51cb81646cb699a8c69dd11c4309556c",
-      "title": "Federal Bank, IDFC First Bank surge in credit card growth, challenging HDFC Bank",
-      "description": "Recent data reveals that Federal Bank and IDFC First Bank have collectively issued over twenty-two lakh new credit cards, almost paralleling HDFC Bank's own expansions. Together, they represent twenty-one percent of the newly released cards, suggesting a noticeable change in the competitive dynamics of the credit card sector as the dominance of the top four issuers appears to be waning.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133195449,imgsize-51220.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-idfc-first-bank-surge-in-credit-card-growth-challenging-hdfc-bank/articleshow/133195449.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-13T01:46:37.333613Z"
-    },
-    {
-      "id": "420ac7b7654b3f4267f9ed449a8229ab",
-      "title": "Sebi sees no CAS manipulation, eyes more participation",
-      "description": "In a recent statement, Sebi chairman Tuhin Kanta Pandey confirmed that the closing auction sessions showed no manipulation. He linked earlier discrepancies to cautious trading in the newly implemented system. Notably, mutual funds have significantly increased activity in these sessions. Additionally, Sebi is looking into strategies to bolster both participation and liquidity in commodity derivatives, while also striving to ease.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133195469,imgsize-72000.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sees-no-cas-manipulation-eyes-more-participation/articleshow/133195469.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-13T01:46:37.333573Z"
-    },
-    {
-      "id": "eed20220b19834a478a32f8698311f00",
-      "title": "Groww leads India's top brokerages in July with over 70,000 new active accounts",
-      "description": "Groww strengthened its brokerage lead in July, adding over seventy thousand active accounts. This growth contrasts with a general industry slowdown in user additions this year. Zerodha, the second-largest broker, continued to lose active accounts, shrinking its user base. Angel One and Upstox Securities also experienced declines in their active client numbers. HDFC Securities similarly shed active accounts during.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133195517,imgsize-62642.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/groww-leads-indias-top-brokerages-in-july-with-over-70000-new-active-accounts/articleshow/133195517.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-13T01:46:37.333447Z"
-    },
-    {
-      "id": "16913c7676504f13194816fd9a8dcb8d",
-      "title": "Tata Sons chair N Chandrasekaran resigns, won't seek reappointment after term ends",
-      "description": "The proposal for a third term for Chandrasekaran was deferred in February, leaving hanging the question of who will succeed him or whether he would be reappointed. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/Natarajan-Chandrasekaran_1786528028595_1786528028804_175381a0-1657-4feb-ba7f-16e5812c9cc1.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/people/tata-group-leadership-shake-up-n-chandrasekaran-may-step-down-as-tata-sons-chair-amid-tensions-with-largest-shareholder-11786511643232.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-12T13:03:01.700076Z"
     }
   ]
 }
