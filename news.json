@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "6e5fe4cba6d663b0301f7f7873554f66",
+      "title": "Nifty reclaims 23,400 as easing oil prices lift sentiment",
+      "description": "The domestic equity benchmarks rebounded on Wednesday, supported by signs of easing tensions in the Middle East following US-Iran talks and a continued decline in oil prices. The Nifty closed above the 23,400 level, led by gains in metal, FMCG and PSU bank shares. However, IT and oil & gas stocks declined. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/nifty-reclaims-23-400-as-easing-oil-prices-lift-sentiment-126092300908_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-23T16:05:24.789157Z"
+    },
+    {
+      "id": "c05025aa74636a16d5ca05264feb2988",
+      "title": "SBI Card launches fixed deposit backed Advantage SBI Card on SBI YONO",
+      "description": "SBI Card announced the launch of Advantage SBI Card on SBI YONO, introducing a seamless digital journey that enables customers to avail a secured credit card backed by a fixed deposit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sbi-card-launches-fixed-deposit-backed-advantage-sbi-card-on-sbi-yono-126092301044_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T16:05:24.789016Z"
+    },
+    {
+      "id": "3d433ec3349ca6385f628dfb690571ba",
+      "title": "Motilal Oswal group secures licence for custodian services from SEBI",
+      "description": "Motilal Oswal Custodial Services (MOCSPL), a wholly owned subsidiary of Motilal Oswal Financial Services (MOFSL), has received approval from the Securities and Exchange Board of India to act as a Custodian of Securities under the SEBI (Custodian) Regulations, 1996. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/motilal-oswal-group-secures-licence-for-custodian-services-from-sebi-126092301267_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-23T16:05:24.788754Z"
+    },
+    {
+      "id": "818e246a60951c60129630a56a9a6190",
+      "title": "Who is Venu Srinivasan? TVS Group veteran headlining the Tata Sons row",
+      "description": "Who is Venu Srinivasan? A look at the TVS Motor chairman emeritus and a lifetime vice-chairman of Tata Trusts, now in the news over the Tata Sons IPO vote. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/2-0-154039705-Venu-Srinivasan-3C-0_1681142884782_1790141059107_bpmi_d3fd6695-b008-4ba6-85a8-48ff3670109f_g5hV.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/who-is-venu-srinivasan-tvs-group-veteran-headlining-the-tata-sons-row-11790140178459.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T16:05:22.972273Z"
+    },
+    {
+      "id": "87855dbf6f506480e78f98443610d535",
+      "title": "Former Walmart COO Mediratta eyes 100 stores for new grocery venture FreshTerra, targets IPO in five years",
+      "description": "Former Metro and Hippo Homes CEO Arvind Mediratta is focusing on FreshTerra's growth, targeting 100 stores in five years. The company leverages physical outlets for online sales, emphasizing customer experience and private label offerings in the fast-evolving organized retail sector. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/2-0-1423583309-Arvind-Mediratta2-0_1679748272563_1790097089307_dXFZ_579a7db8-5338-4f52-91ad-3cab014abbf5_w2nD.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/freshterra-arvind-mediratta-grocery-stores-expansion-ipo-plans-11790096830119.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-23T16:05:22.972181Z"
+    },
+    {
+      "id": "cea160848a2d1d9360270f14ae0163e1",
+      "title": "Hurun Rich List 2026: Gautam Adani reclaims top spot as AI adds 15 new entrants, India gets 27 billionaires",
+      "description": "Gautam Adani and family have reclaimed the top spot on the M3M Hurun India Rich List 2026, while India’s dollar billionaire count rose to a record 391. AI emerged as a new wealth-creation sector, with 15 new entrants. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/ANI-20260831340-0_1790154168019_giBU_1790154177772_yCji_df953fda-009c-4026-94e8-7c2e220b57df_Xv8v.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/hurun-rich-list-2026-gautam-adani-reclaims-top-spot-as-ai-adds-15-new-entrants-india-gets-27-billionaires-11790153652856.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T16:05:22.972008Z"
+    },
+    {
+      "id": "5a8ef979b37ab2a9cb5d571a436f831a",
+      "title": "Duty-free shops can’t claim blanket exemption from Indian laws: Bombay HC",
+      "description": "Adani Group-backed Mumbai Travel Retail and Flemingo Dutyfree Shop argued that Indian drug authorities could not take action against them because the shops are located in the international departure area. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/The-Bombay-High-Court_1790170406872_QWoy_1790170407038_ZFEt_6e80d61f-7061-4c5d-a70b-14bbd3ef552f_d0ZR.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/bombay-hc-ruling-duty-free-shops-adani-subject-to-india-regulatory-laws-customs-barrier-11790168199016.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T16:05:22.971628Z"
+    },
+    {
+      "id": "fbcfd11e4355cc845801e091a559a353",
+      "title": "Top 2 stocks to buy for short-term: IKS Health, PB Fintech by Nagaraj Shetti - Check stop loss, targets",
+      "description": "Indian benchmark indices rose on Sept 22 due to falling crude oil prices and easing energy cost concerns, despite ongoing Middle East conflict. Nifty 50 gained 0.5% while Sensex increased 0.4%. A breakout above 23,600 could trigger renewed buying, with potential dips viewed as buying opportunities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Nagaraj_Shetti_1789610157457_vdtE_1789610166505_Aq_1790161964513_JriN_1790161964788_Y9WY_7c083811-18e3-4662-8668-549c4a7daf90_zrTj.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-iks-health-pb-fintech-by-nagaraj-shetti-check-stop-loss-targets-11790161370222.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-23T16:05:22.382215Z"
+    },
+    {
+      "id": "cd97845d4249b4026049eae73cc6d1f4",
+      "title": "328% returns in 5 years! ICICI Securities sees 27% upside in this hotel stock, do you own? Check target price",
+      "description": "Chalet Hotels shares rose 1.20% on September 23, building on a 4.7% gain over the past week. The hotel chain's revenue is projected to grow significantly by FY29. ICICI Securities sees 27% upside in the hotel stock. Check target price.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/hotel_stock_1790164254198_bIyd_1790164262919_c9ee_48c2d988-111b-4e97-9036-8afa01bf5596_DAWg.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/328-returns-in-5-years-icici-securities-sees-27-upside-in-this-hotel-stock-do-you-own-check-target-price-11790163826720.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T16:05:22.382174Z"
+    },
+    {
+      "id": "ff593084ec36d58ed19deb307b8fee4f",
+      "title": "Sebi weighs margin changes for longer-dated derivatives",
+      "description": "Sebi may look&nbsp; to review margin requirements for longer-dated derivatives as it seeks to broaden India’s equity derivatives market beyond the dominance of short-term index options. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/INDIA-REGULATION-KORE-DIGITAL-0_1790171845161_Khy6_1790171860691_Ywtl_a875225c-50fe-4cdc-8a09-964081a5cd7a_IXQP.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sebi-stock-futures-options-derivatives-index-options-11790168119720.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-23T16:05:22.381935Z"
+    },
+    {
+      "id": "053198d1eac3600009cbb96dab3d0ac0",
+      "title": "Shapoorji Pallonji seeks additional funding amid Tata Sons IPO uncertainty: Report",
+      "description": "Shapoorji Pallonji Group seeks 35 billion rupees to meet debt obligations while exploring options to monetize its stake in Tata Sons. In talks with lenders, the group requests extensions on existing loans amid ongoing negotiations about Tata Group's potential IPO. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Tata_Sons_1790174360944_7b3w_1790174375778_uYil_f5cc2e50-37a8-43c4-a85f-062c91cbc6b1_1BzR.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/shapoorji-pallonji-seeks-additional-funding-amid-tata-sons-ipo-uncertainty-report-11790171339046.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T16:05:22.381901Z"
+    },
+    {
+      "id": "01362cd1ea3b236e480d5d81cb4436fa",
+      "title": "Sedemac Mechatronics block deal: A91, Xponentia, HDFC Life likely to offload 10% stake: Report",
+      "description": "Shares of Sedemac Mechatronics Ltd may see trading activity as investors plan to sell a stake in a block deal. Up to 44.3 lakh shares or 10% equity could be sold for around ₹1,329 crore, with a floor price of ₹3,000 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Block_deal_1790176510603_YFEz_1790176521703_6c2P_3b6258f6-93b6-4896-bb4f-e8436392bf3f_oJA2.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sedemac-mechatronics-block-deal-a91-xponentia-hdfc-life-likely-to-offload-10-stake-report-11790175988672.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T16:05:22.381839Z"
+    },
+    {
+      "id": "a2e86fb7691d0a95110b3bb52482008b",
+      "title": "Sensex crossed 85K for first time 2 years ago, now down 10K points from milestone. What can trigger the next bull run?",
+      "description": "Two years ago, Sensex soared to an impressive 85,000, but the market has seen a steep decline since then. This downturn is attributed to several factors, including high crude oil prices and geopolitical instability. Analysts believe a change in macroeconomic conditions could help the index bounce back, relying heavily on the performance of large-cap stocks and improved earnings. Investors should.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134426180,imgsize-2264646.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-crossed-85k-for-first-time-2-years-ago-now-down-10k-points-from-milestone-what-can-trigger-the-next-bull-run/articleshow/134426180.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-23T16:05:21.665602Z"
+    },
+    {
+      "id": "73ed279c17674318c69c7521dd7eacad",
+      "title": "Sensex jumps 299 points, Nifty closes near 23,450 as oil dips below $99/barrel. What can trigger the next sharp rally on D-Street?",
+      "description": "The Indian stock market closed positively on Wednesday, with Sensex climbing over 299 points to stand at 74,828, and Nifty gaining roughly 118 points to reach 23,447. Broader market indices also performed well, with Nifty Midcap 100 and Smallcap 100 showing increases of up to 0.9%. Major sectors like metal and FMCG had significant upticks, while IT stocks underperformed.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134426992,imgsize-2467157.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-350-points-nifty-above-23400-as-oil-dips-below-99/barrel-what-can-trigger-the-next-sharp-rally-on-d-street/articleshow/134426992.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-23T16:05:21.665435Z"
+    },
+    {
+      "id": "701786d6900d4052cc2c00650ebeca2b",
+      "title": "Cupid raises FY27 profit guidance, targets Rs 750 crore revenue; stock up 160% in 2026",
+      "description": "Cupid Limited raised its FY27 guidance to Rs 725-750 crore revenue and Rs 210-225 crore net profit after strong June-quarter growth. Revenue rose 142% and profit 194%, while expansion in manufacturing, consumer distribution and international healthcare supports its medium-term growth plans. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134439902,imgsize-41690.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-raises-fy27-profit-guidance-targets-rs-750-crore-revenue-stock-up-160-in-2026/articleshow/134439902.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-23T16:05:21.665114Z"
+    },
+    {
       "id": "055d4f01f262189caf284fa372eec656",
       "title": "Orient Cables, AceVector, German Green Steel announce IPO price bands",
       "description": "Orient Cables has priced its IPO at ₹258-272 per share, AceVector at ₹30-32, and German Green Steel and Power at ₹132-139; all three issues open on September 25. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14859,191 +15045,6 @@
         "Earnings"
       ],
       "pubDate": "2026-08-14T13:00:44.602866Z"
-    },
-    {
-      "id": "44a52d74b151c67ea5b760d5395034a7",
-      "title": "Rekha Jhunjhunwala portfolio stock VA Tech Wabag jumps 5%; Axis Securities raises target price after Q1 results",
-      "description": "VA Tech Wabag's stock jumped over 5% following positive Q1 results and upgraded earnings estimates by Axis Securities, driven by a significant order backlog of ₹19,400 crore.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/Va-Tech-Wabag-secures--4-400-crore-order-from-Chen_1680244214543_1786692482769_ef4a5223-7ce0-4fc5-b0c6-3c3140904e79.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rekha-jhunjhunwala-portfolio-stock-va-tech-wabag-jumps-5-axis-securities-raises-target-price-after-q1-results-2026-11786692269587.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:44.602730Z"
-    },
-    {
-      "id": "aef1cc7440711d3aaf6dc8c60b12eddd",
-      "title": "Tata Motors PV shares tumble 6% after net profit drops in Q1; analysts stay cautious",
-      "description": "Tata Motors Passenger Vehicles shares fell 6% to ₹329 due to an 80% drop in net profit linked to challenges at JLR and high material costs. Analysts expect ongoing pressure, with Motilal Oswal maintaining a 'Sell' rating and target price of ₹310. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/TATA-MOTORS-RESULTS--0_1707197794993_1786698167115_f0c62e43-3d5b-4908-98f5-b27c43855ef8.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/tata-motors-pv-shares-tumble-6-after-net-profit-drops-in-q1-analysts-stay-cautious-11786697421433.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-14T13:00:44.602588Z"
-    },
-    {
-      "id": "c9231acf7f1d36cdbe597174cb0e3a4a",
-      "title": "Small-cap retail stock jumps 4% from today's low. Details here",
-      "description": "Patel Retail shares gained 4% on 14 August, supported by strong Q1 FY27 results. Revenue rose 69.7% YoY to ₹309.54 crore, and profit after tax increased 37.57% to ₹9.52 crore as the company expands its retail network with 53 stores across the Mumbai area. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/gc8f765372bdabe51e85046f3cc0bc0e0f951ef33ff0742196_1746438081194_1786701910240_a0379574-64f6-4f24-9e1e-63efc9a7eccb.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/smallcap-retail-stock-jumps-4-from-todays-low-details-here-11786700699703.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:44.602479Z"
-    },
-    {
-      "id": "4d096e28bcbdcc6ea7822d55c618f6f0",
-      "title": "Bharat Dynamics Q1 results: Profit sees sixfold increase, revenue surges 131% YoY",
-      "description": "Bharat Dynamics Q1 results: BDL reported an over sixfold, or 547.4% year-on-year (YoY), jump in its Q1FY27 profit to ₹118.79 crore. In the same quarter last year, the defence PSU's profit was ₹18.35 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/gad87f481c349257e8e79f3fefe396e23a2057c3d3f3a512eb_1747627660776_1786705248766_762c6c2d-862b-4136-ba67-e16f7fc99215.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bharat-dynamics-q1-results-2026-profit-sees-sixfold-increase-revenue-surges-131-yoy-11786705115010.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:44.602406Z"
-    },
-    {
-      "id": "701f7110768b1dd65201b9f476284981",
-      "title": "Vijay Kedia portfolio stock: SPML Infra shares edge higher after net profit jumps 87% in Q1",
-      "description": "SPML Infra shares rose 2.3% to ₹191 after a strong June quarter, marked by a 74% revenue growth to ₹286 crore and an 87% increase in net profit. The company holds a robust order book of ₹35,094 crore, focusing on sustainable growth through FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/Vijay_Kedia_1746090687461_1786706664934_2eb54069-8ce9-494f-a065-d04160e24c97.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/vijay-kedia-portfolio-stock-spml-infra-shares-edge-higher-after-net-profit-jumps-87-in-q1-11786706504717.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:44.602363Z"
-    },
-    {
-      "id": "94bc84f74318ee81a9189487106dd7a8",
-      "title": "Cochin Shipyard Q1 Results: Net profit falls 19.5% to ₹151 crore as margins shrink",
-      "description": "Cochin Shipyard reported a 19.4% year-on-year decline in net profit for June quarter, totaling ₹151.45 crore. This was attributed to lower revenue in shipbuilding and repair segments. Revenue from operations rose 2.4% YoY to ₹1,094.21 crore despite an increase in total expenses. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/SB_1766314722626_1766314733380_1766314893539_1786710176700_0bcdc0f4-56a1-4191-8fe4-0ed986b286c6.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/cochin-shipyard-q1-results-net-profit-falls-19-5-to-rs-151-crore-as-margins-shrink-11786710131421.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:44.602284Z"
-    },
-    {
-      "id": "22ba5da63c6bfa8edd3c9ee30b3e23bd",
-      "title": "Welspun Living shares rally 11% after Q1 profit jumps 85% YoY. Should you buy, sell, or hold?",
-      "description": "In a notable rise, Welspun Living shares gained traction following the announcement of solid Q1FY27 earnings, showcasing an eighty-five percent increase in profit year-on-year and a twenty-four percent boost in revenue. Financial experts, including those from Motilal Oswal and JM Financial, have reiterated buy recommendations, forecasting ongoing revenue and margin improvements. Significant contributions are expected from the home textiles division.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133229244,imgsize-2234318.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-living-shares-rally-11-after-q1-profit-jumps-85-yoy-should-you-buy-sell-or-hold/articleshow/133229244.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:43.672857Z"
-    },
-    {
-      "id": "dabbb34505059306f2757476a744e54c",
-      "title": "Sammaan Capital shares fall 4% after Q1 profit declines 27% YoY to Rs 243 crore, revenue drops 31%",
-      "description": "Sammaan Capital reported a 27% YoY decline in consolidated profit to Rs 243 crore in Q1FY27, while revenue from operations also fell. The company reported Rs 56,239 crore in AUM and Rs 3,875 crore in disbursements, with plans to accelerate growth and reduce funding costs. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133229881,imgsize-1994866.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sammaan-capital-shares-fall-4-after-q1-profit-declines-27-to-rs-243-crore-revenue-drops-31/articleshow/133229881.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:43.672732Z"
-    },
-    {
-      "id": "9c9aa0a18e6691b0d861c5b664fa39a2",
-      "title": "Jefferies’ Chris Wood spots a hidden risk in Big Tech’s $165 billion AI capex race",
-      "description": "Big Tech’s AI capex surge is putting pressure on free cash flow, with Microsoft, Amazon, Alphabet and Meta spending $165 billion in Q2 against just $7 billion in free cash flow. Jefferies’ Chris Wood warns that growing reliance on cash-burning AI firms OpenAI and Anthropic could pose a hidden risk. This key financial update highlights evolving market dynamics, strategic corporate.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133230392,imgsize-2499920.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-chris-wood-spots-a-hidden-risk-in-big-techs-165-billion-ai-capex-race/articleshow/133230392.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-14T13:00:43.672698Z"
-    },
-    {
-      "id": "778e815074634528a3dc6fc6e0dec7b0",
-      "title": "Manorama Industries shares surge over 8% after strong Q1 results",
-      "description": "Manorama Industries shares surged after Q1FY27 net profit jumped 67.6% YoY to ₹78.7 crore, aided by a better product mix, higher capacity and strong demand from chocolate, confectionery and cosmetics sectors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133230940,imgsize-2258622.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/manorama-industries-shares-surge-over-8-after-strong-q1-results/articleshow/133230940.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:43.672550Z"
-    },
-    {
-      "id": "649507befe94be948758020dca7677ee",
-      "title": "Zee Entertainment shares rally 8% after SAT grants interim relief in Sebi order",
-      "description": "Zee Entertainment's shares experienced a surge following the Securities Appellate Tribunal's grant of interim relief. The tribunal has put a hold on SEBI's order, permitting promoters to issue preferential warrants. Additionally, ZEEL is allowed to utilize mutual fund units for dividend distribution. However, this relief comes with the condition of paying the penalty that SEBI has imposed, which the company.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133230722,imgsize-232902.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-shares-rise-8-after-sat-grants-interim-relief-in-sebi-order/articleshow/133230722.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-14T13:00:43.672511Z"
-    },
-    {
-      "id": "f902bd37cf25b44eff17d5af345d6cb3",
-      "title": "Natco Pharma Q1 profit falls 57 pc to Rs 206.5 cr",
-      "description": "Natco Pharma has reported a stark profit decline in the first quarter, largely driven by reduced sales of its leading cancer drug, lenalidomide. This led to a pronounced drop in consolidated revenues compared to the prior year. On a brighter note, the core business showed some positive growth, and total expenses saw a decrease, providing a silver lining.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133236198,imgsize-140080.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/natco-pharma-q1-profit-falls-57-pc-to-rs-206-5-cr/articleshow/133236198.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:43.672243Z"
-    },
-    {
-      "id": "9d62a87f83457d04efe4955e5fbce9ab",
-      "title": "Awfis Space Solutions Q1 profit jumps over 2-fold YoY to Rs 24cr, revenue rises to Rs 449cr",
-      "description": "Awfis Space Solutions has announced a remarkable uptick in its financial performance for the June quarter, with consolidated net profit skyrocketing to Rs 23.93 crore, more than double compared to the previous year. During the same timeframe, total income surged to Rs 448.87 crore. Operating 251 coworking centres across eighteen cities, the company boasts a robust portfolio occupancy rate.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133241325,imgsize-11958.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/awfis-space-solutions-q1-profit-jumps-over-2-fold-yoy-to-rs-24cr-revenue-rises-to-rs-449cr/articleshow/133241325.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:43.672060Z"
-    },
-    {
-      "id": "3f5238c645820b18b917b37f287ab692",
-      "title": "Unitree IPO: China’s humanoid robot starset for potentially explosive Shanghai debut",
-      "description": "Unitree is set for a highly anticipatedShanghai debut, with private-market prices indicating potentially steep gainsover its 150.8-yuan IPO price. The humanoid robot maker attracted record retaildemand, helped by profitability, strong government backing and a limited IPOfloat. However, high valuations, competition and uncertain commercialapplications pose significant risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133232736,imgsize-346954.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/unitree-ipo-chinas-humanoid-robot-starset-for-potentially-explosive-shanghai-debut/articleshow/133232736.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-14T13:00:42.954786Z"
-    },
-    {
-      "id": "7d4de3f9d2eacd2d4c4ad3eeaa746287",
-      "title": "Tata Trusts start process to find successor for Tata Sons chairman N. Chandrasekaran",
-      "description": "The Sir Dorabji Tata Trust passes a resolution to initiate the setting up of a selection committee for the purpose of recommending a person for appointment as the new chairman. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/PTI10-11-2024-000143B-0_1728661392978_1786557321490_6b1f0216-ce92-43ab-88dd-d204c33e414b.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-trusts-kickstarts-process-for-finding-a-successor-for-tata-sons-11786605020002.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-14T01:44:21.428424Z"
     }
   ]
 }
