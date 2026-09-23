@@ -1,6 +1,190 @@
 {
   "news": [
     {
+      "id": "055d4f01f262189caf284fa372eec656",
+      "title": "Orient Cables, AceVector, German Green Steel announce IPO price bands",
+      "description": "Orient Cables has priced its IPO at ₹258-272 per share, AceVector at ₹30-32, and German Green Steel and Power at ₹132-139; all three issues open on September 25. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260922/full-126092201229.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/orient-cables-acevector-german-green-steel-announce-ipo-price-bands-126092201229_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-23T03:17:45.727467Z"
+    },
+    {
+      "id": "9d608917e53eba20ec59aee4a848b078",
+      "title": "Stock Market LIVE: GIFT Nifty signals tepid open; Brent crude falls on progress in US-Iran talks",
+      "description": "Sensex Today | Stock Market LIVE Updates Wednesday: The GIFT Nifty indicated a tepid start for the Nifty50 while Asian peers rallied as tech shares advanced. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260923/full-126092300112.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty-gift-nifty-brent-crude-oil-price-russia-war-jindal-supreme-share-price-september-23-126092300112_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-23T03:17:45.727340Z"
+    },
+    {
+      "id": "58bf4b579b9aafd842215fb168f2eb21",
+      "title": "India’s equity fundraising may not cross last year’s high of $60 billion this year: Jefferies",
+      "description": "Jefferies expects India’s equity fundraising to reach $55-60 billion this year, below 2025’s record, but sees IPOs adding $1.5 trillion in market capitalization over the next five-seven years. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Jefferies_managing_director_Jibi_Jacob_17900811019_1790081118428_cNN0_1790081118604_hRvj_ac0c4578-ebd7-4c8b-9604-6e0e39fde01d_RmwD.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/india-equity-fundraising-capital-markets-ipos-block-deals-qips-jefferies-jibi-jacob-indian-ipo-market-11790040025326.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-23T03:17:45.036683Z"
+    },
+    {
+      "id": "64e88b8ff77e2fa1a8e4b92a6a720823",
+      "title": "Mark Zuckerberg adds $25 billion to his fortune in a day as Meta doubles down on AI",
+      "description": "Mark Zuckerberg’s estimated net worth jumped by $25 billion in a single day as Meta Platforms shares surged nearly 12%. The rally came after Wells Fargo raised its price target on Meta and as investors turned their attention to the company’s AI strategy and its new Muse assistant. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/AI-Safety-Zuckerberg-0_1790056407178_pZba_1790056433998_ws7N_bcdf357c-7e23-4513-805c-b409b19afc61_5oWA.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/mark-zuckerberg-adds-25-billion-to-his-fortune-in-a-day-as-meta-doubles-down-on-ai-11790056394633.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-23T03:17:45.036543Z"
+    },
+    {
+      "id": "62f9e78b27b5773736d0c62a68b13c71",
+      "title": "Medical devices maker Romsons secures Temasek funding, sets sights on IPO",
+      "description": "Mint first reported in October that Temasek had joined the race to acquire a minority stake worth ₹1,500 crore in the medical device manufacturer, valuing the company at about $500 million. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Flu-What-to-Know-0_1767641243462_1767641253778_1790085283628_FDoQ_cc32fc5d-847e-42d0-bd19-e254d11bf496_nAdb.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/romsons-secures-temasek-capital-sets-sights-on-ipo-11790081534010.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-23T03:17:45.036210Z"
+    },
+    {
+      "id": "d69edc971cb93b1245d76b67cf2f964e",
+      "title": "‘I know how difficult today will be’: CCO Matt Booty opens up as Microsoft's Xbox division lays off more employees",
+      "description": "Microsoft's Xbox division is laying off more employees amid a reorganisation of its game studios. Xbox continues to face challenges, including declining revenue and profit margins. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Xbox_fire_1790094832299_lPGV_1790094838591_9yd8_9bda5f9d-8794-4d18-a6be-29527e0ed162_rmAr.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/i-know-how-difficult-today-will-be-cco-matt-booty-opens-up-as-microsofts-xbox-division-lays-off-more-employees-11790094313663.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-09-23T03:17:45.035987Z"
+    },
+    {
+      "id": "8b1704314a03b0beedd29298e65b190d",
+      "title": "IPO GMPs: Adroit Industries IPO, Swastika Infra IPO to Elevate Campuses IPO | What grey market hints ahead of opening?",
+      "description": "On September 23, the primary market launches four IPOs—ArMee Infotech, Swastika Infra, Adroit Industries, and Elevate Campuses—seeking ₹2,700 crore over three days. Elevate Campuses aims for ₹2,100 crore, with varying price bands from ₹126 to ₹375 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/gmps_1790071570579_whdI_1790071577111_vxS1_bf3cba2b-4b1a-4965-9869-2c14398c84ac_RjSl.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/ipo-gmps-adroit-industries-ipo-swastika-infra-ipo-to-elevate-campuses-ipo-what-grey-market-hints-ahead-of-opening-11790068098306.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-23T03:17:44.407233Z"
+    },
+    {
+      "id": "0a3a79b451de2836787983d52f574d88",
+      "title": "4 dividend stocks that beat PPF yields: Majestic Auto, Jagran Prakash to Indo Borax | Full List",
+      "description": "Dividend stocks attract investors due to regular income and capital appreciation potential. Companies like Majestic Auto, Jagran Prakash, Indo Borax, and PTC India offer yields exceeding PPF's 7.1% interest. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/dividend_vs_ppf_2as_1790076162911_oD0m_1790076174796_IO9H_278557b2-2e20-45c5-8300-854a07af821c_vyRc.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/4-dividend-stocks-that-beat-ppf-yields-majestic-auto-jagran-prakash-to-indo-borax-full-list-11790071831689.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-23T03:17:44.407095Z"
+    },
+    {
+      "id": "edd7b906fada10b056b69ac46a2e8e6e",
+      "title": "Nifty 50 deep-dive guide for investors: Bearish engulfing candlestick; check resistance, support levels | Wed 23 Sept",
+      "description": "The Nifty 50 paused its four-session recovery on Tuesday, closing at 23,329 after facing selling pressure. Profit booking indicated resistance near 23,500, leading to a bearish candlestick formation. Key support lies around 23,286, while a breakout above 23,500 could rejuvenate market sentiment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Dalal_Street_Investment_1789433297270_4qOt_1789433_1790097641149_9oJw_1790097641408_48tl_91fc0204-c30e-4717-8a9a-90aa742ce714_MxH6.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-50-deep-dive-guide-for-investors-bearish-engulfing-candlestick-check-resistance-support-levels-wed-23-sept-11790096646921.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-09-23T03:17:44.406563Z"
+    },
+    {
+      "id": "a2b523bee16364f10b4478431aeef6d2",
+      "title": "CAS chaos: Nifty’s indicative price drops 1% in seconds to fall below 23,150 on F&O expiry day, Sensex closes 330 pts lower",
+      "description": "Indian equities ended lower on Tuesday after morning gains faded, with Sensex dropping 330 points and Nifty witnessing a sharp closing-auction swing on expiry day. Broader markets also declined, while IT stocks weakened and realty gained. Market breadth turned negative, with 1,868 NSE stocks declining against 1,679 advancing. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134409443,imgsize-106644.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-niftys-indicative-price-drops-1-in-seconds-to-fall-below-23150-on-fo-expiry-day-sensex-closes-330-pts-lower/articleshow/134409443.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-23T03:17:43.758249Z"
+    },
+    {
+      "id": "eb73bce30e34e0b16bc890325a327a41",
+      "title": "Sebi to address concerns over settlement price for derivatives on expiry days, says chief Tuhin Kanta Pandey",
+      "description": "\"Having successfully established the Closing Auction Session as an important market structure reform, we intend to address concerns in respect of settlement price for derivatives on expiry days and other related issues. A consultation paper has already been issued inviting public comment,\" Pandey said at the 11th JP Morgan India Conference. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134414692,imgsize-50712.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-address-concerns-over-settlement-price-for-derivatives-on-expiry-days-says-chief-tuhin-kanta-pandey/articleshow/134414692.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-23T03:17:43.758034Z"
+    },
+    {
+      "id": "0df0c9beb5f3d0dc59b26a93fbfec5e3",
+      "title": "RHI Magnesita block deal: Dalmia Bharat refractories divests 11.11% stake for Rs 826 crore; SBI MF, Bandhan MF among buyers",
+      "description": "Dalmia Bharat Refractories sold 2.29 crore RHI Magnesita India shares, or 11.11% of equity, through a Rs 826 crore block deal at Rs 360 apiece. SBI Mutual Fund led purchases, while RHI Magnesita shares gained 3.04% to Rs 379.20. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134415677,imgsize-17494.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rhi-magnesita-block-deal-dalmia-bharat-refractories-divests-11-11-stake-for-rs-826-crore-sbi-mf-bandhan-mf-among-buyers/articleshow/134415677.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T03:17:43.757994Z"
+    },
+    {
+      "id": "21c5dacfb3f5ccd33df4d9ec438f6aa8",
+      "title": "RBI warns banks against a loan price war",
+      "description": "In situations where banks are inundated with liquidity, the natural tendency among many lenders is to push loans and go down the credit matrix. The fear is that such aggressive lending to generate returns that cover the interest outgo on deposits and other costs may show up as sticky assets a few years down the line.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134423379,imgsize-295910.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-warns-banks-against-a-loan-price-war/articleshow/134423379.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-09-23T03:17:43.757838Z"
+    },
+    {
+      "id": "15378f708bcfcfed864dd8375224cffb",
+      "title": "Adani Group firms settle Sebi case on governance issues",
+      "description": "The Adani Group has settled with Sebi, with companies like Adani Enterprises and Adani Green Energy collectively paying ₹1.5 crore over allegations concerning related party transaction disclosures and corporate governance practices. Notably, Adani Enterprises contributed ₹76.05 lakh to the settlement, responding to criticisms raised in the Hindenburg Report about the company's compliance with audit standards and peer reviews.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134423213,imgsize-61884.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-settles-legal-issues-with-sebi-pays-rs-1-5-cr-over-alleged-corporate-governance-violations/articleshow/134423213.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T03:17:43.757745Z"
+    },
+    {
+      "id": "e7c10961667b0a6caba48eff349c8220",
+      "title": "Stocks in news: Adani Group, OMCs, Persistent Systems and IRB Infra",
+      "description": "The Indian stock market closed lower on Tuesday, with profit-taking affecting investor sentiment. Adani Group companies resolved their SEBI adjudication issues tied to potential infractions. Focus turned to oil marketing firms in light of a sharp fall in crude oil prices. Persistent Systems expanded its stake in Nagarro, eyeing a potential delisting, alongside numerous companies announcing expansion and corporate milestones.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134416639,imgsize-100662.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-adani-group-omcs-persistent-systems-and-irb-infra/articleshow/134416639.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-23T03:17:43.757697Z"
+    },
+    {
       "id": "86e59c7571fef67b61f639e990c12467",
       "title": "Benchmarks snap four-session winning streak; Nifty ends below 23,350",
       "description": "The key equity benchmarks snapped a four-session winning streak on Tuesday, with the Nifty closing below the 23,350 mark. Selling in IT, FMCG and PSU bank stocks outweighed gains in metal and realty shares. The market opened higher on positive global cues but came under pressure during the session, while Brent crude falling below $100 a barrel provided some relief.",
@@ -14860,192 +15044,6 @@
         "Corporate"
       ],
       "pubDate": "2026-08-14T01:44:21.428424Z"
-    },
-    {
-      "id": "5dbd216053a2f063899b8251da3f1454",
-      "title": "N Chandrasekaran to exit Tata Sons after months of deadlock: What went wrong with Noel Tata?",
-      "description": "N Chandrasekaran will step down as Tata Sons chairman in February 2027 after a six-month deadlock over his reappointment. Differences with Tata Trusts chairman Noel Tata reportedly centred on the group's strategy, governance and a possible Tata Sons listing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/PTI08-12-2026-RPT378B-0_1786618199193_1786618214807_32c9652d-26d2-4d87-a792-ea01cf1d2c1b.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/n-chandrasekaran-to-exit-tata-sons-after-months-of-deadlock-what-went-wrong-with-noel-tata-11786617789493.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-14T01:44:21.428318Z"
-    },
-    {
-      "id": "c8c1ff1566675f98a55365e834ac7c75",
-      "title": "Tata Motors reassures investors after N Chandrasekaran's exit: ‘We will remain fully focused’",
-      "description": "The automaker recently outlined plans to invest 330 billion to 350 billion rupees ($3.46 billion-$3.67 billion) in its passenger and electric vehicle businesses between FY26 and FY30. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/TATA-MOTORS-IN-RESULTS--0_1786636957678_1786636968826_ca6682ae-e618-43c1-9293-a829acd74745.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/tata-motors-reassures-investors-after-n-chandrasekarans-exit-we-will-remain-fully-focused-11786636442489.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-14T01:44:21.428126Z"
-    },
-    {
-      "id": "f6a54411341ca03ed0111036d44359fb",
-      "title": "Tata Motors PV profit plunges 79% as JLR weighs on India gains",
-      "description": "The steep fall in profits reflected JLR’s 74% y-o-y fall in profit after tax to £66 million, while operating profit margins declined 120 basis points (bps) to 2.8%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/TATA-MOTORS-RESULTS--0_1707197794993_1786641411516_a8ae8689-8b5b-4524-9a96-5ff97274c681.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/company-results/tata-motors-pv-profit-plunges-79-as-jlr-weighs-on-india-gains-11786631718591.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-14T01:44:21.428094Z"
-    },
-    {
-      "id": "899705460f5bd2e891df7f3b5b42e366",
-      "title": "Centre extends battery PLI deadline for Ola, Reliance; Rajesh Exports left out",
-      "description": "While Ola Electric and Reliance New Energy (a subsidiary of Reliance Industries) were given the extension to complete their respective projects by 2031, the third beneficiary, Rajesh Exports Ltd, was not given one in light of a Sebi investigation into governance issues in the company. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/FRANCE-ECONOMY-INDUSTRY-ENERGY-12_1767001862534_1767001872464_1786629628874_9cf641c2-920e-4ea5-9892-df80a6434f1c.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/centre-extends-battery-pli-deadline-for-ola-reliance-rajesh-exports-left-out-11786619850460.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-14T01:44:21.427983Z"
-    },
-    {
-      "id": "ff2653b884fbc95984e66bf79f437a19",
-      "title": "HAL shares rally 45% since April. Is the stock still attractive after Q1 earnings?",
-      "description": "Domestic brokerages maintain a positive outlook on Hindustan Aeronautics after strong June-quarter results. Motilal Oswal and Anand Rathi both retained 'Buy' ratings with a target price of ₹5,800, while JM Financial and InCred have 'Add' and 'Hold' ratings, respectively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/2-0-77510609--Hindustan-Aeronautics1-5C--0_1681475587211_1786626681147_d885d205-bc98-4686-97b4-7923d01aa046.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hal-shares-rally-45-since-april-is-the-stock-still-attractive-after-q1-earnings-11786626525631.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T01:44:20.789269Z"
-    },
-    {
-      "id": "8d09c35ce9af567834b12e595cf63189",
-      "title": "Birkenstock shares pop 20% to 3-week high after strong fiscal Q3; company raises annual revenue forecast",
-      "description": "Shares of Birkenstock soared 20% to $43.90 after positive Q3 results, reporting 13% revenue growth. The company raised its full-year sales forecast and benefited from strong demand for its footwear. Despite a 15% decline in net profit, adjusted figures improved sharply. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/Birkenstock-IPO-0_1696988581941_1786631957029_a1349835-1c68-4c5a-a44a-0fa45fc48aa6.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/birkenstock-shares-pop-20-to-3-week-high-after-strong-fiscal-q3-company-raises-annual-revenue-forecast-11786631963714.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T01:44:20.789205Z"
-    },
-    {
-      "id": "889650c27ba709828565a22980244a6e",
-      "title": "Multibagger Mercury EV-Tech stock to be in focus on Friday after June quarter results",
-      "description": "Mercury EV-Tech reported a 47.9% YoY revenue increase to ₹33.38 crore for Q1FY27. EBITDA rose 38.1% YoY to ₹2.62 crore, but net profit decreased by 4.2% to ₹1.56 crore, affected by rising expenses. The stock declined 74% from its 2024 high. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/gfc19ae5aa246875c327760781b8f327855453ba8b2126f231_1747372937158_1786638084016_a3aa18fc-434b-4cb5-8192-e15fdd0a3b21.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/multibagger-mercury-ev-tech-stock-to-be-in-focus-on-friday-after-june-quarter-results-11786637575044.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T01:44:20.789172Z"
-    },
-    {
-      "id": "04d0488f420ce17e67b9be46d14af8f9",
-      "title": "FPIs lead the exit as anchor investors after IPO lock-ins end: Sebi study",
-      "description": "A Sebi study of 242 IPOs shows anchor investors sell gradually after lock-ins lift, with FPIs exiting nearly twice as fast as mutual funds by year-end. Smaller IPOs and heavy first-unlock selling were linked to sharper price declines. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/SME_IPO_1756099341077_1756099345044_1786635886948_79071b5d-29fd-4a63-a5fb-57a416cab24b.png",
-      "fullArticleLink": "https://www.livemint.com/market/fpis-lead-the-exit-as-anchor-investors-after-ipo-lock-ins-end-sebi-study-11786629154971.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-14T01:44:20.789133Z"
-    },
-    {
-      "id": "5fee4a9f596b7e446a67880d37ac55e5",
-      "title": "Lenskart Solutions among 7 stocks hitting 52-week highs; surge up to 20% in a month",
-      "description": "Seven BSE 200 stocks hit fresh 52-week highs as the Sensex gained 113 points. Paytm led with a 19% monthly rise, followed by Bosch, Lenskart Solutions, Aurobindo Pharma, Pidilite, Solar Industries India and Zydus Lifesciences. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133210454,imgsize-3804.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-among-7-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133210592.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-14T01:44:19.793529Z"
-    },
-    {
-      "id": "f68edcfe7f70d224df4cdbdb4074dd61",
-      "title": "Sebi mulls Rs 5 cr securities asset route for accredited investor status for individuals",
-      "description": "Sebi has proposed an initiative to include securities-market assets as a criterion for accredited investor status. Individuals holding five crore rupees in these assets will be eligible, thereby expanding the investor base for alternative investment funds. The regulator anticipates that approximately 3.7 lakh individuals will meet the revised standards, with investment managers playing a key role in confirming accredited status.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133210632,imgsize-55652.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-rs-5-cr-securities-asset-route-for-accredited-investor-status-for-individuals/articleshow/133210632.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-14T01:44:19.793490Z"
-    },
-    {
-      "id": "d742e2fe949c67feff3255cf3ae8e261",
-      "title": "Sebi seeks public comments on review of Accredited Investor framework",
-      "description": "SEBI has proposed revamping Accredited Investor rules by adding securities-market assets as an eligibility criterion, simplifying accreditation and expanding deemed eligibility. The changes could increase eligible investors to nearly 4 lakh and ease access to alternative investment products. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133216989,imgsize-50918.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-seeks-public-comments-on-review-of-accredited-investor-framework/articleshow/133216989.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-14T01:44:19.793305Z"
-    },
-    {
-      "id": "61f872576b082c829c5b10f1bd824ad5",
-      "title": "FPIs emerge as biggest sellers among anchor investors in IPOs' 30-day window: Sebi study",
-      "description": "Foreign portfolio investors led anchor investor selling in IPOs. Heavy anchor exits around the 30-day unlock window pressured stock prices. Smaller IPOs experienced higher anchor investor exits and selling intensity. Anchor investors continued selling beyond prescribed lock-in periods significantly. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133219168,imgsize-24496.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-emerge-as-biggest-sellers-among-anchor-investors-in-ipos-30-day-window-sebi-study/articleshow/133219168.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-14T01:44:19.793245Z"
-    },
-    {
-      "id": "e4de43b5f3aab58a78728ea8c8dae2f2",
-      "title": "Top FPIs ride out storm, outrun Nifty & Sensex in Q1",
-      "description": "During the June quarter, leading international funds encountered remarkable gains within Indian equities, significantly boosting their reported portfolio values. This strong performance exceeded that of key Indian stock market indices, primarily driven by astute investments in mid- and small-cap companies, reinforcing India's reputation as a promising landscape for discerning stock pickers. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133226731,imgsize-33730.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/top-fpis-ride-out-stormoutrun-nifty-sensex-in-q1/articleshow/133226731.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T01:44:19.792980Z"
-    },
-    {
-      "id": "51db49b6831d48b16d50e7f187a4d07d",
-      "title": "Zetwerk files updated IPO draft papers to raise Rs 2,600 crore",
-      "description": "The Bengaluru-based company had received Sebi approval on July 10 for its IPO, clearing the way for one of the largest listings by a new-age manufacturing company. It had submitted its pre-filed DRHP through Sebi’s confidential filing route in late March. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133226813,imgsize-98748.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/zetwerk-files-updated-ipo-draft-papers-to-raise-272-million/articleshow/133226813.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-14T01:44:19.223398Z"
-    },
-    {
-      "id": "b04c6a7f7ac1ef16da89bcc2a587a2dd",
-      "title": "Tata Motors PV Q1 PAT tumbles 80% YoY to Rs 775 cr",
-      "description": "Tata Motors Passenger Vehicles (PV) reported a sharp 80.25% decline in consolidated net profit to Rs 775 crore in Q1 FY27 compared with Rs 3,924 crore posted in the corresponding quarter of the previous year. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/tata-motors-pv-q1-pat-tumbles-80-yoy-to-rs-775-cr-126081301619_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-13T13:04:03.553284Z"
     }
   ]
 }
