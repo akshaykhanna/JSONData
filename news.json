@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "b73c2a4eccd2f3168d50e097769d0c0f",
+      "title": "Sebi plans review of merchant banking rules, IPO cost structure soon",
+      "description": "Markets regulator will also review ICDR norms, including price bands and advertising requirements, as it seeks to simplify processes and lower public issue costs. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260923/full-126092300881.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-plans-review-of-merchant-banking-rules-ipo-cost-structure-soon-126092300881_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-09-24T03:07:30.361329Z"
+    },
+    {
+      "id": "226b2dddee268ed13efc32e3027bae10",
+      "title": "NSE shares to debut today in test of investor faith in India's growth",
+      "description": "The National Stock Exchange's ₹22,600 crore IPO was subscribed 5.7 times, but subdued retail demand and a 2-3 per cent grey-market premium point to a modest debut. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260924/full-126092400121.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nse-to-debut-today-in-test-of-investor-faith-in-india-s-long-term-growth-126092400121_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-09-24T03:07:30.360727Z"
+    },
+    {
+      "id": "0b8c5ba71402caf07115a5772172a4ec",
+      "title": "Nifty showing signs of trend reversal; buy the dips says Jatin Gedia",
+      "description": "The Nifty closed in the green above the falling channel on Wednesday indicating signs of a trend reversal, says Jatin Gedia of Teji Mandi. The analyst is bullish on Indus Towers and South Indian Bank. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260924/full-126092400120.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-showing-signs-of-trend-reversal-buy-the-dips-says-jatin-gedia-126092400120_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-24T03:07:30.360685Z"
+    },
+    {
+      "id": "3a4297adcd0c759f362d8618e4973c77",
+      "title": "Here's why Ajit Mishra is bullish on MCX, Apollo Hospitals; bearish on TCS",
+      "description": "Stocks to buy today: The overall setup remains constructive, and MCX appears poised for the next leg of up move and potential new highs, says Ajit Mishra of Religare Broking. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260924/full-126092400124.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/here-s-why-ajit-mishra-is-bullish-on-mcx-apollo-hospitals-bearish-on-tcs-126092400124_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-24T03:07:30.360648Z"
+    },
+    {
+      "id": "ca705fbbd7e3d53df4dc2fa5a893b436",
+      "title": "US stock market LIVE updates: Dow Jones opens lower; Xi Jinping US visit, US-Iran news in focus",
+      "description": "US stock futures showed mixed trends on September 23, with Nasdaq 100 remaining flat post-record highs. Traders are also looking to the summit between Trump and China’s Xi Jinping for signs of progress on trade and other economic disputes. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Nasdaq_1790160533598_2M9l_1790160538715_rV99_5cfa46ab-1c4e-4e2e-9afa-f48e0d146170_vKmd.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/us-stock-market-live-updates-dow-jones-trades-flat-xi-jinping-us-visit-us-iran-news-in-focus-11790159539990.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-09-24T03:07:29.159142Z"
+    },
+    {
+      "id": "8d5bee08003284eeca8380a32bbb744b",
+      "title": "Sensex slips over 11,000 points from record high in 10 months; 3 triggers that may fuel the Indian stock market",
+      "description": "Sensex today: The 30-stock index hit a new peak of 86,159 on 1 December 2025. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Sensex_today_Stock_market_today_FII_data_US_Iran_1790153830031_zNMa_1790153830230_1Daz_00e9b705-d521-45b5-b490-2b223caac3cd_m8ma.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-slips-over-11-000-points-from-record-high-in-10-months-3-triggers-that-may-fuel-the-indian-stock-market-11790151935193.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-24T03:07:29.159081Z"
+    },
+    {
+      "id": "b01a996d1cd123e8a2c6c5c9729fdd0e",
+      "title": "Top breakout stocks to buy today: Aptus, KRBL, Tata Steel, Radico, GNFC by Sumeet Bagadia | Targets",
+      "description": "Multiple stocks, including Aptus, KRBL, Tata Steel, Radico Khaitan, and GNFC, show potential for breakout as recommended by Sumeet Bagadia from Choice Broking, highlighting technical indicators such as bullish reversal signals and volume confirmation.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Sumet_1790179043714_vDje_1790179050859_qgIk_6137e822-7491-41ec-b0ab-cf3126ba415b_UDEa.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-aptus-krbl-tata-steel-radico-gnfc-by-sumeet-bagadia-targets-11790178360010.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-24T03:07:29.158589Z"
+    },
+    {
+      "id": "974a4ebd4f61b5d083784140d09b8cb9",
+      "title": "Nifty outlook, guide tomorrow: Why 23,600 matters; bullish candle formed, check resistance, support levels | Thu 24 Sep",
+      "description": "The Nifty 50 recovered on Wednesday, gaining 118 points and closing near 23,450. It formed a bullish candle despite previous bearish pressure, but resistance remains at 23,489–23,600. Support is noted at 23,350 and 23,285, while GNA Axles signals a potential uptrend following a recent breakout. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Dalal_Street_Investment_1789433297270_4qOt_1789433_1790181835722_bWvE_1790181835952_TfMZ_ffac8cec-acda-4ea7-9fb9-99c73daaf264_urhm.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-outlook-guide-tomorrow-why-23-600-matters-bullish-candle-formed-check-resistance-support-levels-thu-24-sep-11790181438414.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-24T03:07:29.158536Z"
+    },
+    {
+      "id": "34e62d2e50db818ad84bb477129197f8",
+      "title": "Sebi weighs lower margins for longer-term derivatives as F&O losses stay high: Tuhin Kanta Pandey",
+      "description": "Sebi Chairman Tuhin Kanta Pandey said the regulator is examining whether margin requirements can be lowered for longer-term derivatives contracts. The move could support deeper markets while Sebi continues addressing high retail F&O losses and speculative short-term trading. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134440032,imgsize-110602.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-weighs-lower-margins-for-longer-term-derivatives-as-fo-losses-stay-high-tuhin-kanta-pandey/articleshow/134440032.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-24T03:07:28.518978Z"
+    },
+    {
+      "id": "96e8f7af4be8b89b871cb7cbb242644f",
+      "title": "Gautam Adani reclaims richest Indian spot from Mukesh Ambani as India's billionaire count hits record: Hurun",
+      "description": "Gautam Adani has overtaken Mukesh Ambani to reclaim the top spot on the M3M Hurun India Rich List 2026, with wealth of Rs 9.23 lakh crore. The list now includes a record 391 dollar billionaires, while AI and quantum computing have emerged as new wealth-creation sectors and 70% of entrants are self-made entrepreneurs. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134440225,imgsize-66238.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/gautam-adani-reclaims-richest-indian-spot-from-mukesh-ambani-as-indias-billionaire-count-hits-record-hurun/articleshow/134440225.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-09-24T03:07:28.518860Z"
+    },
+    {
+      "id": "febe216c2025767a93d2cffa4bfc0189",
+      "title": "SBI expects surplus from new UPI MDR as issuing, acquiring bank",
+      "description": "State Bank of India will start charging a merchant discount rate on UPI payments exceeding Rs 2,000 from October 15. The bank anticipates generating surplus revenue due to its extensive card issuing and payment gateway services. Initially, MDR fees will be divided among issuing and acquiring banks, payment gateways, and UPI applications. SBI is evaluating the potential impact of transaction.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134448782,imgsize-107238.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-expects-surplus-from-new-upi-mdr-as-issuing-acquiring-bank/articleshow/134448782.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-24T03:07:28.518771Z"
+    },
+    {
+      "id": "a3caf3bd93a400d53c6a432461af5ddd",
+      "title": "Stocks in news: Bharat Dynamics, NTPC, Canara Bank and Waaree Energies",
+      "description": "Indian equity benchmarks experienced gains on Wednesday, driven by widespread buying in the market. Investors reacted positively to signs of potential de-escalation in West Asia and changing crude oil prices. The Nifty 50 and Sensex indices both increased after assessing recent corporate developments and strategic forecasts. Key stocks including Bharat Dynamics and NTPC are anticipated to remain in focus following.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134443179,imgsize-140606.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bharat-dynamics-ntpc-canara-bank-and-waaree-energies/articleshow/134443179.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-09-24T03:07:28.518609Z"
+    },
+    {
+      "id": "8869e8d5bc80c9ed0defc6811d532625",
+      "title": "Sebi working towards balanced derivatives market: Tuhin Kanta Pandey",
+      "description": "In a recent statement, Tuhin Kanta Pandey, the chairman of the Securities and Exchange Board of India, outlined strategic initiatives aimed at stabilizing the derivatives market. He pointed out derivatives’ vital role in bridging cash and futures trades, while recognizing that most challenges arise from short-dated index options during expiry times. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134448994,imgsize-1895021.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-working-towards-balanced-derivatives-market/articleshow/134448994.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-09-24T03:07:28.518508Z"
+    },
+    {
+      "id": "4e336905af637bd183c435ecf617eeae",
+      "title": "Hot Stocks: 3 stocks that may give returns between 16-29%",
+      "description": "Brokerages have initiated coverage on Tata Capital, Centum Electronics, and Clean Max Enviro Energy Solutions, assigning them buy ratings. This decision is underpinned by the potential for substantial appreciation in their stock prices, with forecasts suggesting returns of 16% to 29%. Analysts point to distinct growth drivers within their sectors, reflecting a favorable outlook on their future profitability and development.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134449250,imgsize-16064.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hot-stocks-3-stocks-that-may-give-returns-between-16-29/articleshow/134449250.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-09-24T03:07:28.518439Z"
+    },
+    {
+      "id": "5ae7d921727c5decd2e982b494438edf",
+      "title": "AssetGro Fintech to file DRHP with Sebi for Rs 2,000-2,500 cr IPO",
+      "description": "AssetGro Fintech is gearing up to file its draft IPO documents with Sebi by the end of September. With expectations to raise between ₹2,000 and ₹2,500 crore, the IPO will feature a fresh issue of around ₹800 crore. The remainder will consist of an offer for sale by current shareholders. Emirates NBD Capital has been designated as the lead manager.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134448939,imgsize-184930.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/assetgro-fintech-plans-rs-2000-2500-crore-ipo-filing-with-sebi/articleshow/134448939.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-09-24T03:07:27.648110Z"
+    },
+    {
       "id": "6e5fe4cba6d663b0301f7f7873554f66",
       "title": "Nifty reclaims 23,400 as easing oil prices lift sentiment",
       "description": "The domestic equity benchmarks rebounded on Wednesday, supported by signs of easing tensions in the Middle East following US-Iran talks and a continued decline in oil prices. The Nifty closed above the 23,400 level, led by gains in metal, FMCG and PSU bank shares. However, IT and oil & gas stocks declined. This key financial update highlights evolving market dynamics.",
@@ -14862,189 +15050,6 @@
         "Indian Finance"
       ],
       "pubDate": "2026-08-15T01:04:25.403353Z"
-    },
-    {
-      "id": "d722bdcc039e7712e8d9b8e3a8712bea",
-      "title": "Tata CEOs, family scions seen in early list for new Tata Sons chairman",
-      "description": "Tata Steel CEO T.V. Narendran and Tata Motors' Shailesh Chandra, as well as Noel Tata's son Neville Tata are emerging as contenders for Tata Sons chairman. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/Tata-Sons_1786689958191_1786689958305_91f86f24-f560-4372-a55d-627c3492a064.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/people/n-chandrasekaran-successor-as-next-tata-sons-chairman-11786687924354.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-15T01:04:25.403238Z"
-    },
-    {
-      "id": "ff8ea9018794fd6785a58500d97dd48b",
-      "title": "Tribunal allows Zee to proceed with fundraise, but keeps market ban intact",
-      "description": "The Securities Appellate Tribunal granted conditional relief for Zee’s ₹3,143 crore fundraise and operational liquidity, provided the broadcaster pays its Sebi penalty within a week, even as market restrictions remain in force. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/2-0-119612146-Subhash-Chandra-17-0_1681879260466_1786691989717_862181b0-90ba-4f5d-a2ba-7a5e7ed242ae.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/zee-entertainment-sat-order-sebi-penalty-11786689957968.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-15T01:04:25.403195Z"
-    },
-    {
-      "id": "0e110391bf349e636866e2fded68de83",
-      "title": "Mahindra looks to plug gaps in its commercial vehicle push",
-      "description": "Mahindra is using the merged SML Mahindra entity and two new truck engines to break into heavier commercial vehicle segments and challenge Tata Motors and Ashok Leyland. The company is targeting 20% CV market share within a decade while treading carefully on subsidised electric buses. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/m_1786717839104_1786717843642_ce429b93-ebf3-4f92-a9aa-a4f4cb07ffbf.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/mahindra-looks-to-plug-gaps-in-its-commercial-vehicle-push-11786706958796.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-15T01:04:25.402973Z"
-    },
-    {
-      "id": "29ba896a9740900c1214268625796810",
-      "title": "Reliance, Rolls-Royce join hands to develop indigenous engine for AMCA — full details here",
-      "description": "Reliance Industries and Rolls-Royce announced a partnership to develop a combat aircraft engine for India's AMCA programme, aiming to enhance domestic fighter-jet propulsion capabilities. They plan to establish an Aerospace Gas Turbine Complex in India for the entire engine lifecycle. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/PTI05-27-2025-000124B-0_1748356358008_1786717682524_4c921773-806f-4e12-a00f-492127644347.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/reliance-rolls-royce-join-hands-to-develop-indigenous-engine-for-amca-what-didanant-ambani-tufan-erginbilgic-sa-11786715848170.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-15T01:04:25.402877Z"
-    },
-    {
-      "id": "f8dc386b44835e02fc0b84caf36dccc5",
-      "title": "Sensex, Nifty 50 snap 2-week winning streak on Middle East uncertainty, oil price volatility",
-      "description": "The Sensex declined 71 points, or 0.09%, to end at 78,009.25, while the Nifty 50 ended at 24,366, down 30 points, or 0.12%. For the week, the 30-share pack dropped 490 points, or 0.62%, while the Nifty 50 declined by 205 points, or 0.83%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/2-0-120175309-Stock-Trading-4C-0_1681884062894_1786701640522_330a2355-441e-4c1e-8334-62777d80a77e.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-snap-2-week-winning-streak-on-middle-east-uncertainty-oil-price-volatility-11786701521270.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-15T01:04:24.800321Z"
-    },
-    {
-      "id": "bbb0ffd9e0956a0987d952addd41dff7",
-      "title": "Top Gainers & Losers on 14 August: NALCO, HPCL, Tata Motors PV, Netweb Tech, Hindustan Copper among top losers",
-      "description": "The Indian stock market declined for the fourth consecutive day, driven by rising crude oil prices and foreign investor sell-offs. The Nifty dropped 0.12% and the Sensex fell 0.19%, with pharma sector leading losses, while only media and consumer durables saw gains. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/INDIA-BSE-10_1718252822146_1786700907431_36309f44-056a-4557-a208-875db8920e71.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-14-august-nalco-hpcl-tata-motors-pv-netweb-tech-hindustan-copper-among-top-losers-11786700818338.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-15T01:04:24.800270Z"
-    },
-    {
-      "id": "5ec7c821b38edfcd834052839db10721",
-      "title": "Pulse of the Street: Tata jitters, metal rout weigh on Indian equities",
-      "description": "Indian equities fell 0.8% this week as Tata succession uncertainty and a sell-off in metals outweighed gains in telecom and realty stocks, leaving India behind a broader AI-led rally across Asia. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/INDIA-TECH--16_1760276645095_1760276654484_1786713754982_9be6e446-5d95-4f92-a1f4-75644c976092.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-tata-jitters-metal-rout-weigh-on-indian-equities-11786708624550.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-15T01:04:24.800198Z"
-    },
-    {
-      "id": "dae2bc28b41b5d8836ad7222600498a6",
-      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far",
-      "description": "The decision to close the special scheme comes just a week after RBI governor Sanjay Malhotra said there was no plan for a premature closure. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/2-0-1307053791-rbi5--1--0_1679556450341_1786714632138_27a5c2b1-d1b8-4656-86ff-ddf8ec9194cd.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/dollar-deluge-prompts-rbi-to-shut-special-fcnr-scheme-early-ecbs-ofcbs-nris-foreign-currency-deposits-11786713510471.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-15T01:04:24.800162Z"
-    },
-    {
-      "id": "77fe9938d82452b9f9a08eef35c1a58f",
-      "title": "Patanjali Foods shares to be in focus on Monday as Q1 net profit jumps 86%; revenue hits record",
-      "description": "Patanjali Foods reported a robust June-quarter performance, with net profit increasing by 86% YoY to ₹335.73 crore and the highest-ever revenue of ₹11,337.45 crore. A 40% interim dividend has also been declared for FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/PATANJALI-FOODS-RESULTS--0_1720521572421_1786727871844_b0ee6d34-a99a-405d-be93-e495dff003eb.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/patanjali-foods-shares-to-be-in-focus-on-monday-as-q1-net-profit-jumps-86-revenue-hits-record-11786727877953.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-15T01:04:24.799875Z"
-    },
-    {
-      "id": "cc6f7609fc1481fd50dfeddca3b48763",
-      "title": "Adani Energy Solution shares end 2% higher after acquiring Vizag Power Transmission",
-      "description": "Adani Energy Solutions shares gained 2% after the company acquired Vizag Power Transmission from REC Power Development and Consultancy. The acquisition is aimed at facilitating power integration for proposed green hydrogen and green ammonia projects in Vizag. The development follows AESL’s win of an approximately Rs 8,500 crore transmission project in Andhra Pradesh. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133238587,imgsize-205802.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-solution-shares-end-2-higher-after-acquiring-vizag-power-transmission/articleshow/133238587.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-15T01:04:24.178772Z"
-    },
-    {
-      "id": "706277fbe01cac1b3f451a7471be855b",
-      "title": "Anchor investors stay put after IPO lock-in expiry, but half their bets are gone within a year: Sebi",
-      "description": "A SEBI study of 242 mainboard IPOs found anchor investors sell gradually after lock-in periods, with about 51% of original allotment value exiting within a year. FPIs recorded the highest one-year exit rate, while smaller IPOs saw faster selling. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133242283,imgsize-122604.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/anchor-investors-stay-put-after-ipo-lock-in-but-half-their-bets-are-gone-within-a-year-sebi/articleshow/133242283.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-15T01:04:24.178682Z"
-    },
-    {
-      "id": "32f0762bcd384a7ff42a9fef6d65266e",
-      "title": "Sebi mulls digital onboarding for individual foreign investors to boost participation in securities mkt",
-      "description": "Sebi has put forth a proposal for the digital onboarding of individual foreign investors, aimed at enhancing their access to markets. Intermediaries could utilize video verification for clients based abroad. Additionally, the framework suggests accepting KYC from other Sebi-registered entities. This initiative targets clients in FATF-compliant countries, with public feedback on the proposal requested by September 4.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133245737,imgsize-20630.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-digital-onboarding-for-individual-foreign-investors-to-boost-participation-in-securities-mkt/articleshow/133245737.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-15T01:04:24.178503Z"
-    },
-    {
-      "id": "2767f7fba4a7ea0930ea9d12ebc032d6",
-      "title": "Ashok Leyland Q1 profit rises 2% as revenue jumps 10% to Rs 10,750 crore",
-      "description": "Ashok Leyland reported a 2% rise in consolidated Q1FY27 profit to ₹668 crore, while revenue grew 10% to ₹10,750 crore. Record commercial vehicle sales supported performance, though rising material costs pressured margins, prompting cost-saving and pricing initiatives. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133245820,imgsize-626481.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/ashok-leyland-q1-profit-rises-2-as-revenue-jumps-10-to-rs-10750-crore/articleshow/133245820.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-15T01:04:24.178413Z"
-    },
-    {
-      "id": "4df5adbfad7f43b2be53220acda3985a",
-      "title": "Pernia's Pop-Up Shop likely to launch Rs 660 crore IPO by Aug-end",
-      "description": "Purple Style Labs is set to launch its initial public offering (IPO) at an impressive Rs 660 crore by the end of August. Having received the green light from Sebi for its entry into the public market, the luxury fashion label aims to channel the proceeds into expansion and support for its retail arm. This key financial update highlights evolving.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133245831,imgsize-184930.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/pernias-pop-up-shop-likely-to-launch-rs-660-crore-ipo-by-aug-end/articleshow/133245831.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-15T01:04:23.562684Z"
-    },
-    {
-      "id": "0befa56c58eaaa71348cc9dd8be70a16",
-      "title": "Page Industries faces volume-margin tightrope after soft Q1",
-      "description": "Temporary supply logjams and cost pressures marred Q1 for the Jockey licensee, complicating its path to a double-digit volume growth target while protecting profit margins. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/3-0-109696052-2020-10-14T075546Z-440977327-RC27IJ9_1786689099786_1786689099998_95a68fe2-bfad-4ffd-b927-ce44747c9b75.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/page-industries-share-price-page-industries-q1-11786684735119.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-14T13:00:44.602866Z"
     }
   ]
 }
