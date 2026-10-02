@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "822ca4dbce8b0a649b29c5330a82bfb5",
+      "title": "Nifty IT defies market weakness, rises 2%; Mphasis, Coforge, TCS lead",
+      "description": "The Nifty IT index advanced 2.1 per cent during intra-day deals, with nine out of ten constituent stocks of the index trading in the green. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100100335.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-it-defies-market-weakness-rises-2-mphasis-coforge-tcs-lead-126100100335_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:51.004952Z"
+    },
+    {
+      "id": "ab6d0a865c6345b58a3885190d91aae2",
+      "title": "Rupee, bonds face pressure as US Treasury yields rise and crude tops $100",
+      "description": "The rupee fell 0.5 per cent to 96.31 per dollar, while the benchmark 10-year bond yield rose to 7.21 per cent as Brent crossed $100 a barrel ahead of the RBI policy meeting. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100101136.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/rupee-bonds-face-pressure-as-us-treasury-yields-rise-and-crude-tops-100-126100101136_1.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-10-02T04:01:51.004638Z"
+    },
+    {
+      "id": "2b1c703a431e2cff83f086c9f8c381cb",
+      "title": "Sebi revamps document verification system to curb fake letters and notices",
+      "description": "Recipients can verify the origin of Sebi letters and notices by entering details including the subject, now a mandatory field; the check does not authenticate their contents. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100101462.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-revamps-document-verification-system-to-curb-fake-letters-and-notices-126100101462_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-10-02T04:01:51.004564Z"
+    },
+    {
+      "id": "aad7d8a335d24446324eddc7378e6e50",
+      "title": "TCS to buy US retailer Best Buy's India GCC, develop an AI-native centre",
+      "description": "Best Buy's India entity will transition to TCS under a multi-year agreement, combining its retail knowledge with technology and AI capabilities to build an AI-native centre. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100101559.jpg",
+      "fullArticleLink": "https://www.business-standard.com/companies/news/tcs-to-buy-us-retailer-best-buy-s-india-gcc-develop-an-ai-native-centre-126100101559_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:51.004496Z"
+    },
+    {
+      "id": "1590a54f00e54ffe079acc396d8615f8",
+      "title": "Noel Tata faces fresh challenge as two Tata Trusts vice-chairmen question restructuring plan, governance process",
+      "description": "Noel Tata faces fresh challenges in the Tata Sons boardroom battle as SDTT vice-chairmen Srinivasan and Singh allege he advanced a restructuring plan without trustee consultation. Srinivasan has also challenged Noel’s trustee status, 2024 reappointment and Tata Trusts’ influence over Tata Sons. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/noel_1790853218138_vtBV_1790853218346_Tn1g_9e5bf375-d21d-4531-9ecc-6e6de9e9f223_AGdM.png",
+      "fullArticleLink": "https://www.livemint.com/companies/people/noel-tata-faces-fresh-challenge-as-two-tata-trusts-vice-chairmen-question-restructuring-plan-governance-process-11790851039601.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:50.314884Z"
+    },
+    {
+      "id": "e6722b7110bf0996b57c8c77581c5843",
+      "title": "Meet Anup Bagchi, HDFC Bank's new MD & CEO - ICICI veteran to take charge from October 27",
+      "description": "HDFC Bank appointed Anup Bagchi as Managing Director and CEO, effective October 27. Bagchi, with extensive experience in banking and financial services, serves as MD and CEO of ICICI Prudential Life Insurance and has held senior roles across the ICICI Group. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/image_1790860425766_BM6M_1790860429592_Ot6Q_2e41663d-7bfc-4bd5-ac58-1462c968b62c_8nBR.png",
+      "fullArticleLink": "https://www.livemint.com/companies/people/who-is-anup-bagchi-hdfc-banks-new-md-ceo-icici-veteran-to-take-charge-from-october-27-11790860093978.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:50.314805Z"
+    },
+    {
+      "id": "104b4a871a7b36b3b42ede6006ffd2e1",
+      "title": "Accenture expects higher AI spending by clients as token costs fall",
+      "description": "Accenture's earnings cheered investors, with the company’s shares rising 22% on the New York Stock Exchange. Shares of Infosys and Wipro followed as well, gaining 9% and 8%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Accenture_50000_promotions_salary_hikes_employees_1747896978527_1790868531127_MmxD_25ec2bfa-48d9-4e1e-88b8-a46eba9c831a_okvr.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/accenture-expects-higher-ai-spending-by-clients-as-token-costs-fall-tcs-infosys-hcl-wipro-11790863191226.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:50.314723Z"
+    },
+    {
+      "id": "ad08709726e749db1e394f4adc29b373",
+      "title": "HDFC Bank CEO salary per month: Check renumeration of FY 2026",
+      "description": "HDFC Bank's CEO earned ₹15.13 crore for FY26, with a 35% performance bonus. He will leave his position on October 26 and will be succeeded by Anup Bagchi, approved by RBI as the new CEO and MD. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/hdfc_1790871175676_zrgy_1790871597348_dsNN_57b45a65-17ef-4850-9f91-fdf5891dd154_IGf2.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/hdfc-bank-ceo-salary-per-month-check-renumeration-of-fy-2026-11790869651281.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:50.314694Z"
+    },
+    {
+      "id": "29a7e5eb00dd1c2774c68ee5446ae11c",
+      "title": "How Anup Bagchi got the HDFC Bank MD-CEO job: Timeline of developments",
+      "description": "HDFC Bank’s CEO succession unfolded over two months after Sashidhar Jagdishan decided not to seek another term. From the bank’s two-name shortlist to RBI feedback and final approval, here’s how Anup Bagchi emerged as the next MD &amp; CEO. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Bagchi_1790873317254_uxKA_1790873322434_JtGN_905b9387-8466-43cf-9038-e2b871584d9e_ogEL.png",
+      "fullArticleLink": "https://www.livemint.com/companies/people/how-anup-bagchi-got-the-hdfc-bank-md-ceo-job-timeline-of-developments-11790872658025.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:50.314626Z"
+    },
+    {
+      "id": "43fb2e27294b674bc789679dcba84dfc",
+      "title": "JSW beats Tata, Ashok Leyland to corner over 1k electric bus mega govt order",
+      "description": "The order gives JSW a sizeable foothold in a market dominated by established bus makers and newer players such as Eka Mobility and PMI Electro Mobility. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/2-0-1261810491-jsw-steel1-0_1679610781489_1790871859970_vXuk_9db020e9-7f2b-433e-b9f0-8a5dc1106032_taeI.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/jsw-motor-electric-bus-tender-pm-e-bus-sewa-11790857845133.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:50.314526Z"
+    },
+    {
+      "id": "42c7fc41ff9c21e9786e383e7dcab189",
+      "title": "Anthropic IPO may come in November | Why its $2 trillion valuation is raising eyebrows",
+      "description": "Anthropic PBC, the AI company behind Claude, may start marketing its IPO the week of 9 November, aiming for a public debut by year-end. Investors estimate its valuation could reach between $1.8 trillion and $2 trillion, despite the company being unprofitable. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Anthropic_1790902152348_80kg_1790902152558_nzr3_c6f279a1-a91c-4999-a7d8-68f39857bfa5_eqtU.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/anthropic-ipo-may-come-in-november-why-its-2-trillion-valuation-is-raising-eyebrows-11790902031997.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-10-02T04:01:50.314499Z"
+    },
+    {
+      "id": "65c4019d601995aa0ff7f8a709d704de",
+      "title": "Nifty FMCG falls 6% in six months. Can festive demand trigger a recovery? | Marico, HUL, Tata Consumer among top picks",
+      "description": "The Nifty FMCG index has fallen 6% in H1 FY27, lagging behind the Nifty 50. Analysts anticipate varying recovery across the sector during the festive season, advocating a selective approach with stocks like Marico and Tata Consumer expected to perform well despite rising input costs. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/FMCG_Stocks_1790849648874_UBUw_1790849655030_TxAA_fa440bb3-fa54-4309-afbd-b4da74f896d5_BYwd.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-fmcg-falls-6-in-six-months-can-festive-demand-trigger-a-recovery-marico-hul-tata-consumer-among-top-picks-11790847453775.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:49.554756Z"
+    },
+    {
+      "id": "df5bbc820f384e0333daac6843b556bb",
+      "title": "BSE-Wipro index rejig case decoded: What happens after stocks enter or exit post reshuffle? Explained",
+      "description": "The BSE-Wipro reshuffle in the Nifty 50 illustrates index rebalancing, a process driven by changes in market capitalisation and liquidity. Such adjustments can trigger significant trading activity, affecting stock prices as passive funds align portfolios with the newly structured index. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/BSE_Wipro_index_rejig_case_decoded_1790853525805_cTYP_1790853530232_AMgl_af2fe016-a291-4574-befc-0cfb8ae22b40_QrYM.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bsewipro-index-rejig-case-decoded-what-happens-after-stocks-enter-or-exit-after-reshuffle-explained-11790851872164.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-02T04:01:49.554664Z"
+    },
+    {
+      "id": "e5b7247378c7d10ebcb8ec90cc1e3f4f",
+      "title": "Pulse of the Street: Eight-week slide puts RBI, earnings in focus",
+      "description": "Selling by foreign portfolio investors and elevated yields outweigh relief from softer crude prices. The coming RBI policy review and earnings season will test how much bad news equities have priced in. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/market_1733939870783_1790864303559_ns2Z_c8411628-d51b-414d-a80a-f02e2ebf93b8_Oq6e.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/pulse-of-the-street-eight-week-slide-puts-rbi-earnings-in-focus-11790858167305.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-02T04:01:49.554457Z"
+    },
+    {
+      "id": "731b0ea0c61849825dae1b505509d897",
+      "title": "Vishakha Renewables files IPO papers, eyes Rs 1,250 crore",
+      "description": "Vishakha Renewables, a company founded by Gautam Adani that specializes in solar components, has submitted its Draft Red Herring Prospectus. The firm aims to secure ₹1,250 crore through an initial public offering, designated for debt repayment and other corporate needs. A portion, ₹900 crore, will specifically address current borrowings. The IPO also includes an offer-for-sale of 1.81 crore shares.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134630791,imgsize-2090701.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishakha-renewables-files-ipo-papers-eyes-rs-1250-crore/articleshow/134630791.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-02T04:01:48.173099Z"
+    },
+    {
       "id": "9953002661cc0192d0bfe49a0c064166",
       "title": "Adani Energy Solutions gains 5.5%; extends winning streak to 3rd session",
       "description": "Over the previous three sessions, Adani Energy Solutions shares have gained more than 7 per cent, compared with a nearly 1 per cent decline in the Nifty 50 index. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14850,187 +15039,6 @@
         "Corporate"
       ],
       "pubDate": "2026-08-23T01:10:02.854839Z"
-    },
-    {
-      "id": "34327f1a7a25c5a0c3c9f24caa538dc6",
-      "title": "Sebi proposes distribution model to deepen corporate bond reach",
-      "description": "This follows recent proposals to ease fundraising and improve risk disclosure to support debt mkt. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260821/full-126082100923.jpg",
-      "fullArticleLink": "https://www.business-standard.com/economy/news/sebi-proposes-distribution-model-to-deepen-corporate-bond-market-reach-126082100923_1.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-23T01:10:02.854806Z"
-    },
-    {
-      "id": "5cea5b20a14f0e1546026ea3e1ae32ec",
-      "title": "Religare takeover: SAT dismisses Danny Gaekwad's plea on exemptions",
-      "description": "SAT has rejected Danny Gaekwad's bid to make a competing open offer for Religare, saying he missed the 15-day deadline under Sebi's takeover rules. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260821/full-126082101051.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/religare-takeover-sat-dismisses-danny-gaekwad-s-plea-on-exemptions-126082101051_1.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-23T01:10:02.854527Z"
-    },
-    {
-      "id": "73a67daf871b283340fe0ea9352d0cac",
-      "title": "Manipal Health Enterprises Q1 PAT drops 7% YoY to Rs 232 cr",
-      "description": "Manipal Health Enterprises reported a 7.48% decline in consolidated net profit to Rs 231.65 crore in Q1 FY27 from Rs 250.37 crore in Q1 FY26, despite strong growth in revenue and operating performance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/manipal-health-enterprises-q1-pat-drops-7-yoy-to-rs-232-cr-126082200306_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-23T01:10:02.854150Z"
-    },
-    {
-      "id": "7986707ab25b2d144ea6981e0afafc28",
-      "title": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
-      "description": "Sebi has proposed tighter advertising norms for online bond platform providers, including restrictions on promotional claims that could encourage investors to make decisions without adequate due diligence. The proposed revised advertisement code seeks to address the growing use of digital advertising, social media and influencer-led promotions by online bond platforms, according to a consultation paper issued by the regulator.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260822/full-126082200711.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-proposes-tighter-curbs-on-promotional-claims-by-online-bond-platforms-126082200711_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-23T01:10:02.853912Z"
-    },
-    {
-      "id": "727ea6e397d31565edbab85a70255eff",
-      "title": "Sebi proposes channel partners to expand retail access to bonds in India",
-      "description": "Market regulator Sebi has proposed introducing a framework for Fixed Income Channel Partners to broaden retail participation in fixed-income securities through online bond platform providers (OBPPs). The proposal aims to improve access to fixed-income products in Tier-II, Tier-III cities and rural areas, according to a consultation paper issued by Sebi on Friday. Under the proposed framework, individuals and non-individual entities.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260822/full-126082200827.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-proposes-channel-partners-to-expand-retail-access-to-bonds-in-india-126082200827_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-23T01:10:02.853776Z"
-    },
-    {
-      "id": "d58f7cd97e1600627b43cccbb84bfdbd",
-      "title": "Acer wants to be more than a PC brand. Can ‘House of Acer’ crack India’s crowded consumer market?",
-      "description": "The PC maker first introduced small appliances during the pandemic. Since then, it has expanded into large appliances and set up subsidiaries to sell luggage and device repair services.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/Harish_Kohli_Acer_1787249182125_1787249247724_af188544-e1e9-4397-94be-b9040727741b.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/acer-house-of-acer-laptops-appliances-luggage-consumer-electronics-acerpure-akshay-kumar-consumer-durables-11787249048439.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-23T01:10:02.170037Z"
-    },
-    {
-      "id": "f637079521142f3e7032b94e83610383",
-      "title": "India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal",
-      "description": "A long-delayed sale of a majority stake in IDBI Bank, held by the government and Life Insurance Corp of India, is in its final stages. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/IDBI-BANK-STAKE-SALE-FAIRFAX-FIN-0_1787303622426_1787303651899_6d270093-cf7f-4f48-ba58-2436c99abf0a.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/india-to-give-canadas-fairfax-two-years-to-consolidate-holdings-for-idbi-bank-deal-11787302921530.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-23T01:10:02.169814Z"
-    },
-    {
-      "id": "9ea5a2b20077ba72f28f6aceaedf3b04",
-      "title": "'Smallest wearable on the market': Deepinder Goyal says Temple is now less than half its earlier size, pre-orders soon",
-      "description": "Zomato founder Deepinder Goyal said Temple, his experimental wearable, is now less than half its earlier size and claims it is the smallest wearable on the market by volume. Pre-orders for a limited edition will open soon, with shipping expected by end-2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Goyal_temple_1787306983677_1787306991412_39405da0-b473-48e5-b633-5a4457ba774a.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/people/smallest-wearable-on-the-market-deepinder-goyal-says-temple-is-now-less-than-half-its-earlier-size-pre-orders-soon-11787306323990.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-23T01:10:02.169761Z"
-    },
-    {
-      "id": "62e39d817b29529df04b905648439d7c",
-      "title": "Zee Entertainment allots 20.94 crore warrants to promoter entity Sunbright Mauritius at ₹126 each",
-      "description": "The Securities Appellate Tribunal stayed a Sebi order to debar ZEEL for two months and its CEO Punit Goenka for one year from capital markets in the Hyderabad land pledge case. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/ZEE-GROUP-ARBITRATION--0_1686823023215_1787404106922_ed875e3e-d760-44c5-a81d-e113cca2ca86.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/zee-entertainment-allots-20-94-crore-warrants-to-promoter-entity-sunbright-mauritius-at-rs-126-each-11787404066328.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-23T01:10:02.169253Z"
-    },
-    {
-      "id": "9058319471476a37a15447a58ce179ef",
-      "title": "Jefferies initiates coverage on Anthem Biosciences with a Rs 1,050 target",
-      "description": "Jefferies has initiated coverage on Anthem Biosciences with a Buy rating and Rs 1,050 target, implying around 20% upside. The brokerage is bullish on the company’s integrated CRDMO model, strong return ratios and growth prospects, forecasting 18% revenue CAGR through FY29. Key triggers include new commercial molecules and biosimilar launches, while customer concentration and high capex remain key risks.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133393891,imgsize-1822792.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-anthem-biosciences-with-a-rs-1050-target/articleshow/133393891.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-23T01:10:00.440745Z"
-    },
-    {
-      "id": "231a949fea713a1217beb9d10929e5cb",
-      "title": "Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside",
-      "description": "The shares of Aditya Infotech have made a notable recovery after a recent equity raise focused on enhancing capacity. However, the company is grappling with high electronic component prices that are squeezing profits. On a positive note, the introduction of new STQC norms is expanding the market opportunities for Indian manufacturers. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133415946,imgsize-289065.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-rebounds-on-fundraise-plans-analysts-see-up-to-20-upside/articleshow/133415946.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-23T01:10:00.439993Z"
-    },
-    {
-      "id": "676dcc7c6c55b55f3652b3bb7217d302",
-      "title": "Dubai office boom drives commercial real estate growth; transaction value triples in H1 2026",
-      "description": "Dubai’s commercial real estate market remained resilient in H1 2026, with transaction value rising 8.5% to AED 65.23 billion. Offices led growth, driven by strong Grade A demand and limited supply, while retail also gained momentum. Investors increasingly favored income-generating assets over land, supporting a positive outlook despite geopolitical tensions and Q2 moderation. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133417249,imgsize-2336218.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dubai-office-boom-drives-commercial-real-estate-growth-transaction-value-triples-in-h1-2026/articleshow/133417249.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-23T01:09:59.888666Z"
-    },
-    {
-      "id": "76524a9d84d409fe32a76b39d0430b89",
-      "title": "Uttar Pradesh remains India’s largest crypto market in Q2 2026: Report",
-      "description": "Crypto adoption expanded across India in Q2 2026, led by Uttar Pradesh, Maharashtra and Karnataka. Regional investment patterns varied, with Andhra Pradesh recording the highest female participation and distinctive cryptocurrency preferences, highlighting the diverse and growing nature of India’s crypto investor base. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133419064,imgsize-74080.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/cryptocurrency/uttar-pradesh-remains-indias-largest-crypto-market-in-q2-2026-report/slideshow/133419128.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-23T01:09:59.888322Z"
-    },
-    {
-      "id": "541b59a69b16e5179f8b958bb823185d",
-      "title": "Mom's Belief operator to launch IPO on Sep 1",
-      "description": "On September 1, Rays of Belief Ltd will make its debut in the stock market with an initial public offering. With ambitious plans to open 319 new centers across India by FY29, the IPO proceeds will support expansion efforts, including fit-outs and technological advancements. The company aims to enhance neurodevelopmental care in Tier-II and Tier-III cities while showcasing impressive revenue.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133420812,imgsize-111296.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-to-launch-ipo-on-sep-1/articleshow/133420812.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-23T01:09:59.888135Z"
-    },
-    {
-      "id": "a46b6f419ec62a0ea9a8fc4230cb4259",
-      "title": "Framework for monitoring utilisation of issue proceeds under review: Sebi",
-      "description": "Market regulator Sebi is reviewing the framework for monitoring and disclosing utilisation of issue proceeds to improve timely disclosures and streamline the compliance process, Sebi Chairman Tuhin Kanta Pandey said on Saturday. Addressing the Institute of Directors' Annual Directors' Conclave 2026, Pandey said transparency is not merely about the volume of information disclosed by a company but about whether.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260822/full-126082200558.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/framework-for-monitoring-utilisation-of-issue-proceeds-under-review-sebi-126082200558_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-22T12:33:25.154334Z"
     }
   ]
 }
