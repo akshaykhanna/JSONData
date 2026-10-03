@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "6731ab9b0f4a0a6146b5d64e0dd612f9",
+      "title": "Sebi to soon issue framework on CAS; receives over 3,500 comments",
+      "description": "Market regulator Sebi will soon issue a framework on proposed changes to the Closing Auction Session (CAS) mechanism after receiving more than 3,500 comments on its consultation paper, its Chairman Tuhin Kanta Pandey said on Saturday. The Securities and Exchange Board of India (Sebi) had sought public comments on its proposal to review certain aspects of the CAS, market timings.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261003/full-126100300348.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-to-soon-issue-framework-on-cas-mechanism-after-receiving-3-5k-comments-126100300348_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-10-03T15:42:30.417334Z"
+    },
+    {
+      "id": "bcd1ea396fd741a84a564432d2c792e5",
+      "title": "RBI backs blockchain technology, remains cautious on crypto: Guv Malhotra",
+      "description": "India has maintained a cautious approach towards cryptocurrencies while promoting the underlying technologies such as distributed ledger technology and tokenisation, RBI Governor Sanjay Malhotra said on Saturday. Malhotra said India supports innovation in technologies underlying crypto assets, including distributed ledger and tokenisation, but remains cautious about cryptocurrencies due to concerns over monetary sovereignty, monetary policy and capital flows. \"So, our.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261003/full-126100300396.jpg",
+      "fullArticleLink": "https://www.business-standard.com/economy/news/rbi-backs-blockchain-technology-remains-cautious-on-crypto-guv-malhotra-126100300396_1.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-10-03T15:42:30.417259Z"
+    },
+    {
+      "id": "96355e654b19d7da35b0892b9f55bef4",
+      "title": "Sebi examining position limits for non-agri contracts to boost liquidity",
+      "description": "Market regulator Sebi is examining position limits for non-agricultural contracts to improve liquidity and depth without weakening risk controls, its chairman Tuhin Kanta Pandey said on Saturday. Speaking about reforms in the commodity derivatives market, Pandey said the market design should allow contracts to gain scale. In some agricultural commodities, physical settlement from the outset can impede market development.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261003/full-126100300459.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity-126100300459_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-10-03T15:42:30.417145Z"
+    },
+    {
+      "id": "5e5e5b8a48bdec613f2532945806010e",
+      "title": "SBI-led consortium tells Bombay HC Mallya owes over ₹8,700 crore; counters his claim of recovering more than dues",
+      "description": "A consortium of banks led by SBI has told the Bombay High Court that ₹8,751.86 crore remains recoverable from Vijay Mallya, despite ₹10,270 crore recovered so far. The disclosure counters Mallya’s claim that lenders have recovered more than his outstanding dues. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/SBI_Vijay_Mallya_1791002768765_Zjp6_1791002768921_lUDW_95508477-dd37-46b0-a184-26025bea8fca_6RAM.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/sbiled-consortium-tells-bombay-hc-mallya-owes-over-rs-8-700-crore-counters-his-claim-of-recovering-more-than-dues-11791002294982.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-03T15:42:29.594966Z"
+    },
+    {
+      "id": "224e3622451de743a2362cfad4e2c818",
+      "title": "Noel Tata on ₹250 cr investment for IIM Bangalore and why need of the hour is primary education",
+      "description": "Noel Tata, chairman of Tata Trusts, announced a ₹500 crore investment in partnership with IIM Bangalore to create a premier undergraduate institution, prioritising early childhood education as essential to academic success, and revealed plans for 40 to 50 not-for-profit hospitals nationwide. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/IIM_1791019155386_ctPx_1791019183766_4Boe_db5479fc-7341-46b2-98da-159ab36da34e_NMVj.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/noel-tata-on-rs-250-cr-investment-for-iim-bangalore-and-why-need-of-the-hour-is-primary-education-11791016772349.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-03T15:42:29.594744Z"
+    },
+    {
+      "id": "28f8364877d82c46ca0564994fe62004",
+      "title": "Stocks to buy: Galaxy Surfactants, Mankind Pharma and Engineers India; check share price target by Axis, rationale",
+      "description": "The Nifty 50 ended the week at 22,422, marking an extended decline. Immediate support lies at 22,200. Key recommendations include Galaxy Surfactants, Mankind Pharma, and Engineers India, each presenting potential profits in the coming weeks, according to Axis Direct's analysis. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/Axis_Weekly_Stock_Picks_1791004479886_L1eM_1791004488011_ERIx_ba34344d-2d65-422a-b035-8ffedeb7950a_8G8r.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-galaxy-surfactants-mankind-pharma-and-engineers-india-check-share-price-target-by-axis-rationale-11791001806429.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-03T15:42:28.879300Z"
+    },
+    {
+      "id": "ae2540cbacec6eeff98f6ea087e200e5",
+      "title": "Policybazaar, Paisabazaar share: PB Fintech stock down 48% in 6 days, more pain ahead - Here’s why | Revised target",
+      "description": "Shares of PB Fintech have fallen 48% over six sessions due to proposed insurance commission changes. Brokerages have revised estimates, raising concerns about profitability in general insurance and the POSP model. Bernstein cut its target price by 53%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/PB_Fintech_Stock_Decline_Alert_1791008267195_tc2X_1791008278036_qE1t_4dcdc06a-ca01-4440-8ed3-37e8dafce9e5_6NCk.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/policybazaar-paisabazaar-share-pb-fintech-stock-down-48-in-6-days-more-pain-ahead-here-s-why-revised-target-11791004792982.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-03T15:42:28.879248Z"
+    },
+    {
+      "id": "e0282f82569113e9ff781dd7cd4099f6",
+      "title": "After Sept, bond yields to peak in Oct too? Experts decode future of Indian bond market; RBI's next move holds key",
+      "description": "Shorter-tenure corporate bonds may offer better risk-reward opportunities, while dynamic bond funds provide flexibility for various risk profiles. RBI is expected to raise the repo rate by 50-75 basis points amid inflation risks, driven by higher food and oil prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/RBI_Bonds__Ten-Year_Yield_Outlook_1791000824948_DvVZ_1791000839383_W89n_f7d2d456-b13d-4a26-aaa6-c8cd2510b307_pvbh.png",
+      "fullArticleLink": "https://www.livemint.com/market/bonds/after-sept-bond-yields-to-peak-in-oct-too-experts-decode-future-of-indian-bond-market-rbis-next-move-holds-key-11790928652341.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-10-03T15:42:28.879016Z"
+    },
+    {
+      "id": "d1178bef03db2af741a130b7ebe0c33e",
+      "title": "FPIs pull out over ₹35,000 cr in Indian stocks in Sept: Why SEBI’s easier access reforms alone may not help",
+      "description": "Foreign portfolio investors sold ₹35,860 crore in Indian equities in September, reversing previous month inflows. Despite SEBI's efforts to ease regulations, concerns over returns and global competition persist, leading to sustained FPI selling amid challenging global conditions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/fpi_1791023698239_9OIs_1791023705150_stUv_757e4e8f-16bb-4a64-a815-c526cd748a0b_kBTW.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/fpis-pull-out-over-rs-35-000-cr-in-indian-stocks-in-sept-why-sebi-s-easier-access-reforms-alone-may-not-help-11791021166199.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-10-03T15:42:28.878916Z"
+    },
+    {
+      "id": "adf2d2dfa27fa5202f005360076b9344",
+      "title": "TCS, Infosys, Wipro shares ahead of Q2 results: Explained | What Accenture's strong earnings mean for Indian IT stocks",
+      "description": "Accenture's fourth-quarter results reflect a rising trend in AI adoption, marking a shift from pilot projects to larger implementations, positively impacting Indian IT stocks. Despite the optimism, concerns about pricing pressure and sluggish discretionary spending suggest a cautious outlook. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/Accenture_Earnings_Impact_Indian_IT_1791015549880_zQ8W_1791015583783_4e4m_ef1b441b-852c-4395-ab44-7e35b4a857d2_hkEd.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tcs-infosys-wipro-shares-ahead-of-q2-results-explained-what-accentures-strong-earnings-mean-for-indian-it-stocks-11791014052622.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-03T15:42:28.878804Z"
+    },
+    {
+      "id": "a407351018203d02cc7050ea18ab56ac",
+      "title": "US 10-year yield at 24-year high rattles Nifty, rupee and bond markets. Why is India hit hard?",
+      "description": "The US 10-year Treasury yield surged to a 24-year high, triggering a global bond sell-off and pressuring Indian equities, bonds and the rupee. Higher US borrowing costs are raising concerns over FII outflows, currency weakness, imported inflation and RBI policy. Rising crude prices are adding to the pressure on Indian markets. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134613973,imgsize-2340895.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/us-10-year-yield-at-24-year-high-rattles-nifty-rupee-and-bond-markets-why-is-india-hit-hard/articleshow/134613973.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-10-03T15:42:28.145645Z"
+    },
+    {
+      "id": "c551c1c6cb35de918d3efba9b97ca9ad",
+      "title": "SBI-led lenders say Vijay Mallya owes Rs 8,752 crore more",
+      "description": "A group of lenders, spearheaded by the State Bank of India, has revealed that Vijay Mallya still owes an astonishing Rs 8,752 crore. This figure remains despite having recovered over Rs 10,270 crore, including recent payments. Mallya's claims of settling his debts with banks are in question. Court proceedings continue regarding the recovery of dues and criminal charges.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134650640,imgsize-98750.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-led-lenders-say-vijay-mallya-owes-rs-8752-crore-more/articleshow/134650640.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-03T15:42:28.144972Z"
+    },
+    {
+      "id": "ce4cab30bf77f558997d5ee3bf4b980d",
+      "title": "Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions",
+      "description": "Over the last five trading sessions ended October 1, the benchmark Sensex declined 2.27%, or 1,671 points, to close at 71,909. The index recorded losses in four of the five sessions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134652164,imgsize-88260.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-14-midcap-stocks-decline-for-5-consecutive-sessions/slideshow/134652347.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-03T15:42:28.144662Z"
+    },
+    {
+      "id": "57cce58fce556c1c53f3a387e2bd6e40",
+      "title": "Cube Highways Trust secures Rs.1,150 crore through AAA-rated NCDs",
+      "description": "Cube Highways Trust has triumphantly secured Rs. 1,150 crore by issuing senior secured NCDs, boasting a competitive coupon rate of 7.50% per annum, payable quarterly for five years. Major institutional players, Axis Bank Limited and ICICI Bank Limited, were pivotal investors in this transaction. The proceeds will facilitate debt refinancing and support ongoing capital projects, as part of an ambitious.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134655392,imgsize-2218368.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-secures-rs-1150-crore-through-aaa-rated-ncds/articleshow/134655392.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-03T15:42:28.144507Z"
+    },
+    {
+      "id": "c46ff3c821370588dce557ee57c16f3e",
+      "title": "Jio Platforms IPO may open on October 21, issue estimated at $3.8 billion: Report",
+      "description": "The IPO is expected to remain open until October 23, with the anchor book likely to open on October 19. The shares are targeted to list on the stock exchanges on October 28, although the timeline remains subject to market conditions and could change depending on developments in financial markets, the report added. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134652545,imgsize-2171996.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-may-open-on-october-21-issue-estimated-at-3-8-billion-report/articleshow/134652545.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-10-03T15:42:27.501282Z"
+    },
+    {
       "id": "5408bf4d8384601a0bda2dd259348d93",
       "title": "Up 45% in 1 year, down 7% YTD: Is this multibagger NBFC stock a buying opportunity now?",
       "description": "Nifty 50 is down almost 10% over the last one year. However, some of its components have surged up to 45% in this period- one of them is a multibagger NBGC stock that has seen profit booking this year, raising questions about whether it is a stock to buy now at the current juncture. This key financial update highlights evolving.",
@@ -14848,198 +15039,6 @@
         "Indian Finance"
       ],
       "pubDate": "2026-08-24T12:43:22.992020Z"
-    },
-    {
-      "id": "d7804a112ad7bb6c485b35fc2803c8f4",
-      "title": "Alibaba shares plunge 11% after $10.2 billion share placement to fund AI expansion",
-      "description": "Alibaba shares dropped 11% after announcing an HK$80 billion share placement to fund AI expansion. The company will issue 710 million shares below the previous closing price. Proceeds will enhance AI capabilities amid a 75% decline in quarterly net profit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/Alibaba-Pentagon-0_1784549476379_1784549522736_0f8a5287-4a68-4d91-93c6-3032f63a76c4_1787548029509_a07b90ca-d118-47af-9ab9-83c1b4dc273b.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/alibaba-shares-plunge-11-after-10-2-billion-share-placement-to-fund-ai-expansion-11787547880961.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-24T12:43:22.310958Z"
-    },
-    {
-      "id": "194e9f64c83247721a3a6977f67d164a",
-      "title": "Did you get Lalithaa Jewellery Mart IPO? Shares up 36% from IPO price -What's next for investors? Buy more?Sell or hold?",
-      "description": "Lalithaa Jewellery shares debuted strong, listing at nearly 32% above the issue price of ₹201. The stock gained 36.5% initially but faced profit booking later. Market valuation reached ₹14,462.90 crore, and the IPO was subscribed 62.97 times, reflecting solid investor interest. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/g1417d0f500e6d98725308785bc2c76af7b1dd6f1270f48076_1787557207992_1787557208109_dd158f66-542c-4e24-b837-3f6509f29b49.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/did-you-get-lalithaa-jewellery-mart-ipo-shares-up-36-from-ipo-price-whats-next-for-investors-buy-more-sell-or-hold-11787554814815.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-24T12:43:22.310697Z"
-    },
-    {
-      "id": "ff6e6db40a1220652937af7c30af4456",
-      "title": "Expert view: Nifty 50 can hit a new all-time high before 2026 end, says Shrikant Chouhan of Kotak Securities",
-      "description": "Shrikant Chouhan from Kotak Securities predicts a potential rise of the Nifty 50 to a new all-time high by 2026, contingent on sustained earnings momentum and stabilising crude oil prices. Read on for an in-depth analysis. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/Shrikant-Chouhan_1743766593313_1787563213121_d83969d6-e107-467a-8605-77a3ea915f17.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/expert-view-nifty-50-can-hit-a-new-all-time-high-before-2026-end-says-shrikant-chouhan-of-kotak-securities-11787563015163.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-24T12:43:22.310372Z"
-    },
-    {
-      "id": "528bb9285a2eb4241f861e5a16726d97",
-      "title": "Stock market today: Sensex falls 170 points, Nifty 50 ends below 24,219; metal stocks shine",
-      "description": "The Sensex ended at 77,369, down 172 points, or 0.22%, while the Nifty 50 closed 33 points, or 0.14%, lower at 24,219.05. The Nifty Midcap 150 index inched up by 0.07%, while the Smallcap 250 index declined 0.21%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1787565934596_a96d6c28-d067-4762-9ffc-e20d211fd95a.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-170-points-nifty-50-ends-below-24-219-metal-stocks-shine-11787565654953.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-24T12:43:22.310290Z"
-    },
-    {
-      "id": "e2ec199faaceddd5f5de1b6798937af8",
-      "title": "Stock market prediction tomorrow, 25 August: What will happen to Sensex, Nifty Bank, Nifty, KOSPI, Nikkei on Tuesday?",
-      "description": "Key Asian markets, including India, closed lower on August 24 due to investor caution regarding US economic sanctions on Iran and upcoming inflation updates. Major indices fell, with Tokyo's Nikkei 225 down 0.7%, while rising global bond yields added to market pressures. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/im-98867202_1784534079331_1787569670742_d802cec7-23bd-4ffc-8622-2bea35badfe5.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-25-august-what-will-happen-in-sensex-nifty-bank-nifty-kospi-nikkei-on-tuesday-11787568302143.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-08-24T12:43:22.310176Z"
-    },
-    {
-      "id": "fafcf6c81451751fbdf5fd63ea22564e",
-      "title": "Bajaj Finance, HDFC Life to Nippon Life India AMC: Mirae Asset Sharekhan recommends 11 BFSI stocks to buy for long term",
-      "description": "Mirae Asset Sharekhan recommends 11 BFSI stocks poised for long-term gains, spotlighting factors like cleaned balance sheets and a rise in profitability. Discover which stocks made the list. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/Earnings_1759910110675_1759910115968_1787568952717_d5b80c85-21b9-484a-a655-ac232be67929.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bajaj-finance-hdfc-life-to-nippon-life-india-amc-mirae-asset-sharekhan-recommends-11-bfsi-stocks-to-buy-for-long-term-11787568683714.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-24T12:43:22.310138Z"
-    },
-    {
-      "id": "f87461344b290e196747fe8893581dd6",
-      "title": "Sensex falls 172 points, Nifty closes below 24,250 even as oil prices slip. What lies ahead?",
-      "description": "Indian equities reversed early gains to close lower on Monday, with Sensex and Nifty falling around 0.2%. PSU banks led sectoral declines, while metals outperformed. Rising bond yields, elevated crude prices, geopolitical tensions and expected US sanctions on Iran weighed on sentiment. Investors remained cautious amid growing macroeconomic uncertainty. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133450616,imgsize-103082.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-24300-as-oil-prices-slip-ahead-of-us-sanctions-on-iran-what-to-expect/articleshow/133450616.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-08-24T12:43:21.238388Z"
-    },
-    {
-      "id": "d681ff4e8b2de58cc00a9b181c3a14b8",
-      "title": "Apollo Tyres shares jump over 6% after UBS upgrades stock to Buy from Neutral. Here’s why",
-      "description": "Apollo Tyres shares surged after UBS upgraded the stock to Buy and raised its target price to Rs 590. The brokerage sees earnings recovery potential, supported by improving India and Europe prospects, despite near-term rubber cost pressures. Strong Q1 revenue growth and reduced exceptional losses also supported the positive outlook. This key financial update highlights evolving market dynamics, strategic corporate.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133451444,imgsize-2375634.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-tyres-shares-jump-over-6-after-ubs-upgrades-stock-to-buy-from-neutral-heres-why/articleshow/133451444.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-24T12:43:21.238046Z"
-    },
-    {
-      "id": "82850c4dc6660feecb75a158528c7d99",
-      "title": "Nifty drops 7% in 2026, smallcaps gain 13%. Is it time to bet on broader markets?",
-      "description": "This year has seen smallcap stocks surge ahead of the Nifty 50 index, with the Nifty Smallcap 100 rising nearly thirteen percent while its larger counterpart has faltered. The driving forces behind this rally include robust liquidity and significant mutual fund investments. Analysts forecast a positive outlook on smallcaps, suggesting that investors might consider increasing their stakes during market dips.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133451576,imgsize-2665933.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-loses-7-in-2026-smallcaps-gain-13-is-it-time-to-bet-on-broader-markets/articleshow/133451576.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-24T12:43:21.237916Z"
-    },
-    {
-      "id": "2aa28481b03203a4b6df4d7f4ee3ae03",
-      "title": "Fascinate Textiles shares list at 20% discount to issue price of Rs 151 on NSE SME platform",
-      "description": "Fascinate Textiles shares made a weak NSE SME debut on August 24, listing at a 20% discount to the IPO price despite the issue being subscribed 1.48 times. The company reported strong FY26 revenue and profit growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133452117,imgsize-1960230.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/fascinate-textiles-shares-list-at-20-discount-to-issue-price-of-rs-151-on-nse-sme-platform/articleshow/133452117.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-24T12:43:21.237596Z"
-    },
-    {
-      "id": "d2416a420271def54c41d0219f0cada7",
-      "title": "Infosys, HCLTech, other IT stocks gain on Nvidia’s likely price hikes. Are AI bubble worries coming true?",
-      "description": "Indian IT stocks gained on Monday as reports of Nvidia’s potential server price hikes revived concerns over rising AI infrastructure costs and stretched valuations. The Nifty IT index rose over 1%, with Infosys and HCLTech among the gainers. Analysts, meanwhile, continue to debate whether India’s IT sector offers an “anti-AI” advantage. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133456658,imgsize-2500401.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-other-it-stocks-gain-on-nvidias-likely-price-hikes-are-ai-bubble-worries-coming-true/articleshow/133456658.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-24T12:43:21.237135Z"
-    },
-    {
-      "id": "fa5ad702dfa28307f8072f0215395548",
-      "title": "MP Steel files IPO papers; plans Rs 95 crore fresh issue, 23.07 lakh-share OFS",
-      "description": "MP Steel Limited has submitted its Draft Red Herring Prospectus (DRHP) to SEBI as it prepares for its initial public offering. The company aims to generate capital via a fresh issuance of shares and an offer for sale. The funds raised will go towards establishing a new billet manufacturing facility, thereby boosting its backward integration.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133460038,imgsize-51008.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/mp-steel-files-ipo-papers-plans-rs-95-crore-fresh-issue-23-07-lakh-share-ofs/articleshow/133460038.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-24T12:43:20.587643Z"
-    },
-    {
-      "id": "974c19f6118a7d44debc4e8fc96dc941",
-      "title": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran",
-      "description": "The Indian rupee showed little movement on Monday, remaining steady in a limited range due to ongoing central bank actions. Market participants are keenly observing potential U.S. sanctions on Iran, while the continuing conflict in the Middle East poses risks to oil prices and India's import reliance. Meanwhile, the dollar index gained strength, contrasting with declines in most Asian currencies.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133461311,imgsize-34618.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/interventions-hold-rupee-on-narrow-leash-traders-await-us-sanctions-on-iran/articleshow/133461311.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-24T12:43:20.587411Z"
-    },
-    {
-      "id": "b971bbe8b94fad960b7afe9dc56d7334",
-      "title": "India lenders' dollar debt sales top $10 billion since RBI window, ICICI Bank beats peer to lead pack",
-      "description": "ICICI Bank is set to raise one billion dollars through the issuance of five-year bonds, marking its fourth bond sale this month. With over three billion dollars already raised via the RBI window, this move contributes to the collective bond issuance of over ten billion dollars by Indian banks. This funding initiative is aimed at bolstering their lending and investment.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133466165,imgsize-121016.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/india-lenders-dollar-debt-sales-top-10-billion-since-rbi-window-icici-bank-beats-peer-to-lead-pack/articleshow/133466165.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-24T12:43:20.586938Z"
-    },
-    {
-      "id": "8c833824d63161ca1ba157291b8d66c1",
-      "title": "US, India unattractive on free cash flow yields: Goldman Sachs report",
-      "description": "S&P 500 and Nifty 50 offer free cash flow yields of 2.7 per cent each, compared with 5 per cent for Europe's Stoxx 600, according to market data. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260823/full-126082300621.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/us-indian-markets-look-less-attractive-on-free-cash-flow-yield-measure-126082300621_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-24T01:07:36.292405Z"
     }
   ]
 }
