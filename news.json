@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "1a2a5a62304136113541525ef5605807",
+      "title": "Jio IPO likely by Oct end at enterprise valuation of above ₹12 trillion",
+      "description": "Digital services major Jio Platforms is likely to get listed by the end of this month at an enterprise valuation of USD 143-146 billion or above Rs 12 lakh crore, sources tracking the development said. Jio Platforms IPO is touted as India's largest public offer at an estimated size of USD 3.8 billion. The company has concluded overseas roadshows.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261004/full-126100400146.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/jio-ipo-likely-by-oct-end-at-enterprise-valuation-of-above-12-trillion-126100400146_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-10-04T16:25:28.142042Z"
+    },
+    {
+      "id": "7f2a30a3df17575e21d71a903d4f5fb3",
+      "title": "RBI MPC policy, oil prices, bond yields may drive market this week",
+      "description": "RBI's interest rate decision, TCS' earnings, crude oil prices and global bond yields will be important factors to determine stock market movement this week, analysts said. Macroeconomic data announcements and foreign investors' trading activity will also guide market trends, they added. \"RBI's monetary policy meeting will be closely watched. The policy stance, inflation outlook and growth projections will provide important.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261004/full-126100400285.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/rbi-mpc-policy-oil-prices-bond-yields-may-drive-market-this-week-126100400285_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-04T16:25:28.141884Z"
+    },
+    {
+      "id": "06dbe14c56228463229fa5d34dabb0c2",
+      "title": "Lockheed Martin’s India expansion plan hinges on $10.5bn military aircraft bid: Which firms are competing for project?",
+      "description": "Lockheed Martin plans to expand its manufacturing in India if it wins a $10.5 billion contract for 60 medium transport aircraft. It has partnered with Tata Advanced Systems and aims to deliver 12 aircraft initially, while 48 will be produced locally, enhancing India's aviation capabilities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/Untitled_design_1791110951704_ngim_1791110955030_sZh6_08f3032a-c972-4524-8a04-990a996570d1_0kYr.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/lockheed-martin-s-india-expansion-plan-hinges-on-10-5bn-military-aircraft-bid-which-firms-are-competing-for-project-11791107461403.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-04T16:25:27.556624Z"
+    },
+    {
+      "id": "fb00d12c51aa9b14cdfe14c3344b10bc",
+      "title": "Best Vedanta share to buy amid Q2 results? Vedanta Power vs Hindustan Zinc vs Vedanta Aluminium vs Vedanta Oil & Gas",
+      "description": "From a long-term investment perspective, capital allocation must prioritise volume growth, structural cost advantages, backward integration, and return on invested capital, according to market experts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/Vedanta_stocks_1791092125326_d6wO_1791092125452_gBbf_5ce2dcdd-7076-4ffd-beff-44aff84104c1_iu5b.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/best-vedanta-share-to-buy-amid-q2-results-vedanta-power-vs-hindustan-zinc-vs-vedanta-aluminium-vs-vedanta-oil-gas-11791089427498.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-04T16:25:26.980128Z"
+    },
+    {
+      "id": "f73c9744eb50321475b75bfe0f61fdb7",
+      "title": "Another big development in Tata Boardroom Battle; Noel Tata seeks video recording and minutes of Sept 17 meeting",
+      "description": "Actually, on September 17, 2026, the Tata Sons board voted 4:1 to approve a third five-year term for N. Chandrasekaran starting February 2027. But, Noel Tata was the sole board member to vote against the extension, and also called the resolution a 'legal nullity'. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/tata_1791095477058_xCU4_1791095531910_s4Sf_11a78e1b-d70d-4ebb-b093-23b04d73ce25_z9UP.png",
+      "fullArticleLink": "https://www.livemint.com/market/another-big-development-in-tata-boardroom-battle-noel-tata-seeks-video-recording-and-minutes-of-sept-17-meeting-11791095186384.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-04T16:25:26.980081Z"
+    },
+    {
+      "id": "4b8575428fcd5953f937b0d367dd2c83",
+      "title": "CAS update: Sebi gets 20k comments on Closing Auction Session, Timings, Derivates Contracts Settlement Methodologies",
+      "description": "According to the latest data available with the regulator, SEBI had received around 20,000 comments by 7 pm on October 3, the deadline for submitting feedback on its consultation paper. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/SEBI_1791105998231_5yIs_1791105998420_Yqk1_9ca9f6f9-9d4b-445b-8377-6bfda4830117_yloB.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/cas-update-sebi-gets-20k-comments-on-closing-auction-session-timings-derivates-contracts-settlement-methodologies-11791103696405.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-10-04T16:25:26.979892Z"
+    },
+    {
+      "id": "a51d309a63f2ba615170f24701176a88",
+      "title": "TCS, Tech Mahindra, Coforge, Mphasis: IT stocks picks and investment ideas after Accenture results ahead of Q2 earnings",
+      "description": "IT stock picks: Brokerage firm Choice Broking has identified Indian IT stocks as potential investment picks for traders. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/IT_stocks_1791110192883_XhA2_1791110193154_8i5X_cb8919c8-7966-432d-958a-a5faa72e948b_ORyz.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tcs-tech-mahindra-coforge-mphasis-it-stocks-picks-and-investment-ideas-after-accenture-results-ahead-of-q2-earnings-11791106363192.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-04T16:25:26.979856Z"
+    },
+    {
+      "id": "07bcd9c704fe4f5815e797fe7408eabb",
+      "title": "Tata Comms, Siemens, Aadhar Housing, Styrenix, Sudarshan — Top 5 stocks to buy on Monday | Target, SL by Sumeet Bagadia",
+      "description": "Stock market prediction: Sumeet Bagadia believes Dalal Street bias has further weakened, as the Nifty 50 index is approaching its near-term support at 22,200. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/Sumeet_Bagadia_Stock_Recommendations_Today_1791106742412_na7C_1791106742548_g9Xb_532ba54f-54dd-47c0-82b0-e25ad044771e_U2K2.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-5-breakout-stocks-to-buy-enrin-aadhar-hfc-styrenix-tata-comm-sudarschem-by-sumeet-bagadia-target-stoploss-11791105297463.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-04T16:25:26.979819Z"
+    },
+    {
+      "id": "98f094305903b01e1700f5e78c0a97a0",
+      "title": "LTM, Cyient, Zen, Birlasoft share price target, stop-loss - IT stocks to buy for over 32% returns ahead of Q2 results",
+      "description": "IT stocks to buy: The brokerage has retained a positive stance on most of the IT stocks, with Larsen &amp; Toubro Technology Services (LTTS), Mphasis and Coforge among the picks offering meaningful upside from current levels. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/IT_stocks_1791113756865_SWFp_1791113756974_fWJm_70c7b006-9473-4751-8bd2-c3a287e4d708_m8g8.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/ltm-cyient-zen-birlasoft-share-price-target-stop-loss-it-stocks-to-buy-for-over-32-returns-ahead-of-q2-results-11791111110434.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-04T16:25:26.979733Z"
+    },
+    {
+      "id": "131ac7b66ab2d0d648e11439cc1811a5",
+      "title": "Auto sales surge in September, but GST base clouds the picture. Can stocks rebound ahead of Q2 results?",
+      "description": "India’s auto sector delivered a mixed September, with strong passenger- and commercial-vehicle sales offset by weak tractor and domestic two-wheeler demand. Festive buying could support growth, but rural stress, rising input costs and excess dealer inventory pose risks to margins. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134669703,imgsize-145064.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/auto-sales-surge-in-september-but-gst-base-clouds-the-picture-can-stocks-rebound-ahead-of-q2-results/articleshow/134669703.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-04T16:25:26.390716Z"
+    },
+    {
+      "id": "844424ef5cfe8e860544997cfdd630ae",
+      "title": "Rate cut cycle near turning point. What lies ahead for Indian bonds?",
+      "description": "The RBI is expected to signal monetary tightening at its October policy meeting as stronger economic growth, rising oil prices and elevated US Treasury yields fuel inflation concerns. Higher domestic rates could support the rupee but raise borrowing costs for the government and companies while pressuring equities and consumption. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134671117,imgsize-87850.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rate-cut-cycle-near-turning-point-what-lies-ahead-for-indian-bonds/articleshow/134671117.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-10-04T16:25:26.390585Z"
+    },
+    {
+      "id": "d817af418ee54edb104ddda5a548e581",
+      "title": "Bajaj Finance: Why this rare Nifty outperformer is likely to reward investors in a muted market",
+      "description": "Bajaj Finance is down only about 2% in 2026 against a roughly 13% fall in the Nifty, even as FPI outflows reached $26.8 billion year to date. the relative strength rests on a Rs 17,500 crore capital raise (QIP plus promoter warrants), which Jefferies sees lifting FY28e BVPS by 8% with eps broadly flat. This key financial update highlights evolving.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134671703,imgsize-177429.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-why-this-rare-nifty-outperformer-is-likely-to-reward-investors-in-a-muted-market/articleshow/134671703.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-04T16:25:26.390462Z"
+    },
+    {
+      "id": "40147b5021912d9eaadf35fb1bcafd19",
+      "title": "RBI may hike repo rate by 25 bps as inflation and oil risks mount: Sunil Sanghai",
+      "description": "The RBI could raise the repo rate by 25 basis points in October and signal further tightening as inflation, elevated crude prices and a narrowing rate gap with the US pressure the rupee. Strong reserves and a manageable current account provide crucial buffers. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134672762,imgsize-61612.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-bps-as-inflation-and-oil-risks-mount-sunil-sanghai/articleshow/134672762.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-10-04T16:25:26.390299Z"
+    },
+    {
+      "id": "1b00ac9937661b8063ddc46647085263",
+      "title": "Valuations of IT stocks already capture most of AI disruption risk: Chintan Haria",
+      "description": "The Nifty IT index’s 25% fall in 2026 may have already priced in much of the threat from AI. Chintan Haria of ICICI Prudential AMC sees selective opportunities in companies positioned to benefit from data engineering, cloud migration, legacy modernisation and AI integration. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134673144,imgsize-37098.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/valuations-of-it-stocks-already-capture-most-of-ai-disruption-risk-chintan-haria/articleshow/134673144.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-04T16:25:26.390251Z"
+    },
+    {
+      "id": "3b629aa2c5153210b37dd455ce13ed95",
+      "title": "After Nifty’s longest losing streak in 25 years, what should investors do now?",
+      "description": "After Nifty’s longest weekly losing streak in 25 years, analysts advise caution as the index trades below its 200-week moving average. The 22,600 level remains crucial, with further downside possible if Nifty fails to reclaim it decisively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134670772,imgsize-53414.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/afterniftys-longest-losing-streak-in-25-years-what-should-investors-do-now/articleshow/134670772.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-04T16:25:25.812751Z"
+    },
+    {
       "id": "bf3095a4599b322f5b787297850b5d01",
       "title": "India's domestic funds push IPO valuations lower amid market strain",
       "description": "The median price-to-book ratio for IPOs raising at least ₹1,000 crore fell to 7.4 times in 2026 from 10.2 times last year as local funds push for lower valuations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14846,194 +15033,6 @@
         "Earnings"
       ],
       "pubDate": "2026-08-25T12:41:55.695669Z"
-    },
-    {
-      "id": "3dc00421d772d9fd0473844981f59b24",
-      "title": "Mission vs profit at Anthropic: AI company's interview questions try to judge candidates’ ethical stance, says report",
-      "description": "Anthropic emphasises mission-driven values on its careers page, highlighting a tension between mission and profit. The company has made principled decisions regarding contracts and hiring practices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/Anthropic_1787653693530_1787653702704_8c0fc3da-046e-4cd3-a4d6-7f6cdd81c1ca.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/mission-vs-profit-at-anthropic-ai-companys-interview-questions-try-to-judge-candidates-ethical-stance-says-report-11787653154578.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-25T12:41:55.695423Z"
-    },
-    {
-      "id": "5e71116536e0be2d848dcf525090a3de",
-      "title": "ESDS Software Solution IPO: Price band set at ₹408- ₹429 per share; check key dates, issue details",
-      "description": "ESDS Software Solution IPO price band is set between ₹408 and ₹429 per share. Subscription opens on 28 August and closes on 1 September. Allocation for anchor investors is on 27 August, with shares listed on BSE and NSE on 4 September. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/oden-cubes-cold-grey-light-background-w_1782374793_1787629411015_1787629411189_e3510d6f-290c-443f-a004-53be48682751.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/esds-software-solution-ipo-price-band-set-at-rs-408-rs-429-per-share-check-key-dates-issue-details-11787628080100.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-08-25T12:41:54.997015Z"
-    },
-    {
-      "id": "5e7e5b102b20103695a810c0afd3f2df",
-      "title": "Small-cap stock under ₹50 Ebix hits 5% upper circuit for sixth straight session | Do you own?",
-      "description": "Ebix shares surged by 5% to ₹22.02, hitting an upper circuit for six consecutive sessions after rebounding 36% from its 52-week low. The company also issued over one crore NCMC RuPay smart cards, and its payments subsidiary received RBI approval to conduct trade remittances. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/Q4_results_earning_today_April_21_Tata_Indraprasta_1745202511548_1787651582582_9c0a51ab-2798-4587-81ae-b44129f7d46a.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-ebix-hits-5-upper-circuit-for-sixth-straight-session-do-you-own-11787647567213.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "IPO"
-      ],
-      "pubDate": "2026-08-25T12:41:54.996248Z"
-    },
-    {
-      "id": "1e6ed40e6eb1aac52effa70d8080401e",
-      "title": "Expert view: Nifty 50 can hit 27,000 by March 2027, EPS growth rate of 10%-11% likely in FY27, says Ametra PMS CIO",
-      "description": "Karan Aggarwal, CIO at Ametra PMS, predicts Nifty 50 could reach 27,000 by March 2027, but warns of significant global risks that could trigger a 10-20% valuation drop. Delve into his insights on EPS growth and market dynamics. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/Karan_1787655264147_1787655269054_a89bf4ea-8537-440f-89f2-d38b6830a988.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/expert-view-nifty-50-can-hit-27-000-by-march-2027-eps-growth-rate-of-10-11-likely-in-fy27-says-ametra-pms-cio-11787655099258.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-25T12:41:54.996036Z"
-    },
-    {
-      "id": "2e4dea501a1e0bbf09df92d918f02c5a",
-      "title": "Retail traded options big time despite curbs , Sebi study",
-      "description": "While the active client count fell by a fifth, equity derivatives turnover declined by just 5%, with much of this being accounted for by a sharp fall in individual futures turnover. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/INDIA-SEBI-0_1760105208232_1760105217336_1787659050495_da3a0df7-3680-47fa-b536-d58dddb520a0.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/retail-traded-options-big-time-despite-curbs-sebi-study-11787646980276.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-25T12:41:54.995880Z"
-    },
-    {
-      "id": "6634a0331850600ae4b8088838b1e81a",
-      "title": "Money-making ideas: Urban Company, PB Fintech among top technical picks from Axis Securities. Check key levels",
-      "description": "The brokerage expects 24,000 to act as a crucial support level for the Nifty; a sustained break below this level could trigger further weakness towards 23,800. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133495778,imgsize-36400.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/money-making-ideas-urban-company-pb-fintech-among-top-technical-picks-from-axis-securities-check-key-levels/slideshow/133496362.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-25T12:41:54.385456Z"
-    },
-    {
-      "id": "8b723716f3aa02534f95c58049ca972d",
-      "title": "697 days, no record high: Sensex hits worst two-year return stretch since 2012. Will this end soon?",
-      "description": "The Sensex has gone 697 days without a new record high, marking its longest stretch of weakness in years. In 2026, 37% of trading days have delivered negative two-year returns, the highest share since 2012. However, easing FII selling, resilient domestic flows and potential foreign inflows could support a recovery. This key financial update highlights evolving market dynamics, strategic corporate.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133499658,imgsize-2097021.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/697-days-no-new-record-high-sensex-hits-worst-two-year-return-stretch-since-2012-will-this-end-soon/articleshow/133499658.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-25T12:41:54.385030Z"
-    },
-    {
-      "id": "0de892fadddcbf04d416ecc202aa0e6a",
-      "title": "Vodafone Idea shares surge 7%: Is SBI-led debt deal finally nearing closure?",
-      "description": "Vodafone Idea shares rose sharply after reports that a consortium of public-sector banks led by SBI is nearing approval of a larger debt package for the telecom operator. The funding is part of Vi’s broader Rs 45,000-crore requirement and could provide financial flexibility to expand its network and execute planned capex. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133502852,imgsize-11696.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-surge-7-is-sbi-led-debt-deal-finally-nearing-closure/articleshow/133502852.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-25T12:41:54.384982Z"
-    },
-    {
-      "id": "df36ca66452c2aeb224084fccea50228",
-      "title": "MFs kept buying these 9 largecap stocks for 2 quarters; shares surged up to 50%",
-      "description": "Mutual funds have steadily raised their holdings in several large-cap stocks over the past two quarters, with nine such stocks delivering 25-50% gains in CY26 so far. Data from ACE Equity shows that Adani Energy Solutions, Lenskart Solutions and ABB India led the pack, while Adani Power, Siemens, Bosch, Adani Green Energy, Billionbrains Garage Ventures and Titan Company also recorded.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133505088,imgsize-3804.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-9-largecap-stocks-for-2-quarters-shares-surged-up-to-50/slideshow/133505362.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-25T12:41:54.384881Z"
-    },
-    {
-      "id": "b2c7a902685ab915452135ce63e7ca5e",
-      "title": "Sensex rises 287 points, Nifty closes above 24,300 as market swings into green on first monthly expiry after CAS",
-      "description": "The Indian stock market ended higher on Tuesday after a volatile session, with Sensex gaining 287 points and Nifty rising 115 points. Pharma, PSU banks and consumer durables led sectoral gains, while private banks and metals declined. IndiGo, Adani Ports, Infosys and Trent gained, while Eternal and HCLTech fell. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133505296,imgsize-118096.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-287-points-nifty-closes-above-24300-as-market-swings-into-green-on-first-monthly-expiry-after-cas/articleshow/133505296.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-25T12:41:54.384835Z"
-    },
-    {
-      "id": "6b040e525989bd219b1d2e25ff6da072",
-      "title": "Multibagger stocks: Ather Energy, Hind Copper, MCX among stocks which surged up to 250% in one year",
-      "description": "Despite Nifty 50 losses, several Nifty 500 stocks delivered multibagger returns over the past year. Ather Energy led with 248%, followed by HFCL, Welspun Corp, Aditya Infotech, Hindustan Copper, RR Kabel and others. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133506069,imgsize-249236.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-stocks-ather-energy-hind-copper-mcx-among-stocks-which-surged-up-to-250-in-one-year/slideshow/133506231.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-25T12:41:54.384796Z"
-    },
-    {
-      "id": "49a929de49f785ede4f8f4d1df6fd987",
-      "title": "Jefferies picks 4 NBFCs with up to 20% upside that may continue outperforming Nifty, bank stocks. Here’s why",
-      "description": "Jefferies has picked Bajaj Finance, Cholamandalam Investment and Finance Company, Aditya Birla Capital and Shriram Finance to outperform the Nifty and bank stocks, with target prices implying up to 20% upside. The brokerage expects strong earnings growth, asset-quality improvement and EPS upgrades to drive gains, despite limited scope for valuation re-rating. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133507167,imgsize-151718.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-picks-4-nbfcs-with-up-to-20-upside-that-may-continue-outperforming-nifty-bank-stocks-heres-why/articleshow/133507167.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-25T12:41:54.384639Z"
-    },
-    {
-      "id": "25c668870ac4c847c7b68b859e2f04f4",
-      "title": "Inorbit Malls completes acquisition of 2 malls for Rs 1242.5 cr",
-      "description": "Inorbit Malls has bolstered its presence by purchasing two additional malls from Prozone Realty for a hefty Rs 1,242.5 crore. This significant deal, which effectively doubles their asset portfolio to eight malls in just a year, encompasses properties in Chhatrapati Sambhaji Nagar and Coimbatore. Prozone Realty has acknowledged the successful transfer of equity shares in these assets, elevating Inorbit Malls'.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133508534,imgsize-66796.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/inorbit-malls-completes-acquisition-of-2-malls-for-rs-1242-5-cr/articleshow/133508534.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-25T12:41:53.827448Z"
-    },
-    {
-      "id": "28da1890924126d87079d98294f041c9",
-      "title": "Block deal alert! Ribbit Capital to likely offload 1.6% stake in Groww for Rs 1,914 crore",
-      "description": "Groww may see a ₹1,914 crore block deal as investor Ribbit Capital reportedly plans to sell around 1.6% stake at ₹195 per share. Groww shares rose 3.33% Tuesday, while strong Q1FY27 earnings showed robust profit and revenue growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133510922,imgsize-75426.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/block-deal-alert-ribbit-capital-to-likely-offload-1-6-stake-in-groww-for-rs-1914-crore/articleshow/133510922.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-25T12:41:53.826821Z"
-    },
-    {
-      "id": "1676566b26906869995ed23134ec8fdd",
-      "title": "From trades to balance sheets: Sebi to widen AI surveillance net",
-      "description": "The market regulator plans to use a dedicated AI model to track quarterly results and flag financial misstatements and manipulation without waiting for investor complaints. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260824/full-126082401060.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/from-trades-to-balance-sheets-sebi-widens-its-ai-powered-surveillance-net-126082401060_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-25T01:06:13.770868Z"
     }
   ]
 }
