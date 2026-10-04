@@ -1,6 +1,189 @@
 {
   "news": [
     {
+      "id": "bf3095a4599b322f5b787297850b5d01",
+      "title": "India's domestic funds push IPO valuations lower amid market strain",
+      "description": "The median price-to-book ratio for IPOs raising at least ₹1,000 crore fell to 7.4 times in 2026 from 10.2 times last year as local funds push for lower valuations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100100399.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/india-s-domestic-funds-push-ipo-valuations-lower-amid-market-strain-126100100399_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-04T04:17:06.220700Z"
+    },
+    {
+      "id": "11f4fa758691570ba327952c51fbd03c",
+      "title": "Anarock Property Consultants files DRHP to raise ₹1,000 cr via IPO",
+      "description": "The issue comprises a fresh issue of up to Rs 550 crore and a Rs 450 crore OFS, with proceeds earmarked for AI, talent expansion and acquisitions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100100644.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/anarock-property-consultants-files-drhp-to-raise-1-000-cr-via-ipo-126100100644_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-04T04:17:06.220565Z"
+    },
+    {
+      "id": "dbbffa5017d6dfd12638e3032629b2dd",
+      "title": "Accenture beats Q4 revenue guidance, projects 3-6% growth for FY27",
+      "description": "Fourth-quarter revenue rose 6 per cent to $18.7 billion, beating guidance, while Accenture projected 3-6 per cent growth for FY27, offering some comfort to Indian IT firms. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100101493.jpg",
+      "fullArticleLink": "https://www.business-standard.com/companies/news/accenture-beats-q4-revenue-guidance-projects-3-6-growth-for-fy27-126100101493_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-04T04:17:06.220356Z"
+    },
+    {
+      "id": "67cc18c8729764f2f0b04ff13fb4ce2f",
+      "title": "Anthropic warns government views of its AI could affect business ahead of IPO",
+      "description": "Anthropic has warned that government attitudes towards the company and its AI technology could hurt its business, including relationships with customers and partners, as it prepares for a potential IPO that could value it at $2 trillion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Anthropic_AI_1790952862807_dJap_1790952869122_2l0W_8829c72d-e6ca-4a59-a79f-d4155cdd3a9f_p3PW.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/anthropic-warns-government-views-of-its-ai-could-affect-business-ahead-of-ipo-11790952178018.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-04T04:17:05.527316Z"
+    },
+    {
+      "id": "1119109101255d0a467af12e02a5f32f",
+      "title": "Adani Airport to go ahead with Mumbai redevelopment; airlines reject proposal",
+      "description": "Adani Airports chief executive Arun Bansal has assured airlines that the shift to Navi Mumbai airport is temporary. The airlines said their support for Terminal 1 redevelopment could not be construed as consent to the proposed reduction in international slots. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/04/1600x900/logo/2-0-161984375-DSC-0067--0_1681100673289_1791078928734_ra1p_fb731c48-f94c-41bc-b54e-67f0576eba28_PX95.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/adani-airport-navi-mumbai-mumbai-airport-redevelopment-india-airlines-11791045126155.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-04T04:17:05.526897Z"
+    },
+    {
+      "id": "d2dd93bfba9f0eef456e8e6b1f45f66c",
+      "title": "IPO GMP compared: Vishal Nirmiti vs Nityas Gems and Jewellery - Key dates, subscription status, listing price prediction",
+      "description": "Vishal Nirmiti IPO is 57% subscribed, while Nityas Gems has a higher subscription of 69%. Both IPOs opened on 30 September and close on 5 October. Vishal's IPO GMP is +20, indicating a potential listing price of ₹240, while Nityas stands at +4 with an estimated price of ₹79. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/IPO_FaceOff_1790939446030_qa5w_1790939450549_GZR8_6a0dfaac-a24e-47b0-9b35-ed777422219e_8F8B.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/ipo-gmp-compared-vishal-nirmiti-vs-nityas-gems-and-jewellery-key-dates-subscription-status-listing-price-prediction-11790936475450.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-04T04:17:04.851420Z"
+    },
+    {
+      "id": "7336b9f4807d44b5ee9c5bfde2da9c52",
+      "title": "Dividend jackpot shares: Coal India, Wipro, ITC, BPCL or ONGC? Which large cap stock has the highest yield? Data details",
+      "description": "Coal India, Wipro, ITC, BPCL, and ONGC lead large cap stocks in dividend yield for FY26, offering yields over 5%. Coal India tops with 6.6%. Who is the winner? Read full article to find out. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/dividend_1790950616171_KRax_1790950616357_7sep_1884525f-3000-4876-9e6b-f5a72f261b4e_cj6D.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/dividend-jackpot-shares-coal-india-wipro-itc-bpcl-or-ongc-which-large-cap-stock-has-the-highest-yield-data-details-11790948842766.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-10-04T04:17:04.851330Z"
+    },
+    {
+      "id": "c1d9af4a5e92f2488d09226fc07defb5",
+      "title": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company",
+      "description": "The chipmaker’s shares surged as much as 3% on Friday, briefly touching an intraday record high of $237.88 per share on NASDAQ, before paring gains and ending 1.3% higher at $233.95. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/nvidia_on_fire_640x480_1791029591776_ZI4n_1791029613819_XJNq_4adbc9b0-b9d1-4063-bf0d-0aefa43050b8_VlHj.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nvidia-on-fire-again-after-massive-1-trn-wipe-out-recently-what-s-boosting-stock-of-world-s-most-valuable-company-11791027856530.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-10-04T04:17:04.851012Z"
+    },
+    {
+      "id": "c5b0ec38a4d5b065d30b50b00b823aff",
+      "title": "Upcoming dividend, stock split, bonus shares this week: NMDC, PH Capital, MoldTek, GTV and others - Record date, ratio",
+      "description": "Upcoming dividend, bonus issue, stock split this week, October 5- October 9: This week, 15 companies have set record dates for corporate actions attracting investor interest. Check full list. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/dividend_1790967735609_nFaz_1790967735780_5hX1_ad997a95-7fe7-4cc6-ae50-cd28f6e59995_HL9J.png",
+      "fullArticleLink": "https://www.livemint.com/market/upcoming-dividend-stock-split-bonus-shares-this-week-nmdc-ph-capital-moldtek-gtv-and-others-record-date-ratio-11790967535671.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-04T04:17:04.850916Z"
+    },
+    {
+      "id": "b9535700aff1aacf70543f0ee924ac29",
+      "title": "HDFC Bank gets new MD-CEO; stock is Jefferies India's top pick — 22% upside despite 27% dip in YTD | Target price, ratio",
+      "description": "HDFC Bank shares: Jefferies India report sees HDFC Bank ADR price to touch $28/share at NYSE, as appointment of Anup Bagchi as the new CEO and MD of the private lender is a big positive development. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/HDFC_Bank_share_Jefferies_India_stock_recommendati_1791044237371_Czlb_1791044237552_1U6i_e98c5b73-952e-47e7-a1fe-61f4f3e3307a_THlv.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hdfc-bank-gets-new-md-ceo-stock-is-jefferies-indias-top-pick-22-upside-despite-27-dip-in-ytd-target-price-ratio-11791043530085.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-04T04:17:04.850863Z"
+    },
+    {
+      "id": "f00d5a2c0935fdffba3a29bd48523ae1",
+      "title": "Sri Lotus shares rally 29% in a month. Can luxury and redevelopment sustain the momentum?",
+      "description": "Sri Lotus Developers & Realty has seen a remarkable 29% increase in shares, significantly outpacing the wider market. This boost is attributed to the anticipation surrounding their luxury initiatives and redevelopment projects, which promise robust pre-sales and profit margins. With 22 projects planned, the anticipated gross development value ranges from ₹17,500 to ₹18,000 crore. Furthermore, collections have surged year-over-year, suggesting.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134630924,imgsize-2656422.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sri-lotus-shares-rally-29-in-a-month-can-luxury-and-redevelopment-sustain-the-momentum/articleshow/134630924.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-04T04:17:04.063189Z"
+    },
+    {
+      "id": "2831f14a89a6238017775d852c306f27",
+      "title": "​Coal India, NTPC among 360 ONE Capital’s 8 stock picks for October. Check full list with target prices",
+      "description": "360 ONE Capital Research has picked eight stocks for October, including Coal India, NTPC and ITC, with Buy ratings and target prices, citing earnings prospects and growth drivers.Coal India, NTPC among 360 ONE Capital Research’s 8 stock picks for October. Check full list with target prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134633609,imgsize-11910.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-ntpc-among-360-one-capital-researchs-8-stock-picks-for-october-check-full-list-with-target-prices/slideshow/134633712.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-04T04:17:04.063090Z"
+    },
+    {
+      "id": "9bdb020f4e02d2342e552d91db411f42",
+      "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high",
+      "description": "The technical structure has weakened materially, with the most important development being the Nifty's modest violation of its 200-week moving average, presently placed at 22,606.97. This is the first breach of this long-term average since March 2020 and makes the 22,600 area particularly important over the coming days. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134654990,imgsize-2484314.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-oversold-nifty-may-rebound-as-volatility-stays-high/articleshow/134654990.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-04T04:17:04.062720Z"
+    },
+    {
+      "id": "6c5edd0f9ff02d4c911ea3fbf7ee768f",
+      "title": "D-Mart Q2 revenue rises 18% to Rs 19,206 cr; store count at 518",
+      "description": "Avenue Supermarts has achieved an impressive 18.4% growth in standalone revenue for the second quarter of 2026, totaling Rs 19,206.18 crore, a substantial rise from Rs 16,218.79 crore compared to the same period last year. This also reflects a 4.7% increase from the preceding quarter's revenue of Rs 18,343.49 crore. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134656472,imgsize-2213139.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/d-mart-q2-revenue-rise-18-pc-to-rs-19206-cr-store-count-at-518/articleshow/134656472.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-04T04:17:04.062660Z"
+    },
+    {
+      "id": "171cfd2d8677571c27d6fee91736296b",
+      "title": "Wall Street Week Ahead: Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength",
+      "description": "As the fourth quarter commences, US stocks traditionally experience a positive trajectory. Nonetheless, investors face hurdles such as climbing bond yields and a heavy reliance on AI expenditures. Coupled with the looming corporate earnings season and the November elections, market unpredictability intensifies. Analysts predict notable earnings growth, particularly driven by investments in AI infrastructure, which could shape the market's direction.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134651438,imgsize-56836.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-week-ahead-spiking-bond-yields-midterms-earnings-to-test-us-stocks-typical-fourth-quarter-strength/articleshow/134651438.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-04T04:17:03.474202Z"
+    },
+    {
       "id": "6731ab9b0f4a0a6146b5d64e0dd612f9",
       "title": "Sebi to soon issue framework on CAS; receives over 3,500 comments",
       "description": "Market regulator Sebi will soon issue a framework on proposed changes to the Closing Auction Session (CAS) mechanism after receiving more than 3,500 comments on its consultation paper, its Chairman Tuhin Kanta Pandey said on Saturday. The Securities and Exchange Board of India (Sebi) had sought public comments on its proposal to review certain aspects of the CAS, market timings.",
@@ -14851,194 +15034,6 @@
         "Earnings"
       ],
       "pubDate": "2026-08-25T01:06:13.770868Z"
-    },
-    {
-      "id": "54ea3435cbe0f751e254f690661a78f7",
-      "title": "Sebi to introduce IT Resilience Index for market infra institutions",
-      "description": "Markets regulator Sebi on Monday decided to introduce an IT Resilience Index (ITRI) to assess the functioning and resilience of information technology systems of market infrastructure institutions (MIIs), including stock exchanges, depositories and clearing corporations. The move is aimed at strengthening oversight of the resilience of IT systems and identifying emerging weaknesses at an early stage, so that timely corrective.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260824/full-126082400940.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-to-introduce-it-resilience-index-for-market-infra-institutions-126082400940_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-25T01:06:13.770741Z"
-    },
-    {
-      "id": "8fd1d28ae556157af85c4cf0428e56e6",
-      "title": "HC asks Andhra govt to check if Google-Adani data centre has legal, environmental clearances",
-      "description": "Google had announced the Visakhapatnam AI hub in October 2025 with a planned $15-billion investment over five years. It later partnered with Adani Enterprises through AdaniConneX to develop a gigawatt-scale data-centre campus with planned capacity of nearly 1GW. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/data_centre_1760536068247_1760536082254_1787577940930_4c8f2867-f255-4381-ab9e-96bc23e11bbf.jpeg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/andhra-pradesh-high-court-google-adani-data-centre-legal-environmental-clearances-11787570881511.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-25T01:06:13.111206Z"
-    },
-    {
-      "id": "c72a0128fc4b1dbb149027ac0f7ce44e",
-      "title": "Tata Sons board meeting likely on 17 September a month after being adjourned due to lack of quorum, says report",
-      "description": "The Tata Sons' board of directors is likely to meet on 17 September around a month after the AGM on 18 August was adjourned due to lack of quorum, according to a recent report citing sources. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/PTI08-12-2026-RPT378B-0_1786618199193_178661821480_1787592239276_1787592239433_a8cf2d44-bfdd-4be0-b6c0-b3b7969edd36.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-board-meeting-likely-17-september-month-adjourn-lack-quorum-agm-agenda-noel-tata-trusts-chandrasekaran-report-11787589625381.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-25T01:06:13.111056Z"
-    },
-    {
-      "id": "f56c2243cf0ea0c2df5fac4a4eb400f5",
-      "title": "IPO: Share price band ₹300, GMP ₹313 - Check last date to apply, allotment and listing details",
-      "description": "IPO GMP: According to market observers, teh grey market is signalling a multibagger return for investors, whereas few hours are still left to apply for the mainboard IPO. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/IPO_GMP_IPO_GMP_Live_IPO_Watch_IPO_watch_GMP_1787558911675_1787558911867_7775b6be-369e-4aa4-b302-cee28e6f93a0.jpeg",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/ipo-share-price-band-rs-300-gmp-rs-313-check-last-date-to-apply-allotment-and-listing-details-11787557592291.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-08-25T01:06:12.533811Z"
-    },
-    {
-      "id": "16c3be4102b25d73965fc4c6b583eac9",
-      "title": "Paluck Technologies IPO: BSE SME declares IPO opening date, fixes price band at ₹46 to ₹48",
-      "description": "Paluck Technologies has announced its IPO opening on August 28, 2026, targeting ₹33 crore with a price band of ₹46-48. The issue includes 68,76,000 equity shares, with portions for anchor investors and institutional buyers, aiming to fund machinery purchases and repay borrowings. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/ga983ec489838a8695820b2743218be1194671c0d33d6ce7d1_1725522887965_1787582387202_891e262e-adb2-4ec3-9536-45c0a8484744.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/paluck-technologies-ipo-bse-sme-declares-ipo-opening-date-fixes-price-band-at-rs-46-to-rs-48-11787582226301.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-08-25T01:06:12.533268Z"
-    },
-    {
-      "id": "5233f448f05e757c56c3bee2d35c2772",
-      "title": "Nifty trapped between key moving averages; will August expiry bring a directional move?",
-      "description": "The Nifty 50 index opened positively but faced selling pressure, closing down at 24,219.05. The index remains in a sideways trend, with key resistance at 24,300 and support at 24,192. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/Nifty_outlook_1787591938203_1787592046963_835d857c-a362-49ab-833c-0c11ab67eebc.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-trapped-between-key-moving-averages-will-august-expiry-bring-a-directional-move-11787591787999.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-25T01:06:12.532716Z"
-    },
-    {
-      "id": "5bef12724b585412cedad00460576fa9",
-      "title": "Sebi introduces IT Resilience Index for market infrastructure institutions: Here's what you need to know",
-      "description": "SEBI has introduced an IT Resilience Index for market infrastructure institutions to strengthen critical systems, cybersecurity and operational continuity. The 100-point framework will assess nine parameters twice yearly, with early-warning mechanisms and real-time monitoring required by February 2027. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133466515,imgsize-148972.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-introduces-it-resilience-index-for-market-infrastructure-institutions-heres-what-you-need-to-know/articleshow/133466515.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-25T01:06:11.897924Z"
-    },
-    {
-      "id": "c3f6a41e32bb237750f485dda621b479",
-      "title": "Y Combinator sells Meesho shares worth Rs 970 crore in block deals; Morgan Stanley, Goldman Sachs, Citigroup among buyers",
-      "description": "Y Combinator-linked entities sold 4.85 crore Meesho shares worth Rs 970 crore through block deals at Rs 200.01 apiece. Institutional buyers including Nippon India Mutual Fund, HDFC Life, Morgan Stanley, Goldman Sachs and Citigroup acquired significant stakes. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133472470,imgsize-151954.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/y-combinator-sells-meesho-shares-worth-rs-970-crore-in-block-deals-morgan-stanley-goldman-sachs-citigroup-among-buyers/articleshow/133472470.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-08-25T01:06:11.897797Z"
-    },
-    {
-      "id": "a36e7223c9cc154879142a127fde59fa",
-      "title": "Sebi drops proceedings against Max Financial, Axis Bank in Max Life deal case",
-      "description": "Sebi dropped proceedings against Max Financial and Axis entities. Allegations of disclosure lapses and fraud were not established by the regulator. The case involved transactions between Max Financial, Max Life, and Axis Bank. Sebi found no evidence of a fraudulent scheme to defraud shareholders. Proceedings were based on investigations from FY10 to FY22. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133473094,imgsize-78988.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-proceedings-against-max-financial-axis-bank-in-max-life-deal-case/articleshow/133473094.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-25T01:06:11.897620Z"
-    },
-    {
-      "id": "b4502a256d8a23bf3e165c67f67aceaa",
-      "title": "Stocks in news: TCS, ICICI Bank, Hindustan Copper and Piramal Finance",
-      "description": "The Indian equity markets experienced a downturn today, with the Nifty50 index finishing slightly above 24,200. Traders brace for heightened volatility amidst forthcoming US sanctions and the impending expiry of monthly futures and options. Key companies, such as Hindustan Copper and Tata Consultancy Services, are capturing market attention due to notable corporate news. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133475143,imgsize-86278.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-icici-bank-hindustan-copper-and-piramal-finance/articleshow/133475143.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-25T01:06:11.897359Z"
-    },
-    {
-      "id": "cab5f9e1a500af26641b7dd72b562c4d",
-      "title": "ICICI raises $1 billion, Union Bank $600 million through dollar bonds",
-      "description": "ICICI Bank raised $1 billion through a five-year private dollar bond, while Union Bank of India secured $600 million in its first international dollar issue in over a decade, benefiting from RBI’s special swap window. UCO Bank also approved a $1 billion programme. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133470684,imgsize-119678.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/icici-raises-1-billion-union-bank-600-million-through-dollar-bonds/articleshow/133470684.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-25T01:06:11.329170Z"
-    },
-    {
-      "id": "499a9fda5b3d5adb4957e56bbcca8fac",
-      "title": "India's house price growth slows to 3.6% in Q1 FY27: RBI",
-      "description": "In the first quarter of this year, the growth rate of house prices in India decelerated to 3.6 percent compared to the previous year, down from 4.5 percent in the last quarter. However, there was a quarterly increase of 1.1 percent in the All-India House Price Index, primarily thanks to notable contributions from cities like Chandigarh and Lucknow. This trend.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133472740,imgsize-56906.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-house-price-growth-slows-to-3-6-in-q1-fy27-rbi/articleshow/133472740.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-25T01:06:11.328956Z"
-    },
-    {
-      "id": "973a18787089de32138bf49883a7bd79",
-      "title": "India raises $73 bn in forex inflows at record pace",
-      "description": "India has mobilised $73 billion in foreign exchange inflows in less than 11 weeks, surpassing the scale and pace of the RBI’s 2013 FCNR(B) swap scheme, the finance ministry said. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133485041,imgsize-123550.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-raises-73-bn-in-forex-inflows-at-record-pace/articleshow/133485041.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-25T01:06:11.328603Z"
-    },
-    {
-      "id": "25b05fe2ed7ea90f409ba28a4c3fcaaa",
-      "title": "India Inc’s equity fundraising surges past Rs 1.11 lakh crore on strong inflows in July-August",
-      "description": "IPO activity remained particularly strong, garnering more than 40% of the funds raised. So far this month, 20 companies have collected more than ₹20,850 crore, adding on to the ₹28,650 crore raised by 12 companies in July. Listed companies have also stepped up qualified institutional placements (QIP), with four companies raising ₹3,250 crore so far in August, against ₹25,114 crore.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133485341,imgsize-216206.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/india-incs-equity-fundraising-surges-past-rs-1-11-lakh-crore-on-strong-inflows-in-july-august/articleshow/133485341.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-25T01:06:11.328322Z"
-    },
-    {
-      "id": "c54494a5757819f0d862647109cff241",
-      "title": "Embassy REIT unitholder flags alleged disclosure lapses, questions Axis Trustee role before SEBI",
-      "description": "A complaint to SEBI by an Embassy REIT unitholder accuses delayed disclosures of criminal cases involving its sponsor and promoters. Embassy Group refuted the claims, labeling them as unfounded attempts to damage its reputation, citing previous court dismissals of similar allegations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/EmbassyHighresimage_1729831160291_1787555512819_25fdd8f3-0440-4112-b6b3-904a6d072814.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/embassy-reit-unitholder-flags-alleged-disclosure-lapses-questions-axis-trustee-role-before-sebi-11787555416056.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-24T12:43:22.992020Z"
     }
   ]
 }
