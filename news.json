@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "8714616c271bab08d56575adb24caf9b",
+      "title": "PVR Inox rallies 10%; stock hits 22-month high in weak market",
+      "description": "Analysts estimate 31% occupancy for PVR Inox, aided by a strong performance of Hollywood content such as Odyssey and Spider-Man: Brand New Day, along with sleeper hits like Hanuman Ansh. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261007/full-126100700634.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/pvr-inox-rallies-10-stock-hits-22-month-high-in-weak-market-126100700634_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-10-08T04:28:47.985253Z"
+    },
+    {
+      "id": "714e8f191c750cce81027fcb94adcef3",
+      "title": "Stocks to watch: TCS, Paytm, Tata Power, Ola, Tata Steel, Varun Bev",
+      "description": "Stocks to watch today: PC Jeweller continued to deliver a strong performance, concluding Q2FY2027 with a consolidated revenue growth of approximately 28 per cent YoY. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261008/full-126100800120.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-october-8-paytm-tata-power-ola-electric-tata-steel-varun-bev-126100800120_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-08T04:28:47.984534Z"
+    },
+    {
+      "id": "62f454088c67a046e8e4acc19615c9e6",
+      "title": "Senco Gold jumps 8% on Q2 biz update; achieves highest-ever topline in H1",
+      "description": "Senco Gold said that Q2 revenue growth accelerated to 29 per cent Y-o-Y at retail level, supported by 19 per cent growth from existing stores (SSSG growth). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261008/full-126100800190.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/senco-gold-jumps-8-on-q2-biz-update-achieves-highest-ever-topline-in-h1-126100800190_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-08T04:28:47.984460Z"
+    },
+    {
+      "id": "2d2cc6915878946b005c78aec3a75299",
+      "title": "Q2 Earnings Preview: Banks, financials to drive strong double-digit growth",
+      "description": "Jefferies expects companies in its coverage universe, excluding oil and gas, metals and financials, to post 17 per cent year-on-year revenue growth in the quarter. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261008/full-126100800201.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/q2-earnings-preview-banks-financials-to-drive-strong-double-digit-growth-126100800201_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-08T04:28:47.984385Z"
+    },
+    {
+      "id": "a0be47e49f8b801da447c8240d8a98d9",
+      "title": "Wizz Financial bets on India with cross-border fintech push, eyes 2029 IPO",
+      "description": "The company is expanding beyond remittances into payments, lending and wealth management as it seeks to make India the centre of its global financial platform. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/2-0-1236618851-hires2-0_1679621560201_1791297512933_OFu8_fd1c64e5-1c59-4e2b-8e9b-37d0e1d67d3e_vx97.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/wizz-financial-bets-on-india-with-cross-border-fintech-push-eyes-2029-ipo-11791284761761.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-10-08T04:28:47.300806Z"
+    },
+    {
+      "id": "a5cbc2cb313491778472275a85879e79",
+      "title": "Flipkart's ex-employees press Walmart for ‘fair’ ESOP treatment ahead of IPO: Report",
+      "description": "Flipkart's ex-employees have approached Walmart's board, seeking fair treatment for their vested ESOPs ahead of the company's planned IPO. Over 30,000 employees may receive ₹38,000 crore from buybacks. Here's a look at the latest…&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/PTI09-23-2026-000305B-0_1790220070689_XnRZ_1790220_1791371363692_rxw5_1791371363845_7vBK_ec47cc76-7772-4b70-8ffb-c2530d6c3273_35jY.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/flipkart-employees-press-walmart-for-fair-esop-treatment-ahead-of-ipo-report-11791367371832.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-08T04:28:47.300402Z"
+    },
+    {
+      "id": "ec7b9e3170bd85ae018de27766c60926",
+      "title": "Layoff news: Porsche to terminate 9,000 jobs, management positions face 40% cuts; car prices to go up 20%",
+      "description": "Porsche plans to cut about 9,000 jobs by 2030, reducing its workforce by 25% to 30% amid declining sales in China and a shift in its electric vehicle strategy, aiming for higher profit margins through fewer but more expensive vehicles. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/Porsche_1791395891182_Yk9S_1791395895249_45Es_e1503a04-7c37-4338-985d-7d669134a5a7_qaOK.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/layoff-news-porsche-to-terminate-9-000-jobs-management-positions-face-40-cuts-car-prices-to-go-up-20-11791395563763.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-08T04:28:47.300041Z"
+    },
+    {
+      "id": "7cf734c6a48401cc32e1c94b76a16806",
+      "title": "Adani Enterprises: AEL gets highest-ever rating in its credit history; shares up over 22% YTD",
+      "description": "Adani Enterprises has achieved an upgraded long-term rating of AA Stable, marking its highest credit rating in history, reflecting improved capital management and credit profile over the past seven years, per CARE Ratings' update on bank facilities and Non-Convertible Debentures. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/Adani_Credit_Rating_and_Market_Growth_179139503676_1791395060063_bSSo_1791395060233_4HLr_441dc40b-2c4c-4e26-a21e-ffc63fd3d42e_E3bA.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/adani-enterprises-ael-gets-highest-ever-rating-in-its-credit-history-shares-up-over-21-ytd-11791392672814.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-08T04:28:46.718034Z"
+    },
+    {
+      "id": "9abae2d2a0333b6dbba3c56b38be2391",
+      "title": "TCS Q2 preview: Results 2026 today after stock market closing bell; expectations, dividend announcement schedule, yield",
+      "description": "Market analysts expect the IT bellwether to post another subdued quarter, although they anticipate performance in the September quarter to improve compared with the previous quarter (April-June quarter). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/TCS_1791428985729_hdNz_1791428985961_2crQ_6dc03828-a9a8-4b0b-87a7-5dc7cbd0a1f8_fKLG.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tcs-q2-preview-results-2026-today-after-stock-market-closing-bell-expectations-dividend-announcement-schedule-yield-11791425119752.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-08T04:28:46.717491Z"
+    },
+    {
+      "id": "78345d3dd7ca494bdf5f88a69297914c",
+      "title": "FPIs sell Rs 21,745 crore in second half of September, oil & gas, auto & financials lead outflows",
+      "description": "Foreign portfolio investors experienced a significant increase in selling Indian equities during the latter half of September. Financial stocks led the sell-off, with the highest outflows totaling around ₹6,943 crore. Oil and gas and auto sectors experienced notable selling, reflecting profit-taking and portfolio rebalancing. Telecom stocks faced profit-taking ahead of the upcoming Jio Platforms IPO, influencing investor positions.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134777179,imgsize-2073068.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-sell-rs-21745-crore-in-second-half-of-sep-in-oil-gas-auto-financials/articleshow/134777179.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-10-08T04:28:46.067358Z"
+    },
+    {
+      "id": "f7f3ec566234fdfb9758a4fd0ec0796e",
+      "title": "Sebi unveils six-tier credit risk-o-meter for debt securities",
+      "description": "The Securities and Exchange Board of India is introducing a mandatory colour coded credit risk-o-meter for debt securities. This new meter categorizes credit risk into six color-coded levels, indicating risk levels accurately. Issuers and online bond platforms will need to adopt these disclosures in their documentation. The measures aim to improve transparency in the investment process for potential investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134777374,imgsize-1820000.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-unveils-six-tier-credit-risk-o-meter-for-debt-securities/articleshow/134777374.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-08T04:28:46.067230Z"
+    },
+    {
+      "id": "7751c77e831f3a1d1c33dada5cb79734",
+      "title": "TCS shares jump 3% ahead of Q2 results. 5 things investors should watch out for",
+      "description": "According to the average of seven brokerages, TCS revenue is likely to grow about 13% YoY, while profit may rise around 9%. Sequential growth, however, is expected to remain modest, with most analysts pencilling in constant-currency revenue growth of 0.5-0.6%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134777942,imgsize-1923324.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/calm-or-chaos-tcs-shares-in-focus-ahead-of-q2-results-5-things-investors-should-watch-out-for/articleshow/134777942.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-08T04:28:46.067086Z"
+    },
+    {
+      "id": "43ff1f1b1ae91ba890bd2c58dc8d247c",
+      "title": "TCS Q2 results: Ready for the big move? Here's how to trade the IT stock on results day",
+      "description": "According to the average of seven brokerages, TCS revenue is expected to grow around 13% year-on-year, while profit is likely to rise about 9%. On a sequential basis, constant-currency revenue growth is expected at around 0.5-0.6%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134777867,imgsize-1971245.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-q2-results-ready-for-the-big-move-heres-how-to-trade-the-it-stock-on-results-day/articleshow/134777867.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-08T04:28:46.067014Z"
+    },
+    {
+      "id": "28fcdf85a4186f27b6d27a5ca63602fc",
+      "title": "Adani Enterprises shares in focus as company gets CARE Ratings upgrade to AA; Stable",
+      "description": "CARE Ratings also reaffirmed the company's short-term rating at CARE A1+. Adani Enterprises said the upgrade \"serves as an independent validation of AEL’s disciplined capital management and tight fiscal prudence\". This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134778048,imgsize-1923727.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-shares-in-focus-as-company-gets-care-ratings-upgrade-to-aa-stable/articleshow/134778048.cms",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-08T04:28:46.066903Z"
+    },
+    {
+      "id": "cc4d08c0895fbfe0948b826be61f54e1",
+      "title": "RBI likely intervened near open to support rupee, traders say",
+      "description": "In a decisive action on Thursday, the Reserve Bank of India reportedly offloaded dollars at the market's start to enhance the rupee's standing. Opening at 96.6825 per dollar, the rupee's performance was better than anticipated. This strategic intervention demonstrates the RBI's proactive approach to maintain currency stability as the rupee nears its all-time low of 96.96 from May. Market participants.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134779257,imgsize-87862.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/rbi-likely-intervened-near-open-to-support-rupee-traders-say/articleshow/134779257.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-10-08T04:28:45.519100Z"
+    },
+    {
       "id": "65e16b680ee5c5f544f419385f521aeb",
       "title": "RBI's rate cut pre-emptive measure than start of hike cycle: Sujan Hajra",
       "description": "A 25-bps hike today may reduce some near-term policy flexibility, but it also lowers the risk of having to undertake a much sharper adjustment later, said Sujan Hajra, chief economist at Anand Rathi. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14865,198 +15053,6 @@
         "IPO"
       ],
       "pubDate": "2026-08-28T21:43:02.295737Z"
-    },
-    {
-      "id": "5ce8fa8ae07a2d2d01e9ed9e4ab2c1e1",
-      "title": "Bernstein retains Nifty target of 26,000, flags policy-driven distortions",
-      "description": "Brokerage says subsidies, GST cuts, external borrowings and wage revisions are shaping earnings and valuations, favouring select sectors but limiting index returns. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260828/full-126082800997.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/bernstein-retains-nifty-target-at-26-000-flags-policy-led-distortions-126082800997_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-08-28T21:43:02.295383Z"
-    },
-    {
-      "id": "c3ebd1602bf193938639e2f46df9e630",
-      "title": "RBI to conduct ₹6 trillion VRRR auction to soak up excess liquidity",
-      "description": "Benchmark 10-year government bond yield settles at 6.91 per cent, while the rupee closes at 95.39 per dollar as RBI dollar sales support the local currency. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260828/full-126082801119.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/bond-yields-hit-over-two-month-high-rupee-gains-on-rbi-intervention-126082801119_1.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-28T21:43:02.295310Z"
-    },
-    {
-      "id": "4713416e7af6c8762d7b6ac522a57829",
-      "title": "Money doubled in this IPO just after listing - Book profit or hold to earn more or buy more stocks? What expert says",
-      "description": "Tempsens Instruments IPO made a strong debut on the NSE, listing at ₹634, a 111% premium over the ₹300 issue price. The stock closed at ₹586.65, still yielding a 95.55% premium, attracting significant investor interest with its substantial listing success. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/IPO_2_1787914085360_1787914102768_9ee44be5-a59f-4ebd-a99c-e33a83c1f68c.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/money-doubled-in-this-ipo-just-after-listing-book-profit-or-hold-to-earn-more-or-buy-more-stocks-what-expert-says-11787912103331.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-28T21:43:00.797829Z"
-    },
-    {
-      "id": "5560f717a043d43c6e22574dc9f1b6ea",
-      "title": "Upcoming IPO: Bharat PET receives SEBI approval to raise ₹760 crore through public issue",
-      "description": "Bharat PET Limited has received SEBI approval for its IPO to raise ₹760 crore. The offering includes a fresh issue of ₹120 crore and an OFS of ₹640 crore, involving selling shareholders. Proceeds will fund debt repayment and capital expenditures. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/Upcoming_IPO_1787920588354_1787920601636_00be318a-0605-4b31-b848-5f345d315a4b.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/upcoming-ipo-bharat-pet-receives-sebi-approval-to-raise-rs-760-crore-through-public-issue-11787919425466.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-28T21:43:00.797750Z"
-    },
-    {
-      "id": "2cb2e13554bf5e69bac1f308a592cc76",
-      "title": "Jio Platforms gets Sebi nod for ₹35,000 crore IPO, India’s biggest potential listing",
-      "description": "The Reliance Industries digital arm is planning to raise ₹35,000 crore in a fresh issue, with strong initial interest from global investors and a listing targeted within the next couple of months. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/INDIA-ECONOMY-IPO-JIO-0_1787920710978_1787920718334_03e3ac9f-af95-4bb5-b963-320db8a8a2b8.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/jio-platforms-gets-sebi-nod-for-35-000-crore-ipo-india-s-biggest-potential-listing-11787919901062.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-28T21:43:00.797714Z"
-    },
-    {
-      "id": "1d2666e4b179c910398d86bc9763a2b8",
-      "title": "SBI General Insurance Q1 GDPI rises to Rs 3,506 crore; comprehensive income jumps 17%",
-      "description": "SBI General Insurance reported 10.9% year-on-year GDPI growth to Rs 3,506 crore in Q1 FY27. Comprehensive income rose 17.4% to Rs 573 crore, while health, engineering and personal accident segments delivered strong growth, alongside a 2.0-times solvency ratio. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133588949,imgsize-2176740.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-general-insurance-q1-gdpi-rises-to-rs-3506-crore-comprehensive-income-jumps-17/articleshow/133588949.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-28T21:42:59.887094Z"
-    },
-    {
-      "id": "fd9fd092f2d366c9448b5fe8ca8935c0",
-      "title": "Was Sensex’s 2,000-point expiry crash a one-off? Here's what Friday's close hints about CAS",
-      "description": "Sensex stayed relatively calm during Friday’s closing auction, a day after a 2,000-point plunge during the monthly expiry raised fresh concerns over CAS. The subdued move suggests Thursday’s sharp swings may have been an expiry-driven anomaly rather than a persistent issue with the new closing-price mechanism, experts said. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133591046,imgsize-1989165.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/was-sensexs-2000-point-expiry-crash-a-one-off-heres-what-fridays-close-hints-about-cas/articleshow/133591046.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-08-28T21:42:59.886958Z"
-    },
-    {
-      "id": "8c8530a4766883eb12e9f47ab919033a",
-      "title": "Lenskart Rs 1,857-crore block deal: Goldman Sachs, Morgan Stanley, ICICI Prudential, SBI MF among buyers as Alpha Wave exits",
-      "description": "Lenskart Solutions experienced institutional transactions totaling Rs 1,857 crore on August 28. Numerous domestic and global investors purchased shares at Rs 630 apiece from sellers. The company's shares closed at Rs 636.15 on the NSE, down slightly from the previous day. Lenskart's stock has gained 45.06% year-to-date in 2026. The eyewear company debuted on the stock market in November 2025.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133594276,imgsize-40368.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-rs-1857-crore-block-deal-goldman-sachs-morgan-stanley-icici-prudential-sbi-mf-among-buyers-as-alpha-wave-exits/articleshow/133594276.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-28T21:42:59.886913Z"
-    },
-    {
-      "id": "39957b0760ace34d95bbb866b1294f2b",
-      "title": "Sebi bars Trafiksol ITS, promoters for 1 year for misleading IPO disclosures",
-      "description": "Sebi has banned Trafiksol and its promoters from the securities market for one year. Monetary penalties were also imposed on the company and its two promoters. The regulator found misleading financial disclosures and inflated revenue figures in the company's IPO documents. Sebi also noted concealment of material facts and submission of false information regarding Oasis Corpcare. The IPO was unwound.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133594730,imgsize-78988.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-trafiksol-its-promoters-for-1-year-for-misleading-ipo-disclosures/articleshow/133594730.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-28T21:42:59.886874Z"
-    },
-    {
-      "id": "d58119c11e1b86cc6562ca863eb1e9f4",
-      "title": "Jackson Hole: Will Kevin Warsh's inflation warning put Nifty under pressure on Monday?",
-      "description": "Nifty faces potential pressure on Monday following US Fed Chairman Kevin Warsh's hawkish inflation comments at Jackson Hole. Elevated US bond yields, a stronger dollar, and rising crude oil prices threaten foreign institutional flows, while technical analysts highlight 24,200 as a key resistance level for the Indian stock market. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133595035,imgsize-74838.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jackson-hole-will-kevin-warshs-inflation-warning-put-nifty-under-pressure-on-monday/articleshow/133595035.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-28T21:42:59.886781Z"
-    },
-    {
-      "id": "e379ca849ae131002e8c8b659ca34ace",
-      "title": "Jio IPO soon! RIL's telecom arm gets Sebi nod for Rs 37,700 crore offering",
-      "description": "Jio Platforms has received Sebi approval for its proposed Rs 37,700 crore IPO, bringing Reliance Industries’ much-awaited listing closer. The issue could value Jio at nearly Rs 9.5 trillion and become India’s largest IPO. The company plans to use Rs 27,500 crore of proceeds to repay borrowings of Reliance Jio Infocomm. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133590054,imgsize-214002.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-soon-reliances-telecom-arm-gets-sebi-nod-for-rs-37000-crore-offering/articleshow/133590054.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-28T21:42:59.197026Z"
-    },
-    {
-      "id": "4c196e2636d594fa7dd0a58e438d6979",
-      "title": "India's 10-year bond yield scales over 2-month peak ahead of Warsh speech",
-      "description": "The Indian bond market experienced notable losses on Friday, with government bond yields climbing to a two-month peak. As investors anticipate key policy hints from Federal Reserve Chair Kevin Warsh during his Jackson Hole address, the hawkish tone in the latest RBI minutes has intensified expectations for future monetary policy adjustments. This escalation in yields has enhanced the attractiveness.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133590611,imgsize-111102.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-yield-scales-over-2-month-peak-ahead-of-warsh-speech/articleshow/133590611.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-28T21:42:59.196952Z"
-    },
-    {
-      "id": "6a7fab1e4b635157addd7c2f2da1e970",
-      "title": "Sebi approves 7 IPOs including Jio Platforms, Paras Healthcare and Bharat PET",
-      "description": "Sebi has approved seven IPOs, led by Reliance-backed Jio Platforms’ proposed Rs 37,700 crore offering. Paras Healthcare, Bharat PET, Paramotor Digital Technology, Pushp Brand, MK Sons Fine Jewels and Sadbhav Futuretech also received approvals, expanding India’s primary-market pipeline. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133590542,imgsize-107032.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-approves-7-ipos-including-jio-platforms-paras-healthcare-and-bharat-pet/articleshow/133590542.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-28T21:42:59.196910Z"
-    },
-    {
-      "id": "d9f51e1fa7bb4b4722095fb138c6989d",
-      "title": "Reliance Jio IPO approved: Is it too late to buy RIL shares to be eligible for shareholder quota?",
-      "description": "Jio Platforms has received SEBI approval for its upcoming initial public offering. Reliance Industries shareholders may still qualify for a reserved portion of the offering. The final details regarding share reservation and the record date are pending. This IPO marks a major value creation milestone for Reliance shareholders. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133592960,imgsize-69342.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-approved-is-it-too-late-to-buy-ril-shares-to-be-eligible-for-shareholder-quota/articleshow/133592960.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-08-28T21:42:59.196717Z"
-    },
-    {
-      "id": "1d296ff9ea07886780181badcf13dba8",
-      "title": "Sebi plans bigger institutional role in public offers by small firms",
-      "description": "The regulator is also mulling raising the limit on the size of ​companies that can list on platforms dedicated to small firms and mandating larger operating profit requirements before listing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260828/full-126082800559.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-plans-bigger-institutional-role-in-public-offers-by-small-firms-126082800559_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-08-28T09:29:28.892473Z"
     }
   ]
 }
