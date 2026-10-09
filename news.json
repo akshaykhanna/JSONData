@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "53843df822f854cb2804b2fe31702a65",
+      "title": "ITC stock rallies 5%, sees sharpest intraday rally in 6 months; here's why",
+      "description": "Top buyers in ITC's block deal on Thursday: Fidelity Advisor Series VIII-Fidelity Advisor Overseas Fund, ICICI Prudential MF, SBI MF, Nippon India MF and Citigroup Global Markets Singapore Pte. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100900612.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/itc-stock-rallies-5-sees-sharpest-intraday-rally-in-6-months-here-s-why-126100900612_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-09T17:57:29.860703Z"
+    },
+    {
+      "id": "1733102f5b748969c383b0ec64d55ec6",
+      "title": "Investors cheer TCS Q2 report card despite slowest growth in three years",
+      "description": "The company’s shares surged nearly 6% intraday on Friday as investors backed its strategy to prioritize market share and AI deal pipelines over operating margins. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/INDIA-TCS-14_1684749915439_1791534857314_Er44_97f1f032-e617-4984-87bd-aebc0d6ee6e2_5Brc.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tcs-share-price-tcs-q2-results-tata-consultancy-services-11791529102759.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-09T17:57:29.113184Z"
+    },
+    {
+      "id": "eb8d2234c004cd36fd02feae331303ec",
+      "title": "Delta Air Lines cuts 2026 earnings forecast, Q3 profit misses analyst estimates, shares dip 1.72%",
+      "description": "Delta Air Lines said that it expects adjusted earnings of $5.10 to $5.60 per share in 2026, sharply below the $6.50 to $7.50 range it reaffirmed in July. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/DELTA-AIR-RESULTS--0_1791558028331_UA3N_1791558061312_8cX6_a56af00c-2124-4ebc-8fba-00d3e6b3a97d_QAx3.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/delta-air-lines-cuts-2026-earnings-forecast-q3-profit-misses-analyst-estimates-shares-dip-172-11791557802233.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-09T17:57:29.112961Z"
+    },
+    {
+      "id": "87c6c3645f5a1cdfbb98c51d51c238aa",
+      "title": "TCS gets a lift from the anti-AI trade, but earnings risks are building",
+      "description": "TCS’s in-line Q2 and reports of lower-than-indicated OpenAI revenue helped lift IT stocks, but muted demand, H2 margin pressure and AI-led pricing risks cloud the outlook. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/TCS-STOCKS--0_1791533470815_aS67_1791533484843_Gpyj_4d804a9f-7381-400d-a2e0-58712b93b037_hGaw.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/tcs-tata-consultancy-services-nifty-it-openai-ai-disruption-anti-ai-trade-q2fy27-results-it-stocks-11791531832161.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-09T17:57:28.513775Z"
+    },
+    {
+      "id": "5eb6302fc3118bf2df7ded9998cab5c6",
+      "title": "No RBI rate cuts in the near-term! Where are banking stocks headed in the next 3-6 months?",
+      "description": "RBI MPC meeting October 2026: According to Gaurav Garg, Head of Research at Lemonn, large private-sector lenders could hold up better than the broader market following the RBI’s rate hike. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/banking_stocks_1791534914590_SpRt_1791534914856_IknL_de5da827-9b0e-480f-838c-2fdf5caca1c4_OGql.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/no-rbi-rate-cuts-in-the-near-term-where-are-banking-stocks-headed-in-the-next-3-6-months-11791530528880.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-10-09T17:57:28.513630Z"
+    },
+    {
+      "id": "d587e5540615317dc5aa87737abd3abb",
+      "title": "Asian Paints Q2 results, dividend 2026: Board meet on Oct 29 for quarterly earnings; check record date, payout history",
+      "description": "Asian Paints’ board will meet on October 29, 2026, to review Q2 FY27 results and consider an interim dividend. The record date, if a dividend is declared, is November 4. The company paid ₹27.50 per share for FY26. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Asian_Paints_Q2_Results_Preview_1791533984969_AOL6_1791533991540_s0jT_4991de5a-8822-4e1d-9a2c-9234b38a1b99_YEZt.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/asian-paints-q2-results-dividend-2026-board-meet-on-oct-29-for-quarterly-earnings-check-record-date-payout-history-11791531215441.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-09T17:57:28.513556Z"
+    },
+    {
+      "id": "21c6685662a71cb372d6a492cde5acb1",
+      "title": "Anand Rathi Wealth Q2 results 2026: Dividend declared; check amount, record date, net profit, revenue and key financials",
+      "description": "Anand Rathi Wealth, on Friday, reported a 10.37% year-on-year decline in Q2FY27 net profit to ₹88.95 crore, while operating revenue rose to ₹343.98 crore. Its board approved an interim dividend of ₹4 per share, check record date. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Anand_Rathi_wealth_image_as_1791553567606_sMKe_1791553574818_AJGD_9eb89017-ee6e-4e65-9738-08024aed1517_FTOM.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/anand-rathi-wealth-q2-results-2026-dividend-declared-check-amount-record-date-net-profit-revenue-and-key-financials-11791550522687.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-09T17:57:28.512967Z"
+    },
+    {
+      "id": "cc9ef41823c49faaed425dff7aa3b66a",
+      "title": "Reliance Jio IPO price band alert: Mukesh Ambani's telecom giant likely to set band at ₹1,065– ₹1,119, says report",
+      "description": "Jio Platforms is reportedly planning an IPO priced at ₹1,065– ₹1,119 per share, potentially valuing the company at up to ₹10.3 trillion and raising about ₹30,200 crore.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Reliance_Jio_IPO_Price_Band_Revealed_1791555318922_TH7P_1791555337537_qFt0_b7a8e8b3-2c68-468b-802d-f289d784e17b_K4WC.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-price-band-revealed-price-band-fixed-at-rs-1-065-rs-1-119-report-11791554628948.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-09T17:57:28.512706Z"
+    },
+    {
+      "id": "c64e81f8fed1a3111ab852543073e827",
+      "title": "15,410% rally in 5 years! Multibagger Cupid shares jump 3% to hit fresh 52-week high",
+      "description": "Cupid shares jumped hit a fresh 52-week high of Rs 368 on Friday, extending their rally for a fourth straight session. Earlier this month, Cupid raised its FY27 revenue and profit guidance for the second time in less than two weeks, targeting revenue of Rs 800 crore and net profit of Rs 250 crore for the financial year.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134812919,imgsize-.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/15410-rally-in-5-years-multibagger-cupid-shares-jump-3-to-hit-fresh-52-week-high/articleshow/134812919.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-09T17:57:27.831439Z"
+    },
+    {
+      "id": "b18ea5e8fa2d70ff65f7a568e790e332",
+      "title": "Explained: Why IT stocks ignored Donald Trump’s PERM suspension to gain Rs 70,000 crore in one day",
+      "description": "IT stocks rallied up to 4% on Friday, adding Rs 70,000 crore in market capitalisation, despite the US suspension of a labour certification programme. Strong Q2 results from TCS, easing oil prices and bond yields, and developments around OpenAI also supported sentiment. TCS gained after reporting 15% profit growth, while brokerages flagged near-term margin pressures and evolving AI-related risks.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134824300,imgsize-2656962.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-it-stocks-ignored-donald-trumps-perm-suspension-to-gain-rs-70000-crore-in-one-day/articleshow/134824300.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-09T17:57:27.831331Z"
+    },
+    {
+      "id": "c77257dc34ba479117205d71df77513a",
+      "title": "Madhusudan Kela-backed MV Electrosystems shares more than double from IPO price in just 2 months. Should you buy?",
+      "description": "MV Electrosystems shares have surged over 100% from their IPO price, boosting Madhuri Kela’s stake value to Rs 111.55 crore. However, declining FY26 revenue and a net loss raise concerns about the company’s future profitability. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134830534,imgsize-56892.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-mv-electrosystems-shares-more-than-double-from-ipo-price-in-just-2-months-should-you-buy/articleshow/134830534.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-10-09T17:57:27.831093Z"
+    },
+    {
+      "id": "dc7a76622b9757eb397f41713975c8a1",
+      "title": "Anand Rathi Wealth Q2 Results: Profit rises 22% to Rs 122 crore; co declares dividend of Rs 4 per share",
+      "description": "Anand Rathi Wealth reported a 22% year-on-year rise in Q2 business profit to Rs 122 crore, with revenue increasing 16%. Assets under management reached Rs 1.08 lakh crore as quarterly net inflows hit a record Rs 4,186 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134835390,imgsize-17650.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-wealth-q2-results-profit-rises-22-to-rs-122-crore-co-declares-dividend-of-rs-4-per-share/articleshow/134835390.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-09T17:57:27.830715Z"
+    },
+    {
+      "id": "f905cf2e8094688bd1911d87c2ba09ca",
+      "title": "Poonawalla Fincorp Q2 Results: Profit skyrockets 407% YoY to Rs 375 crore, NII rises 81%",
+      "description": "Poonawalla Fincorp reported a 407% year-on-year surge in Q2FY27 profit to Rs 375 crore, while net interest income rose 81%. Operating profit more than doubled, supported by business growth, improving asset quality and an expanded gold loan network. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134835689,imgsize-1096867.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-results-profit-skyrockets-407-yoy-to-rs-375-crore-nii-rises-81/articleshow/134835689.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-09T17:57:27.830671Z"
+    },
+    {
+      "id": "51e96bf2528a563b4df538f785223a97",
+      "title": "Poonawalla Fincorp Q2 profit surges fivefold as income rises",
+      "description": "Poonawalla Fincorp reported a substantial increase in net profit for the second quarter, rising over fivefold. The company's net interest income and fee income grew significantly, contributing to the profit surge. New loan products accounted for a notable percentage of disbursements during this period, demonstrating the diversification of their offerings. Additionally, improvements in the gross non-performing asset ratio reflect better.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134838286,imgsize-73836.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-surges-fivefold-as-income-rises/articleshow/134838286.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-09T17:57:27.830627Z"
+    },
+    {
+      "id": "a149fc0a47a2327b40adf6f577cdb9c2",
+      "title": "Reliance Jio IPO: Likely price band for India's biggest listing revealed. Check details",
+      "description": "Jio Platforms has set a price band of Rs 1,065-1,119 for its upcoming IPO. The company plans to raise between Rs 28,755 crore and Rs 30,213 crore with the offer. Public subscription is scheduled to start on October 21, with shares potentially listing on October 28. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134831025,imgsize-19088.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-likely-price-band-range-for-indias-biggest-listing-revealed-check-details/articleshow/134831025.cms",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-09T17:57:27.189508Z"
+    },
+    {
       "id": "8c742ebc05dcf98b973e17af656c34a7",
       "title": "RBI rate hike: Your EMI may not move, but your loan may get longer",
       "description": "How to save ₹55k on home loans after rate hikes: Increase your monthly EMI instead of loan tenure. Expert guide to floating rate resets, EBLR, MCLR, and prepayments in India. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14881,186 +15070,6 @@
         "Corporate"
       ],
       "pubDate": "2026-08-30T03:35:52.450286Z"
-    },
-    {
-      "id": "670be371dbde8fabe9599cabd1907bac",
-      "title": "Jackson Hole Symposium Highlights: US Fed Chair Kevin Warsh says inflation ‘too high’, hints at interest rate hike",
-      "description": "Jackson Hole Symposium Highlights: Federal Reserve Chairman Kevin Warsh is set to give his first Jackson Hole speech later today and most watchers feel he has an extremely difficult task in hand. Stay with Livemint for latest updates…. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/Kevin_Warsh_1787922462718_1787922468643_35fd1bf8-d42b-4761-8007-4166149d2c97.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/jackson-hole-symposium-live-updates-expectations-high-federal-reserve-us-fed-chair-kevin-warsh-first-speech-28-august-11787920723281.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.851701Z"
-    },
-    {
-      "id": "d492124ffbdc3c83323e0fe7f07d0b47",
-      "title": "US stocks rise as Kevin Warsh vows to bring inflation under control",
-      "description": "As of 11:30 a.m. Eastern Time, the S&amp;P 500 added 0.4%, the Dow Jones Industrial Average was up 0.4%, and the Nasdaq Composite was 0.5% higher. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/nyse_1787925611575_1787925611732_7cf9daae-9eda-471f-a6a7-a69cecd4c63c.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/us-stocks-muted-ahead-of-kevin-warsh-s-jackson-hole-speech-11787924447163.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.851541Z"
-    },
-    {
-      "id": "beb8c4e335ee5c43e0ac1ba8c08261bb",
-      "title": "Why US Federal Reserve Chair Kevin Warsh is advocating for a ‘quieter Fed’ amid criticism over lack of communication",
-      "description": "United States Federal Reserve Chairman Kevin Warsh is advocating for a ‘quieter Fed’ amid criticism over the central bank's lack of communication or comments on the economy and outlook. Here are his reasons,. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/maxresdefault_live_1787963218071_1787963222933_08236306-0c91-40f4-b67d-3c72ed5c0efb.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/us-federal-reserve-chair-kevin-warsh-advocate-for-a-quieter-fed-why-forward-guidance-criticism-amid-lack-communication-11787928220342.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-30T03:35:51.851488Z"
-    },
-    {
-      "id": "4fb3ad979ca51b940f241c780f00e9d5",
-      "title": "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday",
-      "description": "Kevin Warsh's Jackson Hole speech: The US Fed chairman has signalled a hawkish stance on the US Fed rate, fueling speculations for a 25 BPS rate hike in the next US Fed meeting. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/Kevin_Warsh_speech_Gold_Silver_rate_today_Nifty_50_1787982194098_1787982194338_d2639292-49a5-4598-8088-3f08626ad41e.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/us-fed-chair-kevin-warsh-jackson-hole-speech-impact-on-indian-stock-market-gold-silver-rates-prediction-for-monday-11787969910435.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.851130Z"
-    },
-    {
-      "id": "fc6f1f0658ce8bd56d86ca78c2385b07",
-      "title": "Expert view: FPIs turn positive on India | OmniScience Capital CEO sees non-AI diversification boosting inflows",
-      "description": "Vikas Gupta, CEO of OmniScience Capital, discusses the recent positive shift in Foreign Portfolio Investors (FPIs) towards Indian equities. With a focus on non-AI diversification and strong growth sectors, Gupta outlines a hopeful outlook for the Indian market amid global inflation pressures. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/Vikas_Gupta_1787981124532_1787981136682_39068724-08c3-496f-a339-7cff0fb00a04.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/expert-view-fpis-turn-positive-on-india-omniscience-capital-ceo-sees-non-ai-diversification-boosting-inflows-11787980978259.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.851028Z"
-    },
-    {
-      "id": "8b13d499dcb2837517edfbefff1fd4f4",
-      "title": "Expert view: Valuations still a concern, expect moderate returns for the rest of 2026, says Kotak Life's head of equity",
-      "description": "In a revealing interview, Hemant Kanawala from Kotak Life Insurance provides insight into the Indian stock market’s complex landscape. He highlights selective value amidst high valuations, stressing a disciplined investment approach and underlying economic strengths. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/Hemant_Kanawala_1787984996997_1787985002585_bf83c903-2d60-47cc-8575-5d6885127ed4.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/expert-view-valuations-still-a-concern-expect-moderate-returns-for-the-rest-of-2026-says-kotak-lifes-head-of-equity-11787984771743.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.850828Z"
-    },
-    {
-      "id": "24b55c04de6b296604b6907d7e9404dc",
-      "title": "Kevin Warsh Speech | Is the US Fed Chairman driving the bond markets? Explained with three reasons",
-      "description": "Kevin Warsh's Jackson Hole speech: Experts believe the US Fed's shift towards tokenising bonds aims to maintain USD dominance amid rising global demand and inflation challenges. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/Kevin_Warsh_Jackson_Hole_speech_US_Fed_rate_hike_1787993805718_1787993805853_609cf27e-be61-43fa-97fe-8569fa5f9b79.png",
-      "fullArticleLink": "https://www.livemint.com/market/bonds/kevin-warsh-speech-is-the-us-fed-chairman-driving-the-bond-markets-explained-with-three-reasons-11787988182162.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-08-30T03:35:51.850777Z"
-    },
-    {
-      "id": "f0f16497c48b466f727fe6ce425b0b36",
-      "title": "Day Traders Are Abandoning Korean Chip Leveraged ETFs in Droves",
-      "description": "An onerous mock trading course is becoming an effective tool for South Korea to cool investor fervor over risky products that have turned the country’s $4.3 trillion stock market extremely volatile. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "fullArticleLink": "https://www.livemint.com/market/day-traders-are-abandoning-korean-chip-leveraged-etfs-in-droves-11788050286903.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.850595Z"
-    },
-    {
-      "id": "ceeeb37db6ec82bc3f12f45648eb3e43",
-      "title": "Stocks to watch on August 31: M&M, Cupid, Aurobindo Pharma, OLA, KP Green Engineering among shares in focus",
-      "description": "On August 31, Indian stock market investors will focus on companies like Royal Orchid Hotels and Mahindra &amp; Mahindra after key updates. Despite a positive closing on August 28, indices faced a three-week losing streak, urging caution among investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/The-renewed-investor-interest-comes-in-the-wake-of_1689644643780_1787933743055_82e43bfe-a5c6-4a6e-bab3-1ace4f866e5e.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-on-august-31-m-m-cupid-aurobindo-pharma-ola-kp-green-engineering-among-shares-in-focus-11787932250299.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.850529Z"
-    },
-    {
-      "id": "f0bd5b8cb56103298d3a64ecb9d05335",
-      "title": "A roadmap beyond 1% RoA is key to IndusInd Bank’s turnaround",
-      "description": "A year into Rajiv Anand’s tenure, the bank has repaired its balance sheet and restored loan growth. Now it must lift RoE, navigate margin and asset-quality pressures, and rebuild the trust lost in its governance crisis. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/INDUSIND-BANK-PROBE--0_1787934183785_1787934201542_1d1e2ca5-297c-49e1-9e38-3b96bc1fba67.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/a-roadmap-beyond-1-roa-can-salvage-indusind-bank-11787891041860.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-08-30T03:35:51.850437Z"
-    },
-    {
-      "id": "e7b202704938d7ffee6395217dd55f4c",
-      "title": "Ather Energy shares rally 4% as Hero MotoCorp plans Rs 1,758 crore investment",
-      "description": "Ather Energy shares gained nearly 4% after Hero MotoCorp announced an investment of up to Rs 1,758 crore to raise its stake in the electric two-wheeler maker to around 32.8%. Ather’s turnover has more than doubled in two years, while the stock has surged around 260% over the past year and continues to show a bullish technical setup.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133583523,imgsize-2039361.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-4-as-hero-motocorp-plans-rs-1758-crore-investment/articleshow/133583523.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.187623Z"
-    },
-    {
-      "id": "6ee09c009736508dea1c4a3045dae991",
-      "title": "India’s flex workspace market records strongest H1 as seat leasing jumps 68%: Cushman & Wakefield",
-      "description": "India’s flexible workspace sector posted its strongest-ever first half in 2026, with operators leasing 191,306 seats across the country’s top eight cities, up 68.4% year-on-year. Flex operators also recorded 8.4 million sq ft of leasing, accounting for nearly 20% of total office leasing activity. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133583945,imgsize-2689475.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indias-flex-workspace-market-records-strongest-h1-as-seat-leasing-jumps-68-cushman-wakefield/articleshow/133583945.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.187461Z"
-    },
-    {
-      "id": "ed50f1086dbb4c3f14ce0167fd8d114d",
-      "title": "Yatharth Hospital shares jump 5% as Aster, Advent likely eye controlling stake",
-      "description": "Yatharth Hospital shares jumped over 5% after reports that Aster DM Quality Care, backed by Advent International and Blackstone, is negotiating to acquire a controlling stake in the hospital chain. Yatharth denied being in any sale discussions, while the stock hit a fresh 52-week high and has gained around 50% in 2026. This key financial update highlights evolving market dynamics.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133584009,imgsize-2281402.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/yatharth-hospital-shares-jump-5-as-aster-advent-likely-eye-controlling-stake/articleshow/133584009.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-08-30T03:35:51.187397Z"
-    },
-    {
-      "id": "5d4494f447decef511da3cec6135a0f1",
-      "title": "Gap shares surge 24% after Old Navy leadership shake-up, profit forecast raised",
-      "description": "Gap shares jumped as much as 24.1% after the retailer named Michael Francis as Old Navy CEO and raised its annual profit forecast. The appointment comes as Old Navy struggles with falling comparable sales, while Gap's other brands gain momentum. Investors are betting on a turnaround at the company's biggest brand. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133596540,imgsize-105084.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gap-shares-surge-24-after-old-navy-leadership-shake-up-profit-forecast-raised/articleshow/133596540.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-08-30T03:35:50.621625Z"
-    },
-    {
-      "id": "f7da5ba7cb7e8421201220cf0ab6cf41",
-      "title": "Sebi bars Debock Industries, promoter for seven years in fraud case",
-      "description": "Regulator orders disgorgement of ₹59.30 crore with interest and directs Debock to bring back ₹49 crore allegedly diverted from its 2023 rights issue. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260828/full-126082801267.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-bars-debock-industries-promoter-for-seven-years-in-fraud-case-126082801267_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-08-29T16:12:00.873358Z"
     }
   ]
 }
