@@ -1,6 +1,200 @@
 {
   "news": [
     {
+      "id": "a906d0dbbee5ab4dabf0fd67d3d31da8",
+      "title": "HDFC Life Insurance sheds 3% post Q2 results; brokerages remain upbeat",
+      "description": "Analysts at Systematix Institutional Research and Elara Securities retained a 'Buy' rating on HDFC Life stock, highlighting that Value of New Business in Q2 came in ahead of Q2 estimates. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261016/full-126101600306.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/hdfc-life-insurance-share-price-shed-3-post-q2-results-brokerages-remain-upbeat-126101600306_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-16T16:04:10.712240Z"
+    },
+    {
+      "id": "4026175956e853a7cccac848746ccf3e",
+      "title": "Nifty IT soars 14% in 6 days on Q2 earnings boost; TechM, Wipro, TCS shine",
+      "description": "At 10:12 AM on Friday, the Nifty IT index was the top sectoral gainer, up 2.8%. Tech Mahindra, Wipro, Infosys and TCS surged up to 7% amid Q2 earnings cheer. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261016/full-126101600315.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-it-soars-14-in-6-days-on-q2-earnings-boost-techm-wipro-tcs-shine-126101600315_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-16T16:04:10.712210Z"
+    },
+    {
+      "id": "2157d6ee66a8c0e260447eb17bae1b3d",
+      "title": "Solara Active Pharma share price zooms 16% on Q2 turnaround; H1 net up 103x",
+      "description": "Solara Active Pharma Sciences reported a consolidated net profit of ₹28.59 crore in Q2FY27 and ₹44.70 crore in H1FY27. It posted a loss of ₹9.29 crore in Q2FY26 and profit of ₹0.42 crore in H1FY26. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261016/full-126101600592.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/solara-active-pharma-share-price-zooms-16-on-q2-turnaround-h1-net-up-103x-126101600592_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-16T16:04:10.711692Z"
+    },
+    {
+      "id": "0325819b329ed8f90540958d14181ce1",
+      "title": "Ambani taps Reliance's 420,000 employees to boost Jio IPO participation",
+      "description": "The conglomerate has reached out to staff across its group companies and encouraged them to open trading accounts, as Mukesh Ambani seeks to build interest in the proposed $3.2 billion listing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261016/full-126101600630.jpg",
+      "fullArticleLink": "https://www.business-standard.com/companies/news/ambani-taps-reliance-s-420-000-employees-to-boost-jio-ipo-participation-126101600630_1.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-16T16:04:10.711599Z"
+    },
+    {
+      "id": "178f458e65b819709551b72b3b193a2c",
+      "title": "Indian Hotels, Oriental Hotels rally up to 6%; what's driving hotel stocks?",
+      "description": "Hotels were impacted in Q1 by the US-Iran conflict; however, analysts at Axis Securities expect a strong Q2, supported by improving metro demand and the BRICS Summit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261016/full-126101600629.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/indian-hotels-oriental-hotels-rally-up-to-6-what-s-driving-hotel-stocks-126101600629_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-16T16:04:10.711475Z"
+    },
+    {
+      "id": "a9583baeab237614093dbe3c55d75453",
+      "title": "HDFC, ICICI Bank Q2 earnings preview: deposit surge, margin pressure in focus",
+      "description": "When HDFC Bank and ICICI Bank report their Q2 earnings on Saturday, investors will closely track their net interest margins, credit costs and management commentary on growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/HDB-FINANCIALSERVICES-IPO--0_1733848469052_1792153475273_Ec5Y_8d2979d0-e370-4199-9c29-1db76001a251_iSlo.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/earnings-preview-deposit-surge-margin-pressure-in-focus-for-hdfc-icici-bank-11792148167976.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-16T16:04:10.054976Z"
+    },
+    {
+      "id": "8ad719935f63af88ccc709f6b045508b",
+      "title": "31% rally in 2 weeks: Orient Electric share price surges post Q2 results - ICICI Sec sees 22% upside | Target price",
+      "description": "Orient Electric shares rose as much as 2.8% on Friday, extending a two-week rally of more than 30%. The company reported strong Q2FY27 performance, with revenue up 25.15% year on year, while ICICI Securities maintained its Buy rating and ₹240 target price. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/Orient_Electric_1792140796242_LvfA_1792140796466_9s9D_f20d1a61-275d-4a41-b3f5-181c20c6b671_978q.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/31-rally-in-2-weeks-orient-electric-share-price-surges-post-q2-results-icici-sec-sees-22-upside-target-price-11792137011730.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-16T16:04:09.437257Z"
+    },
+    {
+      "id": "f728ebbfd2b17928b1b5e311e4ba34c4",
+      "title": "Already up 86% in 6 months, ICICI Direct still sees another 39% upside in this small-cap stock - Check target, rationale",
+      "description": "ICICI Direct initiated coverage on GEE Ltd with a Buy rating and a ₹170 target price, implying 37% upside from ₹124. It expects growth through higher capacity utilisation, expanded production and specialised products, with revenue likely to reach ₹614 crore and net profit ₹36 crore by FY28. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/Industrial_Metals_Market_Upside_Growth_17921447447_1792144768280_tiIW_1792144768464_8TnM_19a23073-74d6-4290-9f0d-d927bd090a35_lqMY.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/already-up-86-in-6-months-icici-direct-still-sees-another-39-upside-in-this-small-cap-stock-check-target-rationale-11792142941201.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-16T16:04:09.436942Z"
+    },
+    {
+      "id": "ab0f9f973bd196a3743b33c41f3d9672",
+      "title": "Nifty IT: ₹3 lakh cr added in m-cap after best weekly gains in 18 years; Q2 earnings revive investor interest",
+      "description": "Indian IT stocks surged after stronger-than-expected September-quarter results and a shift in investor sentiment back toward software companies. The Nifty IT index gained 11.72%, its best weekly performance in 18 years.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/Nift_It_1792150920195_isPf_1792150927773_eRPg_25a870bc-9022-4c31-a8f2-dee60ec5d5a2_qax2.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-it-posts-best-weekly-gain-in-18-years-as-q2-earnings-revive-investor-interest-which-stocks-led-the-rally-11792148652063.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-16T16:04:09.436894Z"
+    },
+    {
+      "id": "6c488fe06cbef05450bf21fe27787e8b",
+      "title": "Worst over for IT stocks? Experts analyse Q2 results of TCS, HCL, Tech Mahindra and others, suggest top picks",
+      "description": "Indian IT stocks have rallied nearly 13% in four sessions after better-than-expected results. Analysts see stabilisation but say sustained recovery depends on stronger revenue growth, deal conversion, discretionary spending and monetisation of AI services. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/IT_Stocks_1792150812706_E0H4_1792150816496_s4p3_f7ce5a7e-b00f-4c9d-9f0b-d6df83d50f01_Oy0m.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/worst-over-for-it-stocks-experts-analyse-q2-results-of-tcs-hcl-tech-mahindra-and-others-suggest-top-picks-11792149864702.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-16T16:04:09.436851Z"
+    },
+    {
+      "id": "8e3ba198c5d943ba48fa3d1a3b225f08",
+      "title": "Cult.fit IPO alert: Fitness major receives SEBI nod for proposed IPO - Check OFS, fresh issue mix details",
+      "description": "SEBI has approved Cult.fit’s IPO, which aims to raise up to ₹950 crore through a fresh share issue and an offer for sale of up to 17.86 crore shares. The company plans to use proceeds to expand its fitness centres and fund marketing and other business initiatives. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/FGgg_1792163930407_7NVz_1792163983390_M3oI_0e565907-6c46-423d-bd38-a6ce3f36774a_dvmr.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/cultfit-ipo-alert-fitness-major-receives-sebi-nod-for-proposed-ipo-check-ofs-fresh-issue-mix-details-11792158029624.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-16T16:04:09.436428Z"
+    },
+    {
+      "id": "9a33dd8d8c3ac73afe30183087bba126",
+      "title": "Jio IPO GMP at 20%: Grey market signals Rs 220 premium as brokerages say subscribe",
+      "description": "Jio Platforms IPO GMP today: Jio Platforms’ Rs 30,200 crore IPO has a grey market premium of Rs 220 ahead of its October 21 opening. Emkay Global and SBI Securities highlight its telecom leadership, earnings growth and digital expansion, while flagging valuation, regulatory and capital expenditure risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134985658,imgsize-237430.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-gmp-at-20-grey-market-signals-rs-220-premium-as-brokerages-say-subscribe/articleshow/134985658.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-16T16:04:08.737764Z"
+    },
+    {
+      "id": "5e2b078209237aec3336082839bdbeb6",
+      "title": "ICICI Bank Q2 Results Preview: PAT, NII may rise up to 21% YoY; margins, deposit growth in focus",
+      "description": "ICICI Bank is expected to report 15.8-18% year-on-year growth in net interest income and 15-21% growth in profit after tax in Q2FY27, according to brokerage estimates. Investors will track net interest margins, loan and deposit growth, operating profitability and asset quality, with margin pressure and provisioning trends remaining key monitorables. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134988975,imgsize-2263257.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-preview-pat-nii-may-rise-up-to-21-yoy-margins-deposit-growth-in-focus/articleshow/134988975.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-16T16:04:08.737550Z"
+    },
+    {
+      "id": "f4f687896fd7b38e4420b0f28a1a5c04",
+      "title": "LTM Q2 Results: PAT remains flat at Rs 1,380 crore; revenue rises 14% YoY; co declares Rs 25 per share dividend",
+      "description": "LTM reported a marginal 0.1% decline in Q2 FY27 profit to Rs 1,379.9 crore, while revenue rose 13.6% to Rs 11,807.6 crore. Enterprise AI and Business AI revenue grew 47%, and the company declared an interim dividend of Rs 25. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134994968,imgsize-7354.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/ltm-q2-results-pat-remains-flat-at-rs-1380-crore-revenue-rises-14-yoy-co-declares-rs-25-per-share-dividend/articleshow/134994968.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-16T16:04:08.737285Z"
+    },
+    {
+      "id": "b8f635b115889cc0521270e607d2b5e9",
+      "title": "Crompton Greaves Q2 Results: Profit surges 65% to Rs 124 crore",
+      "description": "Crompton Greaves Consumer Electricals reported a 65 percent increase in consolidated net profit for the September quarter. The company's revenue from operations also jumped by 18.15 percent compared to the previous year. Significant revenue growth was achieved in the electric consumer durable segment, especially in fans and appliances. Overall, the company's total income surged by 18.24 percent in the same.",
+      "imageUrl": "https://img.etimg.com/photo/msid-134998426,imgsize-29902.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q2-results-profit-surges-65-to-rs-124-crore/articleshow/134998426.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-16T16:04:08.737042Z"
+    },
+    {
       "id": "014b99afb1b30f814c0f895c3ab606c9",
       "title": "Indian Bank, South Indian Bank gain up to 5% from day's low post Q2 results",
       "description": "Indian Bank reported a near 15% YoY growth in net profit, while Uco Bank and South Indian Bank posted 26.8% and 21.3% profit growth in Q2FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14886,189 +15080,6 @@
         "Nifty & Sensex"
       ],
       "pubDate": "2026-09-06T02:54:28.889793Z"
-    },
-    {
-      "id": "2c672100ad4cafd2419b9c081043818a",
-      "title": "Sensex, Nifty rebound as easing US yields, Asian gains boost sentiment",
-      "description": "The key equity benchmarks ended with modest gains on Friday, snapping a four-session losing streak. The rebound was supported by positive Asian cues and easing US Treasury yields, as expectations of an imminent Federal Reserve rate hike moderated. The Nifty settled near the 23,900 level, while the Sensex also closed above 76,500 mark. Gains were led by metal and private.",
-      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-rebound-as-easing-us-yields-asian-gains-boost-sentiment-126090400955_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-09-06T02:54:28.889711Z"
-    },
-    {
-      "id": "e0645b59327cf71adfbc578088016e77",
-      "title": "Sebi, ESMA sign MoU to deepen regulatory cooperation on clearing houses",
-      "description": "The pact establishes a framework for cooperation and information exchange relating to central counterparties regulated and supervised by the Indian markets regulator. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260904/full-126090400993.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-esma-sign-mou-to-deepen-regulatory-cooperation-on-clearing-houses-126090400993_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-06T02:54:28.889604Z"
-    },
-    {
-      "id": "39f5adbfcee377e389e317d35a28c5f8",
-      "title": "Devson receives orders for newly developed product Ammonia Decomposition Catalyst from NMDC and Tata Steel",
-      "description": "Devson Catalyst announced the successful development of its Ammonia Decomposition Catalyst through its in-house R&D and technical capabilities. The Company has received commercial orders for the newly developed product from NMDC and Tata Steel, following customer evaluation and approval. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/devson-receives-orders-for-newly-developed-product-ammonia-decomposition-catalyst-from-nmdc-and-tata-steel-126090401182_1.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-06T02:54:28.889392Z"
-    },
-    {
-      "id": "32f41c91c220dca385dbcd0ff9705a0e",
-      "title": "Traders turn to bullish Chinese stock bets as AI trades crowd Korea, Japan",
-      "description": "Trading desks from Barclays Plc to UBS Group AG are seeing rising client demand for bullish options and swap contracts tied to China's CSI indexes in recent weeks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260906/full-126090600057.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/traders-turn-to-bullish-chinese-stock-bets-as-ai-trades-crowd-korea-japan-126090600057_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-06T02:54:28.888946Z"
-    },
-    {
-      "id": "a4e5d57a1e64a92adace527a27480f35",
-      "title": "Aditya Birla repeats Opus playbook with UltraVolt, eyes wires market leadership",
-      "description": "Housed under the group’s cement unit UltraTech, the new business, named UltraVolt, aims to become one of India’s top two wires and cables players within five years, according to group chair Kumar Mangalam Birla. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/abds_1690873041334_1788455585569_5afb0b47-623f-49a6-adc2-315594dc6acc_b652d384-c295-48d4-906d-ac113550f6ba_9454764f-4090-4b64-b14c-7174c2073508.png",
-      "fullArticleLink": "https://www.livemint.com/companies/aditya-birla-repeats-opus-playbook-with-ultravolt-eyes-wires-market-leadership-cables-wires-polycab-kei-havells-11788447089967.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-06T02:54:28.116512Z"
-    },
-    {
-      "id": "d14b3fb10b4871574173051278ccccd9",
-      "title": "Newspace Research in talks to raise $35-40 million from 360 One, Avendus, others",
-      "description": "Defence-tech startup Newspace Research and Technologies is seeking $35-40 million in a Series C round, even as investors weigh its uneven revenue growth and delayed government contract payments. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/g03796fb0a2561922e0f461f609892400b1b31d144493fa26d_1788496869329_1fb8e20a-7724-4795-8aae-b0f542d9edfd_1788496869488_0beb469d-46c5-4d29-8e39-6770a292d097_61985606-1148-413b-a502-1d0c39dd64ed_13799a2c-22a3-465b-8735-b42d59b25db9.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/start-ups/newspace-research-and-technologies-nrt-series-c-defence-tech-aerospace-drones-deeptech-360-one-asset-avendus-11787457991475.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-09-06T02:54:28.116174Z"
-    },
-    {
-      "id": "fb0b8a6e89ee0973de34c35332955e3f",
-      "title": "Adani Defence signs 5-year ammunition deal for India-made AK-203 assault rifles: All you need to know",
-      "description": "Adani Defence &amp; Aerospace has signed a five-year contract with Indo-Russian Rifles Pvt Ltd to supply 7.62x39 mm ammunition for AK-203 rifles, enhancing India's domestic defense manufacturing and supporting the Aatmanirbhar Bharat initiative. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Untitled_design_1788616965733_8cff79b1-5216-4ca6-b3d2-af86c9650afa_1788616969632_ea30422f-f77e-4ef9-aea2-8b83fc34007a_8147c3dc-7e47-412f-bcaf-c459bf8ab1a9_13fd2491-56b6-4142-94bb-5402e9163d5d.png",
-      "fullArticleLink": "https://www.livemint.com/companies/adani-defence-signs-5-year-ammunition-deal-for-india-made-ak-203-assault-rifles-all-you-need-to-know-11788614220612.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-06T02:54:28.115724Z"
-    },
-    {
-      "id": "5464a546a6842e439a1eabb469484fc3",
-      "title": "Top 3 stocks to buy with target price, stop-loss: Expert Sumeet Bagadia shares recommendations for Monday, 7 Sept 2026",
-      "description": "Top stocks to buy: Sumeet Bagadia recommends three stocks to buy on Monday — Tata Steel, Reliance Industries, and Bajaj Finance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Buy_or_Sell_Sumeet_Bagadia_share_recommendations_1788580924230_77d5cf75-d72c-4acf-8972-441db5ddb4eb_1788580924379_2b31abed-c693-4acc-a778-7fe6c5d7d628_c32729df-2a36-4aba-b6a5-e496ad92450d_eeb0a444-b273-4db7-9f6e-00912902b124.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-7-september-2026-11788580369064.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-06T02:54:27.512583Z"
-    },
-    {
-      "id": "c1c603cc08c804bf1c648399cd257412",
-      "title": "Swiggy sees 4% equity change hands in block deals; shares gain 2.5%",
-      "description": "Swiggy shares rose 2.53% following block deals involving 4% equity. The company faces MSCI index removal on September 7 due to foreign ownership caps, while Q1 FY27 results showed a narrowed net loss of Rs 791 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133763789,imgsize-23918.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-sees-4-equity-change-hands-in-block-deals-shares-gain-2-5/articleshow/133763789.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-09-06T02:54:26.792637Z"
-    },
-    {
-      "id": "74cec21a7dede27fb4a3a775d961144a",
-      "title": "How the rise of institutional investors is changing the IPO playbook",
-      "description": "India’s IPO market is evolving beyond capital raising, with mutual funds, AIFs, insurers, global institutions and family offices driving deeper participation. Growing institutional selectivity highlights the need for sharper price discovery, better segmentation and a potential micro-cap category. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133790656,imgsize-48640.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/how-the-rise-of-institutional-investors-is-changing-the-ipo-playbook/articleshow/133790656.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-06T02:54:26.792440Z"
-    },
-    {
-      "id": "b4f6f809d63f51bdade60211d712ed87",
-      "title": "Jio IPO: Ambani’s tech titan listing story isn’t yet credible: View",
-      "description": "Mukesh Ambani is pitching Jio Platforms as more than a telecom company ahead of its IPO, highlighting thousands of patents, AI and proprietary technology. But questions remain over the commercial value of its intellectual property and whether its technology ambitions justify a potential $120-140 billion valuation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133785076,imgsize-1344973.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-06T02:54:26.077420Z"
-    },
-    {
-      "id": "47c6339b559551541cf27e99823cdec5",
-      "title": "Wall Street Week Ahead:Investors to pore over inflation data for signals on rate trajectory",
-      "description": "Investors await crucial inflation data next week which may decide the Fed's interest rate move. The S&P 500 index is nearing its record high while facing market volatility. Producer and Consumer Price Index reports will offer insights into August's inflation trends. Odds for a Fed rate hike are currently around a coin flip. Treasury yields and AI trade developments also.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133786604,imgsize-121932.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-investors-to-pore-over-inflation-data-for-signals-on-rate-trajectory/articleshow/133786604.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-06T02:54:26.077389Z"
-    },
-    {
-      "id": "1d4c18962adc0b29115ddc84c9c3d8e8",
-      "title": "Anthropic IPO launch shifts toward mid-October, sources say",
-      "description": "The artificial intelligence company had been expected to make its IPO prospectus public as early as next week, two of the ‌people said, a ⁠crucial ⁠step that would kick off the final stages of the offering. Now that is not expected ​until late September, the people added, cautioning that the plans, including the timing, are subject ​to change.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133791934,imgsize-34338.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-launch-shifts-toward-mid-october-sources-say/articleshow/133791934.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-06T02:54:26.077357Z"
-    },
-    {
-      "id": "64a55b5e17b24e0e1ced118b0b245eae",
-      "title": "RBI turns to longer-dated VRRR for liquidity mop-up",
-      "description": "In an effort to control escalating inflation, the Reserve Bank of India is running auctions to draw in surplus liquidity from the financial system. This move comes as call money rates fall beneath the policy repo rate, with predictions indicating liquidity levels could exceed fifteen lakh crore by the close of September. Additionally, the central bank recently sold government securities.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133787243,imgsize-87206.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-turns-to-longer-dated-vrrr-for-liquidity-mop-up/articleshow/133787243.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-06T02:54:26.077124Z"
-    },
-    {
-      "id": "c37839e469bc61ea21995bcf15ac86d0",
-      "title": "TCS’s HyperVault to build 1GW AI data centre in Telangana's Hyderabad: Inside ₹70,000 crore ‘historic’ project",
-      "description": "TCS's HyperVault AI Data Center will create an AI-focused facility in Hyderabad with a 1 GW capacity, supported by ₹70,000 crore investment. The project promises job creation and aims to become a leading AI infrastructure hub, integrating advanced technologies and sustainability practices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Untitled_design_1788613014145_bb3aef86-b3e6-4d85-92f3-98d1e34dc6c0_1788613018417_6f81e031-5523-4211-9081-6796340d7762_b470e700-cf79-46f2-b080-0e081e5a0ffc_c6981446-6399-4949-8c2e-f6a1dcc6a1ef.png",
-      "fullArticleLink": "https://www.livemint.com/companies/tcss-hypervault-to-build-1gw-ai-data-centre-in-telanganas-hyderabad-inside-70-000-crore-historic-project-11788610018101.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-05T14:34:18.872822Z"
     }
   ]
 }
