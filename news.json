@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "94147d64f256be199f3df2f1a5ccc177",
+      "title": "CareEdge Global IFSC to sell 19.8% stake to State Bank of India, NSEIX",
+      "description": "Care Edge Ratings on Monday said it has decided to sell a 19.8 per cent stake in its wholly-owned subsidiary CareEdge Global IFSC to State Bank of India and NSE IFSC. The company has executed share purchase agreements and a shareholders' agreement with State Bank of India (SBI) and NSE IFSC (NSEIX) to sell a 9.9 per cent equity stake.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261019/full-126101900618.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/careedge-global-ifsc-to-sell-19-8-stake-to-state-bank-of-india-nseix-126101900618_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-20T03:22:34.358039Z"
+    },
+    {
+      "id": "27172421e6c3576bd53b6491c0d6e5ad",
+      "title": "Tata Sons breaks from the past and drops Article 118 reference in Chandrasekaran’s third-term resolution",
+      "description": "Tata Trusts chair Noel Tata had pointed out that the same board had earlier followed Article 118 to reappoint Chandrasekaran, but did not do so on 17 September. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1792330875484_10Xq_7460f85d-5631-4cfc-962e-a0ff27b8d706_fDXC.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-chairman-natarajan-chandrasekaran-reappointment-articles-of-association-11792314549702.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-20T03:22:33.698256Z"
+    },
+    {
+      "id": "145b0385f41d436d6e2f14df2c309958",
+      "title": "Indian IT giants' H-1B visa registrations fall amid Trump's crackdown; Infosys, Cognizant, TCS report fewer entries",
+      "description": "H-1B registrations by Infosys, TCS and Cognizant fell sharply for FY2027 amid higher visa costs and a wage-weighted selection system. The figures reflect fresh entries in the annual cap selection process, rather than total H-1B employment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/H-1B-visa_Infosys_Cognizant_TCS_1792385906368_aBi8_1792385906571_udZZ_95e7c0a1-8de2-4b88-9fed-920d6a62afa2_nCka.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/indian-it-giants-h-1b-visa-registrations-fall-amid-trumps-crackdown-infosys-cognizant-tcs-report-fewer-entries-11792385645179.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-20T03:22:33.697767Z"
+    },
+    {
+      "id": "75b9030b413e9086cb920eec2e3691ab",
+      "title": "Tata Trusts files response to Venu Srinivasan, Vijay Singh's complaints before Maharashtra Charity Commissioner",
+      "description": "Srinivasan and Singh lodged their complaints on September 25, seeking an inquiry into the trust's administration and governance, including its role in the commercial affairs of Tata Sons. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/Tata_Trusts_1792421387924_3LUb_1792421404569_Q88s_c0d73329-981a-4ad6-a176-d96763ca007b_0q2i.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-trusts-files-response-to-venu-srinivasan-vijay-singhs-complaints-before-maharashtra-charity-commissioner-11792421180847.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-20T03:22:33.697230Z"
+    },
+    {
+      "id": "3271b095467c2bd0d46b6343c143f8ec",
+      "title": "Already a hit? Reliance's Jio Platforms gets ₹8,110 cr from anchor investors; LIC, New World Fund among top investors",
+      "description": "Jio Platforms allotted shares worth ₹8,110 crore to 212 anchor investors at ₹1,119 per share ahead of its October 21 IPO. LIC received the largest allocation. The company aims to raise about ₹30,213 crore, valuing it at approximately $108 billion at the top of its price band. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/Allotment_1792433451973_lzNL_1792433457192_lpBY_f1bae19d-c18e-4cc5-a70c-f57645c1fc72_pWIZ.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/jio-platforms-raises-rs-8-110-crore-from-212-anchor-investors-ahead-ipo-lic-new-world-fund-among-top-investors-11792432643541.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-20T03:22:33.107160Z"
+    },
+    {
+      "id": "8f32836d25a7061540704b12017d9946",
+      "title": "Jio Platforms IPO listing: Can Reliance overtake Tata Group as India’s largest conglomerate by market cap? Details",
+      "description": "A potential Jio Platforms IPO, valued at about ₹10.3 lakh crore, could lift Reliance Group’s combined market capitalisation to ₹28.35 lakh crore, overtaking Tata Group’s ₹25.92 lakh crore. Adani ranks third at ₹17.23 lakh crore, followed by HDFC Group at nearly ₹13.9 lakh crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/RIL_and_tata_1792434812424_49bv_1792434824428_UvWx_10c9e409-efaa-425c-939f-a73aedddccba_g7Ws.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-can-reliance-overtake-tata-group-as-india-s-largest-conglomerate-by-market-cap-details-11792431816751.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-20T03:22:33.107062Z"
+    },
+    {
+      "id": "a1a9dbb2a3dec82a8da27972c5c79297",
+      "title": "Global markets today: GIFT Nifty, Nikkei 225, Kospi slide on Tuesday, 20 October | Nasdaq, S&P, DJIA rise up to 1%",
+      "description": "Global markets today: South Korea’s Kospi plunged 3.5% at the opening bell, extending losses in semiconductor stocks and trimming its 2026 gains to around 31%, down sharply from nearly 116% at its record closing high in June. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/logo/global_market_1792460779899_3Jg8_1792460780027_m0IB_77ffbb96-9326-4a2f-bd9f-8fd213611525_KVuL.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/global-markets-today-gift-nifty-nikkei-225-kospi-t-slide-on-tuesday-20-october-nasdaq-s-p-djia-rise-up-to-1-11792458344691.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-20T03:22:33.106626Z"
+    },
+    {
+      "id": "ce18bc540419d654514fd1116be853c0",
+      "title": "Expert view: A relief rally toward 23,800–24,200 possible; FPIs may return if dollar, bond yields peak, says Rahul Ghose",
+      "description": "Octanom Tech CEO Rahul Ghose expects the Nifty to end the year lower, though oversold conditions could fuel a relief rally to 23,800–24,200. He says foreign investors are unlikely to return until US yields and the dollar peak, while high oil prices may limit broader market gains. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/logo/Rahul_Ghose_1752670771760_1752670775826_1792461511393_yeNc_f8fbbf78-e84a-4eef-89ca-877a660e5ded_5xI8.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/expert-view-a-relief-rally-toward-23-800-24-200-possible-fpis-may-return-if-dollar-bond-yields-peak-says-rahul-ghose-11792461311690.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-20T03:22:33.106512Z"
+    },
+    {
+      "id": "18a15bbb2bc5086be9df83626e0215b8",
+      "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
+      "description": "Despite a sharp market downturn in 2026, all 10 top-performing equity PMS strategies delivered positive returns in September, ranging from 3.55% to 5.67%. Amaltas Asset Management’s Keystone Fund led the rankings, while Cupid and Sterlite Technologies featured among the prominent holdings across multiple portfolio management strategies. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135045427,imgsize-427206.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-20T03:22:32.489881Z"
+    },
+    {
+      "id": "9add6ec4e6aa7c96920d81866a0e70c0",
+      "title": "RBI injects Rs 1 lakh crore as liquidity tightens before festive season",
+      "description": "On Monday, the RBI announced a Rs 1-lakh-crore variable rate repo (VRR) auction for the first time since late July after the weighted average call rate (WACR) at 5.67% on Monday, or 17 basis points higher than the repo rate of 5.50%. The central bank will conduct another VRR for Rs 50,000 crore on Wednesday.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135059068,imgsize-58920.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-injects-rs-1-lakh-crore-as-liquidity-tightens-before-festive-season/articleshow/135059068.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-10-20T03:22:32.489457Z"
+    },
+    {
+      "id": "c1c54002e08bfcaa61a2684048bd2c90",
+      "title": "SBI data breach claim: Hackers allegedly access 3.75 lakh accounts",
+      "description": "\"The threat actor describes this as the first disclosure of the dataset, Cyberpulse56 said, adding that the authenticity, origin and extent of the alleged exposure are inverified. If legitimate, the data could facilitate identity theft, financial fraud, targeted phishing and fraudulent loan applications, the group said. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135059062,imgsize-236554.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-data-breach-claim-hackers-allegedly-access-3-75-lakh-accounts/articleshow/135059062.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-20T03:22:32.489418Z"
+    },
+    {
+      "id": "71d6d7f9966850b827ae5340dc32e898",
+      "title": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
+      "description": "Brokerages remain optimistic about ICICI Bank's strong earnings and asset quality after the recent quarter. However, HDFC Bank's profit growth was modest, and margins are under pressure, leading to a more cautious outlook. Despite this, both banks have attractive valuations and positive earnings recovery prospects. On Monday, both stocks experienced declines, along with broader market indices. Analysts highlight potential upsides.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135059089,imgsize-231694.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-20T03:22:32.489340Z"
+    },
+    {
+      "id": "5a408d5d1d8b7f6cfbb62cca87a543d1",
+      "title": "Union Bank Q2 net profit up 30% as margins improve",
+      "description": "Total advances in the September quarter increased 19% year-on-year to ₹11.6 lakh crore, led by a 17% growth in domestic advances, which was supported by a 24% increase in corporate advances to ₹5.2 lakh crore. The bank has a corporate loan pipeline of ₹1 lakh crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135059129,imgsize-.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q2-net-profit-up-30-as-margins-improve/articleshow/135059129.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-20T03:22:32.489296Z"
+    },
+    {
+      "id": "e4dc3c397831fdb86c2939b9fd188c17",
+      "title": "UltraTech Cement Q2 net profit up 21% in September quarter",
+      "description": "A near 14% year-on-year growth in grey cement volumes to 35.94 mt in the domestic market, though, helped UltraTech clock in a near 19% year-on-year growth in consolidated sales to ₹23,295 crore. This also helped the profit before interest, depreciation and tax rise more than 17% to ₹3,832 crore. Consolidated profit for the quarter rose 21% on-year to ₹1,501 crore.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135059234,imgsize-5100382.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-net-profit-up-21-in-september-quarter/articleshow/135059234.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-20T03:22:32.489143Z"
+    },
+    {
+      "id": "4c0fdb4b69b02d4903fa3384a4dfda9c",
+      "title": "Steelmakers may outperform non-ferrous peers in Q2 as higher volumes support earnings",
+      "description": "Non-ferrous companies are expected to see a sequential decline in earnings, with revenue and Ebitda expected to fall 2% and 13%, respectively. The decline in average LME aluminium prices is likely to weigh on their profitability. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135059274,imgsize-.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/steelmakers-may-outperform-non-ferrous-peers-in-q2-as-higher-volumes-support-earnings/articleshow/135059274.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-20T03:22:32.489096Z"
+    },
+    {
       "id": "d51ff6442a63bbb5ee3cdbd8dffbd3cb",
       "title": "​LTCG tax cut alone won't lure FPIs, says Bernstein; Nifty target cut to 25k",
       "description": "A sharp 1-2 day market rally that an LTCG cut would trigger may actually be used to offload positions, Bernstein said in an October 19 note. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14935,191 +15124,6 @@
         "IPO"
       ],
       "pubDate": "2026-09-09T15:54:21.122294Z"
-    },
-    {
-      "id": "e2a3674724253383dcdec89d9d94b724",
-      "title": "Oil tops $100, rupee breaches 95/$ as stocks reel on US-Iran tensions",
-      "description": "The rupee touched a low of 95.23 against the dollar before settling at 95.11 as Brent crude topped $100 a barrel; dealers cited RBI intervention in spot and swap markets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260909/full-126090901376.jpg",
-      "fullArticleLink": "https://www.business-standard.com/india-news/rupee-falls-past-95-as-crude-surges-rbi-steps-in-with-dollar-sales-126090901376_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-09-09T15:54:21.121742Z"
-    },
-    {
-      "id": "e9f22d4222d4fa499e09d3b20c4ee863",
-      "title": "Sebi proposes easier director eligibility, norms for key MII officials",
-      "description": "Markets regulator Sebi on Wednesday proposed changes to the eligibility criteria for directors on governing boards of market infrastructure institutions (MIIs), along with standard qualification and experience norms for key officials such as chief technology officers and chief information security officers. In its consultation paper, the regulator said the proposals are aimed at strengthening the governance of MIIs, which include.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260909/full-126090901169.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-proposes-easier-director-eligibility-norms-for-key-mii-officials-126090901169_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-09-09T15:54:21.121520Z"
-    },
-    {
-      "id": "4ff74c004e4927922c046cddd049ddff",
-      "title": "Tata Trusts gets time till October 15 to respond to ex-trustee Mehli Mistry’s objections: Report",
-      "description": "Former Tata Trustee Mehli Mistry's objections concern change reports recording his exit from three Tata trusts, alleged governance lapses and the eligibility of certain trustees of the Bai Hirabai Trust. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Tata_1788927756162_0dd25961-2820-4488-9558-5e5d26a080a6_1788927780635_f2487367-7329-4b9a-832e-18c683447e6e_40a3f094-9dc0-4209-b891-af2f774198b5_74d4ff7f-8098-4086-84a6-3f92bef01272.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/people/tata-trusts-gets-time-till-october-15-to-respond-to-ex-trustee-mehli-mistry-s-objections-report-11788927382052.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-09T15:54:20.444155Z"
-    },
-    {
-      "id": "5b1a51893b7fc8457c96691c6c2fc821",
-      "title": "Singapore Airlines said to seek tougher terms for any fresh Air India funding",
-      "description": "The tougher terms, which would be negotiated with Tata Sons, is likely to include greater board voting power and requirements for Air India to narrow its loss. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Air-India_1788937369016_4d41bb74-0cf9-4275-93f5-b9e7b40c770f_1788937369170_f6034001-42e4-47c9-81e5-badc7b2f288d_ad049b18-17b7-4801-ba1f-6027f41ba702_452e80d0-0f3a-4a1e-ae1d-d9e14e41d943.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/singapore-airlines-said-to-seek-tougher-terms-for-any-fresh-air-india-funding-11788936471598.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-09T15:54:20.444015Z"
-    },
-    {
-      "id": "a08e6a3d8360bff59b3acd8f65b33c45",
-      "title": "Adani plans $2.5 billion refinancing in India’s biggest offshore loan this year",
-      "description": "Adani Group is breaking the $2.5 billion refinancing loan into two parts to tap different pools of liquidity bring down borrowing costs amid fast changing credit markets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/INDIA-ADANI-ENVIRONMENT-0_1749362592338_1788951153933_e73f3fef-029d-492a-a2d8-a028eeddb297_8872f175-ec7d-430d-b4c5-2ec2118f7a1e_a5e8266f-7ecb-4e69-b3d6-0764510fadcb.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/adani-plans-2-5-billion-refinancing-in-india-s-biggest-offshore-loan-this-year-11788950926206.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-09T15:54:20.443741Z"
-    },
-    {
-      "id": "c18436d37edf928ff119ad7bef2d455e",
-      "title": "NSE IPO: New India Assurance to sell 1.05 crore shares in the upcoming mega OFS | Details here",
-      "description": "The New India Assurance Company on Wednesday, 9 September, said it will divest 1.05 crore shares of the National Stock Exchange of India (NSE) through the proposed NSE IPO. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/New_India_Assurance_NSE_IPO_1788944951523_9826d873-a28c-4256-afa6-a1e9174dc9d7_1788944959544_7d4ac89b-f026-474a-8c25-c8df9f7df046_8e1cb0a3-50f8-4a80-958b-c3ae62d56409_4649659d-3f46-447e-8857-a6e61516c106.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nse-ipo-new-india-assurance-to-sell-1-05-crore-shares-in-the-upcoming-mega-ofs-details-here-11788944435862.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-09-09T15:54:19.722777Z"
-    },
-    {
-      "id": "187d30514cb4fc0899b55d54331b64bf",
-      "title": "'Buy' Knowledge Realty Trust for 16% upside, says ICICI Securities; check share price target",
-      "description": "ICICI Securities assigns a Buy rating to Knowledge Realty Trust (KRT) with a target price of ₹130, indicating a 16% upside. The firm is optimistic about KRT's office portfolio and anticipates a 9% NOI CAGR from FY26-29E as occupancy improves. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/knowledge_1788951479964_d2f7a269-1eb9-4460-b0e3-f4196dd5553d_1788951490693_fd7c6a6a-e95e-4553-8dd6-8db2f3f849fc_a4d239c0-cc33-4115-b210-726d6961e10e_cdc227a6-f86b-411c-aed9-cbae53153325.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/buy-knowledge-realty-trust-for-16-upside-says-icici-securities-check-share-price-target-11788946808099.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-09T15:54:19.722395Z"
-    },
-    {
-      "id": "56f825e821292ffb6237a7fc90d02b65",
-      "title": "Sebi seeks to widen talent pool for stock exchanges and depositories",
-      "description": "The market regulator&nbsp; has proposed easing eligibility rules for directors of market infrastructure institutions while introducing standardised requirements for key technology, cybersecurity, compliance and risk roles. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/INDIA-SEBI-0_1760105208232_1760105217336_1788960793901_b5854432-3974-4f05-b849-3b11fd42aed3_2a054850-44ed-4d9b-962c-56c527883870_72f3f046-2487-4d4f-98e7-58f5f81b7891.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/sebi-seeks-to-widen-talent-pool-for-stock-exchanges-and-depositories-11788956255869.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-09T15:54:19.722020Z"
-    },
-    {
-      "id": "6629e0dcfbf22584718db15668339b57",
-      "title": "Adani Enterprises shares gain over 4% as airports arm plans to raise $1 billion from Temasek, BlackRock, others",
-      "description": "Adani Enterprises shares rose over 4% after Adani Airport Holdings announced a Rs 9,825-crore equity raise from Alpha Wave Global, Premji Invest, Temasek and BlackRock-managed funds. The funds will support airport expansion, modernisation and Airport City projects. AAHL expects the investment to boost capacity, while Adani Enterprises continues delivering strong share-price gains. This key financial update highlights evolving market dynamics.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133954243,imgsize-2365511.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-shares-gain-over-4-as-airports-arm-plans-to-raise-1-billion-from-temasek-blackrock-others/articleshow/133954243.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-09T15:54:19.120118Z"
-    },
-    {
-      "id": "c2d586763efa2f5c95697e4c0d6e5141",
-      "title": "Paytm shares jump 5% as workplace AI push gains traction",
-      "description": "Paytm shares surged on Wednesday, as investors welcomed the company’s push into enterprise AI, marking an expansion beyond its core payments business. The stock has gained over 20% in the past month, significantly outperforming the broader Nifty 500 and Nifty 50. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133957200,imgsize-1867770.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-jump-5-as-workplace-ai-push-gains-traction/articleshow/133957200.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-09T15:54:19.119892Z"
-    },
-    {
-      "id": "6d481707b0921916083bf7bfd7654169",
-      "title": "Sebi fines two Jindal Steel designated persons for trading-window violations",
-      "description": "Sebi has fined two designated persons of Jindal Steel & Power Rs 1 lakh each for trading in the company’s shares and stock options during the trading-window closure period. The regulator also found that they executed trades above the prescribed threshold without obtaining pre-clearance, in violation of the company’s insider trading code. This key financial update highlights evolving market dynamics.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133968938,imgsize-54082.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-fines-two-jindal-steel-designated-persons-for-trading-window-violations/articleshow/133968938.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-09T15:54:19.119236Z"
-    },
-    {
-      "id": "2727cfd1b0963e73c64a20a388967856",
-      "title": "India lifts ban on JPMorgan unit in index manipulation charge",
-      "description": "India lifted its trading ban on JPMorgan unit Copthall Mauritius and Mansi Share after they deposited Rs 2.96 crore ($311,230) in alleged unlawful gains. Accused by SEBI of manipulating BSE Sensex closing auction prices to boost options bets, both entities can trade again while the investigation continues. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133969969,imgsize-137410.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/india-lifts-ban-on-jpmorgan-unit-in-index-manipulation-charge/articleshow/133969969.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-09T15:54:19.119122Z"
-    },
-    {
-      "id": "eccaec2ba86fc40724e4dbc790a777ca",
-      "title": "Sebi revises rules for open interest violations in commodity derivatives",
-      "description": "Sebi has revised commodity derivatives position limits and penalties, effective immediately. The new framework caps violation charges, strengthens action against repeated breaches, and updates agri commodity classifications and limits, aiming to ease compliance while improving market risk management across exchanges. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133970428,imgsize-103708.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-rules-for-open-interest-violations-in-commodity-derivatives/articleshow/133970428.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-09T15:54:19.119066Z"
-    },
-    {
-      "id": "09c030f88b9557496c41ccb520c97091",
-      "title": "Rupee falls to 95.11 vs US dollar as West Asia tensions drive oil fears",
-      "description": "The rupee weakened 0.3% to 95.1050 against the dollar as escalating West Asia military tensions pushed Brent crude above $100. RBI intervention helped limit losses, while traders expect the currency to remain volatile amid oil prices, geopolitical risks and potential de-escalation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133971268,imgsize-32366.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-to-95-11-vs-us-dollar-as-west-asia-tensions-drive-oil-fears/articleshow/133971268.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-09T15:54:18.463223Z"
-    },
-    {
-      "id": "d321c922d57a9cd2eae4066a3c343f9f",
-      "title": "HAL, Divis Labs among 3 stocks MOFSL's Chandan Taparia is bullish on",
-      "description": "Till Nifty holds below 23,700, weakness could extend towards 23,500, then 23,400 levels, while on the upside, hurdles can be seen at 23,800, then 23,900 zones. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260909/full-126090900119.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/hal-divis-labs-among-3-stocks-mofsl-s-chandan-taparia-is-bullish-on-126090900119_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-09T03:02:38.459557Z"
     }
   ]
 }
