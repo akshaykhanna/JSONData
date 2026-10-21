@@ -1,6 +1,200 @@
 {
   "news": [
     {
+      "id": "9726b62b86c164e94b8e0eaff42e5770",
+      "title": "Laurus Labs zooms 128% from March low; hits new high in weak market",
+      "description": "Laurus Labs Q2 outlook: On the EBITDA front, analysts at Kotak Institutional Equities build in 67% YoY growth to ₹680 crore in Q2FY27 with EBITDA margin expansion of 680 bps to 31.2%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261019/full-126101900354.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/laurus-labs-share-price-zooms-128-from-march-low-hits-new-high-in-weak-market-126101900354_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-21T03:17:29.935359Z"
+    },
+    {
+      "id": "47607e248504c95ffb52bcecc448752c",
+      "title": "Jio IPO anchor book sees over 30x demand, draws record bids worth ₹2.5 trn",
+      "description": "Jio Platforms' ₹8,110 crore anchor book draws bids exceeding ₹2.5 trillion, with global investors, mutual funds and insurers competing for shares ahead of its ₹30,213 crore IPO. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261019/full-126101901316.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/jio-ipo-anchor-book-sees-over-30x-demand-draws-record-bids-worth-2-5-trn-126101901316_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-21T03:17:29.935118Z"
+    },
+    {
+      "id": "6c08f7956bca7d8a520c61363934d450",
+      "title": "Global stocks fall as AI spending concerns resurface, oil prices surge",
+      "description": "Global equities declined as concerns over AI infrastructure spending resurfaced after a weak South Korean IPO, while Brent crude topped $111 amid renewed geopolitical risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261020/full-126102000915.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/global-stocks-fall-as-ai-spending-concerns-resurface-oil-prices-surge-126102000915_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-21T03:17:29.935036Z"
+    },
+    {
+      "id": "6d0def36b349fc94473b4c791d978814",
+      "title": "Anthropic eyes second $45 billion Nscale deal as 460MW AI data centre plans advance ahead of potential IPO",
+      "description": "Anthropic is negotiating a second potential $45 billion computing deal with Nscale for a 460MW West Virginia data centre as both firms pursue IPO ambitions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/logo/anthropic_1792467964103_FDZL_1792467976700_tIdZ_df0dddeb-e156-4d09-9b89-8f9fd5249ccf_ReJK.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/anthropic-eyes-second-45-billion-nscale-deal-as-460mw-ai-data-centre-plans-advance-ahead-of-potential-ipo-11792466448988.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-21T03:17:29.084113Z"
+    },
+    {
+      "id": "a6dbcac6632fd6c31001e888e4972aa8",
+      "title": "Akash Ambani: from building Jio to selling its story",
+      "description": "As Jio prepares for India's biggest IPO, chairman Akash Ambani must convince investors that he can do more than carry forward his father’s legacy—that he can turn Jio’s extraordinary scale into enduring value for millions of shareholders. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/maxresdefault_1792510453261_R8EW_1792510459348_bG9a_a3db0d68-42cf-4321-84fd-fb8fc4efcbf3_pFZv.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/akash-ambani-from-building-jio-to-selling-its-story-11792500314399.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-10-21T03:17:29.083839Z"
+    },
+    {
+      "id": "112cc3399f0cd629207e80e2742133df",
+      "title": "Who is Sharad Mathur? Meet IndusInd General Insurance's new MD and CEO tasked with driving growth and transformation",
+      "description": "Sharad Mathur has been appointed Managing Director and CEO of IndusInd General Insurance Company Ltd. Mathur has held senior leadership positions at Universal Sompo General Insurance, SBI General Insurance and ICICI Lombard. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/logo/IndusInd_General_Insurance_Portrait_1792520205293_rwFH_1792520209159_MhrG_dbbd5d29-6a26-4b05-932a-05e8d5d7dbf4_1uhO.png",
+      "fullArticleLink": "https://www.livemint.com/companies/people/who-is-sharad-mathur-meet-indusind-general-insurances-new-md-and-ceo-tasked-with-driving-growth-and-transformation-11792519684443.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-21T03:17:29.083743Z"
+    },
+    {
+      "id": "9d1928c529f620a82c958addb63944f1",
+      "title": "Buoyed by blockbuster IPO, ESDS bets on AI chip rentals for $5 billion revenue scope in 5 years",
+      "description": "In an interview with Mint, CMD Piyush Somani laid out an ambitious AI chip rental strategy to drive growth. But compounding revenue 2.5 times every year remains a rare feat, even in tech. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/21/1600x900/logo/Piyush-Somani_1792549317177_AxpJ_1792549325251_KGLO_4f66856d-0e88-4d91-95b4-cf6319946943_rtni.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/buoyed-by-blockbuster-ipo-esds-bets-on-ai-chip-rentals-for-5-billion-revenue-in-5-years-11792473076889.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-10-21T03:17:29.083628Z"
+    },
+    {
+      "id": "dda615054d7acc85cf381fdbff9a1ddc",
+      "title": "Dussehra 2026 special: Top 3 stocks to buy; ICICI Bank, Adani Ports, Reliance Industries | Target price by Mahesh M Ojha",
+      "description": "Dussehra 2026 special: Mahesh M Ojha of KC Securities has recommmended these three stocks with one year time horizon. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/logo/Dussehra_2026_ICICI_Bank_RIL_Adaani_Ports_share_1792482007794_FBbz_1792482008026_fc81_7853b81c-ff9f-416c-aca3-46c1f8785e98_TgVw.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/dussehra-2026-special-top-3-stocks-to-buy-icici-bank-adani-ports-reliance-industries-target-price-by-mahesh-m-ojha-11792481678492.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-21T03:17:28.458877Z"
+    },
+    {
+      "id": "16c2cd4498fcded4433cdffd63f649f2",
+      "title": "HDFC Bank has green shoots beyond Q2",
+      "description": "HDFC Bank’s NIM fell to a 12-quarter low in Q2, but core operating profit grew and asset quality improved. Faster growth in higher-yielding loans could help margins recover. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/logo/INDIA-HDFC-BANK-23_1792468753055_ayUP_1792468759853_ZXYP_fe02aa9d-4b23-47be-8a00-0aec8db849f0_EQJb.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/hdfc-bank-q2-quarterly-results-review-11792465354169.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-21T03:17:28.458484Z"
+    },
+    {
+      "id": "9acecf2c533be28189acb307dae79177",
+      "title": "Top stocks to buy: Experts bet on SBI, Bank of Baroda, Meesho, CG Power, and 2 others - Target price, stop-loss",
+      "description": "Analysts suggest six stocks for the next one to two weeks: SBI, Bank of Baroda, Meesho, Shyam Metalics, CG Power and Tips Music. Recommendations cite technical patterns and momentum, while cautioning that high crude prices, mixed earnings and geopolitical risks may keep markets fragile. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/logo/Top_Stocks_to_Buy_1792467353763_1ZTu_1792467357620_h2Wc_091db8bb-dbf0-430c-95e4-d0d261780ec5_AQnv.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-experts-bet-on-sbi-bank-of-baroda-meesho-cg-power-and-2-others-target-price-stoploss-11792467348731.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-21T03:17:28.458353Z"
+    },
+    {
+      "id": "163b595bae27f6ad0f6c6eab11f5a245",
+      "title": "Reliance Jio IPO: Massive ₹30,213 cr issue opens for subscription today | Latest GMP, review, listing price prediction",
+      "description": "Reliance Jio IPO: Jio Platforms has fixed its IPO price band at ₹1,065– ₹1,119 per share and is expected to raise approximately ₹30,213 crore through a fresh issue of 27 crore shares. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/21/1600x900/logo/Jio_ipo_1792549548007_HrND_1792549548163_uvfW_24f70070-6454-4f10-9bd5-d79f066ae398_Dh7i.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-massive-30-213-cr-issue-opens-for-subscription-today-latest-gmp-review-listing-price-prediction-11792548066016.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-21T03:17:28.458296Z"
+    },
+    {
+      "id": "ad9efa016feee6b5c86efbc67a506da5",
+      "title": "DLF rebounds in Q2 as luxury demand drives ₹3,800 crore pre-sales",
+      "description": "DLF bounced back in Q2 with ₹3,800 crore in pre-sales thanks to strong luxury home sales in Gurugram, though hitting its full-year ₹20,000 crore target still looks like a steep hill to climb.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/20/1600x900/logo/dlf_dahlias_1781520386267_1781520396452_ae2c55d0-3cc3-4646-9977-5481ef7cd2e2_1792477147347_zfv2_08c0eafe-0c32-4dc0-bde9-8f8bb4fc20b2_veDF.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/dlf-q2-presales-luxury-housing-launches-11792472022718.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-21T03:17:28.458239Z"
+    },
+    {
+      "id": "6f44365c89d3cd596e4745dbd7fcc3ad",
+      "title": "D-Street poised for positive start as GIFT Nifty signals gains",
+      "description": "On Monday, benchmark indices saw a downturn, erasing a brief recovery. The combination of weak global cues and profit-taking in the private banking and IT sectors weighed on investor confidence. Analysts suggested that immediate resistance is at 23,175, with support situated at 22,800. Foreign portfolio investors sold shares worth Rs 1,148 crore, while domestic institutional investors remained net buyers.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135073734,imgsize-240448.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135073734.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-21T03:17:27.839873Z"
+    },
+    {
+      "id": "a2bdec41f385fd2c0cb8769cf24a5341",
+      "title": "Stocks in news: Reliance Industries, Eternal, IREDA, Yes Bank, Trent and Hindustan Zinc",
+      "description": "Indian equity benchmarks experienced a decline as profit-booking occurred amid rising crude oil prices. The Nifty 50 dropped significantly, closing at 22,889 after disappointing corporate earnings. Reliance Industries aims to raise funds through its initial public offering today, which is highly anticipated. Other companies such as IREDA and Yes Bank reported mixed financial results for the quarter. Investors are closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135074022,imgsize-131690.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-ireda-yes-bank-trent-and-hindustan-zinc/articleshow/135074022.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-21T03:17:27.839850Z"
+    },
+    {
+      "id": "2581f36325e1c44b3be9eb0c59bc4351",
+      "title": "Sun Pharma to raise Rs 10,000 crore to part-finance Organon deal",
+      "description": "Sun Pharmaceutical Industries plans to raise ₹10,000 crore through two tranches of rupee-denominated bonds. The funds will help refinance bridge loans taken for the Organon acquisition valued at $11.75 billion. The first tranche will amount to ₹7,000 crore with a coupon rate of 8.20%. Institutional investors are expected to participate, including notable companies like SBI Pension Fund and ICICI Prudential.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135079260,imgsize-128445.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-to-raise-rs-10k-crore-to-part-finance-organon-deal/articleshow/135079260.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-21T03:17:27.839791Z"
+    },
+    {
       "id": "991e3084b7872502f3bab3926a76cf93",
       "title": "More bad news for Starlink? After India, Ukraine controversies, European telcos plan to launch own satellite service",
       "description": "Europe’s four largest telecom companies are exploring plans to launch their own satellite mobile services to reduce reliance on Elon Musk’s Starlink amid rising geopolitical tensions. Starlink has also faced controversies involving India and Ukraine. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14938,194 +15132,6 @@
         "Corporate"
       ],
       "pubDate": "2026-09-10T15:49:09.146982Z"
-    },
-    {
-      "id": "e0b330d37751e8fdd1da015ac8674743",
-      "title": "CAS faced initial liquidity issues across global markets: Sebi chairman",
-      "description": "Says AI can help the regulator shift to 'proactive' monitoring from 'periodic' monitoring; Sebi is also set to propose changes to the closing auction framework. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260910/full-126091001263.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/cas-faced-initial-liquidity-issues-across-global-markets-sebi-chairman-126091001263_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-09-10T15:49:09.146703Z"
-    },
-    {
-      "id": "30857558bf9838810c3e926f124aabf7",
-      "title": "Sebi launches Demat 2.0 pilot for tokenised corporate bonds using DLT",
-      "description": "Three companies have issued tokenised bonds worth Rs 1,025 crore so far; the pilot will test issuance, holding, trading and settlement using distributed ledger technology. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260910/full-126091001301.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-launches-demat-2-0-pilot-for-tokenised-corporate-bonds-using-dlt-126091001301_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-10T15:49:09.146615Z"
-    },
-    {
-      "id": "c406dbd869ae297310d9072e6bd42e7a",
-      "title": "HDFC Bank wins all seven Bahrain cases over Credit Suisse AT1 bonds",
-      "description": "HDFC Bank said the Bahrain court found that the investors had failed to provide sufficient admissible evidence to substantiate the allegations or establish that they suffered losses because of the bank. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/HDB-FINANCIALSERVICES-IPO--0_1733848469052_1789048895824_a035948c-2b1d-44be-a1fa-30c438567f38_0532bc08-6d99-4dbe-88e2-cc6d200aa3f8_c64777d5-0fae-4997-9138-88278b2268d1.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/hdfc-bank-wins-all-seven-bahrain-cases-over-credit-suisse-at1-bonds-11789043137629.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-10T15:49:08.289840Z"
-    },
-    {
-      "id": "de1dcc3610b0c0093ed85f929b714a14",
-      "title": "Coforge eyes industry-leading growth. Will chairman’s exit derail the story?",
-      "description": "Coforge’s strong deal wins, sustained execution and improving cash conversion have kept it in good stead. So far in 2026, the stock has fetched 11% returns, widely beating the 26% drop in the Nifty IT index. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/2-0-92795709--ABH0030-0_1681816800466_1789027554185_c760e68c-c36d-4ea8-a227-d6d1434fce63_20d4424a-477e-49cc-80c2-8c3281473d65_8ce61e17-2453-4586-be2b-3bd133415a31.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/coforge-chairman-resignation-coforge-share-price-it-sector-india-nifty-it-11789024044076.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-10T15:49:07.487041Z"
-    },
-    {
-      "id": "31eba58440c0ccdc5a20e3158a93fe63",
-      "title": "Enviro Infra Engineers shares rise 5% on Rs 224 crore wind EPC order from Tata Power RE",
-      "description": "Enviro Infra Engineers shares sharply after its step-down subsidiary Suyog Urja received a Rs 224.19 crore LOI from Tata Power Renewable Energy for EPC works on a 180 MW NTPC wind project in Maharashtra. The contract covers foundation, balance-of-plant and transmission-line works, strengthening the company’s renewable energy portfolio. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133994920,imgsize-2061244.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/enviro-infra-engineers-shares-rise-5-on-rs-224-crore-wind-epc-order-from-tata-power-re/articleshow/133994920.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-10T15:49:06.349575Z"
-    },
-    {
-      "id": "7b8de28659fa9dacfaf3e1bbdece4bf1",
-      "title": "Jefferies says Adani Enterprises is the ‘platform behind platforms’ with 4 major growth levers",
-      "description": "Jefferies retained a Buy rating on Adani Enterprises with a Rs 3,830 target, citing its infrastructure incubation model and strong growth potential. The brokerage expects a 23% EBITDA CAGR through FY31, led by airports, data centres and ANIL. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133996418,imgsize-2421753.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-adani-enterprises-is-the-platform-behind-platforms-with-4-major-growth-levers/articleshow/133996418.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-10T15:49:06.349385Z"
-    },
-    {
-      "id": "5f105304d9b804ee3c91705cd701308a",
-      "title": "Molbio Diagnostics shares rally 30% in 2 days, jump 80% since debut. What lies ahead?",
-      "description": "Molbio Diagnostics shares have surged nearly 30% in two sessions, extending their post-listing gains to around 80% from the IPO price. The sharp rally comes as the newly listed company reported a strong Q1 FY27 performance, swinging to a profit of Rs 58.75 crore from a loss in the year-ago quarter. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133997329,imgsize-1880072.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/molbio-diagnostics-shares-rally-30-in-2-days-jump-80-since-debut-what-lies-ahead/articleshow/133997329.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-09-10T15:49:06.349251Z"
-    },
-    {
-      "id": "ababd30381964f2a9fba795ca745f92c",
-      "title": "Losing money in Nifty? 8 beaten-down largecap stocks see promoters increase stake in 2026",
-      "description": "Promoters raised stakes in eight Nifty largecaps despite stock declines in 2026, with Jio Financial, Bharti Airtel and Reliance among the companies seeing higher holdings. The moves suggest continued promoter confidence amid a challenging phase for largecap equities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133998097,imgsize-2376266.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/losing-money-in-nifty-8-beaten-down-largecap-stocks-see-promoters-increase-stake-in-2026/articleshow/133998097.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-10T15:49:06.349163Z"
-    },
-    {
-      "id": "976e35ea772710df61513f3c041840b4",
-      "title": "HFCL shares hit lower circuit after 240% rally in 2026. What technical charts now indicate",
-      "description": "HFCL shares hit the 5% lower circuit on Thursday, extending their two-day decline to 7% despite a 240% rally so far in 2026. The stock is currently consolidating in the Rs 257–218 range, with technical indicators pointing to a sideways bias, according to SBI Securities’ Sudeep Shah. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
-      "imageUrl": "https://img.etimg.com/photo/msid-133998015,imgsize-1988104.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-hit-lower-circuit-after-240-rally-in-2026-what-technical-charts-now-indicate/articleshow/133998015.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-10T15:49:06.349073Z"
-    },
-    {
-      "id": "5f73bb280e3ab7af827ebcbd0b74e346",
-      "title": "CAS wild swing: Sensex soars 1,000 points on expiry day but ends only 138 points higher",
-      "description": "In a surprising turnaround, India's stock market indices, Sensex and Nifty, erased intraday losses to close positively on Thursday. Ending a three-day decline, the benchmarks saw Power Grid and Axis Bank surge by nearly two percent, contributing to the upward momentum. Additionally, significant names like UltraTech Cement and NTPC also recorded gains. This key financial update highlights evolving market dynamics.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134003708,imgsize-32934.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cas-swing-sensex-closes-138-pts-higher-nifty-above-23450-as-market-reverses-losses-despite-soaring-oil-prices-whats-ahead/articleshow/134003708.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-09-10T15:49:06.348834Z"
-    },
-    {
-      "id": "ae01b4b951a70fa66f4916976414ea55",
-      "title": "Karan Adani settles PMC Projects case with Sebi by paying Rs 13.65 lakh",
-      "description": "The settlement relates to ​an investigation into banking transactions and inter-corporate security deposits involving ​PMC Projects (India) Private Limited, Adani Ports and Special Economic Zone Ltd (APSEZ), and the port operator's ​subsidiaries. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134008216,imgsize-122564.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-settles-disclosure-violation-charges-against-adani-ports-ceo-cfo/articleshow/134008216.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-10T15:49:06.348611Z"
-    },
-    {
-      "id": "8a200e5704eb0b4a8f8fdb9e74e3ec28",
-      "title": "Sebi completes first phase of Demat 2.0 bond pilot; secondary trading next: Tuhin Kanta Pandey",
-      "description": "The Securities and Exchange Board of India (SEBI) has completed the first phase of its Demat 2.0 pilot for corporate bonds and will next bring secondary-market trading into the new technology framework, SEBI Chairman said on Thursday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134008996,imgsize-73248.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-completes-first-phase-of-demat-2-0-bond-pilot-secondary-trading-next-tuhin-kanta-pandey/articleshow/134008996.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-10T15:49:06.348556Z"
-    },
-    {
-      "id": "c185e5c1480712f1f27d69d39ecdcb6d",
-      "title": "Sonaselection India IPO opens on September 17 at Rs 94-99 per share",
-      "description": "Sonaselection India will launch its IPO on September 17 at Rs 94-99 per share, targeting around Rs 141.6 crore. The Rajasthan-based fabric maker will use proceeds to repay borrowings, buy machinery and fund corporate purposes before NSE-BSE listing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134008483,imgsize-18718.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/sonaselection-india-ipo-opens-on-september-17-at-rs-94-99-per-share/articleshow/134008483.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-09-10T15:49:05.694265Z"
-    },
-    {
-      "id": "8db91165646fd12b19150d60ff0fe610",
-      "title": "Sebi settles disclosure violation charges against Adani Ports CEO, CFO",
-      "description": "India's Securities and Exchange Board of India has resolved disclosure breach allegations against two Adani Ports executives, who each settled by paying 1.37 million rupees without acknowledging any fault. This action comes after a thorough probe into banking operations and inter-corporate security deposits, triggered by concerns over financial reporting violations. The inquiry was part of a broader review sparked.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134008815,imgsize-244970.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/india-market-regulator-settles-disclosure-violation-charges-against-adani-ports-ceo-cfo/articleshow/134008815.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-10T15:49:05.694146Z"
-    },
-    {
-      "id": "fa4084ee41e1464999bd147c93cbcbe4",
-      "title": "Nifty could edge lower to 23,300; HAL among 3 stock ideas: Ajit Mishra",
-      "description": "Stock ideas for today: The index could now move towards the next support zone of 23,300-23,100, while any recovery is likely to face resistance around 23,600-23,800. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260910/full-126091000103.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-buy-nifty-could-edge-lower-to-23-300-hal-among-3-stock-ideas-ajit-mishra-126091000103_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-10T03:03:12.309437Z"
     }
   ]
 }
