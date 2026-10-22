@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "aedc65a4fde629a4f36f41c1b37ffdc7",
+      "title": "Mahindra Finance tanks 10%, hits 52-week low despite 55% surge in Q2 profit",
+      "description": "Mahindra Finance's share price hit a 52-week low of ₹268 on the NSE in Thursday's trading session despite reporting 55% surge in Q2 standalone profit to ₹882 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261022/full-126102200356.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/mahindra-finance-tanks-10-hits-52-week-low-despite-55-surge-in-q2-profit-126102200356_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:12.319373Z"
+    },
+    {
+      "id": "9a76a734e2a67aabacf657afc6bb1c40",
+      "title": "SRF extends slide to 5th day, falls 5% to hit 52-wk low on Q2 margin miss",
+      "description": "Today's selling in SRF was seen despite the company reporting a 31 per cent Y-o-Y increase in consolidated net profit to ₹509.12 crore for the quarter ended September. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261022/full-126102200396.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/srf-extends-slide-to-5th-day-falls-5-to-hit-52-wk-low-on-q2-margin-miss-126102200396_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:12.319327Z"
+    },
+    {
+      "id": "94690fada533bb76f4b393505b261abf",
+      "title": "Nippon Life India AMC gets Sebi nod to settle Yes Bank AT-1 bond case",
+      "description": "Nippon Life India AMC received in-principle regulatory approval to settle the Yes Bank AT-1 bond case after paying ₹96.76 crore, while its September-quarter net profit fell nearly 6%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261022/full-126102201003.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nippon-life-india-amc-gets-sebi-nod-to-settle-yes-bank-at-1-bond-case-126102201003_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:12.318996Z"
+    },
+    {
+      "id": "d9981b27cb762892e76001a89f2b419c",
+      "title": "Colgate-Palmolive Q2 net profit up 5.5% to ₹342 crore, narrowly misses estimates",
+      "description": "A 12.2% increase in revenue and toothpaste volume gains drove Q2 performance, but Ebitda margin fell 287 basis points amid rising input costs and higher ad spend. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/22/1600x900/logo/2-0-400420138-colgate-palmolive-0_1680669721634_1792674564128_aCyH_39dd32e0-67d8-417b-9484-5601a84220b1_Z3eR.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/colgate-palmolive-india-q2-fy27-results-net-profit-interim-dividend-ceo-manish-anandani-11792660302101.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:11.593457Z"
+    },
+    {
+      "id": "9dda7d3c6746e295ec38554a7d075a6b",
+      "title": "Vishal Mega Mart needs a strong Q3 recovery after a worn-out Q2",
+      "description": "Muted same-store growth and narrowing margins hit second-quarter earnings, leaving the value retailer relying on a festive rebound and store additions to justify its steep valuation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/22/1600x900/logo/2-0-151655952-vishal-retail2-0_1681017637498_1792657836475_qgEl_9a2ff68b-4c4a-46de-b468-4169ed5a6adf_4l76.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/vishal-mega-mart-q2-results-share-price-falls-11792654924086.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:10.935146Z"
+    },
+    {
+      "id": "ff810387d3c59c04f6141c863cdf472a",
+      "title": "Shoppers Stop shares deliver almost no returns in 10 years; Experts decode the road ahead | Can the stock turn around?",
+      "description": "Shoppers Stop has delivered weak long-term returns despite revenue growth, as losses, rising costs and fierce competition pressure profitability. ICICI Securities maintains a Hold rating and cut its target price to ₹350. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/22/1600x900/logo/Shoppers_Stop_TenYear_Stock_Decline_1792663310756_ZU35_1792663315021_FdKa_07ada6b4-6bd3-4c22-91be-02ca6c0a1528_bJeY.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/shoppers-stop-shares-deliver-almost-no-returns-in-10-years-experts-decode-the-road-ahead-can-the-stock-turn-around-11792661785761.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-22T16:37:10.934970Z"
+    },
+    {
+      "id": "a75eb4ce8d8bc0919d655ca92751ffb8",
+      "title": "Chennai Petroleum Q2 results 2026: Navratna PSU declares ₹25 dividend, PAT jumps 212 % YoY - Check record date",
+      "description": "Chennai Petroleum reported a 212 % year-on-year rise in Q2FY27 consolidated net profit to ₹2,271.2 crore. Its board declared an interim dividend of ₹25 per share, with October 30 set as the record date. Shares closed 1.15% higher. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/22/1600x900/logo/Chennai_Petroleum_Q2_Dividend_Surge_1792664081785_qcTG_1792664141664_VrQd_6beecc99-befb-447f-82f8-534533a3d9d0_W0Je.png",
+      "fullArticleLink": "https://www.livemint.com/market/chennai-petroleum-q2-results-2026-navratna-psu-declares-rs-25-per-share-interim-dividend-pat-jumps-291-yoy-check-re-11792662591173.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:10.934940Z"
+    },
+    {
+      "id": "d68684363d3fc92f9319d7453d0f9aee",
+      "title": "Reliance Industries shares: Monarch sees 20% upside in 3–4 months - Reveals buy range, targets for Mukesh Ambani stock",
+      "description": "Monarch Networth Capital named Reliance Industries its stock pick of the week, citing a potential triple-bottom pattern near ₹1,150–1,180. It recommends accumulating at ₹1,180–1,220, with a target of ₹1,350–1,450 over three to four months and a closing-basis stop loss below ₹1,100. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/22/1600x900/logo/Reliance_Industries_1792667353641_skYx_1792667358559_aS1s_2ea1b8aa-3ae0-4a9a-a94e-b583f77def0d_0A5e.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-monarch-sees-20-upside-in-3-4-months-reveals-buy-range-targets-for-mukesh-ambani-stock-11792662864758.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-22T16:37:10.934822Z"
+    },
+    {
+      "id": "be910157e2ea74d95d36564720328cbe",
+      "title": "163% return in 3 years! This AMC declares ₹9.50 dividend despite 6% profit dip- Do you own? Check record date",
+      "description": "Nippon Life India Asset Management shares fell 3.14% to ₹970 after the company reported a 6% year-on-year decline in Q2 FY27 profit to ₹324.4 crore, partly due to a one-time Sebi settlement charge. Revenue rose 21% to ₹796 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/22/1600x900/logo/Nippon_Life_Dividend_Growth_Banner_1792672738357_jmoH_1792672748002_7XIZ_a2120a33-0232-42de-9747-23b5448ec44f_nO98.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/163-return-in-3-years-this-amc-declares-rs-9-50-dividend-despite-6-profit-dip-do-you-own-check-record-date-11792672553645.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:10.934633Z"
+    },
+    {
+      "id": "a35c10de2013ba7115b14da91190c5cb",
+      "title": "RIL stock: Jio's listing could unlock value, but will it drive a re-rating?",
+      "description": "The anticipated IPO of Jio Platforms is likely to reshape valuation assessments for both Reliance Industries and Bharti Airtel. With Jio's market debut, Reliance may witness a decrease in its holding-company discount. Meanwhile, Airtel stands to gain from rising telecom tariffs, boosting average revenue per user and overall profitability. The enthusiasm from investors towards Jio's IPO highlights strong market confidence.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135113747,imgsize-2332673.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ril-stock-jios-listing-could-unlock-value-but-will-it-drive-a-re-rating/articleshow/135113747.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-22T16:37:10.295803Z"
+    },
+    {
+      "id": "f5634d6c1a11ac16f9d3f0e017f173fe",
+      "title": "Mahindra Lifespace Q2 profit down 66 pc to Rs 16 cr",
+      "description": "Mahindra Lifespace Developers Ltd experienced a substantial 66 percent drop in consolidated net profit for the quarter ending September 2026, with profits falling to Rs 16.34 crore compared to Rs 47.91 crore last year. However, total income saw remarkable growth, reaching Rs 104.02 crore, up from Rs 33.06 crore. For the first half of this fiscal year, net profit saw.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135118930,imgsize-17382.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-lifespace-q2-profit-down-66-pc-to-rs-16-cr/articleshow/135118930.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:10.295549Z"
+    },
+    {
+      "id": "da7a75e23bc35cace5919c1bd9663eb0",
+      "title": "Colgate-Palmolive India Q2 Results: Profit rises 4.3% to Rs 341.6 crore",
+      "description": "Colgate-Palmolive India Ltd has reported a 4.3% increase in net profit for the September quarter. The company achieved a net profit of Rs 341.57 crore compared to Rs 327.51 crore last year. Sales increased by 12.22% to Rs 1,691.57 crore in this quarter. The gross margin expanded by 40 basis points year-on-year, reflecting cost management strategies and pricing actions.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135119461,imgsize-81592.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/colgate-palmolive-india-q2-results-profit-rises-4-3-to-rs-341-6-crore/articleshow/135119461.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:10.295472Z"
+    },
+    {
+      "id": "4c892f1ae268641ddf58ec359235d3cf",
+      "title": "Hatsun Agro Product Q2 Results: Profit rises 5.6% on strong sales",
+      "description": "Hatsun Agro Product reported a notable growth in net profit for the September quarter, reaching Rs 115.69 crore, up from Rs 109.54 crore from last year. Total income also surged to Rs 2,902.49 crore, showcasing strong sales amidst industry hurdles. The company emphasizes enhancing direct consumer relationships and expanding its market footprint in Maharashtra and Odisha, while continuing to invest.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135121117,imgsize-69518.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/hatsun-agro-product-q2-results-profit-rises-5-6-on-strong-sales/articleshow/135121117.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:10.295445Z"
+    },
+    {
+      "id": "719038e1c1a47f2d643b2e5e4def0b03",
+      "title": "CreditAccess Grameen Q2 profit jumps fourfold to Rs 502 crore",
+      "description": "CreditAccess Grameen reported a fourfold rise in Q2 net profit to Rs 502 crore, driven by higher income, lower expenses and credit costs. Improved asset quality prompted upward revisions to profitability guidance, while assets under management grew 19.5%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135121186,imgsize-32368.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/creditaccess-grameen-q2-profit-jumps-fourfold-to-rs-502-crore/articleshow/135121186.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:10.295416Z"
+    },
+    {
+      "id": "f33836523ee5e8b6bbfa4a7a72265928",
+      "title": "Sebi warns investors against WhatsApp stock tips. Here's how you can avoid such traps",
+      "description": "SEBI has cautioned investors against exclusive WhatsApp groups spreading unauthorised stock tips and fake profit claims. The regulator flagged astroturfing, overseas numbers, replacement groups and suspicious trading apps, urging investors to verify credentials and use registered intermediaries. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135121957,imgsize-49164.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-investors-against-whatsapp-stock-tips-heres-how-you-can-avoid-such-traps/articleshow/135121957.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-22T16:37:10.295344Z"
+    },
+    {
       "id": "450106697376c263221bc88c0f05ceb6",
       "title": "Nifty India Defence index slips 3%; Unimech, Axiscades, Dynamatic tank 7%",
       "description": "Apollo Micro, MTAR Tech, Sigma Advanced, Paras Defence, Astra Microwave, Zen Technologies, BEML, MIDHANI, Solar Industries and Data Patterns were down in the range of 4 per cent to 6 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14941,192 +15127,6 @@
         "Corporate"
       ],
       "pubDate": "2026-09-12T14:58:14.542454Z"
-    },
-    {
-      "id": "860a58c5c2bcedf582a76643cb9cdc7b",
-      "title": "NSE IPO: Exchange eyes revenue diversification beyond options trading",
-      "description": "NSE management says new businesses, SIFs, commodities and ETFs could diversify revenue, while clarifying it has not sought permission to trade its shares on NSE. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260911/full-126091101307.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/nse-ipo-exchange-eyes-revenue-diversification-beyond-options-trading-126091101307_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-09-12T03:05:53.606248Z"
-    },
-    {
-      "id": "1b8a9e1d00a1fe6f13a821532e62734e",
-      "title": "Paytm stock soars to post-listing record, yet below IPO price",
-      "description": "Paytm parent One97 Communications hit a post-listing record high of ₹1,807.5, while Granules India promoter Krishna Prasad Chigurupati offloaded a 6.95% stake for ₹1,501 crore in block deals. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260911/full-126091101561.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/stock-market-news/paytm-stock-soars-to-post-listing-record-yet-below-ipo-price-126091101561_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-12T03:05:53.606168Z"
-    },
-    {
-      "id": "fe42f6dc73903f59d27145f2ad3c50cc",
-      "title": "Fidelity, GIC, BlackRock among global funds eyeing NSE’s anchor allocation",
-      "description": "The anchor portion is likely to be valued at approximately ₹6,800 crore, less than a third of the truncated IPO size, which will comprise entirely an offer for sale by existing investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/INDIA-NSE-22_1789129292618_7aec6fa0-2356-4410-aaad-07a47c7e2cb7_1789129303516_a76616e0-92a1-45bf-bbb5-af5ae319864c_6feaa640-c113-4157-a643-daa57ae55fb7_14b7e225-eef3-46d8-abb8-8f7e26a16d77.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/fidelity-prudential-and-gic-likely-to-participate-in-6-800-crore-nse-ipo-anchor-book-11789123294707.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-09-12T03:05:52.869482Z"
-    },
-    {
-      "id": "284fb98c92e0e82f8df79b1052863f74",
-      "title": "Gold ETFs slide over 1%, silver plunges 3%: Why prices are falling and what investors should watch",
-      "description": "On Friday, gold and silver ETFs saw declines, with silver dropping more than gold. The declines stem from increased US interest-rate expectations and macroeconomic concerns. Gold ETFs attracted considerable inflows in August, despite ongoing volatility influenced by upcoming consumer inflation data. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Gold_ETFs_1789115519878_b436955d-e78e-4dec-8918-2a867e142db4_1789115525473_0ba4b53d-86d6-4dc2-beac-03f994a3023d_9a3c8580-4875-40b5-92e1-be44345237b3_f24b1c0a-38ad-4790-8f2f-0e9f72a3597d.png",
-      "fullArticleLink": "https://www.livemint.com/market/commodities/gold-etfs-slide-over-1-silver-plunges-3-why-prices-are-falling-and-what-investors-should-watch-11789112427627.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-12T03:05:52.138602Z"
-    },
-    {
-      "id": "55e6972312997d998fc73036b8599beb",
-      "title": "GFF 2026: Digital finance has scaled, now trust and resilience must catch up, says RBI’s Deputy Governor Murmu",
-      "description": "India's digital finance sector now prioritizes trust and resilience over access. Technology transforms finance, but trust remains the essential bedrock. Operational and cyber resilience are key priorities for the nation's financial infrastructure. Inclusion must extend beyond smartphones to reach all citizens. Technology distributes services, but responsibility always remains with regulated institutions. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134103426,imgsize-57752.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/digital-finance-has-scaled-now-trust-and-resilience-must-catch-up-rbis-deputy-governor-murmu/articleshow/134103426.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-12T03:05:51.300183Z"
-    },
-    {
-      "id": "741cbffa5b80544258119b45f160db44",
-      "title": "Sebi proposes extending IT, cyber security framework of MIIs to their arms",
-      "description": "Sebi proposed extending IT and cyber security rules to subsidiaries of market infrastructure institutions. This move aims to strengthen regulatory oversight over these evolving business structures. Subsidiaries undertaking core MII activities will now follow parent company's cybersecurity frameworks. Exemptions can be sought if subsidiaries do not meet specific criteria. Public comments on this proposal are due by October 2.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134063604,imgsize-98728.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-extending-it-cyber-security-framework-of-miis-to-their-arms/articleshow/134063604.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-12T03:05:51.299803Z"
-    },
-    {
-      "id": "66d7d0c0d99173651df2cfb376adbed2",
-      "title": "Sebi proposes extending cybersecurity rules to subsidiaries of MIIs",
-      "description": "Sebi proposes extending its IT and cyber security framework to MII subsidiaries, seeking to close oversight gaps involving critical technology, data and infrastructure. The paper covers subsidiaries linked to MII activities, data or shared infrastructure, with comments due October 2. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134066718,imgsize-360380.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-extending-cybersecurity-rules-to-subsidiaries-of-miis/articleshow/134066718.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-12T03:05:51.299685Z"
-    },
-    {
-      "id": "f9ccdb852ef0e49f243b7fa0232182a3",
-      "title": "Sebi imposes Rs 2 lakh penalty on Emami Realty for regulatory lapses",
-      "description": "Sebi has imposed a Rs 2 lakh penalty on Emami Realty for regulatory lapses involving a related-party loan and the classification of investments in its standalone financial statements. The regulator found that the company lacked prior audit committee approval for a Rs 25 lakh loan and improperly classified Rs 49.94 crore of investments. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134067540,imgsize-360380.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-rs-2-lakh-penalty-on-emami-realty-for-regulatory-lapses/articleshow/134067540.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-12T03:05:51.299647Z"
-    },
-    {
-      "id": "921565596565065404f8909c18556c4f",
-      "title": "NSEL settlement scheme: Sebi settles proceedings against 91 commodity brokers",
-      "description": "Sebi has concluded its proceedings against ninety-one commodity brokers linked to the NSEL issue, allowing these firms to participate in a settlement scheme. Many brokers consented to temporary limitations on proprietary trading and onboarding new clients, with some remitting settlement fees of up to thirty-six lakh rupees. This move aligns with the directive from the Securities Appellate Tribunal regarding.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134074347,imgsize-103708.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nsel-settlement-scheme-sebi-settles-proceedings-against-91-commodity-brokers/articleshow/134074347.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-09-12T03:05:51.299608Z"
-    },
-    {
-      "id": "1723e0085d717cdac2c9a4a36ddbeb39",
-      "title": "Bank deposits grow 17.8% in August, fastest in decade as FCNR-B inflows mask local mobilisation woes",
-      "description": "Bank deposits grew 17.8% year-on-year at the end of August, the fastest pace in a decade, driven largely by a surge in FCNR-B deposits after RBI opened a special window for dollar inflows. Credit growth eased slightly to 19.1%, while banks continued to face challenges in mobilising domestic savings. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134103054,imgsize-35218.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bank-deposits-grow-17-8-in-august-fastest-in-decade-as-fcnr-b-inflows-mask-local-mobilisation-woes/articleshow/134103054.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-12T03:05:51.299570Z"
-    },
-    {
-      "id": "086602df2d0fca939ca51506b8d766ba",
-      "title": "Oversold markets may stage near-term rebound, say analysts",
-      "description": "Indian equities experienced a decline on Friday, mirroring Asian markets' downward trend. Both Nifty and Sensex indices closed lower for a fifth consecutive week. Rising crude oil prices and US bond yields kept investors on edge throughout the trading session. Broader market indices also saw a dip, reflecting the overall market sentiment. Despite some recovery, the market's fear gauge, VIX.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134102236,imgsize-109666.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equities-end-lower-for-fifth-week-amid-oil-us-yields-concerns/articleshow/134102236.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-12T03:05:51.299345Z"
-    },
-    {
-      "id": "07d5a9e9ffcdc3a4d09eee6056829337",
-      "title": "RBI opts for sharp liquidity drain through $10.5 billion debt sale",
-      "description": "The Reserve Bank of India is set to issue bonds valued at one trillion rupees to help manage surplus liquidity in the banking sector. This strategic move comes in response to increasing inflationary pressures driven by high oil prices, with the central bank indicating that all liquidity management strategies are still in play. This decision follows a disappointing reception.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134070578,imgsize-81600.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-central-bank-opts-for-sharp-liquidity-drain-through-10-5-billion-debt-sale/articleshow/134070578.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "IPO"
-      ],
-      "pubDate": "2026-09-12T03:05:50.626440Z"
-    },
-    {
-      "id": "d3674195e9100ec821b31b280cea406a",
-      "title": "RBI to drain Rs 1 lakh crore as VRRR auctions fail to absorb liquidity",
-      "description": "The Reserve Bank of India will drain Rs 1 lakh crore through bond sales this month after VRRR auctions failed to absorb excess liquidity. The move follows dollar inflows, with Governor Sanjay Malhotra signalling multiple tools to manage surplus funds. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134072926,imgsize-1306475.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-drain-rs-1-lakh-crore-as-vrrr-auctions-fail-to-absorb-liquidity/articleshow/134072926.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-12T03:05:50.626290Z"
-    },
-    {
-      "id": "d3f600e1864403bd650940497d4dd120",
-      "title": "10-year bond yield crosses 7% as RBI trims auction bids",
-      "description": "On Friday, benchmark government bond yields climbed by five basis points, surpassing the 7% threshold. The Reserve Bank of India managed to accept less than half of the amount it had targeted in a three-year bond auction. Factors such as high global risk-free rates and escalating crude oil prices are exerting pressure on Indian bonds.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134100670,imgsize-21698.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/bond-yields-cross-7-as-rbi-cuts-3-year-bond-auction-acceptance/articleshow/134100670.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-12T03:05:50.625794Z"
-    },
-    {
-      "id": "e8440740d324cd618e582b125c05af06",
-      "title": "Equities extend losing streak to five weeks as crude oil, FII selling weigh",
-      "description": "Sensex and Nifty end about 2 per cent lower for the week at their lowest levels since June 11, while broader markets outperform despite widespread sectoral losses. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260911/full-126091101243.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/equities-extend-losing-streak-to-five-weeks-as-crude-oil-fii-selling-weigh-126091101243_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-11T15:51:26.622341Z"
     }
   ]
 }
