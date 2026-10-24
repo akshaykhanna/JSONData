@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "38c3e245138844d515b701e9aa574934",
+      "title": "Lost mettle! VAML, Vedanta, Nalco sink up to 6% as metal index drops 3%",
+      "description": "The latest decline has dragged the Nifty Metal index down around 6.3 per cent over the past four trading sessions, compared with a 3 per cent fall in the benchmark Nifty 50 index in the same period. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261023/full-126102300524.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/lost-mettle-vaml-vedanta-nalco-sink-up-to-6-as-metal-index-drops-3-126102300524_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-24T03:15:20.404677Z"
+    },
+    {
+      "id": "3c505c0c93ddcb90e797055eb48e3110",
+      "title": "BlueStone Jewellery stock plunges 13% as firm swings back to losses in Q2",
+      "description": "BlueStone Jewellery shares remain 47 per cent higher on a year-to-date (YTD) basis and 27 per cent higher in six months. However, they are flat over the last year, having lost nearly 2 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261023/full-126102300774.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/bluestone-jewellery-stock-plunges-13-as-firm-swings-back-to-losses-in-q2-126102300774_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-24T03:15:20.404504Z"
+    },
+    {
+      "id": "5e7b09808e1857ee883ec6e9ba01c887",
+      "title": "Sebi eases call-recording mandate for research analysts dealing with funds",
+      "description": "Market regulator Sebi on Friday eased the mandatory requirement for research analysts to maintain call recordings of their interactions with institutional investors to reduce compliance burden and improve ease of doing business. In a circular, the Securities and Exchange Board of India (Sebi) said research analysts and entities will no longer be mandatorily required to maintain call recordings of interactions.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261023/full-126102301112.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-eases-call-recording-mandate-for-research-analysts-dealing-with-funds-126102301112_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-10-24T03:15:20.404365Z"
+    },
+    {
+      "id": "2c4594692df486d5491f1a8349506166",
+      "title": "Sebi orders Avadhut Sathe Trading Academy and its founder to refund ₹546 cr",
+      "description": "Markets regulator Sebi on Friday directed Avadhut Sathe Trading Academy Pvt Ltd (ASTAPL) and its Founder Avadhut Sathe to refund Rs 546.17 crore collected from participants for providing unregistered investment advisory and research analyst services, along with interest of Rs 67.87 crore. The regulator has also barred the academy and Sathe from accessing the securities market for two years.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261023/full-126102301645.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-orders-avadhut-sathe-trading-academy-and-its-founder-to-refund-546-cr-126102301645_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-24T03:15:20.404285Z"
+    },
+    {
+      "id": "47619c21aefdebecea333663d53fc6af",
+      "title": "Godrej Properties lines up ₹32,000 crore of launches in second half of FY27",
+      "description": "The Mumbai-based developer aims to hit its ₹39,000 crore full-year sales target on the back of premium project rollouts, even as higher expenses weighed on its September-quarter profit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/logo/Godrej_Properties_1792766784829_4bsg_1792766784951_jEUy_a0e7c347-b54b-4466-8653-c5bffee09ad1_mTkQ.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/godrej-properties-lines-up-32-000-crore-of-launches-in-second-half-of-fy27-11792753396217.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-24T03:15:19.828616Z"
+    },
+    {
+      "id": "a937e19295c4702196f859bf10bad89e",
+      "title": "JSW Steel profit more than triples on strong demand, beats Street estimates",
+      "description": "Higher realisations and strong domestic demand drove a surge in September-quarter earnings, as the steelmaker cleared ₹16,150 crore in fresh capex to support its long-term growth targets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/logo/JSW-STEEL-RESULTS--0_1784443366703_1784443382872_cabe0628-2e90-4652-a48d-9fd39e152dd4_1792772572976_JCcM_1bc1dbb9-5bf8-4bd8-815e-3f64df288a44_fQrk.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/jsw-steel-profit-more-than-triples-on-strong-demand-beats-street-estimates-11792764827881.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-24T03:15:19.828385Z"
+    },
+    {
+      "id": "12761f515468b420908a79f86eaa407c",
+      "title": "Tata Sons listing row: What Parsi, Zoroastrian groups want PM Modi to protect",
+      "description": "The community organisations' letter adds another dimension to the debate, framing the issue as one involving not only corporate governance and regulatory requirements but also the Tata Group's institutional identity and philanthropic commitments. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/logo/modi_and_tata_1792778551858_0qyt_1792778594436_5IpD_b8a328e8-5389-405d-9613-b7360180911d_cm6c.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-listing-row-parsi-zoroastrian-groups-write-to-pm-modi-in-support-of-tata-trusts-11792775937728.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-24T03:15:19.828265Z"
+    },
+    {
+      "id": "2f001cccaa7417c680f66800c9fdde8c",
+      "title": "Ather Energy, TVS Motor, Bajaj Auto, Tata Motors PV shares: Can Delhi’s pollution curbs change game for auto-EV stocks?",
+      "description": "Delhi’s tighter pollution curbs from November 1 may encourage replacement of older vehicles and support EV makers, particularly electric two-wheeler companies. Experts say the near-term impact on EV stocks is likely to be sentiment-driven, while commercial vehicle makers may benefit more directly. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/logo/Delhi_pollution_1792748774616_SKaV_1792748774743_ZuCZ_99d17128-7453-4c6c-b3c9-951719bd3e3f_N1FN.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/ather-tvs-motor-bajaj-auto-tmpv-can-delhi-s-pollution-curbs-be-a-game-changer-for-auto-ev-stocks-experts-weigh-in-11792745756272.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-24T03:15:19.258665Z"
+    },
+    {
+      "id": "61113c36b04d027821549c782156785a",
+      "title": "Sebi bars Avadhut Sathe, academy from markets, imposes ₹11.5 crore penalty",
+      "description": "In a final order issued on Friday, the market regulator directed ASTAPL and its founder Avadhut Dinkar Sathe to disgorge and refund ₹546.17 crore to eligible investors and participants who paid for its unregistered services. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/logo/INDIA-SEBI-0_1764336404903_1764336415199_1792775545753_uggO_9915cce1-9ab3-4141-9582-a5f0e874cdb0_0fpl.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/sebi-bars-avadhut-sathe-academy-from-markets-imposes-11-5-crore-penalty-11792771771945.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-10-24T03:15:19.258028Z"
+    },
+    {
+      "id": "2929f5b5b18231dedc59086a02cac2e7",
+      "title": "D-Street bleeds! Market value of all BSE-listed firms falls below Rs 450 lakh crore for first time since April. More pain ahead?",
+      "description": "The market capitalisation of BSE-listed companies fell below Rs 450 lakh crore for the first time since April as Sensex and Nifty extended losses for a fourth straight session. Nearly Rs 25 lakh crore has been wiped out this week, with soaring crude prices and rising bond yields weighing on sentiment. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135140291,imgsize-2358454.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-bleeds-market-value-of-all-bse-listed-firms-falls-below-rs-450-lakh-crore-for-first-time-since-april-more-pain-ahead/articleshow/135140291.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-24T03:15:18.688994Z"
+    },
+    {
+      "id": "dc5019bd12ba71f90111ee84e2843e4b",
+      "title": "IndusInd Bank Q2 Results: Lender posts profit of Rs 1,176 crore vs Rs 445 crore loss a year ago",
+      "description": "In the second quarter of this fiscal year, IndusInd Bank reported a standalone net profit of Rs 1,176 crore, showcasing a remarkable turnaround from a loss of Rs 445 crore in the same quarter last year. The bank's net interest income increased by 4% year-on-year to Rs 4,569 crore, driven by enhanced asset quality, while gross non-performing assets decreased.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135142692,imgsize-182322.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q2-results-lender-posts-profit-of-rs-1176-crore-vs-rs-445-crore-loss-a-year-ago/articleshow/135142692.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-24T03:15:18.688822Z"
+    },
+    {
+      "id": "6c079f2886741cce2f1a8ed9b0a662e1",
+      "title": "Only 15% of midcap stocks above 50-DMA: Is buying the dip getting riskier? JM Financial spots signs of leadership shift",
+      "description": "JM Financial warns midcap and smallcap leadership may weaken as market breadth deteriorates sharply. Largecaps show early recovery signals, but investors should remain cautious. Nifty holding 22,000 could trigger a rebound; breaking below risks a fall towards 20,500. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135146815,imgsize-204980.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/only-15-of-midcap-stocks-above-50-dma-is-buying-the-dip-getting-riskier-jm-financial-spots-signs-of-leadership-shift/articleshow/135146815.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-24T03:15:18.688726Z"
+    },
+    {
+      "id": "27147f364a9607811e5ca662487ba873",
+      "title": "Jindal Steel Q2 profit rises 21% as revenue hits record Rs 19,448 crore",
+      "description": "Jindal Steel’s Q2 FY26 profit rose 21% year-on-year to Rs 771 crore, while revenue surged 44% to a record Rs 19,448 crore. Higher steel production and sales boosted earnings, while adjusted EBITDA grew 33% and net debt declined sequentially. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135149749,imgsize-108320.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-24T03:15:18.688532Z"
+    },
+    {
+      "id": "4c04718d298d8664bfb342fe2cbfb26a",
+      "title": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
+      "description": "Jana Small Finance Bank reported a 127% year-on-year rise in Q2 profit to Rs 170 crore, supported by business growth, higher margins and improved gross asset quality. The bank raised its annual profit growth guidance to 100%, while loans and deposits expanded. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135150094,imgsize-14902.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-24T03:15:18.688501Z"
+    },
+    {
+      "id": "61a3ad4d726551df1a976ca321604e49",
+      "title": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on strong interest income, lower funding costs",
+      "description": "Shriram Finance reported a 59.4% year-on-year rise in Q2 FY27 standalone profit to Rs 3,677 crore, driven by higher net interest income and lower funding costs. Assets under management grew 17%, while the board declared an interim dividend of Rs 6.50 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135150195,imgsize-146002.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-24T03:15:18.688429Z"
+    },
+    {
       "id": "53b4065bf9aff8a37dafd5b997e9e8b6",
       "title": "Havells India gains nearly 2% after Q2 results; brokerages split on outlook",
       "description": "The company reported a 9.72 per cent year-on-year increase in consolidated net profit to ₹349.22 crore in the September quarter of FY27, helped by revenue growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14931,198 +15116,6 @@
         "Corporate"
       ],
       "pubDate": "2026-09-14T03:20:45.134123Z"
-    },
-    {
-      "id": "616c24d8fa29dfd045965f5fe0619be4",
-      "title": "Who is Asha Sharma? Indian-origin Xbox CEO who lives by ‘clarity is kindness’ as she tries to reshape company's future",
-      "description": "Asha Sharma, CEO of Microsoft’s Xbox division, is pursuing an aggressive turnaround amid declining revenue, weak Game Pass projections and major job cuts. Her hands-on leadership style and ambitious growth targets have drawn attention as she seeks to reshape the gaming business. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/Asha_Sharma_Xbox_1789289200688_49c24d71-2874-42c2-9908-2237e4075a56_1789289200889_d05e4746-9bd6-4c84-bb59-461dff3a0240_6fb934b7-3b57-49cf-bacd-5cfed05bbe88_b5aba0e0-04ac-4db3-8934-8e201e0f6369.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/people/who-is-asha-sharma-indian-origin-xbox-ceo-who-lives-by-clarity-is-kindness-as-she-tries-to-reshape-companys-future-11789288910836.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-09-13T15:36:12.254451Z"
-    },
-    {
-      "id": "b70e1dcf51b06cd29f443f29a3f5d323",
-      "title": "Sensex, Nifty prediction for Tuesday: NSE, BSE closed tomorrow on Ganesha Chaturthi - Outlook for stock market 15th Sept",
-      "description": "On Friday, the Nifty 50 rebounded 0.72% from its intraday low but still ended 0.34% lower at 23,398. The Sensex also recovered sharply from its lows, though it finished 0.16% down at 74,780, on 11 September. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/outlook_1789275780854_c52aa646-389f-4c60-93ea-17c9494b2930_1789275780993_852c4225-5f84-4314-a46a-e4a5fe4c8279_5f0feaf3-2b5a-4edb-bb4e-5d6a22d49d91_0e41b45a-27f6-42f8-86ca-346608bf6374.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-nifty-prediction-for-tuesday-nse-bse-closed-tomorrow-on-ganesha-chaturthi-outlook-for-stock-market-15th-sept-11789270500682.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-13T15:36:11.657928Z"
-    },
-    {
-      "id": "30915470e9d2ec917dbe55677702ef14",
-      "title": "Top stocks to buy under ₹100 by Sumeet Bagadia: Inox Wind, South Indian Bank, Paisalo Digital; check stop-loss, target",
-      "description": "Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks under ₹100 that he feels are a buy in current situation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/Sumeet_Bagadia_1789278666980_3a041c77-9373-4c70-8136-67e533bc96ba_1789278667152_c4726bfe-6e38-4ff1-ac19-865834041d60_aa3511cc-a58b-4deb-9666-10e505dbeee8_362f5e16-da73-4d2a-af94-e77f4ced75f5.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-100-by-sumeet-bagadia-inox-wind-south-indian-bank-paisalo-digital-check-stop-loss-target-11789277605159.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-13T15:36:11.657888Z"
-    },
-    {
-      "id": "75f8d6383838f8059446cc1399d73970",
-      "title": "Amid super viral 1980s retro look ChatGPT photo prompt trend, Sam Altman confirms why no OpenAI IPO in 2026 - Details",
-      "description": "OpenAI confidentially submitted paperwork for an IPO in June, although the company has indicated that the timing of a potential listing has not yet been finalised. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/maxresdefault_1789298759971_4e04deea-0bf4-4436-8b03-04f662297dbd_1789298766367_51d29d01-07a2-4bfe-8485-e4e4f7838308_4b662356-be1b-48c4-81df-f6d4a77c24e4_1ee5473d-e84d-4caa-8954-a48a2cf98dce.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/amid-super-viral-1980s-retro-look-chatgpt-photo-prompt-trend-sam-altman-confirms-why-no-openai-ipo-in-2026-details-11789282715935.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-13T15:36:11.657797Z"
-    },
-    {
-      "id": "d2fa126ba6327a5d931f317997c06a48",
-      "title": "NSE IPO GMP Today Price: Latest grey market premium rates after band announcement - Data details here",
-      "description": "Based on grey market trends over the past 10 sessions, the current GMP of ₹207 suggests a bearish sentiment. During this period, the GMP fluctuated between a low of ₹192 and a high of ₹310. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/NSE_IPO_1789289542890_c2019660-8600-44d5-abd0-5e94c8c57a9e_1789289543038_6f981b66-ef77-42a3-994e-cfb03d3eb437_a09d6c64-013e-42a3-ac7d-de9967874d90_ca777bf0-1c9d-4a74-afec-83d17ecf29af.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/nse-ipo-gmp-today-price-latest-grey-market-premium-rates-after-band-announcement-data-details-here-11789285660693.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-09-13T15:36:11.657753Z"
-    },
-    {
-      "id": "4a202b6209d44315435782bee2486964",
-      "title": "NSE IPO: SBI, BoB, LIC to New India Assurance Company | Top 10 selling shareholders earn up to 5,57,700% return",
-      "description": "NSE IPO: The weighted average cost of acquisition of the NSE shares for The New India Assurance Company and National Insurance Company is ₹0.32 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/NSE_IPO_GMP_Date_News_SBI_BoB_LIC_acquisition_cost_1789294114630_c8493c28-8280-4d67-8ad6-b45179984787_1789294114790_8dda2be5-1eb2-4809-a86d-7a4c886d33e6_baaf3620-9e81-4d82-b891-ea61070d259a_336f1523-2820-49a6-ad0e-b8c4529a0751.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/nse-ipo-sbi-bob-lic-to-new-india-assurance-company-top-10-selling-shareholders-earn-up-to-5-57-700-return-11789293789157.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-13T15:36:11.657677Z"
-    },
-    {
-      "id": "51700f92ccb58078c525e38770beb9ba",
-      "title": "Kamarajar Port invites bankers for ₹1,200 crore IPO",
-      "description": "Kamarajar Port has begun the process of appointing up to three bookrunning lead managers for its proposed IPO, which is likely to include a ₹1,200 crore offer for sale. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/oden-cubes-cold-g_1789289377660_ca52a9b0-1a1f-4ed9-b0b6-41d443f32472_1789289377844_834bf971-6115-42bb-ab23-773f9db504e1_e91c79a5-08ef-47ef-b091-b50d28d3ea8c_d1199ba8-a716-4aa9-bac0-a20afcf2b469.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/kamarajar-port-invites-bankers-for-1-200-crore-ipo-11789280693928.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO"
-      ],
-      "pubDate": "2026-09-13T15:36:11.657592Z"
-    },
-    {
-      "id": "a30c3f2f319564a182eaa33672754cae",
-      "title": "SBI's 80 paise masterstroke: How NSE IPO could deliver Rs 2,850 crore jackpot and 2,23,025% return",
-      "description": "SBI is set to potentially book a massive profit from the NSE IPO by selling up to 1.60 crore shares acquired at a weighted-average cost of just 80 paise each. At the upper price band of Rs 1,785, the stake sale could fetch around Rs 2,850 crore, implying a staggering 223,025% return. This key financial update highlights evolving market dynamics.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134047862,imgsize-2028361.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbis-80-paise-masterstroke-how-nse-ipo-could-deliver-rs-2850-crore-jackpot-and-223025-return/articleshow/134047862.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-13T15:36:11.045524Z"
-    },
-    {
-      "id": "d2ff2686ef0f025b372d7099deee0e6c",
-      "title": "Weekly Market Outlook: Can Nifty find its footing as crude, Fed policy drive markets?",
-      "description": "Indian equities enter a holiday-shortened week with the Nifty at a crucial support zone after five consecutive weekly declines. The US Fed’s policy decision, FOMC projections, crude oil prices, global bond yields and foreign flows will drive near-term sentiment. Analysts expect volatility to remain elevated but see scope for buying at lower levels, with the Nifty’s 23,000–23,300 zone in focus.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134178071,imgsize-214162.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-can-nifty-find-its-footing-as-crude-fed-policy-drive-markets/articleshow/134178071.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-13T15:36:11.044472Z"
-    },
-    {
-      "id": "3a237a2d785b6ce30af4a4af04596156",
-      "title": "Dividends and stock splits: Hindustan Copper, Cochin Shipyard among 200+ stocks with record dates this week. Check full list",
-      "description": "Over 90 companies have fixed September 18 as the record date for dividends and other corporate actions. Victoria Mills leads with a Rs 50 per share dividend, followed by Sharda Motor Industries at Rs 20. The list also includes several companies announcing dividends, while Oriana Power and Kairosoft Ai Solutions have set record dates for stock splits.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134185981,imgsize-148012.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-and-stock-splits-hindustan-copper-cochin-shipyard-among-200-stocks-with-record-dates-this-week-check-full-list/articleshow/134185981.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-13T15:36:11.044307Z"
-    },
-    {
-      "id": "1b98c9ac42443447cba5ae661ddd6ddc",
-      "title": "ETMarkets Smart Talk| From floor trading to AI algos: Why India’s retail traders are entering the automation era, says Shruti Jain",
-      "description": "AI-powered algorithmic trading is becoming increasingly accessible to Indian retail investors, driven by Sebi’s regulatory framework, trading APIs and zero-code platforms. Arihant Capital’s Shruti Jain explains how automation can improve execution, reduce emotional bias and potentially become a mainstream trading habit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134188329,imgsize-68260.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/etmarkets-smart-talk-from-floor-trading-to-ai-algos-why-indias-retail-traders-are-entering-the-automation-era-says-shruti-jain/articleshow/134188329.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-13T15:36:11.044249Z"
-    },
-    {
-      "id": "d5410e2e0ebdcd2973d45987fb897773",
-      "title": "Oriental Insurance hopes to turn corner in FY27 assisted by NSE stake dilution",
-      "description": "Looking ahead, Oriental Insurance Company projects a profitable turnaround by 2026-27, facilitated by a planned stake dilution in the National Stock Exchange through an upcoming IPO. The company plans to offer close to 49.57 lakh shares in this process. Such a move is anticipated to enhance financial stability and liquidity, with subscriptions commencing on September 17, marking a key milestone.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134191606,imgsize-5210.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/oriental-insurance-hopes-to-turn-corner-in-fy27-assisted-by-nse-stake-dilution/articleshow/134191606.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-09-13T15:36:11.044157Z"
-    },
-    {
-      "id": "f6a9e733f9313a60000ed8c0104f8e92",
-      "title": "SML Ltd weighing IPO within 2 to 3 years, eyes new chemical entity pipeline",
-      "description": "SML Ltd, a leading agri-inputs manufacturer, is contemplating a stock market listing in the next two to three years. With significant cash reserves, the company plans to invest in developing new chemical entities and proprietary molecules. While external factors have led to a reduction in their revenue targets for the fiscal year, SML Ltd is also diversifying its offerings.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134180833,imgsize-50236.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/sml-ltd-weighing-ipo-within-2-to-3-years-eyes-new-chemical-entity-pipeline/articleshow/134180833.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-09-13T15:36:10.439804Z"
-    },
-    {
-      "id": "e25696861cffcb7806681166bfe43fb5",
-      "title": "Why it’s getting harder for Tata Sons to resist an IPO",
-      "description": "The RBI reportedly rejected Tata Sons’ request for exemption from rules requiring upper-layer NBFCs to list publicly. The decision could intensify pressure on the Tata Group holding company to launch an IPO, despite its efforts to remain private. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134183425,imgsize-45652.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/why-its-getting-harder-for-tata-sons-to-resist-an-ipo/articleshow/134183425.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-13T15:36:10.439715Z"
-    },
-    {
-      "id": "d4d83066c4eaa528078ef0bf1610a7ac",
-      "title": "Nifty may rebound to 23,800; Rupak De picks Apollo, Laurus Labs and Eternal for the week",
-      "description": "Three stocks have emerged as top technical picks for the week, with Apollo, Laurus Labs and Eternal showing positive chart setups. Apollo is expected to move towards Rs 450 after a falling channel breakout, while Laurus Labs could target Rs 2,100 amid a strong uptrend. Eternal also looks poised for a short-term recovery, with a target of Rs 347.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134186964,imgsize-15140.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/nifty-may-rebound-to-23800-rupak-de-picks-apollo-laurus-labs-and-eternal-for-the-week/articleshow/134186964.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-13T15:36:10.439632Z"
     }
   ]
 }
