@@ -1,6 +1,199 @@
 {
   "news": [
     {
+      "id": "cb55ca616a14d66baafe843bfb99a3d4",
+      "title": "Tata Consumer Products gains 4% after Q2 show; margin recovery keenly eyed",
+      "description": "Tata Consumer Products share price: JM Financial analysts also expect margin delivery to improve, with full benefits of the price hikes in tea and salt to be seen in Q3FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261027/full-126102700202.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/tata-consumer-products-share-price-gains-4-after-q2-show-margin-recovery-keenly-eyed-126102700202_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-27T17:27:40.577863Z"
+    },
+    {
+      "id": "f04f427d6e01f88b5ccf398380860ba7",
+      "title": "Ather Energy extends rally, EV stock surges 20% in 2 days; here's why",
+      "description": "Ather Energy: Overall, the outlook is positive, with volume growth, Konarc's market acceptance and sustained profitability being the key triggers to watch, say analysts at ICICI Securities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261027/full-126102700280.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/ather-energy-extends-rally-ev-stock-surges-20-in-2-days-here-s-why-126102700280_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-27T17:27:40.577748Z"
+    },
+    {
+      "id": "763d00bdbc8b67c68f9bddbf5df2b238",
+      "title": "Bharti Airtel share price up 3%; rallies 12% in October, outperforms market",
+      "description": "With expectations of a tariff hike soon after Jio's IPO, Motilal Oswal Financial Services expects strong earnings delivery, which could also lead to potential multiple re-rating for Bharti and JPL. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261027/full-126102700623.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/bharti-airtel-share-price-up-3-rallies-12-in-october-outperforms-market-126102700623_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-10-27T17:27:40.577480Z"
+    },
+    {
+      "id": "f6dd6044b7d7d8fb5c047a37e985f05b",
+      "title": "Acutaas Chemicals rallies 13%; hits record high on strong Q2 results",
+      "description": "Thus far in the calendar year 2026, Acutaas Chemicals' market price has zoomed 116% compared to a 9.4% decline in the Nifty 500 index. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261027/full-126102700730.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/acutaas-chemicals-rallies-13-hits-record-high-on-strong-q2-results-126102700730_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-27T17:27:40.577318Z"
+    },
+    {
+      "id": "38e0410aac6824656d95355642d7c63d",
+      "title": "HUL Q2 preview: Margins pressures loom as raw material prices continue to rise",
+      "description": "Analysts estimate HUL’s July-September revenue at ₹17,582 crore and net profit at ₹2,784 crore. Higher raw material costs could pressure margins, while price increases may affect volumes.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/HIND-UNILEVER-STOCKS--0_1753936029330_1753936043931_1793083390646_RoYA_fd03252e-1898-43b2-afbc-1d457a7369e8_JVI0.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/hul-q2-preview-margin-pressure-raw-material-prices-net-profit-revenue-11793026096043.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-27T17:27:40.039109Z"
+    },
+    {
+      "id": "8d3c9b9173224ab91875401886c64156",
+      "title": "This Tata Group stock jumps 7% today after Q2 results - Is it a stock to buy now? Experts decode",
+      "description": "Year-to-date, the stock is down 15% compared to a 14% fall in the Sensex. On a monthly scale, it is up 5% so far in October, on course to end its two-month losing run. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/Tata_Consumer_Products_1793082521231_Xtaw_1793082527876_hTEw_2f3e4c69-729f-41da-a55c-b651fdd78d8e_0Npa.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/this-tata-group-stock-jumps-7-today-after-q2-results-is-it-a-stock-to-buy-now-experts-decode-11793081896140.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-27T17:27:39.456519Z"
+    },
+    {
+      "id": "90b352ea0621d3a4a8d493b2e4bd33cb",
+      "title": "Amazon stock target raised by Morgan Stanley, UBS ahead of Q3 results; what are the key catalysts? Know here",
+      "description": "Morgan Stanley and UBS raised their Amazon price targets ahead of Q3 results, citing accelerating AWS growth, AI opportunities and improving efficiency. Their optimism is tempered by rising AI infrastructure spending, which could weigh on free cash flow even as cloud profitability strengthens. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/DECART-M-A-AMAZON-0_1791810133518_FEZ9_17918101480_1793095686064_gcXA_1793095686260_Sq9c_d5dcdb5d-38de-42a2-b616-70eed354cac6_r3mH.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/amazon-stock-target-raised-by-morgan-stanley-ubs-ahead-of-q3-results-what-are-the-key-catalysts-know-here-11793095491619.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-27T17:27:39.456351Z"
+    },
+    {
+      "id": "7fe6d71c801aff4406a3b6fdc72d0c86",
+      "title": "OneSource Specialty Pharma shares jump 14% after Q2 results; recover 50% from recent lows",
+      "description": "OneSource Specialty Pharma shares rose nearly 14% after the company reported Q2 revenue growth of 37% year-on-year and adjusted profit after tax of ₹93.7 crore. The company maintained its FY28 targets and expects expanded drug-device combination capacity to support future growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/g92b1058ef85bbd2655821fc2d3158739c3724f0c10b9004fb_1749011574047_1793115396272_Pk1a_09ce85c9-a739-4e66-94fa-976b68ad6af2_jUip.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/onesource-specialty-pharma-shares-jump-14-after-q2-results-recover-50-from-recent-lows-11793115107385.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-27T17:27:39.455718Z"
+    },
+    {
+      "id": "737cd6fce873cc48af62325a104f586e",
+      "title": "Mazagon Dock Shipbuilders shares crash 10% after Q2 net profit tumbles 54%; firm declares Rs 5/share dividend",
+      "description": "Mazagon Dock Shipbuilders shares plunged 10% after the state-owned company reported a 54% year-on-year decline in Q2 FY27 net profit to Rs 344 crore. Revenue from operations fell 16.5% to Rs 2,446 crore, while margins contracted sharply. The company also declared an interim dividend of Rs 5 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135232098,imgsize-56586.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mazagon-dock-shipbuilders-shares-crash-10-after-q2-net-profit-tumbles-54-firm-declares-rs-5/share-dividend/articleshow/135232098.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-27T17:27:38.812803Z"
+    },
+    {
+      "id": "03b1f5c3674dd359074640ccb65b7a5d",
+      "title": "Larsen & Toubro Q2 Results: Profit surges 33% YoY to Rs 5,202 crore, revenue grows 16%",
+      "description": "L&T Q2 Results: Larsen & Toubro announced significant financial results for the quarter ended September 30, 2026. The company reported a 33% increase in consolidated profit after tax compared to the previous year. Consolidated revenue also grew by 16%, driven by strong performance across various sectors. Additionally, L&T achieved its highest quarterly order inflow and saw substantial international participation.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135233297,imgsize-304848.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/larsen-toubro-q2-results-profit-surges-33-yoy-to-rs-5202-crore-revenue-grows-16/articleshow/135233297.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-27T17:27:38.812619Z"
+    },
+    {
+      "id": "9aa3acb6894044ed120a66a77b7bd1ed",
+      "title": "Tata Capital Q2 Results: Profit jumps 51% to Rs 1,660 crore; NII up 23%",
+      "description": "Tata Capital’s September-quarter net profit surged 51% year-on-year to Rs 1,660 crore, driven by loan growth, higher interest income and lower provisions. Its loan book crossed Rs 3 lakh crore, while improving margins and asset quality strengthened profitability. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135234003,imgsize-173188.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q2-results-profit-jumps-51-to-rs-1660-crore-nii-up-23/articleshow/135234003.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-27T17:27:38.812534Z"
+    },
+    {
+      "id": "af8a23d38c1be59864cde5fcf771d726",
+      "title": "RIL to announce Q2 results on October 30, board to also consider fundraising",
+      "description": "Reliance Industries will announce its September-quarter results on October 30, alongside considering fundraising through non-convertible debentures. Investors will track performance across O2C, telecom, retail and energy businesses amid share price weakness and market uncertainty. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135237289,imgsize-165538.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q2-results-on-october-30-board-to-also-consider-fundraising/articleshow/135237289.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-27T17:27:38.812285Z"
+    },
+    {
+      "id": "b932df5e9e3c75e54001f063c8f7b8e3",
+      "title": "Tata Capital Q2 net profit rises 51% on higher income",
+      "description": "Tata Capital’s second-quarter net profit rose 51% year-on-year to Rs 1,660 crore, supported by higher interest income and loan growth. Assets under management increased 26% to Rs 3.08 lakh crore, while floating-rate lending adjustments and margin improvement remain key priorities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135239343,imgsize-53949.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q2-net-profit-rises-51-on-higher-income/articleshow/135239343.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-27T17:27:38.812134Z"
+    },
+    {
+      "id": "41c1f7a81bf398e0393980b649769ea9",
+      "title": "SBI Life Insurance Q2 Results: Net profit grows 11% YoY to Rs 549 crore",
+      "description": "SBI Life Insurance recorded an 11 percent increase in net profit for the second quarter. The net profit reached Rs 549 crore compared to Rs 495 crore last year. Additionally, the company’s net premium income grew by 8.17 percent to Rs 26,877 crore. This increase in profit and income highlights the company’s strong financial performance in the current fiscal year.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135240500,imgsize-23670.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-life-insurance-q2-results-net-profit-grows-11-yoy-to-rs-549-crore/articleshow/135240500.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-27T17:27:38.812082Z"
+    },
+    {
+      "id": "a4cfae17af0afdc26384bea5ebe92c6f",
+      "title": "SAIL Q2 Results: Net profit surges four-fold to Rs 1750 crore on higher revenue",
+      "description": "Steel Authority of India Ltd announced a significant increase in consolidated net profit for the September quarter. The company reported a profit of Rs 1,750.47 crore, a substantial rise from the previous year. Revenue from operations also saw growth, reaching Rs 31,997.55 crore compared to Rs 26,704.17 crore last year. Total expenses rose modestly to Rs 29,913.65 crore from Rs.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135240695,imgsize-75540.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/sail-q2-results-net-profit-surges-four-fold-to-rs-1750-crore-on-higher-revenue/articleshow/135240695.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-10-27T17:27:38.811982Z"
+    },
+    {
       "id": "61e7a3af9493727e5967da3119cf04aa",
       "title": "Stock markets rebound after 4-day slump; Sensex jumps 483 points",
       "description": "Sensex gained 483 points to close at 73,606.75, while Nifty rose 153 points to 22,753.20, ending a four-day losing streak as metal, telecom and healthcare stocks rallied. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14926,195 +15119,6 @@
         "Corporate"
       ],
       "pubDate": "2026-09-17T16:13:32.845093Z"
-    },
-    {
-      "id": "391755ec60a858e22a0a51cb338884e6",
-      "title": "FMCG, PSU banks lift markets as IT drags; Tata stocks caught in crossfire",
-      "description": "Indian equities recover as FMCG and PSU bank stocks gain, while IT shares and Tata group stocks face selling pressure ahead of the Tata Sons board meeting. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260916/full-126091601309.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/fmcg-psu-banks-lift-markets-as-it-drags-tata-stocks-caught-in-crossfire-126091601309_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T03:24:06.508232Z"
-    },
-    {
-      "id": "95b54a886eee3f24862c4e1bfd596a6d",
-      "title": "NSE's much-awaited IPO opens today; should you apply? Check reviews, GMP",
-      "description": "NSE IPO subscription status, GMP today: NSE has set a price band of ₹1,700-1,785 per share, with a face value of ₹ 1. In the grey market, NSE shares are trading at a premium of up to 9 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260916/full-126091601151.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/ipo/nse-ipo-subscription-status-apply-or-avoid-review-latest-gmp-today-share-price-allotment-date-126091601151_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-09-17T03:24:06.508132Z"
-    },
-    {
-      "id": "feb5859157e30e6c8c579dcda0d9986b",
-      "title": "Stocks to watch: Mazagon Dock, JSW Energy, Highway Infra, Fortis & Infosys",
-      "description": "Stocks to watch today: LCC Projects, Karamtara Engineering, Manipal Payment, Rentomojo, Steamhouse India and Asset Reconstruction Company (India) are slated to list on the bourses today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260917/full-126091700085.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-september-17-mazagon-dock-jsw-energy-highway-infra-fortis-infosys-126091700085_1.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T03:24:06.507961Z"
-    },
-    {
-      "id": "ef29b4fbca833febad7ced10c613c09c",
-      "title": "Nifty may slip to 22,500; 3 technical stock ideas for today by Jatin Gedia",
-      "description": "Nifty 50's crucial support is at the 23,000 - 23,100 zone. A breach below this could lead to a continuation of the downtrend towards 22,600 - 22,500 zone. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260917/full-126091700089.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-may-slip-to-22-500-3-technical-stock-ideas-for-today-by-jatin-gedia-126091700089_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-17T03:24:06.507863Z"
-    },
-    {
-      "id": "ad6e039fea87d08edb20bb594c1762a3",
-      "title": "Divisions run deep as Tata Sons meets",
-      "description": "Members of the Tata Sons board are split on the question of listing Tata Sons as well as a third term for Chandrasekaran as chairman. While Noel Tata is expected to dig in his heels, other members may have different ideas. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1789569725404_jOFS_58e11b76-4fce-4333-b3d4-7b60ab6fa80d_0n24.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-board-meeting-noel-tata-tata-trusts-natarajan-chandrasekaran-tata-sons-ipo-listing-11789564248600.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T03:24:05.949548Z"
-    },
-    {
-      "id": "05067aa851e2ad8c3a815c0928db4403",
-      "title": "US Fed rate hike impact on Indian stock market - Sensex, Nifty, Bank Nifty, Nifty IT",
-      "description": "The US Federal Reserve's recent interest rate hike has implications for the Indian stock market, influencing key indices like Sensex and Nifty. While market experts predict limited immediate impact, the long-term effects could sway investments as the dollar strengthens.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/2-0-99427245-FederalReserve-4C--0_1681710281513_1789582109435_MoJh_2eb40df7-393a-4229-84ec-b808b94e2725_JfrI.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-impact-on-indian-stock-market-sensex-nifty-bank-nifty-nifty-it-11789581995860.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-09-17T03:24:05.307939Z"
-    },
-    {
-      "id": "670ada264693b6bbed3f8c21eeeb35f3",
-      "title": "Brokers push back against Sebi's proposed net worth rule",
-      "description": "The regulator has proposed changes to the so-called variable net worth — a capital cushion every broker must maintain as a buffer against risks from its client business. Currently, this cushion is set at 10% of the average daily cash balance a broker holds on behalf of clients. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101_1789553587427_1Dbz_17ab159e-7d32-4af2-b638-6e32deed68f1_Ripl.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/sebis-new-capital-rule-for-brokers-sparks-pushback-we-dont-hold-that-money-anymore-11789539286446.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-17T03:24:05.307511Z"
-    },
-    {
-      "id": "027627cf49379cc2f9597585703bbef8",
-      "title": "Nifty technical view: Consolidation likely as index trades near crucial support",
-      "description": "The index failed to close above the 23.6% retracement level of the previous day's decline and continued to form a lower low, keeping the short-term structure weak. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/Dalal_Street_Investment_1789582676301_GAP6_1789582676545_yoxt_41851b27-5c75-4f09-afcc-b464b877b67a_bREj.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-technical-view-consolidation-likely-as-index-trades-near-crucial-support-11789582167722.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-17T03:24:05.307269Z"
-    },
-    {
-      "id": "61d77722e9a943df4fc907b7cf0d0c35",
-      "title": "Stocks to buy: Nagaraj Shetti recommends Aegis Logistics, Vedanta shares to buy in the short-term",
-      "description": "Indian stock market indices, Sensex and Nifty 50, are set to open flat on 17 September, influenced by mixed global cues. Recent trends show Nifty 50 closing above 23,200, while faces volatility around key support levels. A potential bearish pattern persists amid consolidation signs. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/Nagaraj_Shetti_1789610157457_vdtE_1789610166505_AqnL_09a12f7a-a247-4465-8225-1199a9dc67a9_rh18.jpeg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-aegis-logistics-vedanta-shares-to-buy-in-the-shortterm-11789608081171.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-17T03:24:05.307133Z"
-    },
-    {
-      "id": "b336818bc9084c4606822bd231e5c8bb",
-      "title": "RBI clarifies principal business rules for NBFCs, CIC definition after Tata Sons CoR rejection",
-      "description": "The Reserve Bank of India has clarified definitions for financial activity and core investment companies. This clarification follows the rejection of Tata Sons' application to surrender its registration. Companies must meet specific asset and income thresholds to be regulated by the central bank. Tata Sons, an unlisted holding company, now faces enhanced regulatory scrutiny. The central bank's decision effectively pushes.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134296940,imgsize-155568.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-clarifies-principal-business-rules-for-nbfcs-cic-definition-after-tata-sons-cor-rejection/articleshow/134296940.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T03:24:04.728697Z"
-    },
-    {
-      "id": "003ca7d850185cc738c8bd243d7de485",
-      "title": "Retail investors pull Rs 5,674 crore from stocks, invest Rs 12,618 crore into IPOs in July-August",
-      "description": "Indian retail investors sold equities in July and August. They then invested heavily in primary market IPOs during this period. This shift occurred after significant buying in the previous quarter. Analysts suggest this is a tactical allocation change for profit booking. Strong IPO activity and listing gains are attracting this capital. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134296954,imgsize-58226.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-shift-from-secondary-market-to-ipos-in-july-august-selling-rs-5674-crore/articleshow/134296954.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-09-17T03:24:04.728620Z"
-    },
-    {
-      "id": "03776fe7c4ee513e9c9051a512c54156",
-      "title": "D-Street braces for weak opening on negative GIFT Nifty cues",
-      "description": "Indian benchmark indices closed marginally higher after a volatile trading session. The US Federal Reserve increased its main interest rate for the first time in three years. This decision led to a slip in US stock markets on Wednesday. Foreign portfolio investors were net sellers, while domestic institutional investors bought shares. The Indian Rupee weakened for the seventh consecutive session.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134296710,imgsize-242264.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134296710.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-17T03:24:04.728575Z"
-    },
-    {
-      "id": "96b1f7bba406940732da9d82b083c4d2",
-      "title": "Kamlesh Chandra Varshney reappointed as Sebi whole-time member",
-      "description": "Sebi has announced the continued presence of Kamlesh Chandra Varshney as a whole-time member following approval from the Appointments Committee of the Cabinet. His new term lasts until August 4, 2029, unless specified otherwise. Varshney originally took office as a whole-time member in September 2023, contributing to a total of three individuals in such roles at Sebi.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134297428,imgsize-3974936.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/kamlesh-chandra-varshney-reappointed-as-sebi-whole-time-member/articleshow/134297428.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-17T03:24:04.728424Z"
-    },
-    {
-      "id": "ccfcd63826fac1e66b923f5437e09224",
-      "title": "Rentomojo IPO shares to list today; GMP points to 26% potential listing gains",
-      "description": "The Rs 1,255.57 crore IPO was priced at Rs 404 per share and included both a fresh issue and an offer for sale (OFS). The fresh issue comprised 37.15 lakh equity shares worth Rs 150 crore, while the OFS component consisted of 2.73 crore shares valued at Rs 1,105.57 crore. This key financial update highlights evolving market dynamics, strategic corporate.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134299691,imgsize-2293529.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rentomojo-ipo-shares-to-list-today-gmp-points-to-26-potential-listing-gains/articleshow/134299691.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-17T03:24:04.728306Z"
-    },
-    {
-      "id": "d44f3c90fae5ebec69653ec52b9d0867",
-      "title": "Can NSE IPO deliver long-term growth for high-risk investors?",
-      "description": "In a bold move, the National Stock Exchange is set to initiate a major offer for sale, aiming to secure additional capital from its existing investors. This organization boasts a fully integrated platform focused on trading and settlement, where transaction fees are the primary source of income, supplemented by expanding services. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134297090,imgsize-359246.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-nse-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/134297090.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-09-17T03:24:04.160079Z"
     }
   ]
 }
