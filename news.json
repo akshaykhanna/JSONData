@@ -1,6 +1,199 @@
 {
   "news": [
     {
+      "id": "a59ee0e0742651418f59d9b0dcc4dcb9",
+      "title": "Derivatives trading may need more guardrails, says Sebi's KVR Murty",
+      "description": "Business Standard BFSI Summit: Sebi's KVR Murty says the regulator is considering whether more guardrails are needed for derivatives trading, particularly amid heightened activity on expiry days. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261027/full-126102701292.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-may-consider-more-guardrails-for-derivatives-trading-says-murty-126102701292_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-10-28T03:57:24.098234Z"
+    },
+    {
+      "id": "bd62812566a824ddf279c1255eb7012c",
+      "title": "Markets end flat ahead of Fed decision; FPIs buy shares worth ₹4,240 crore",
+      "description": "Benchmark stock indices Sensex and Nifty closed largely unchanged in a highly volatile trade on Tuesday amid profit-taking in IT and blue-chip banking shares, elevated crude oil prices and caution ahead of the US Federal Reserve's policy decision. The 30-share BSE Sensex slipped 8.08 points, or 0.01 per cent, to close at 73,598.67, with 17 constituents higher, 12 lower.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261027/full-126102701164.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sensex-nifty-close-largely-unchanged-amid-selling-in-bank-it-stocks-elevated-crude-oil-prices-126102701164_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-28T03:57:24.098126Z"
+    },
+    {
+      "id": "8bf269e1bf23111cd5dfd2724f4c1e84",
+      "title": "No standardised CAS template worldwide: Sebi Whole-time Member K V R Murty",
+      "description": "At the BFSI Insight Summit 2026, Sebi's KVR Murty said retail F&O traders may need additional guardrails, while stressing investor awareness, market integrity and technology-led oversight. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261027/full-126102701754.jpg",
+      "fullArticleLink": "https://www.business-standard.com/specials/bs-events/no-standardised-cas-template-worldwide-sebi-whole-time-member-k-v-r-murty-126102701754_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-10-28T03:57:24.098024Z"
+    },
+    {
+      "id": "ba81ed65ed2c5c44d198d56ced4a87d2",
+      "title": "Sebi extends compliance deadline for debenture trustees till April 2027",
+      "description": "Markets regulator Sebi on Tuesday extended the deadline by six months, till April 27, 2027, for debenture trustees to comply with requirements governing activities that fall outside its regulatory purview. Under Regulation 9C of the Sebi (Debenture Trustees) Regulations, 1993, a debenture trustee holding a valid certificate of registration is required to transfer activities not regulated by the Securities.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261027/full-126102701364.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-extends-compliance-deadline-for-debenture-trustees-till-april-2027-126102701364_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-10-28T03:57:24.097929Z"
+    },
+    {
+      "id": "644ee6ab42e003eeb170f4d53d2bb563",
+      "title": "Vinay Rajani expects Nifty to rally above 22,800; shares 2 stock ideas",
+      "description": "Vinay Rajani of HDFC Securities believes that a sustained move above 22,800 could clear the 20-DEMA resistance and open the way for Nifty toward the next resistance at 23,175. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261028/full-126102800112.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/vinay-rajani-expects-nifty-to-rally-above-22-800-shares-2-stock-ideas-126102800112_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-28T03:57:24.097670Z"
+    },
+    {
+      "id": "5a5fa4dfef2003a97d1199b526e16f1e",
+      "title": "Stock Market LIVE: Sensex plunges 700 pts, Nifty below 22,600; Jio Platforms listing in focus",
+      "description": "Sensex Today | Stock Market LIVE Updates Wednesday: The GIFT Nifty indicated a gap-down open for the Nifty 50 index. Asian markets were trading higher in early deals. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261028/full-126102800114.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-oct-28-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-iran-strikes-brent-crude-ipos-jio-listing-jio-share-price-it-stocks-maruti-share-price-q1-result-today-share-market-today-126102800114_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-10-28T03:57:24.097554Z"
+    },
+    {
+      "id": "84287ab7e646b5da1a2c8557c41a711b",
+      "title": "Tata Consumer’s distribution overhaul powers growth in more businesses, says CEO",
+      "description": "A distribution overhaul has helped make growth businesses a key engine for Tata Consumer Products. The company is expanding AI tools across sales and tea production, while price hikes and premium products support growth despite inflation and softer demand. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/Sunil_1793089950667_p8tQ_1793089950906_U41D_e46ee339-de93-475c-9d9c-348a3ed71d8b_S4bB.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-consumer-growth-businesses-tata-sampann-revenue-growth-sunil-dsouza-11793083887431.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-10-28T03:57:23.551411Z"
+    },
+    {
+      "id": "8ab25ce1371cd4058f679c720c5aa043",
+      "title": "Exports, EVs help Bajaj Auto’s Q2 profit surge amid rising costs, looming rural stress",
+      "description": "Strong overseas demand and a favourable exchange rate lift quarterly earnings, even as the two-wheeler maker flags rural distress and weak demand for entry-level motorcycles. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/27/1600x900/logo/Bajaj-Auto-expects-domestic-motorcycles-growth-for_1690307835460_1793118323297_rRMR_fecee53b-4fbb-4cb1-a749-430309fb3155_mbsD.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/exports-evs-help-bajaj-auto-s-profit-surge-amid-rising-costs-and-looming-rural-stress-11793113633770.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-28T03:57:23.550816Z"
+    },
+    {
+      "id": "cd3a8e0bad9d8a3039bfb0fc8de6f8ca",
+      "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets",
+      "description": "Stock market prediction for Wednesday, 28 October, 2026: Gift Nifty was trading around the 22,749 level, down nearly 62.50 points or 0.27% from the Nifty futures’ previous close, indicating a negative opening for the Indian stock market indices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/28/1600x900/logo/prediction_today_1793151531748_P7DE_1793151532111_pmIW_cd3c8598-9b72-4964-81ed-cffec8031f47_AdF1.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-for-28-oct-sensex-nifty-prediction-jio-platforms-ipo-listing-gift-nifty-us-and-asian-markets-11793149578444.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-10-28T03:57:22.999744Z"
+    },
+    {
+      "id": "82d6f556170a0ae33f9de0b9cfc420ee",
+      "title": "Adani-group owned ACC’s consolidated profit slumps 92% on year in September quarter",
+      "description": "ACC reported a significant 92% decline in profit for the September quarter, attributed to lower sales volumes. The company’s profit stood at Rs 93 crore, a sharp drop from Rs 1,119 crore last year. Consolidated revenue also fell by over 5%, reflecting the impact of a supply agreement with Ambuja Cements. Total expenses increased by more than 2%, despite.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135249224,imgsize-69730.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-group-owned-accs-consolidated-profit-slumps-92-on-year-in-september-quarter/articleshow/135249224.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-28T03:57:22.413410Z"
+    },
+    {
+      "id": "6c03ef34c913b19534b8ed99c7cd2c29",
+      "title": "Stocks in news: Jio Platforms, RIL, Infosys, L&T, Tata Capital, Waaree Energies and Vedanta Iron",
+      "description": "Indian benchmark indices saw a volatile session amid the Nifty and Bank Nifty monthly expiry. Stocks like Jio Platforms made headlines following its IPO debut after raising significant funds. Reliance Industries remained a focus as its financial results and fundraising plans were announced. Infosys successfully implemented a transformation project for Syngenta, enhancing operations and governance. Tata Capital reported a substantial.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135245790,imgsize-138806.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-platforms-ril-infosys-lt-tata-capital-waaree-energies-and-vedanta-iron/articleshow/135245790.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-28T03:57:22.413020Z"
+    },
+    {
+      "id": "28c6a708394de57d61bf258e6a476b54",
+      "title": "Max Financial Services reports massive profit growth of Rs 100 crore in Q2 FY26",
+      "description": "Max Financial Services recorded a substantial rise in net profit during the second quarter to ₹100 crore. This marks a significant increase from ₹5.9 crore in the same period last year. The company owns an 80% stake in Axis Max Life, contributing to its financial growth. Additionally, its value of new business rose 21% year-on-year, reaching ₹1,180 crore in H1.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135248590,imgsize-11708.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/max-financial-services-reports-massive-profit-growth-of-rs-100-crore-in-q2-fy26/articleshow/135248590.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-28T03:57:22.412922Z"
+    },
+    {
+      "id": "732d90e09bba3bd8beff7cc6c8263d13",
+      "title": "SBI Life posts 11% growth in Q2 net profit",
+      "description": "SBI Life Insurance has unveiled an impressive 11% net profit growth year-on-year for the September 2026 quarter, alongside an 8.2% rise in net premium income. Looking ahead, the company recorded a robust 17% net profit increase for the first half of FY27 and anticipates ongoing growth in individual rated premium this financial year. Additionally, the improvement in SBI Life's solvency.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135248632,imgsize-40759.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-life-posts-11-growth-in-q2-net-profit/articleshow/135248632.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-10-28T03:57:22.412762Z"
+    },
+    {
+      "id": "bb6db30394872c38c19ee5e495ff14b4",
+      "title": "Bajaj Auto Q2 net profit up 35% on strong exports, product mix",
+      "description": "Bajaj Auto reported a 35% increase in standalone net profit for the September quarter. Revenue from operations rose to a record ₹20,003 crore, fueled by an increase in exports. The company also managed to counter rising input costs through strategic price adjustments and a richer product mix. Electric vehicle sales, including the Chetak scooter, contributed to the profitability amid varying.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135249431,imgsize-255858.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q2-net-profit-up-35-on-strong-exports-product-mix/articleshow/135249431.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-28T03:57:22.412508Z"
+    },
+    {
+      "id": "b79c2e66d46f944722760f516d0a6178",
+      "title": "Maruti Q2 net misses street view despite record quarterly sales",
+      "description": "Maruti Suzuki's consolidated net profit fell by 26% in the fiscal second quarter to ₹2,466 crore. Revenue rose 26% to ₹53,355.5 crore, driven by record sales of 696,654 units. The company achieved 40.8% market share with strong demand for small cars and SUVs. Operating profit decreased due to increased input costs and lower other income.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135249522,imgsize-60594.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-q2-net-misses-street-view-despite-record-quarterly-sales/articleshow/135249522.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-10-28T03:57:22.412457Z"
+    },
+    {
       "id": "cb55ca616a14d66baafe843bfb99a3d4",
       "title": "Tata Consumer Products gains 4% after Q2 show; margin recovery keenly eyed",
       "description": "Tata Consumer Products share price: JM Financial analysts also expect margin delivery to improve, with full benefits of the price hikes in tea and salt to be seen in Q3FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14929,196 +15122,6 @@
         "Banking"
       ],
       "pubDate": "2026-09-18T03:10:05.448133Z"
-    },
-    {
-      "id": "ad18108d8187b2bd2bd8ceb1d9651648",
-      "title": "Sensex, Nifty trade in positive terrain; pharma shares snap 5-day losing streak",
-      "description": "The Feds indication of another rate hike in 2026 is likely to keep investors cautious, particularly in rate-sensitive and foreign-portfolio-investment-driven segments. However, buying interest in select domestic sectors provided some support, the Nifty hovered above the 23,250 mark. Market participants are likely to track currency movements, US bond yields and foreign fund flows for further direction.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-trade-in-positive-terrain-pharma-shares-snap-5-day-losing-streak-126091700646_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-17T16:13:35.848433Z"
-    },
-    {
-      "id": "eedc35ba42ffdb2a1252c90e9552033e",
-      "title": "Nifty holds above 23,250 mark; broader mkt outperforms",
-      "description": "The Feds indication of another rate hike in 2026 kept investors cautious, particularly across rate-sensitive and foreign-portfolio-investment-driven segments. However, selective buying in domestic sectors helped the Nifty settled above the 23,250 mark. Market participants are likely to track currency movements, US bond yields and foreign fund flows for further direction. This key financial update highlights evolving market dynamics, strategic corporate.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/nifty-holds-above-23-250-mark-broader-mkt-outperforms-126091700802_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-17T16:13:35.848218Z"
-    },
-    {
-      "id": "ce17d7aee23a2b7ec9393a5f63ee339b",
-      "title": "Barometers trade sideways; Nifty ends above 23,250",
-      "description": "The Feds indication of another rate hike in 2026 kept investors cautious, particularly across rate-sensitive and foreign-portfolio-investment-driven segments. However, selective buying in domestic sectors helped the Nifty close above the 23,250 mark. Market participants are likely to track currency movements, US bond yields and foreign fund flows for further direction. This key financial update highlights evolving market dynamics, strategic corporate.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/barometers-trade-sideways-nifty-ends-above-23-250-126091700832_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-17T16:13:35.848081Z"
-    },
-    {
-      "id": "3d87b5f08211f2d82dadc5d8332af140",
-      "title": "Nifty closes above 23,250 as selective buying offsets rate hike concerns",
-      "description": "The key equity benchmarks inched higher on Thursday, as investors assessed the US Federal Reserve's latest policy decision and its implications for global liquidity. The Fed raised its benchmark interest rate by 25 basis points to 3.75%-4%, its first hike since 2023. The central bank's projections also kept the possibility of another rate increase this year on the table.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/nifty-closes-above-23-250-as-selective-buying-offsets-rate-hike-concerns-126091700944_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-09-17T16:13:35.847941Z"
-    },
-    {
-      "id": "60c8b35861f95d08f6e21f4f44e4875b",
-      "title": "RBI listing, N Chandrasekaran's decision on agenda: What's in store as Tata Sons meet today?",
-      "description": "Tata Sons board meeting on Thursday will address the RBI's public listing mandate and outgoing Chairman Natarajan Chandrasekaran's resignation. Friction with Tata Trusts Chairman Noel Tata over listing issues has led to tensions within the board. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/tata_sons_1789621534902_5XN4_1789621551174_zyTq_8d085321-1c2d-4c7a-9b97-cb91186e216c_YK41.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/rbi-listing-n-chandrasekarans-decision-on-agenda-whats-in-store-as-tata-sons-meet-today-11789621258784.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T16:13:34.254242Z"
-    },
-    {
-      "id": "9f444447a78df10f3ddf032ffc90d00c",
-      "title": "Tata Sons IPO order backs Shapoorji Pallonji's long-running ask",
-      "description": "Executives close to Shapoorji Pallonji Group are said to have held meetings with government officials in recent months to press their case for a Tata Sons listing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/Shapoorji_Pallonji_1789622053748_pelF_1789622054258_L47u_4d87123d-a714-4dba-a2bb-ed518dcf023d_cWwK.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-ipo-listing-shapoorji-pallonji-noel-tata-tata-trusts-11789619645756.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T16:13:34.254216Z"
-    },
-    {
-      "id": "b36eb91723bb5440f20aa62c7b6123ca",
-      "title": "Noel Tata tables a mega offer from SP Group to avoid Tata Sons listing",
-      "description": "In its letter, SP Group asked for ₹25,000 crore for 2-3% of Tata Sons shares, which values the holding company at ₹8.3 trillion at this price. According to the executive, SP Group expects to receive this money over the next 18 months. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/Shapoor_Mistry_Noel_Tata_1789633609071_I7Xc_1789633616127_rduU_5c3eca2b-e667-4a9d-a48d-ae74c36c9b59_eZC5.jpeg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-ipo-listing-noel-tata-sp-group-tata-trusts-11789620405503.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T16:13:34.254139Z"
-    },
-    {
-      "id": "71dd3fda8ca21ec61c9e13f4b5b8af95",
-      "title": "Tata Sons board meeting: What happened inside the Tata Sons boardroom that brought Chandrasekaran back | Full statement",
-      "description": "Tata Sons reappointed N. Chandrasekaran as Executive Chairman for another five years after he initially declined. The Board acknowledged his contributions and discussed the reappointment during various meetings. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/N_Chandrasekhar_1789642034698_YaWc_1789642050305_JoZQ_def99337-741c-4442-9349-4d316c3e3542_rTJX.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-board-meeting-what-happened-as-chandrasekaran-gets-5-year-extension-read-full-statement-here-11789641813137.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T16:13:34.253793Z"
-    },
-    {
-      "id": "441f7967c6cb62f10e8e33808c27dc51",
-      "title": "Drama at Tata Sons: Chandra gets fresh term; Tata Trusts calls it 'illegal'",
-      "description": "While Noel Tata had voiced his objection to Chandrasekaran's reappointment as chairman in February, the Tata Sons board on Thursday relied on a resolution sent in by Tata Trusts last year to grant an extension. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/ANI-20260415340-0_1782207930844_1782207941301_b2e9328c-282f-43df-b6c1-d4f7a418fc6f_1789643913909_VtiX_e4f0bab0-534e-4505-bd35-d2089fde2ad3_NQQx.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/natarajan-chandrasekaran-tata-sons-chairman-noel-tata-trusts-tata-sons-ipo-listing-11789642339116.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T16:13:34.253760Z"
-    },
-    {
-      "id": "f6066dcbdc96f1224dc9cc262301a3e4",
-      "title": "Sebi bars Kore Digital, three top execs from capital markets over alleged fraud",
-      "description": "The markets regulator has ordered a forensic audit after a preliminary probe revealed alleged revenue inflation of over ₹540 crore, fund diversion, and non-existent entities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101_1789657425451_qFkQ_2b4b9ff3-94ef-42fc-a3b1-acf251be894c_1fnP.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/sebi-bars-kore-digital-three-top-execs-from-capital-markets-over-alleged-fraud-11789653081860.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-09-17T16:13:34.253618Z"
-    },
-    {
-      "id": "9303180b7d4fe3b39409d1c079b2fb23",
-      "title": "IPO GMP Today: Hero Motors vs SS Retail vs Jindal Supreme - Which IPO has the best listing gain potential?",
-      "description": "Three IPOs opened for subscription on September 16, 2026, targeting automotive, retail, and steel sectors. Investors are monitoring subscription trends and grey market premiums as the issues close on September 18. Allotment is expected on September 21, with tentative listings set for September 23. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/ipo_gmp_today_1789634220980_7oZ5_1789634228633_K27i_ad684b28-6346-4f66-a202-9b81d773124b_nyeH.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/ipo-gmp-today-hero-motors-vs-ss-retail-vs-jindal-supreme-which-ipo-has-the-best-listing-gain-potential-11789632536986.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-17T16:13:33.539967Z"
-    },
-    {
-      "id": "5138a99cb962a0f9c43c541e65ecc4a7",
-      "title": "US Federal Reserve raises rates after 3 years: Is RBI rate hike coming? October MPC meet in focus",
-      "description": "The US Federal Reserve's recent interest rate hike complicates the Reserve Bank of India's future decisions. While some analysts predict rate increases in October and December, others anticipate the RBI will maintain its current stance amid inflation and currency pressures. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/rbi_1789637107504_p7wo_1789637114716_xxI2_02131e90-e199-4e9c-845e-0bd66f6a3e55_tfTz.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/us-federal-reserve-raises-rates-after-3-years-is-rbi-rate-hike-coming-october-rbi-mpc-meet-in-focus-11789628735095.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-17T16:13:33.539818Z"
-    },
-    {
-      "id": "e11f321bb4d2e9ea61e132a1ca4c6a7c",
-      "title": "Tata Group stocks on fire after N Chandrasekharan 5-yr term - Tata Chemicals, TIC, Tata Motors PV, Tata Teleservices",
-      "description": "Tata Group stocks increased by up to 13.5% on September 17 after the Tata Sons board renewed N. Chandrasekaran's five-year term as executive chairman and initiated a potential listing for the group's holding company. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/tatag_roup_1789638190126_yIcK_1789638202460_bBg8_3f96fdda-0830-4cf3-89e7-6254cb0fa588_0ZDG.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tata-group-stocks-on-fire-after-n-chandrasekharan-5-yr-term-tata-chemicals-tic-tata-motors-pv-tata-teleservices-11789637658991.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T16:13:33.539777Z"
-    },
-    {
-      "id": "540c9b6dfece6b5e80e6800f30738e82",
-      "title": "Tata Sons IPO soon? Listing approved by Board as Chairman N Chandrasekaran to stay on for 5 more years",
-      "description": "Tata Sons Pvt. approved going public and asked Chairman Natarajan Chandrasekaran to extend his term for five more years. This decision comes amid internal disputes and regulatory pressure for an IPO, which could dilute the control of Tata Trusts owning 66% of the company. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/Tata_Sons_IPO_1789641275278_ylOL_1789641294133_IZCw_6a6aaba8-45a6-42f0-83ac-07e4edfd70fc_OGEj.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/tata-sons-ipo-soon-listing-approved-by-board-as-chairman-n-chandrasekaran-to-stay-on-for-5-more-years-report-11789640325693.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T16:13:33.539674Z"
-    },
-    {
-      "id": "7d95d613dd8c0d360278b59aa3ead85e",
-      "title": "TCS, Tata Chemicals, other group stocks zoom up to 14% on Tata Sons IPO nod, N Chandra’s term extension",
-      "description": "Tata Sons has granted Chairman N Chandrasekaran a five-year extension, setting the stage for the long-awaited initial public offering of the group. This announcement spurred a surge in several Tata group stocks, particularly Tata Chemicals and Tata Investment Corporation, which experienced significant price increases. This development follows the Reserve Bank of India's decision to deny the company's request to remain.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134307500,imgsize-203616.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-tata-chemicals-other-group-stocks-rally-up-to-14-as-tata-sons-approves-n-chandras-tenure-extension-prepares-for-ipo/articleshow/134307500.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-17T16:13:32.845093Z"
     }
   ]
 }
