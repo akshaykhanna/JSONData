@@ -1,6 +1,189 @@
 {
   "news": [
     {
+      "id": "5e5bd98f54080ea4dc0898fcb4d9e68c",
+      "title": "GCPL slides 7% as Q2 margins contract; analysts flags input cost pressures",
+      "description": "After GCPL's Q2 earnings, brokerages have said that inflation remains a drag and that near-term margin pressure is likely to persist amid elevated commodity prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261030/full-126103000409.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/gcpl-slides-7-as-q2-margins-contract-analysts-flags-input-cost-pressures-126103000409_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-01T04:22:10.853717Z"
+    },
+    {
+      "id": "8dd17cd7012b7130c45fccdc253a4cc5",
+      "title": "Suzlon Energy shares sink 8% after Q2 results miss margin expectations",
+      "description": "Suzlon Energy posted a 26 per cent year-on-year growth in revenue from operations to ₹4,869 crore in Q2 FY27, driven by record quarterly deliveries of 710 MW. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261030/full-126103000583.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/suzlon-energy-shares-sink-8-after-q2-results-miss-margin-expectations-126103000583_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-01T04:22:10.853467Z"
+    },
+    {
+      "id": "ace29261b736a1abba8c194acc6e7397",
+      "title": "Nifty Pharma index hits record high; Sun, Laurus, Zydus, Sai rally up to 6%",
+      "description": "Among others, Mankind Pharma, Ipca Laboratories, Torrent Pharmaceuticals, Divis Laboratories, Cipla and Aurobindo Pharma were up 2% each in Friday's trade. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261030/full-126103000861.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-pharma-index-hits-record-high-sun-laurus-zydus-sai-rally-up-to-6-126103000861_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-01T04:22:10.853282Z"
+    },
+    {
+      "id": "b3af0a1bab79f345bf556e57f8212c8b",
+      "title": "Sebi eases FPI compliance, extends KYC review period from December 1",
+      "description": "Sebi has extended KYC review intervals for certain foreign portfolio investors to two or eight years and removed a separate disclosure requirement, effective December 1. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261030/full-126103001503.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-eases-fpi-compliance-extends-kyc-review-period-from-december-1-126103001503_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-01T04:22:10.853247Z"
+    },
+    {
+      "id": "8c07c8ea9cd87b315f029d0f30081e80",
+      "title": "Sebi imposes ₹1 crore fine on CDSL for multiple compliance lapses",
+      "description": "Markets regulator Sebi on Friday imposed a penalty of Rs 1 crore on Central Depository Services (India) Ltd (CDSL) for multiple compliance lapses, including failure to communicate reasons for rejection of pledge requests to the depository participants (DPs) of both the pledgor and pledgee and shortcomings in disaster recovery drills. CDSL has been directed to pay the penalty within 45.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261030/full-126103001384.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-imposes-1-crore-fine-on-cdsl-for-multiple-compliance-lapses-126103001384_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-01T04:22:10.853132Z"
+    },
+    {
+      "id": "d7b1cff6fad994f26deb46ff72eecfd6",
+      "title": "Sebi aims to make capital markets more accessible, resilient: Chairman",
+      "description": "SEBI Chairman Tuhin Kanta Pandey on Saturday said the regulator is continuously working to make the country's capital markets more accessible, efficient and resilient, with a core approach focused on facilitating capital formation, improving ease of doing business and strengthening investors' protection. Speaking on capital market expansion at the Bharat Chamber of Commerce Investors Forum here, Pandey noted that.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261031/full-126103100530.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-aims-to-make-capital-markets-more-accessible-resilient-chairman-126103100530_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-01T04:22:10.852927Z"
+    },
+    {
+      "id": "2f1fef76446c3c05e18ad71fa9eed10a",
+      "title": "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
+      "description": "Markets regulator Sebi has barred EKI Energy Services Ltd and its Managing Director Manish Kumar Dabkara from the securities market for two months and 12 months, respectively, for misrepresenting financial statements of the carbon credits trading firm and diverting funds. Also, the regulator has restrained the company's former Chief Financial Officer (CFO) Mohit Kumar Agarwal from the securities market.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261031/full-126103101347.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty-126103101347_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-01T04:22:10.852772Z"
+    },
+    {
+      "id": "7713aee5d23f8799958a9db1e7988199",
+      "title": "Infosys Hyderabad Pocharam campus: New 1.1 million sq ft block adds 10,000 seats, supports 13,000 employees",
+      "description": "Infosys has opened a 1.1 million sq ft development block at its Hyderabad Pocharam campus, adding 10,000 seats and capacity for more than 13,000 employees under a hybrid model. The expansion supports growing demand for AI, cloud, cybersecurity, engineering and other technology services. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/31/1600x900/logo/Untitled_Design_1793446490868_YWRu_1793446494614_0E7z_d32b45c6-5d6e-45ed-ab11-1a6184608199_mIzD.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/infosys-hyderabad-pocharam-campus-new-1-1-million-sq-ft-block-adds-10-000-seats-supports-13-000-employees-11793440276906.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-01T04:22:10.203422Z"
+    },
+    {
+      "id": "d12b14c51a07dc8ab2419d600000aafb",
+      "title": "NTPC vs NTPC Green Energy Q2 results 2026 compared: Which PSU wins on Q2 profit, revenue, EBITDA, dividend? Details",
+      "description": "NTPC reported Q2 FY27 profit growth of 38.7% to ₹7,029.56 crore, while subsidiary NTPC Green Energy’s profit rose 59% to ₹137.50 crore.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/31/1600x900/logo/NTPC_vs_Green_Energy_Q2_Results_1793456572739_vKE5_1793456583407_GSER_022be6db-083c-41b2-9718-bceaa2461181_x5Rf.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/ntpc-vs-ntpc-green-energy-q2-results-2026-compared-which-psu-wins-on-q2-profit-revenue-ebitda-dividend-details-11793422791057.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-01T04:22:09.600592Z"
+    },
+    {
+      "id": "3ac6d8422bd502a11ad6f06353bc53fd",
+      "title": "Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook",
+      "description": "Indian equities rebounded in the week, with the Nifty 50 rising 2.59% and the Sensex gaining 1.6%, led by pharmaceutical and IT stocks. For November 2–6, experts expect range-bound trading as oil-price volatility.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/31/1600x900/logo/Diwali_Stock_Market_Prediction_1793459359059_mDEs_1793459368116_vbyC_f4cc3f3a-e41f-4fe0-b65d-34670faa1dfd_PJ5q.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-nov-2-6-week-nifty-sensex-rebound-from-losses-will-bulls-deliver-a-diwali-bonanza-outlook-11793459177658.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-01T04:22:09.600537Z"
+    },
+    {
+      "id": "abb1546a0fe1b0dbc5579a987e16c25b",
+      "title": "Oil-to-chemicals business powers Reliance Industries' record quarterly net profit, up 34% to ₹29,550 crore",
+      "description": "Reliance Industries Ltd has set a new benchmark with a record net profit of ₹29,550 crore for the September quarter, fueled by significant advancements in the oil-to-chemicals and digital segments. With a yearly revenue surge of 28.5% to ₹3.38 lakh crore, the O2C division's Ebitda skyrocketed 68%, reflecting the advantages of elevated energy prices and the firm’s adaptability in challenging.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135387613,imgsize-304528.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/oil-to-chemicals-business-powers-reliance-industries-record-quarterly-net-profit-up-34-to-29550-crore/articleshow/135387613.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-01T04:22:09.004052Z"
+    },
+    {
+      "id": "619a19152a4c22c7f185b482eaa68028",
+      "title": "Varun Beverages Q3 net profit rises 13% YoY, but margins fall",
+      "description": "Varun Beverages recorded a substantial net profit increase of 13.5% for the quarter ending September 2026. Although there was strong revenue growth attributed to both local and international sales, the company's shares dropped because of shrinking operating margins. Challenges arose from heightened packaging costs and sugar price surges affecting gross margins. Additionally, Varun Beverages solidified its partnership with PepsiCo, extending.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135387006,imgsize-2378997.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/varun-beverages-q3-net-profit-rises-13-yoy-but-margins-fall/articleshow/135387006.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-01T04:22:09.003996Z"
+    },
+    {
+      "id": "1d7b635253774778ba709f91365767c9",
+      "title": "ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation",
+      "description": "S Naren of ICICI Prudential Mutual Fund highlights how only six companies from the 1990 Sensex remain in the benchmark today. At ET Wealth Expo, he explained why beaten-down stocks may never recover and urged investors to distinguish between asset allocation and stock selection, while cautioning against chasing strong past returns. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135397428,imgsize-185754.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-01T04:22:09.003502Z"
+    },
+    {
+      "id": "444f9b544b64035dfea1fe1330722d20",
+      "title": "Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?",
+      "description": "The Nifty gained 2% last week, recovering above the crucial 200-week moving average at 22,700. While easing volatility and buying at lower levels support the rebound, bearish momentum indicators suggest caution. Analysts identify 23,300–23,450 as immediate resistance and 22,750–22,525 as key support for the coming week. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135396431,imgsize-81192.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-01T04:22:09.003409Z"
+    },
+    {
+      "id": "70dce1c687e5ecd453068d8e173db16b",
+      "title": "Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey",
+      "description": "Sebi is likely to release a consultation paper on foreign investor compliance requirements within weeks, chairman Tuhin Kanta Pandey said. The proposed document will explore aligning Indian norms with global standards amid heavy FII outflows. The regulator is also planning a capacity-building network to strengthen independent directors’ effectiveness. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135400429,imgsize-2303069.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-01T04:22:09.003294Z"
+    },
+    {
       "id": "d4a3e9697909e52655084179dcb6e169",
       "title": "Dividend, stock split, bonus record date alert 2-8 Nov week: Infosys, Mazagon Dock, Coal India, Sanofi and other shares",
       "description": "Around 50 companies have corporate-action record dates next week, including Infosys, Asian Paints and Coal India. Concord Biotech has a 1:1 bonus issue record date on November 4, while Gujarat Natural Resources and Knowledge Marine have stock-split record dates on November 5 and 6.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
@@ -14939,192 +15122,6 @@
         "Corporate"
       ],
       "pubDate": "2026-09-22T03:17:22.227803Z"
-    },
-    {
-      "id": "3a24ecb7e12e31e16ae5ef5e497859c2",
-      "title": "Sensex settles 564 pts higher; Nifty ends above 23,400 level",
-      "description": "As per provisional closing data, the S&P BSE Sensex jumped 564.03 points or 0.76% to 74,858.99. The Nifty 50 index added 67.90 points or 0.29% to 23,414.30. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-564-pts-higher-nifty-ends-above-23-400-level-126092100713_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-21T17:51:41.169854Z"
-    },
-    {
-      "id": "494b429bb0541de4b1f32ea27af1935b",
-      "title": "Sensex, Nifty gain as falling crude and heavyweight buying lift sentiment",
-      "description": "The Nifty opened at 23,330.20 and slipped to an intraday low of 23,314.80 in early trade. The index recovered steadily through the morning session, crossed 23,400 and touched an intraday high of 23,466.80 in mid-afternoon trade. It pared some gains thereafter but remained above the 23,400 mark at the close. This key financial update highlights evolving market dynamics, strategic corporate.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-gain-as-falling-crude-and-heavyweight-buying-lift-sentiment-126092100824_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-21T17:51:41.169616Z"
-    },
-    {
-      "id": "7e1a3b80d339fdd839f89886e189609f",
-      "title": "RBI issues Directions on Minimum Capital Requirements for Market Risk under Basel III for Commercial Banks",
-      "description": "Accordingly, the Reserve Bank of India has today issued the Reserve Bank of India (Commercial Banks - Minimum Capital Requirements for Market Risk) Directions, 2026. The Directions aim to align the market risk guidelines with the revised Basel III framework, as part of RBI's adoption of the Basel standards, while ensuring simplicity of regulations, and providing flexibility, and ease.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/rbi-issues-directions-on-minimum-capital-requirements-for-market-risk-under-basel-iii-for-commercial-banks-126092100982_1.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO"
-      ],
-      "pubDate": "2026-09-21T17:51:41.169405Z"
-    },
-    {
-      "id": "3c04b7dd5fbe0e52f5e11fdf57f2107c",
-      "title": "AIF commitments rise 24% to ₹17.53 trillion as of June 2026: Sebi data",
-      "description": "AIF commitments rose nearly 3.5 per cent from March and 23.6 per cent year-on-year, while total investments crossed Rs 7 trillion for the first time. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260921/full-126092100990.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/aif-commitments-rise-24-to-17-53-trillion-as-of-june-2026-sebi-data-126092100990_1.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-21T17:51:41.169364Z"
-    },
-    {
-      "id": "7aa14a72b364bf3f363e46008eabe658",
-      "title": "Tata Capital growth outlook stays positive despite near-term headwinds",
-      "description": "Retail and SME momentum supports Tata Capital's 23-25 per cent growth guidance, though funding costs, high crude prices and proposed RBI rules remain key risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260921/full-126092101277.jpg",
-      "fullArticleLink": "https://www.business-standard.com/companies/news/tata-capital-growth-outlook-stays-positive-despite-near-term-headwinds-126092101277_1.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-21T17:51:41.168899Z"
-    },
-    {
-      "id": "ce02d1b6c2937973c01d5cc84bd5e2de",
-      "title": "Who is Harish Salve? The legal heavyweight advising N Chandrasekaran amid Tata Trusts row",
-      "description": "Harish Salve is a senior advocate who practices at the Supreme Court of India. Among other prominent cases, Salve fought the case of Kulbhushan Jadhav at the International Court of Justice (ICJ). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/law_1789977350355_QQEC_1789977355751_C7nM_35b0f502-33c7-4248-8623-e4059022d372_aZnI.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/who-is-harish-salve-n-chandrasekarans-legal-adviser-amid-tata-trusts-row-his-career-and-landmark-cases-noel-tata-11789975517837.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-21T17:51:40.547678Z"
-    },
-    {
-      "id": "565a2dfff001ee6150bcbf9dcddef462",
-      "title": "Tata Group stocks face fresh risk as Trusts-Sons row escalates: Which stock looks most attractive now?",
-      "description": "The Tata Trusts-Tata Sons dispute raises concerns among investors regarding governance and stock volatility. Trent shows the strongest technical setup, while TCS has defined support. Market risks from this uncertainty have led to significant losses for Tata stocks recently. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/tata_sons_1789990398735_3tro_1789990402737_qDwC_85fcda43-e657-4699-9dda-37e944d9f6c3_RFhB.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tata-group-stocks-face-fresh-risk-as-trusts-sons-row-escalates-which-stock-looks-most-attractive-now-11789989497661.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-21T17:51:39.983728Z"
-    },
-    {
-      "id": "40a01514343b4f22bccdbc9930fcd691",
-      "title": "Is it the right time to buy HDFC Bank shares? Stock gains 4% in September, set to snap 2-month losing run",
-      "description": "After a significant drop, HDFC Bank shares have gained over 4% in September, prompting questions about potential recovery. Experts weigh in on technical levels and long-term investment opportunities amidst concerns of past underperformance and stable fundamentals.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/HDFC_Bank_1789986641206_6WDg_1789986645817_jdSn_c1517414-fa7c-42c0-929b-7e9d2ba3ac58_qYEB.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/is-it-the-right-time-to-buy-hdfc-bank-shares-stock-gains-4-in-september-set-to-snap-2-month-losing-run-11789986245717.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-21T17:51:39.983687Z"
-    },
-    {
-      "id": "01780af44ef8809867f40e559aa8176f",
-      "title": "Top stocks to buy tomorrow: Eternal, Urban Company, Rain Industries by Vaishali Parekh | Targets, stop-loss",
-      "description": "Vaishali Parekh recommends three stocks for intraday trading on 22 September: Eternal, Urban Company, and Rain Industries. Market trends showed mixed performance with Nifty closing at 23,414 and Sensex at 74,894, while sector performance varied. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Vaishali_1790011948107_qcJx_1790011954921_j9GX_9acff3b0-71a5-44db-9a3e-877007b7682c_3CId.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-eternal-urban-company-rain-industries-by-vaishali-parekh-targets-stoploss-11790008798372.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-21T17:51:39.983129Z"
-    },
-    {
-      "id": "4c34429a80d3b8ed227de62f3f635eb1",
-      "title": "Why did market rise today? Sensex jumps 564 pts, Nifty closes above 23,400. 4 key factors driving the surge",
-      "description": "Indian stock markets saw gains on Monday, with Sensex and Nifty rising. Cooling oil prices and strong global cues boosted investor sentiment across Dalal Street. Foreign investors turned net buyers, adding to the positive market momentum. Broader markets, however, underperformed the benchmark indices during the session. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134380591,imgsize-234612.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-nears-23400-as-oil-prices-cool-down-despite-middle-east-tensions-what-lies-ahead/articleshow/134380591.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-21T17:51:39.434584Z"
-    },
-    {
-      "id": "1560118f9614c457bbf1b45d7699b621",
-      "title": "RIL selloff wipes off Rs 4 lakh crore from market value as shares drop 21% in 2026 so far. Should you buy now?",
-      "description": "In 2026, Reliance Industries has seen a sharp decline of twenty-one percent in its share prices, wiping out an impressive four lakh crore rupees from its market worth. Analysts recommend that investors should be wary and avoid the temptation to buy during this dip, as the company is currently grappling with windfall tax implications and rising concerns regarding a Jio.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134380690,imgsize-2407024.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ril-selloff-wipes-off-rs-4-lakh-crore-from-market-value-as-shares-drop-21-in-2026-so-far-should-you-buy-now/articleshow/134380690.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-21T17:51:39.434548Z"
-    },
-    {
-      "id": "8cf3fa61d879f4dcf4c238e1704ed4b7",
-      "title": "OFSS shares tumble 7%; Wipro, Coforge, Infosys shares down up to 2%. Why are IT stocks under pressure today?",
-      "description": "Shares of OFSS fell over 7% while top IT stocks including Infosys, Wipro, and Coforge dropped up to 2% on Monday. The drag comes following reports of Oracle's $18 billion data centre debt pressure and US President Donald Trump extending the $100,000 H-1B visa fee by another year. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134381888,imgsize-2223338.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ofss-shares-tumble-7-wipro-coforge-infosys-shares-down-up-to-2-why-are-it-stocks-under-pressure-today/articleshow/134381888.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-21T17:51:39.434416Z"
-    },
-    {
-      "id": "fbaee70ae09a7461f1d2ef2ac36ab8b4",
-      "title": "How to trade TCS, Tata Chemicals, other Tata stocks as boardroom battles could reach court",
-      "description": "Tata Group stocks remain volatile amid the Tata Trusts-Tata Sons dispute over N Chandrasekaran's reappointment. Technical analysts highlight key resistance levels and bearish signals for Tata Chemicals, TCS, Tata Motors PV and Tata Investment Corp. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134383483,imgsize-2291168.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-tcs-tata-chemicals-other-tata-stocks-as-boardroom-battles-could-reach-court/articleshow/134383483.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-21T17:51:39.434268Z"
-    },
-    {
-      "id": "431ff1ba2861a19155bcd1e207239632",
-      "title": "Oriental Aromatics, Bodal Chemicals among 6 commodity stocks that hit 52-week highs & rallied up to 150% in a month",
-      "description": "Seven BSE Commodities Index stocks hit fresh 52-week highs on Monday as the Sensex gained 564 points. Bodal Chemicals led one-month gains at 150%, followed by Bhageria Industries and Oriental Aromatics, highlighting strong momentum across select commodity-linked counters. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134387481,imgsize-6494.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/oriental-aromatics-bodal-chemicals-among-6-commodity-stocks-that-hit-52-week-highs-amp-rallied-up-to-150-in-a-month/slideshow/134387647.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-21T17:51:39.434108Z"
-    },
-    {
-      "id": "f3e62999098dace5fe2a23288a576e0a",
-      "title": "Strong profit growth prompted Moneyview to reduce IPO size: MD & CEO Agrawal",
-      "description": "Moneyview reduced its public offer to Rs 1,092 crore from Rs 1,500 crore. This decision stems from robust profit growth and adequate internal cash generation. The company fixed its price band at Rs 32-34 per equity share for the IPO. The IPO comprises a fresh issue and an offer for sale by existing shareholders. Proceeds will fuel lending business growth.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134391601,imgsize-51436.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-profit-growth-prompted-moneyview-to-reduce-ipo-size-md-ceo-agrawal/articleshow/134391601.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-09-21T17:51:38.843602Z"
     }
   ]
 }
