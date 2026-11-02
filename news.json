@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "ee8bb4ab2816fa885652de7c053eb075",
+      "title": "Indian stocks may recover on steady growth, earnings, says Axis AMC",
+      "description": "The Nifty 50 has fallen about 12% so far in 2026 after 10 straight years of gains, pressured by higher oil prices following the US-Israeli war on Iran and record foreign outflows of $31.3 billion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261102/full-126110200048.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/indian-stocks-may-recover-on-steady-growth-earnings-says-axis-amc-126110200048_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-02T04:23:37.326198Z"
+    },
+    {
+      "id": "3c2c9348a898498f77befac0f96101ef",
+      "title": "Stock Market LIVE: Sensex surges 800 pts, Nifty tops 23,250; RIL shares jump 5%",
+      "description": "Sensex Today | Stock Market LIVE Updates Monday: In the broader markets, the Nifty MidCap rose 0.47 per cent and the Nifty Smallcap fell 0.23 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261102/full-126110200053.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-02T04:23:37.326174Z"
+    },
+    {
+      "id": "a1498480c5020b5b9af4a985f35e7d83",
+      "title": "Air India weighs Singapore Airlines executive for CFO as losses mount",
+      "description": "Air India's management has held preliminary discussions on the appointment with Tata Sons chairman N. Chandrasekaran and Air India chief executive officer (CEO) Tewolde Gebremariam, both of whom are understood to be supportive of the move. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/01/1600x900/logo/AIR-INDIA-CEO--1_1793532257995_XJf5_1793532266514_xK00_597bbd69-0a19-4b5c-99a8-cda5922ffe9e_K6ua.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/people/air-india-weighs-singapore-airlines-executive-for-cfo-as-losses-mount-11793511128094.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-02T04:23:36.370028Z"
+    },
+    {
+      "id": "25e21f46f80e5cdc42bb9cbaa7fef5b8",
+      "title": "Reliance Foundation to establish Nita Mukesh Ambani Anant Ashray, a 100-acre township for orphans, senior citizens",
+      "description": "Nita Mukesh Ambani Anant Ashray will be developed in phases, subject to approvals, as a not-for-profit township with eight residential villages. The proposed centre will offer housing, healthcare, education and rehabilitation for children, older people and people with disabilities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/ril_1793592626600_sBPS_1793592649036_llqk_d76d37c7-bf85-407c-8212-7db12dfe3830_GIYU.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/reliance-foundation-to-establish-nita-mukesh-ambani-anant-ashray-a-100-acre-township-for-orphans-senior-citizens-11793592412110.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-02T04:23:36.369803Z"
+    },
+    {
+      "id": "9e8f6062aedcac299bde1a0b6f5fcdd7",
+      "title": "Varun Beverages’ Q3 volume surge can’t mask margin pain",
+      "description": "High packaging costs compressed Q3 gross margins despite a 28.7% volume surge, leaving Varun Beverages dependent on industry price hikes and trade spend cuts to stabilize profitability. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/01/1600x900/logo/Varun_Beverages_1_1777291624644_1777291634732_1793524322731_5Dd4_35a35df8-98d0-4b9b-abcf-9327dd07efa6_3O6W.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/varun-beverages-carbonated-soft-drinks-sting-pepsico-price-hikes-packaging-costs-11793513498775.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-02T04:23:35.755468Z"
+    },
+    {
+      "id": "5aaf0341dfd5dc8ec18ebbc0f60a81b1",
+      "title": "Sensex options hit record as October volatility fuels trading",
+      "description": "The Sensex plunged to a 52-week low last month before staging a recovery in a roller-coaster ride that drove options turnover to a record. NSE, too, saw index options volumes rise to multi-month highs. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/INDIA-EQUITIES-TAXATION-0_1793369322625_KCuQ_17933_1793585288082_t8s5_1793585288496_dlMW_ab895023-ae1b-401e-a74e-593c31ca7c24_v79N.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bse-nse-sensex-options-nifty-options-options-turnover-average-daily-turnover-adpt-market-volatility-west-asia-war-11793555280858.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-02T04:23:35.755342Z"
+    },
+    {
+      "id": "efbf8113f1b6739dd6b16c971310a0a3",
+      "title": "Why is stock market up today? Bulls are back with Monday Motivation as Sensex, Nifty soar over 1% each | Top 3 reasons",
+      "description": "Nifty 50 and Sensex rose more than 1% on Monday, 2 November, as easing global market pressures and resilient domestic conditions lifted hopes of a recovery in investor sentiment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/Market_Bulls_Back_Sensex_and_Nifty_Rally_179359187_1793591878249_c89i_1793591878401_CXdF_b1cfa470-b5ef-4ab9-9246-b0f3b42f2da0_jriz.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/why-is-stock-market-up-today-bulls-are-back-with-monday-motivation-as-sensex-nifty-soar-over-1-each-top-3-reasons-11793591431834.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-02T04:23:35.755190Z"
+    },
+    {
+      "id": "ab4f025d8d861002eae22f495561a904",
+      "title": "Reliance Industries shares flying! Massive Monday jump for RIL stock - 6% surge strong Q2 results | Book profit or wait?",
+      "description": "RIL stock opened at ₹1,228.10 apiece on NSE today, as compared to previous close of ₹1,164.90 last week on Friday and touched an intraday high of ₹1,237.30 on 2 November. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/RIL_share_1793592301773_iyUy_1793592302099_aKcy_06213a0f-41fc-4ab9-9233-6e93d63bcd92_eiZw.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-flying-massive-monday-jump-for-ril-stock-6-surge-strong-q2-results-book-profit-or-wait-11793591404819.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-02T04:23:35.755165Z"
+    },
+    {
+      "id": "170c443c064fdd643428337341fc283f",
+      "title": "Best Mukesh Ambani stock to buy: RIL vs Jio Platforms vs Jio Financial shares — Investors guide as Sensex, Nifty soar",
+      "description": "Mukesh Ambani stocks: Amid soaring Indian stock market, experts bet high on Jio Platforms ahead of Jio Financial Services. However, they said that investing in Reliance Industries shares is safe compared to Jio Platforms shares. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/Jio_Platforms_vs_Reliance_Industries_shares_1793592001652_Onrx_1793592001876_B6RV_63b65ff4-072f-47b9-bc8d-f91786bb4644_fWXW.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/best-mukesh-ambani-stock-to-buy-ril-vs-jio-platforms-vs-jio-financial-shares-investors-guide-as-sensex-nifty-soar-11793591542012.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-02T04:23:35.755060Z"
+    },
+    {
+      "id": "3cf4c90d86995236e12435d0c977dfee",
+      "title": "Bank of Baroda shares jump 5% after Q2 net profit rises 36%. What Nomura and other brokerages saying?",
+      "description": "Bank of Baroda reported a 36% year-on-year rise in Q2 FY27 net profit, aided by gains from the NSE stake sale. Brokerages maintained mixed ratings, with target prices ranging from Rs 260 to Rs 285 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135443950,imgsize-2364682.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bank-of-baroda-shares-in-focus-as-nse-stake-sale-aids-36-profit-growth-in-q2-what-are-nomura-other-brokerages-saying/articleshow/135443950.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-02T04:23:35.113197Z"
+    },
+    {
+      "id": "5fa6099e3f950b45ed3d05fe77561a31",
+      "title": "Reliance Industries shares rally 6% after Q2 results. Here’s why Jefferies, others analysts see up to 47% upside",
+      "description": "Reliance Industries shares rose up to 6% after the company reported a 41% YoY increase in Q2 net profit to Rs 25,548 crore, while revenue climbed 29% to Rs 3.32 lakh crore. The O2C business led earnings growth, with EBITDA surging 68% YoY to a record Rs 25,203 crore, supported by strong refining and petrochemical performance.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135444361,imgsize-68944.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-rally-6-after-q2-results-heres-why-jefferies-others-analysts-see-up-to-47-upside/articleshow/135444361.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-02T04:23:35.113146Z"
+    },
+    {
+      "id": "07f6e379f6c9336880c19c158dbacd15",
+      "title": "Jio Platforms shares climb over 3% after Q2 PAT rises 14% YoY to Rs 8,389 crore. Buy, sell or hold?",
+      "description": "Jio Platforms reported a 14% year-on-year rise in September-quarter net profit in its first earnings announcement since listing. Subscriber additions, 5G adoption and digital services supported growth, while brokerages retained Buy ratings with target prices of Rs 1,340 and Rs 1,350. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135444563,imgsize-2244650.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-climb-over-3-after-q2-pat-rises-14-yoy-to-rs-8389-crore-buy-sell-or-hold/articleshow/135444563.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-02T04:23:35.113100Z"
+    },
+    {
+      "id": "3d5b612577ba4aa2bb545e5561e21dde",
+      "title": "NTPC shares rise 3% after Q2 results. Why Jefferies and Nuvama remain bullish",
+      "description": "NTPC shares rose after the state-owned power major reported a 14% YoY rise in standalone net profit to Rs 5,320 crore for Q2 FY27. Revenue grew 17% to Rs 45,752 crore, while EBITDA increased 9% to Rs 10,891 crore. The company also announced an interim dividend of Rs 3 per share, with November 6 set as the record date. Brokerages.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135444649,imgsize-2092509.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ntpc-shares-rise-3-after-q2-results-why-jefferies-and-nuvama-remain-bullish/articleshow/135444649.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-02T04:23:35.113044Z"
+    },
+    {
+      "id": "70e36f4c0ef705e1fabd298f7bf41b69",
+      "title": "Nifty’s comeback or a largecap trap? Anand James decodes breadth, IT and Swiggy",
+      "description": "Anand James, Chief Market Strategist at Geojit Investments, says the recovery still looks like a narrow largecap-led bounce, even as the 18% surge in Nifty IT points to the early stages of a possible leadership cycle. He also assesses Swiggy’s rebound prospects and names his top stock ideas for the week. This key financial update highlights evolving market dynamics, strategic.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135443410,imgsize-37394.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/niftys-comeback-or-a-largecap-trap-anand-james-decodes-breadth-it-and-swiggy/articleshow/135443410.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-02T04:23:34.445023Z"
+    },
+    {
+      "id": "5a1c62be9328787a5e45ac4ac21765b7",
+      "title": "Why is market rallying today? Sensex soars over 950 pts, Nifty tops 23,300. 7 factors driving Rs 4 lakh crore D-Street gains",
+      "description": "The Indian stock market saw a robust performance on Monday, with Sensex and Nifty climbing over 1%. This was largely driven by Reliance Industries' strong earnings report, which propelled its shares upwards. Overall, sectors like Nifty Oil & Gas thrived, although Nifty Pharma lagged behind. Market breadth revealed more winners than losers, reflecting investor confidence, even amid some sectors' struggles.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135444466,imgsize-90380.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-market-rallying-today-sensex-soars-950-points-nifty-above-23300-7-factors-driving-rs-4-lakh-crore-d-street-gains/articleshow/135444466.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-02T04:23:34.444701Z"
+    },
+    {
       "id": "f7ae858d98f551901da9860cfa2081b6",
       "title": "Sebi extends digital accessibility compliance deadline to January 31",
       "description": "Sebi has extended the deadline for regulated entities to complete key digital accessibility compliance requirements to January 31 next year, following requests from market participants. In a circular dated October 30, Sebi said the extension covers the appointment of an International Association of Accessibility Professionals (IAAP) auditor, conducting accessibility audits of digital platforms and remediation of findings arising.",
@@ -14935,193 +15126,6 @@
         "Corporate"
       ],
       "pubDate": "2026-09-23T03:17:43.757697Z"
-    },
-    {
-      "id": "86e59c7571fef67b61f639e990c12467",
-      "title": "Benchmarks snap four-session winning streak; Nifty ends below 23,350",
-      "description": "The key equity benchmarks snapped a four-session winning streak on Tuesday, with the Nifty closing below the 23,350 mark. Selling in IT, FMCG and PSU bank stocks outweighed gains in metal and realty shares. The market opened higher on positive global cues but came under pressure during the session, while Brent crude falling below $100 a barrel provided some relief.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/benchmarks-snap-four-session-winning-streak-nifty-ends-below-23-350-126092200910_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-09-22T16:15:54.084101Z"
-    },
-    {
-      "id": "3e2b66845beaa9bde57a735c43c6f40f",
-      "title": "Five Adani group companies settle Sebi proceedings for ₹1.51 crore",
-      "description": "Sebi had sent show-cause notices to the companies in February 2024 for alleged lapses in disclosure of certain related-party transactions, highlighted in the Hindenburg report. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260922/full-126092200998.jpg",
-      "fullArticleLink": "https://www.business-standard.com/companies/news/sebi-settles-proceedings-against-5-adani-firms-over-disclosure-violations-126092200998_1.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-22T16:15:54.083955Z"
-    },
-    {
-      "id": "be6632399cc1e26f63d64902c9bfa904",
-      "title": "Tata Group conflict: JPMorganChase CEO Jamie Dimon hails N Chandrasekaran, flags board tensions",
-      "description": "Jamie Dimon commented on the Tata Group board dispute, praising N Chandrasekaran's leadership. He highlighted India's economic growth but stressed the need for consistent regulations to boost investor confidence. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/JP_Chandra_1790072964843_ul4r_1790072972777_3zeS_4cb720fc-5a6b-4977-bfdd-678573dd94fa_olFL.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-group-conflict-jpmorganchase-ceo-jamie-dimon-hails-n-chandrasekaran-flags-board-tensions-11790072666279.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-22T16:15:53.330191Z"
-    },
-    {
-      "id": "c73a5e8f57987e42e4eeaf0f887cb38a",
-      "title": "Chandrasekaran family's TVS link surfaces as Srinivasan judges his term",
-      "description": "Filings show that family members of Tata Sons chairman N Chandrasekaran hold business relations with TVS Motor Co. Ltd, a firm led by Venu Srinivasan, who recently cast a decisive board vote backing Chandrasekaran's fresh term. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/PTI09-17-2026-000279A-0_1790086981147_0Flc_1790086981322_r9FD_b9ba639c-b28a-46be-8d93-4cb1c7c64e50_oDy6.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tat-sons-chandrasekaran-family-tvs-link-went-undisclosed-venu-srinivasan-judged-his-term-11790084628035.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-22T16:15:53.329954Z"
-    },
-    {
-      "id": "7bea6c0cd1b10014825df8351e48bb47",
-      "title": "Spinny files confidential IPO papers with Sebi",
-      "description": "The proposed IPO is expected to give some of Spinny’s early investors an opportunity to exit, while also bringing fresh capital into the company to fund its expansion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/pexels-photo-32370608_1781240498287_1781240512601_35847e73-348b-4c21-aaa4-5b11c5cbc0eb_1790064860586_ZOwu_8725251d-45dc-4e8a-88d5-500227e75e6f_18VQ.jpeg",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/spinny-confidential-ipo-papers-sebi-used-car-market-india-11790061163570.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-22T16:15:52.685251Z"
-    },
-    {
-      "id": "362e68314f184300b1c76659a43453b1",
-      "title": "'Tata Group Must Be Protected': Sharad Pawar weighs in on Tata Sons-Tata Trusts row",
-      "description": "A dispute has emerged between Tata Sons and Tata Trusts following N Chandrasekaran's reappointment as executive chairman, with the Trusts challenging its validity. The conflict raises critical questions about corporate governance and the future structure of Tata Sons and the Tata Group. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/tata_1790067957110_kJ5i_1790067962624_rEJd_9d3bf850-ecbb-4699-b19c-d898281f9c99_wrsa.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tata-group-must-be-protected-sharad-pawar-weighs-in-on-tata-sons-tata-trusts-row-11790064360578.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-22T16:15:52.685172Z"
-    },
-    {
-      "id": "8babe1f86075f36c61fa2a1fd0190b41",
-      "title": "Action Construction share price jumps 50% in 6 months - ICICI Direct sees it rising further | 12-month target price",
-      "description": "As per BSE data, Action Construction stock has jumped 50% in the last six months, while year-to-date, the stock has gained 32%. The stock hit a 521-week high of ₹1,267.05 on 21 September, while it hit a 52-week low of ₹746.10 on 30 March. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Action_Construction_Equipment_1790066911105_2II8_1790066919186_mXuQ_41e9827e-330b-471b-b0b8-e0b60f9ef584_snpi.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/action-construction-share-price-jumps-50-in-6-months-icici-direct-sees-it-rising-further-12-month-target-price-11790065905916.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-22T16:15:52.685092Z"
-    },
-    {
-      "id": "030ac2033f17277f4356a0ccf5011310",
-      "title": "Can Tata Capital stay ahead of rising funding costs?",
-      "description": "At a recent analyst meeting, Tata Capital expressed confidence that its AUM would grow 23-25%, supported by healthy demand in retail and SMEs, which together account for 85-87% of its portfolio and are expected to gain further share.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/tata_capital_1790070004014_kaag_1790070004274_fYpc_ce925494-8491-4b99-8a53-06243bd9569a_K3R5.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/tata-capital-share-price-margin-pressure-rbi-rates-11790062281655.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-22T16:15:52.684973Z"
-    },
-    {
-      "id": "d1c735f8596ad6fb19419173d248e338",
-      "title": "Top stocks to buy in F&O segment: Glenmark, Bharat Forge, Varun Beverages by Jay Thakkar - Check short-term targets",
-      "description": "On September 22, domestic indices fell as IT stocks declined, overshadowing oil price drops. Nifty 50 dropped 0.36% to 23,329; Sensex fell 0.44% to 74,529. Technical levels suggest a trading range of 23,000-24,000, with potential positive momentum if a US-Iran deal is confirmed. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Jay_Thakkar_1788926097718_2adc4cd4-40c7-4308-9dad-_1790078646510_h6XH_1790078646720_FfPP_1f85a113-2617-4de5-986e-5245f28a3a57_slFe.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-in-f-o-segment-glenmark-bharat-forge-varun-beverages-by-jay-thakkar-check-short-term-targets-11790077901117.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-22T16:15:52.684620Z"
-    },
-    {
-      "id": "97eeb84c0996350b675b4c3a03de54f2",
-      "title": "Top stocks to buy tomorrow: HBL, Precision Wires, GHCL by Vaishali Parekh | Target, stop-loss, Nifty, Bank Nifty outlook",
-      "description": "Vaishali Parekh from Prabhudas Lilladher suggested three stocks for intraday trading on September 23, amid a declining market. Nifty 50 and Sensex closed lower as sector performances varied, with technology and FMCG suffering significant losses. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Vaishali_2_1790084155420_nepJ_1790084168657_9lEP_8f82d719-f27a-45c8-83ca-0039c420ee71_KAH0.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-hbl-precision-wires-ghcl-by-vaishali-parekh-target-stop-loss-nifty-bank-nifty-outlook-11790082155610.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-09-22T16:15:52.684468Z"
-    },
-    {
-      "id": "34ef31d1c81687db020e517d7a4f49db",
-      "title": "This stock just beat AI star HFCL’s 230% rally to top Nifty 500 gainers in 2026. Can outperformance last?",
-      "description": "Welspun Corp has emerged as the top-performing Nifty 500 stock in 2026 after a 236% rally, overtaking AI infrastructure play HFCL. The sharp gains have been driven by strong investor interest in the company’s oil, gas and water transmission business. The key question now is whether the rally can sustain. This key financial update highlights evolving market dynamics, strategic corporate.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134403063,imgsize-2210749.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/this-stock-just-beat-ai-star-hfcls-230-rally-to-top-nifty-500-gainers-in-2026-can-outperformance-last/articleshow/134403063.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-22T16:15:52.080314Z"
-    },
-    {
-      "id": "d5d2bb63b47f5115fc29e9f7a4bab7e6",
-      "title": "Meesho shares rally 12% after UBS hikes target price by 24%. What’s keeping analysts bullish?",
-      "description": "UBS has raised its Meesho estimates across NMV, contribution profit and EBITDA, citing stronger seller and buyer growth and improving unit economics. The brokerage expects contribution margins to expand as logistics costs ease and advertising revenue grows. Meesho’s ability to sustain user additions, ordering frequency and NMV growth remains central to its outlook. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134404902,imgsize-2008518.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-rally-12-after-ubs-hikes-target-price-by-24-whats-keeping-analysts-bullish/articleshow/134404902.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-09-22T16:15:52.079909Z"
-    },
-    {
-      "id": "841f03b147ccf252d0da4ee3de720308",
-      "title": "Sebi sees potential for Rs 2 lakh crore IPO fundraising as fresh capital gains prominence",
-      "description": "SEBI Chairman Tuhin Kanta Pandey said India could raise up to Rs 2 lakh crore through IPOs, with substantial proceeds flowing directly to companies. He highlighted reforms simplifying market access, rising corporate bond issuance, growing domestic investor participation and measures to deepen capital markets, improve liquidity and expand global investor access. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134409191,imgsize-45780.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sees-potential-for-rs-2-lakh-crore-ipo-fundraising-as-fresh-capital-gains-prominence/articleshow/134409191.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-09-22T16:15:52.079766Z"
-    },
-    {
-      "id": "735ba0dcf3ab4e0bfa42977834f70d12",
-      "title": "LIC said to lead bidding in NSE’s Rs 22,800 crore IPO",
-      "description": "LIC emerged as the largest bidder in NSE’s ₹22,800 crore IPO with ₹4,500 crore in bids, joined by ICICI Prudential and Quant Mutual Fund. Despite cautious retail participation (1.3x), strong institutional demand (12.7x) drove overall subscription to 5.7x ahead of its September 24 listing on BSE. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134409250,imgsize-605076.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/lic-said-to-lead-bidding-in-nses-rs-22800-crore-india-ipo/articleshow/134409250.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-22T16:15:51.477640Z"
-    },
-    {
-      "id": "b392045b014333790b28d74f77dae018",
-      "title": "Sunil Singhania-led Abakkus Asset Manager files DRHP with Sebi for IPO",
-      "description": "Sunil Singhania-led Abakkus Asset Manager has filed its DRHP with SEBI for a 15-million-share OFS IPO. The company reported Rs 796 crore revenue and Rs 327 crore PAT in FY26, alongside strong growth in non-mutual fund assets and PMS. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134410183,imgsize-56412.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/sunil-singhania-led-abakkus-asset-manager-files-drhp-with-sebi-for-ipo/articleshow/134410183.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-09-22T16:15:51.477519Z"
     }
   ]
 }
