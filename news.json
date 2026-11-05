@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "eeffe915004615d95b428f02ac6946b6",
+      "title": "Physicswallah shares jump 10% post Q2 show: Can earnings sustain momentum?",
+      "description": "Physicswallah posted its highest-ever quarterly revenue of ₹1,242 crore, up 18.2 per cent year-on-year (YoY), and its consolidated profit doubled, rising 106 per cent YoY to ₹144 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261105/full-126110500650.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/physicswallah-share-price-jump-10-post-q2-show-can-earnings-sustain-momentum-126110500650_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:34.246165Z"
+    },
+    {
+      "id": "25832223dbd4437dc9bc50b8857dc117",
+      "title": "Sensex stocks Adani Ports, TechM at new highs; Eternal, ICICI Bk near peaks",
+      "description": "In the past two weeks, the market price of Eternal, the parent firm of food-delivery marketplace Zomato and quick commerce platform Blinkit surged 18% on the BSE. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261105/full-126110500798.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sensex-stocks-adani-ports-techm-at-new-highs-eternal-icici-bank-near-peaks-126110500798_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-05T19:28:34.246079Z"
+    },
+    {
+      "id": "0a8194d61352ec25ecf892b78e1de4f7",
+      "title": "Biocon share price rises nearly 6% despite 52% dip in Q2 profit",
+      "description": "Biocon reported a 52% dip in Q2 consolidated net profit at ₹41 crore, while revenue from operations grew by 2%. The stock recently hit a 52-week low of ₹318.40 on the NSE. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261105/full-126110500911.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/biocon-share-price-rises-nearly-6-despite-52-fall-in-q2-profit-126110500911_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:34.245993Z"
+    },
+    {
+      "id": "b221cff1c5fa3278fc4a723c00e18545",
+      "title": "Nifty Bank jumps 3%, Financials 4%: What's behind the rise? Explained",
+      "description": "Nifty Bank index jumped 3.45 per cent to 57,847, with all index constituents in the green. Nifty Financial Services, meanwhile, zoomed 4.24 per cent to 26,667. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261105/full-126110501075.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-bank-jumps-3-financials-4-what-s-behind-the-rise-explained-126110501075_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-05T19:28:34.245878Z"
+    },
+    {
+      "id": "cf3cee763052699c1d4683eaf15ea433",
+      "title": "Berger Paints misses Q2 profit estimates as raw material inflation squeezes margins",
+      "description": "Berger Paints’ September-quarter profit rose 5% to ₹216.88 crore, missing analyst estimates as raw-material costs surged faster than prices. Revenue grew 13.2%, while gross margins narrowed.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Berger_1691694922897_1793885747236_mIfr_296be35f-a616-4acb-8412-41ce546e66aa_rJUG.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/berger-paints-misses-q2-profit-estimates-raw-material-inflation-squeezes-margins-11793884875033.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:33.496092Z"
+    },
+    {
+      "id": "324df6f5a98ebee8523398cde9393239",
+      "title": "Titan misses Q2 revenue estimates but beats profit view as jewellery demand holds up",
+      "description": "Demand for gold coins and investment products remains subdued, even as Titan sees stronger traction in lower-caratage jewellery and 24% growth in its jewellery portfolio. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/2-0-900893145-Titan-Watches-showroom-05-20161221-R_1793895434134_uiwv_1793895434327_2j2r_414d8002-ad8f-478c-baa8-dea4ed42c0a1_rNhJ.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/titan-misses-revenue-estimates-but-beats-profit-view-as-jewellery-demand-holds-up-11793890877911.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:33.495924Z"
+    },
+    {
+      "id": "d22f97c6e9dc3e2d0b43d55c0df42fd8",
+      "title": "Bharti Airtel Q2 results: Profit jumps 31% to ₹8,888 crore, ARPU up ₹271 crore, telco stock rallies 121% in 3 yrs",
+      "description": "Bharti Airtel reported a 31% annual increase in Q2FY27 net profit to ₹8,888 crore, while revenue rose 16.7% to ₹60,877.5 crore. ARPU climbed 6% to ₹271, supported by growth in 4G and 5G users. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Bharti_Airtel_Q2_Results_Graphic_1793882253916_Qsj3_1793882262251_srb6_74516148-5c2a-40e9-8843-1d5143861061_nDI8.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bharti-airtel-q2-results-profit-jumps-31-to-rs-8-888-crore-arpu-up-rs-271-telecom-stock-rallies-121-in-3-yrs-11793882129364.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:32.898522Z"
+    },
+    {
+      "id": "2306f0ccc6767b5408ad093a6186622d",
+      "title": "Titan shines in Q2 Results 2026; Net profit doubles to ₹2,393 crore, aided by one-time gain; jewellery business up 24%",
+      "description": "Titan reported a 113% year-on-year rise in September-quarter net profit to ₹2,393 crore, including a ₹671 crore one-time gain. Revenue grew 25% to ₹20,533 crore, led by jewellery, watches and eyewear, while strong demand for studded jewellery improved the product mix. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/Titan_1793881399799_2q1c_1793881678953_JBCa_781d9362-c4c7-4f30-b591-78967c78b119_TWp7.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/titan-shines-in-q2-results-2026-net-profit-doubles-to-rs-2-393-crore-aided-by-one-time-gain-jewellery-business-up-24-11793880484831.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:32.898460Z"
+    },
+    {
+      "id": "9c83dd80f266791b63aa81f28c311b80",
+      "title": "Maharashtra state discom targets February 2027 IPO, aims to raise over ₹10,000 crore",
+      "description": "Maharashtra's state-run power distributor plans to file its prospectus by December, following a restructuring that includes the demerger of its agricultural business and a ₹32,679 crore debt takeover by the state government. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/05/1600x900/logo/SME_IPO_1756099341077_1756099345044_1793890714194_8jda_44b5aba1-1798-4ee5-935c-a6fe1d23ee29_qI33.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/msedcl-targets-february-2027-ipo-aims-to-raise-over-10-000-crore-11793880648583.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-05T19:28:32.898254Z"
+    },
+    {
+      "id": "9c29dc29abcd672ccec980da592c9823",
+      "title": "Diwali Dhamaka stocks for portfolio: 10 shares with up to 34% upside potential ICICI Direct is bullish on",
+      "description": "For the festive season, ICICI Direct has identified ten promising stocks that could be wise investments, boasting notable potential for growth. Among these are Venus Pipes and Tubes and Kotak Mahindra Bank. Each stock has specific buying ranges and target prices. Investors should assess their portfolios carefully, especially given the current market fluctuations. This key financial update highlights evolving market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135559432,imgsize-2426.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-dhamaka-stocks-for-portfolio-10-shares-with-up-to-34-upside-potential-icici-direct-is-bullish-on/slideshow/135559522.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-05T19:28:32.271154Z"
+    },
+    {
+      "id": "9deb5b7ee796a0e0c745e28a06b5aa6f",
+      "title": "11 smallcap stocks maintain over 10% profit margin in Q1 and Q2, shares rally 150-350% in FY27",
+      "description": "Eleven smallcap stocks have maintained net profit margins above 10% in both Q1 and Q2FY27, while delivering share price gains of 151% to 352% so far this fiscal year. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135569654,imgsize-13722.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/11-smallcap-stocks-maintain-over-10-profit-margin-in-q1-and-q2-shares-rally-150-350-in-fy27/slideshow/135569927.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:32.271017Z"
+    },
+    {
+      "id": "1a381821e184cb1067f3f58915c83e5d",
+      "title": "Glenmark Pharma Q2 Results: Net profit plunges 56% to Rs 264 crore, revenue down at Rs 4,247 cr",
+      "description": "Glenmark Pharmaceuticals experienced a 56.78 percent drop in consolidated profit after tax during the September quarter. Total revenue from operations decreased to Rs 4,247.32 crore compared to the previous year. The company's total expenses also decreased during the same period, indicating some operational efficiency. A subsidiary of Glenmark Pharma entered into a settlement for USD 15 million with Humana Inc.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135577516,imgsize-27240.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/glenmark-pharma-q2-results-net-profit-plunges-56-to-rs-264-crore-revenue-down-at-rs-4247-cr/articleshow/135577516.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:32.270776Z"
+    },
+    {
+      "id": "fa7bdd5bb26211af703ea193a15b05ba",
+      "title": "Godfrey Phillips Q2 profit down 37% to Rs 190 cr; revenue up twofold at Rs 4,198 cr",
+      "description": "Godfrey Phillips India Ltd reported a significant 37.73 percent decrease in net profit for the September quarter, primarily driven by a substantial tax increase from the previous fiscal year. Despite this, the company's total consolidated income surged to Rs 8,139.64 crore during the first half of FY27. To counteract the volumetric impact from rising taxes, a tactical pricing strategy was.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135578939,imgsize-57520.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/godfrey-phillips-q2-profit-down-37-to-rs-190-cr-revenue-up-twofold-at-rs-4198-cr/articleshow/135578939.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:32.270725Z"
+    },
+    {
+      "id": "2861e3b8c4c152090635166d3394c434",
+      "title": "Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing",
+      "description": "Paras Healthcare announced a profit after tax of Rs 40.35 crore in the September quarter. This performance shows a significant increase from the net profit of Rs 12.38 crore reported last year. Revenue from operations reached Rs 510.89 crore, with expenses at Rs 463.12 crore during the same period. The company utilized a portion of its IPO proceeds to strengthen.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135580435,imgsize-1729348.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/paras-healthcare-posts-rs-40-crore-q2-net-profit-in-first-results-after-listing/articleshow/135580435.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-05T19:28:32.270651Z"
+    },
+    {
+      "id": "18f21081b5a7a0e5fc54643aa7ffe72d",
+      "title": "Signature Global clocks Rs 67 cr profit in Q2 vs loss yr ago, revenue rises over 2-fold",
+      "description": "Signature Global Ltd has reported a consolidated net profit of Rs 66.90 crore for the quarter ending September, marking a significant turnaround from last year's net loss of Rs 46.86 crore. With total income soaring from Rs 372.51 crore to Rs 870.70 crore, the company's chairman highlighted a robust demand for quality housing and its strong financial health. Since its.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135577590,imgsize-88912.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-clocks-rs-67-cr-profit-in-q2-vs-loss-yr-ago-revenue-rises-over-2-fold/articleshow/135577590.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-05T19:28:31.657423Z"
+    },
+    {
       "id": "9874cea49bb1df669ddfc9c275c8cff8",
       "title": "Religare's Ajit Mishra says 24,700 in sight for Nifty; bets on GAIL, HAL",
       "description": "Stocks to buy, Nifty strategy: Ajit Mishra has said that Nifty will likely build a stronger base and inch towards 24,200 next, followed by 24,400-24,700. He has recommended GAIL and HAL shares to buy. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14966,187 +15153,6 @@
         "Banking"
       ],
       "pubDate": "2026-09-26T15:45:42.372851Z"
-    },
-    {
-      "id": "8937145b23280e616e755f352a0cdcb3",
-      "title": "Aether Industries rallies 9%; stock up 109% thus far in CY2026",
-      "description": "Crisil Ratings on Aether Industries: Analysts believe that with continuous capacity additions and subsequent ramp-up, the overall growth trend is expected to remain strong over the medium-term. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260925/full-126092500660.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/aether-industries-rallies-9-stock-up-109-thus-far-in-cy2026-126092500660_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-26T03:29:44.681130Z"
-    },
-    {
-      "id": "af0cd9b54f1d07fdc9bf7ecdaf7528bf",
-      "title": "Runwal Ent IPO: Concentration risk, poor cash flows keep experts 'neutral'",
-      "description": "Runwal Enterprises IPO review: SBI Securities has assigned a 'Neutral' rating, citing negative operating cash flows over the last three years. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260925/full-126092500703.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/ipo/runwal-ent-ipo-concentration-risk-poor-cash-flows-keep-experts-neutral-126092500703_1.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-26T03:29:44.681068Z"
-    },
-    {
-      "id": "e2efff864bcebdac06f61400f056cba3",
-      "title": "ASX 200 falls for fourth straight week ahead of RBA decision",
-      "description": "Persistent inflation has raised expectations of further interest-rate hikes after three increases earlier this year. Investors are also awaiting August inflation data, following a July reading that came in above expectations and remained higher than the RBAs 23% target range. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/capital-market-news/asx-200-falls-for-fourth-straight-week-ahead-of-rba-decision-126092500824_1.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-26T03:29:44.680885Z"
-    },
-    {
-      "id": "0c2384147ce02b1fca8d273645c82376",
-      "title": "Biscuit maker Anmol Industries files for ₹1,800 cr IPO, draft papers show",
-      "description": "The Kolkata-based biscuit maker will see its top investor, Baijnath Choudhary & Family Trust, sell its entire stake in the IPO, with no fresh issue. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260926/full-126092600079.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/ipo/biscuit-maker-anmol-industries-files-for-1-800-cr-ipo-draft-papers-show-126092600079_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-09-26T03:29:44.680099Z"
-    },
-    {
-      "id": "59f4c32a0e7ff50ea2b3b78594c76593",
-      "title": "47% rally in 6 months! Motilal Oswal sees 37% upside in auto ancillary stock | Check target price, rationale",
-      "description": "Shares of SPR Auto Technologies Limited rose 47% in six months, with strong margin growth and a positive outlook supported by Motilal Oswal. The stock may see a 37% upside, with a target price of ₹6,150 amid a transition to a diversified mobility platform. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/motilal_oswal_financial_sevices_1790321738763_vp0F_1790321766442_OlNd_2edde746-de29-466f-9b7a-2613dd63ba38_pKCq.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/47-rally-in-6-months-motilal-oswal-fin-services-sees-37-upside-auto-ancillary-stock-check-target-price-rationale-11790321376278.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-26T03:29:43.540205Z"
-    },
-    {
-      "id": "162e30d07f51220077621fc7b5c2054d",
-      "title": "Suzlon shares crash 30% in 3 months! Will it bounce back, or more pain ahead? Explained with support, resistance",
-      "description": "Suzlon shares dropped over 1% amid reports of its focus on India’s wind repowering potential, estimated at 30 GW domestically. Vice Chairman Girish Tanti emphasized the need for faster transmission network expansion to meet India’s renewable energy targets by 2030. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Suzlon_1790324214298_b3mP_1790324224045_dE7Z_1262ec1a-d7dd-4b18-a722-c428c10e354b_H5h4.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/suzlon-shares-crash-30-in-3-months-will-it-bounce-back-or-more-pain-ahead-explained-with-support-resistance-11790322011663.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-26T03:29:43.540147Z"
-    },
-    {
-      "id": "77b0418e173c24b3c04691d10533658e",
-      "title": "Hyundai Motor India shares rebound after 4-day slide: What’s driving the stock price rise? Buy or book profits?",
-      "description": "After a four-day slump, Hyundai Motor India shares surged, opening at ₹2,030 and ending at ₹2,105. Experts emphasise value buying ahead of upcoming launches. Is now the right time for investors to capitalise or book profits?. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Hyundai_Motor_India_shares_1790323369967_5suR_1790323380267_O3SY_6a8d8179-b019-40fb-a053-1e22ffcfbc4e_vrCz.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hyundai-motor-india-shares-rebound-after-4-day-slide-what-s-driving-the-stock-price-rise-buy-or-book-profits-11790322771831.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-09-26T03:29:43.540059Z"
-    },
-    {
-      "id": "95989d55372806d68da54af9783fa7e8",
-      "title": "Upcoming dividend stocks: SAIL, IGL, NMDC among 3 PSU stocks with record dates ahead- Check yield, ROE, stock return",
-      "description": "Three public sector undertakings: SAIL, IGL, and NMDC, are set to pay dividends by the end of September and October. Investors need to hold the stocks before record dates to qualify for payouts. SAIL offers ₹2.35 per share, IGL ₹1.50, and NMDC Re 1. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/dividend_psu_try_this_one_1790331757241_6Zzr_1790331772836_kwfc_5ba72872-d740-42f0-b480-790e7c04ce1f_9muY.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-stocks-sail-igl-nmdc-among-3-psu-stocks-with-record-dates-ahead-check-yield-roe-stock-return-11790330679880.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-26T03:29:43.539893Z"
-    },
-    {
-      "id": "1c6bf267a45167f8bc3bfcc06553ed97",
-      "title": "1689% return in 5 years! Multibagger stock gets 'buy' tag from PL Capital | Target price, rationale",
-      "description": "Pearl Global Industries' share price surged nearly 85% in six months and 103% over one year. The stock reached a 52-week high after announcing growth targets for FY30, with PL Capital upgrading its rating to 'buy' and setting a target price of ₹1,500. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/multibagger_sto_k_1790360837319_nYMa_1790360864870_M279_1584ee59-f762-4b66-af24-aa8d683e69f5_NSXc.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/1670-return-in-5-years-multibagger-stock-gets-buy-tag-from-pl-capital-target-price-rationale-11790338487601.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-26T03:29:43.539651Z"
-    },
-    {
-      "id": "f7102f044e041f54ab345244333b939d",
-      "title": "Top 4 breakout stocks to buy: Balrampur Chini, Datamatics, Castrol, Cyient by Sumeet Bagadia | Target, stoploss, outlook",
-      "description": "Sumeet Bagadia recommends four stocks for near-term investment: Balrampur Chini Mills, Datamatics Global Services, Castrol India, and Cyient. Each stock shows positive technical setup and price momentum, with highlighted target levels and stop-loss indicators guiding potential investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Summet_2_1790358475338_QQAU_1790358482237_6gqg_6c08059a-a763-4368-937d-2327539d09ec_wubs.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-4-breakout-stocks-to-buy-balrampur-chini-datamatics-castrol-cyient-by-sumeet-bagadia-target-stoploss-outlook-11790356858190.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-26T03:29:43.539440Z"
-    },
-    {
-      "id": "51f43c9195abf47e40cfe44b2fccd8a9",
-      "title": "Jefferies is bullish on Adani Ports and 5 other logistics sector stocks. How many do you have?",
-      "description": "Jefferies has shared an optimistic forecast for six logistics stocks, highlighting anticipated price hikes. Among them, Adani Ports is projected to rise by 20% from its present valuation. TCI Express is notably positioned for a remarkable 59% upside, while both JSW Infrastructure and Delhivery exhibit attractive investment prospects with moderate increases expected. This report reflects a broader growth trend.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134474746,imgsize-58422.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-is-bullish-on-adani-ports-and-5-other-logistics-sector-stocks-how-many-do-you-have/slideshow/134474925.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-26T03:29:42.929740Z"
-    },
-    {
-      "id": "d9245a008df5a5b9c8ec260310511133",
-      "title": "Adani group entities swap 86 lakh shares of Adani Enterprises in Rs 2,498 cr block deal",
-      "description": "Recently, the Adani Group's promoter entities completed a significant exchange of 86 lakh shares of Adani Enterprises, worth Rs 2,498 crore via block deals. Adani Infra (India) Ltd and Adani Properties garnered noteworthy shares, while Infinite Trade and Investment Ltd divested an equivalent amount, cutting their ownership from 2.01 percent to 1.38 percent. Overall, the promoter shareholding in Adani Enterprises.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134488246,imgsize-61884.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-entities-swap-86-lakh-shares-of-adani-enterprises-in-rs-2498-cr-block-deal/articleshow/134488246.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-26T03:29:42.928820Z"
-    },
-    {
-      "id": "c045ef307988768846ed26d9a2886205",
-      "title": "Sebi bans Omaxe, 5 others for violating minimum public shareholding norms",
-      "description": "The Securities and Exchange Board of India (Sebi) has taken decisive action against Omaxe and five associated entities for breaching public shareholding regulations. Omaxe and its promoters were accused of creating a deceptive public shareholding framework, involving funds used to repurchase its shares via various means. As a result, Omaxe faces a three-month market access ban, while the others have.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134488287,imgsize-36770.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bans-omaxe-5-others-for-violating-minimum-public-shareholding-norms/articleshow/134488287.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-09-26T03:29:42.928774Z"
-    },
-    {
-      "id": "71cfb1dbbdbc643e60fe618691c79860",
-      "title": "Explained: What really drives the rupee? Decoding the forces behind currency moves",
-      "description": "The rupee’s decline over the past four years reflects a complex interplay of fundamentals, RBI intervention and market sentiment. A Bank of Baroda analysis finds no single dominant driver, with RBI spot and forward operations emerging as significant factors. The report expects the rupee to trade in the Rs 94.5-96 range near term. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134482274,imgsize-245964.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/explained-what-really-drives-the-rupee-decoding-the-forces-behind-currency-moves/articleshow/134482274.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-26T03:29:42.360576Z"
-    },
-    {
-      "id": "641a1564d6dbd18ea0521eaac084db84",
-      "title": "Embassy REIT raises Rs 1,000 cr via debentures to refinance debt",
-      "description": "Embassy Office Parks REIT has effectively secured Rs 1,000 crore via non-convertible debentures, aimed at refinancing its existing debts and boosting its financial position. This notable transaction highlights a pivotal moment in the evolution of India's REIT market and was fully subscribed by a reputable European bank, showcasing substantial international interest and the ongoing regulatory support from SEBI and RBI.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134485342,imgsize-42600.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/embassy-reit-raises-rs-1000-cr-via-debentures-to-refinance-debt/articleshow/134485342.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-26T03:29:42.360184Z"
     }
   ]
 }
