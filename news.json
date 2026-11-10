@@ -1,6 +1,189 @@
 {
   "news": [
     {
+      "id": "d6468871a54055da711beda96b5ed0c0",
+      "title": "Jubilant FoodWorks dips 5% post Q2, but brokerages remain firm; here's why",
+      "description": "MOFSL said it remains positive on Jubilant Food's medium-term outlook, supported by 5-7 per cent LFL growth potential, strong Popeyes momentum, and healthy international performance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261109/full-126110900280.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/jubilant-foodworks-share-price-dips-5-post-q2-but-brokerages-remain-firm-here-s-why-126110900280_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-10T05:55:27.997705Z"
+    },
+    {
+      "id": "4acd9169b419bd5d5d3b48f7b3488c80",
+      "title": "ZEEL extends gains, rises 11% in 2 days as board to mull buyback, dividend",
+      "description": "ZEEL settled with a bullish reversal candlestick pattern on its weekly charts, signalling a potential relief rally toward the 80 mark in the near term, show tech charts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261109/full-126110900445.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/zee-entertainment-share-price-extends-gains-rises-11-in-2-days-as-board-to-mull-buyback-dividend-126110900445_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-10T05:55:27.997594Z"
+    },
+    {
+      "id": "4b688924cb90c08cd3e2b36ed3ba872b",
+      "title": "Hindustan Coca-Cola IPO filings reveal Thums Up is outperforming Coke across 10 key Indian states",
+      "description": "Coca-Cola bottler Hindustan Coca-Cola Holdings has filed for an IPO, structured entirely as an offer for sale. The company serves around 1.7 million retail outlets and sells 41 beverages across three categories. Coca-Cola holds 60% of HCCH, with Jubilant Beverages owning the remaining 40%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/cola_1794214717284_VeIp_1794214732609_mXSZ_cd2e6014-f39d-428c-a39d-0cfa142cda3c_sdMR.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/hindustan-coca-cola-ipo-filings-reveal-thums-up-is-outperforming-coke-across-10-key-indian-states-11794214255906.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-10T05:55:27.337389Z"
+    },
+    {
+      "id": "00dd323ac47bd44d86a0cab33aa9a1fd",
+      "title": "Leak, conflict and loss of arbitration: inside a Tata Power Mumbai FIR",
+      "description": "Tata Power has accused an arbitrator and former employees of undisclosed ties and leaking confidential data in its dispute with Kleros Capital. The allegations follow a Singapore ruling awarding Kleros $490 million plus interest, and an order to seize shares in two Tata Power arms. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/3-0-78278184-tata-ki4C--621x414-LiveMint-0_1679797254384_1794233272914_WxeH_921f5643-3aa6-4c90-9f46-4137e009b091_3iv9.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/tata-power-arbitrator-russia-trips-claimant-11794224233257.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-10T05:55:27.336898Z"
+    },
+    {
+      "id": "440dbc6e21bdfe22ba74d2bb43fa89ec",
+      "title": "Anthropic sends out $69.3 billion IPO details, then retracts, tells banks they will update new figures",
+      "description": "Anthropic reportedly circulated and then retracted details of its planned IPO, including a proposed sale of 867 million shares at $70 to $80 each. The company said the pricing information was inaccurate and would be updated. Investors have discussed valuations of $1.1 trillion to $1.3 trillion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Anthropic_1794280270645_QE81_1794280280674_2rjp_0a2ebe1d-b803-48a3-a850-b053f518cd5f_8RiV.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/anthropic-sends-out-69-3-billion-ipo-details-then-retracts-tells-banks-they-will-update-new-figures-11794280119925.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-11-10T05:55:27.336728Z"
+    },
+    {
+      "id": "03c8b4545d5ce7adbe583aeeb3d10417",
+      "title": "Three workers die at Tata iPhone factory in Tamil Nadu's Hosur",
+      "description": "The deaths are the latest incident to affect Apple's iPhone supply chain in India, where Tata Electronics accounts for roughly 40% of iPhone assembly and Foxconn makes up the rest. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/TATA-ELECTRONICS-INCIDENT-0_1794287708956_5XB9_1794287722822_0NuR_a88f0785-186e-428b-b388-e651856dc5e0_WfsN.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/three-workers-die-at-tata-iphone-factory-in-tamil-nadus-hosur-11794287606590.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-10T05:55:27.336515Z"
+    },
+    {
+      "id": "2478847de2073b1bb3763b97bfea938e",
+      "title": "IREDA shares jump 7% despite 20% fall in one year on high trading volume | Check target, stop loss, stock performance",
+      "description": "IREDA shares opened at ₹111.62 apiece on the NSE, against their previous close of ₹111.46, and climbed to an intraday high of ₹119.58, marking a gain of around 7.3% from the previous closing price. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/IREDAA_1794216705060_3ad0_1794216705174_NJo0_ba8dcbad-7fff-4268-a67f-874529a890d1_vYJP.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/ireda-shares-jump-7-despite-20-fall-in-one-year-on-high-trading-volume-check-target-stop-loss-stock-performance-11794214570839.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-10T05:55:26.775039Z"
+    },
+    {
+      "id": "7806e6036e7913456a212638b8b6fffe",
+      "title": "₹17 share declares ₹40 dividend; hits 5% upper circuit ahead of record date | Do you own as ex-date to fall soon",
+      "description": "Taparia Tools shares hit the 5% upper circuit at ₹17.89 ahead of the November 12 dividend record date. The company announced an interim dividend of ₹40 per share.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Rs_17_Share_Declares_Rs_40_Dividend_1794217517118_eeNl_1794217527073_Boly_2c35bc11-21f4-4f22-a58a-cd7993e7bd5a_IaVx.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rs-17-share-declares-rs-40-dividend-hits-5-upper-circuit-ahead-of-record-date-do-you-own-as-ex-date-to-fall-soon-11794217379790.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-10T05:55:26.775006Z"
+    },
+    {
+      "id": "a9e5ea94824bc963d727890853f734e4",
+      "title": "KPI Green Energy shares jump 9% on massive volume spike ahead of Q2 results; what's driving the rally?",
+      "description": "KPI Green Energy shares rose 9% to ₹331 on Monday as trading volume surged to 64.35 times the weekly average, despite no immediate fundamental trigger. The rally came ahead of quarterly results and followed new project capacity energisations, though the stock remains down 34%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Gainers_1794226389687_2Z44_1794226396451_8UCH_191e891a-fb2e-4fab-9671-43d496a35885_zMHw.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/kpi-green-energy-shares-jump-9-on-massive-volume-spike-ahead-of-q2-results-whats-driving-the-rally-11794225977234.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-10T05:55:26.774803Z"
+    },
+    {
+      "id": "70ffe602f129f6288458d9c59694c176",
+      "title": "Chemplast Sanmar shares jump over 11% in biggest single-day gain in 10 months as Q2 rally gathers pace",
+      "description": "Chemplast Sanmar shares jumped 11.44% to ₹237 after stronger-than-expected Q2 FY27 results. Revenue rose 28% year on year to ₹1,323 crore, EBITDA reached ₹111 crore, and net loss narrowed to ₹5 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/Sterlite_Technologies_1791189453015_h82t_179118945_1794230022257_g0US_1794230022410_W22O_a69d2d40-9262-40a1-88b7-13b6d0b5c31c_KXcp.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/chemplast-sanmar-shares-jump-over-11-in-biggest-single-day-gain-in-10-months-as-q2-rally-gathers-pace-11794229336025.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-10T05:55:26.774768Z"
+    },
+    {
+      "id": "5d7fcc114cc3ac7f936ab0219fe0ccad",
+      "title": "AMD stock rallies 12% as Google Cloud taps its EPYC processors for next-generation AI infrastructure",
+      "description": "AMD shares rose 12.5% after the company announced its fifth-generation EPYC processors will power Google Cloud TPU 8tx systems. The partnership combines AMD CPUs and security technology with Google’s AI accelerators to support confidential AI workloads, protecting sensitive data as it is processed. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/logo/AMD_2_1794243018718_8fWf_1794243023878_lyqi_ebcd4f88-e7f9-49b6-b840-2e12a91194dd_Bcwe.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/amd-stock-rallies-12-as-google-cloud-taps-its-epyc-processors-for-next-generation-ai-infrastructure-11794242504072.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-10T05:55:26.774666Z"
+    },
+    {
+      "id": "cfdf216706a5bb5086df4b621e588257",
+      "title": "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
+      "description": "India’s IPO pipeline is gaining pace, with eight companies—including Mahanadi Coalfields, Veritas Finance, Razorpay and MakeMyTrip’s Indian subsidiary—moving closer to public offerings. Their proposed issues range from fresh capital raises to offers for sale, and vary widely in size and structure. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/SEBI_Clears_8_Upcoming_IPOs_1794284553048_lEnr_1794284557344_Vz05_d75cd06b-ea18-44e3-9a36-bdb62b3ee49d_4VKr.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-10T05:55:26.774227Z"
+    },
+    {
+      "id": "c0691b48464625f3a36ea65988da3318",
+      "title": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?",
+      "description": "AMFI’s upcoming stock categorisation may bring substantial changes across market-cap segments. Nuvama predicts seven possible additions to the large-cap category and seven potential downgrades, alongside shifts between mid-cap and small-cap stocks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/AMFI_Large_Cap_Upgrade_Infographic_1794287520076_bWPO_1794287523626_EfSv_327eb8a3-783f-44b3-ac61-3e33cce7b311_IdJ2.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/amfi-rejig-reliances-jio-platforms-nse-lenskart-lg-among-7-stocks-set-for-large-cap-upgrade-vedanta-in-mid-cap-11794286571524.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-10T05:55:26.774074Z"
+    },
+    {
+      "id": "39f351a6869e32e9774b8bc3a589b904",
+      "title": "RBI said to query bank valuations of some bond derivative trades",
+      "description": "India's central bank has informed some lenders about the need to adjust bond forward accounting practices. This change could impact billions of dollars in assets across the banking sector. The Reserve Bank of India suggested using Level 3 inputs for valuing bond-forward trades during recent audits. Banks have been in discussions with industry associations and clearinghouses for potential solutions.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135696624,imgsize-73568.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/articleshow/135696624.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-11-10T05:55:25.573818Z"
+    },
+    {
+      "id": "24a0a9b77191ed265b10d3a0bc2c908a",
+      "title": "Anthropic plans IPO live stream with Amodei, JPMorgan CEO Dimon",
+      "description": "Anthropic PBC is preparing for a live-streamed event featuring CEO Dario Amodei and JPMorgan Chase CEO Jamie Dimon. This event is aimed at marketing their upcoming initial public offering, which might break records. The IPO is set to begin marketing shortly and is planned to debut before the Thanksgiving holiday. Anthropic is targeting an offering size similar to SpaceX's IPO.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135699137,imgsize-122542.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon/articleshow/135699137.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-10T05:55:25.573721Z"
+    },
+    {
       "id": "d9f3b98f39f0ad5fab29e511f355e94b",
       "title": "Citi, HSBC turn bullish on India as oil slide, AI rotation lift markets",
       "description": "The calls come ​after the Nifty surged more than 10% over seven sessions through Friday with foreign ‌investors buying more than $4.1 billion of shares this month. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14979,191 +15162,6 @@
         "Banking"
       ],
       "pubDate": "2026-10-01T04:07:23.430707Z"
-    },
-    {
-      "id": "6f93aeb062592834436ee09fe6caa05c",
-      "title": "Sensex, Nifty set to post worst 9-month show in 15 years",
-      "description": "Earlier, in the first nine months of the calendar year 2011, the BSE Sensex and Nifty had plunged 19.8 per cent and 18.9 per cent, respectively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260930/full-126093000184.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sensex-nifty-set-to-post-worst-9-month-show-in-15-years-126093000184_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-30T17:36:03.439134Z"
-    },
-    {
-      "id": "0209ce6b675157ae84960ad848e0b58e",
-      "title": "Cupid shares surge 17% in 2 days to record high; what's behind sharp rise?",
-      "description": "The multibagger stock has entered the small-cap index as part of the Nifty semi-annual rejig. According to Nuvama Alternative & Quantitative Research, Cupid could see inflows of $10 million. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260930/full-126093000347.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/cupid-shares-surge-17-in-2-days-to-record-high-what-s-behind-sharp-rise-126093000347_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-30T17:36:03.438799Z"
-    },
-    {
-      "id": "4d19a6373f2fb1083845fbf94289c0e4",
-      "title": "Sensex, Nifty: Here's what happened after 9MCY loss, shows 15-year history",
-      "description": "In the previous four such instances, the Sensex and the Nifty recouped losses and signed-off the respective calendar year with a gain on three occasions, shows the 15-year historical data. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260930/full-126093000504.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sensex-nifty-here-s-what-happened-after-a-9-month-calendar-year-loss-shows-15-year-bse-nse-history-126093000504_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-09-30T17:36:03.438590Z"
-    },
-    {
-      "id": "a7ba74c5d49d809854a1f8755f612f5d",
-      "title": "Azad Engineering zooms 111% in six months; hits new high on heavy volumes",
-      "description": "Analysts at ICICI Securities upgraded the rating on Azad Engineering to 'Buy' as they expect follow-up large orders from GE, providing another 5-6 years of visibility to the newly commissioned unit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260930/full-126093000706.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/azad-engineering-zooms-111-in-six-months-hits-new-high-on-heavy-volumes-126093000706_1.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:03.438368Z"
-    },
-    {
-      "id": "8d020b62dafa00af1812d31af3ff03e0",
-      "title": "Why Tata Trusts chose TCE, TESS for proposed Tata Sons restructuring",
-      "description": "The proposed Tata Sons restructuring, which will see the holding company absorb Tata Electronics and Tata Consulting Engineers, simplifies ownership structures, promoting easier regulatory navigation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1790686261756_Y9RL_848a7b41-699a-4dee-8a24-ee2a524e3b30_cQx1.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-restructuring-ipo-listing-tata-trusts-11790669521997.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:02.563004Z"
-    },
-    {
-      "id": "476acd505489f30fc379a6ced34890b5",
-      "title": "Infosys' nearly 1 lakh employees to move into specialist roles as AI reshapes tech industry",
-      "description": "Infosys plans to move up to one-third of its workforce into specialised roles and build a 6,000-member team of frontier engineers as AI reshapes the IT industry. The move comes as Indian IT firms face pressure on hiring, headcount-based pricing and traditional business models. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Infosys_Artificial_Intelligence_1790752212479_M9GL_1790752212657_3iDE_8765282b-c8d9-4f4f-a976-b452b9096058_KgSk.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/infosys-nearly-1-lakh-employees-to-move-into-specialist-roles-as-ai-reshapes-tech-industry-11790751738455.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:02.562647Z"
-    },
-    {
-      "id": "882daba201009ffc73b489c2febaf866",
-      "title": "Tata Sons merger proposal faces questions from Tata Trusts trustees: Report",
-      "description": "Trustees of Tata Trusts are questioning a proposed merger involving Tata Sons that could prevent a public listing. They claim no board resolution has approved the merger, and the Sir Ratan Tata Trust is barred from meetings by the Charity Commissioner amid regulatory concerns. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Tata_Sons_1790752493669_yyKY_1790752493807_IZNq_c8518fd2-32fb-457c-bb9d-2549bc8f6b02_QTBA.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-merger-proposal-faces-questions-from-tata-trusts-trustees-report-11790752220173.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:02.562602Z"
-    },
-    {
-      "id": "8da97ed7e8b68c8c66f2253e76d1bfe7",
-      "title": "Why the Mistrys want to unlock their family silver from Tata Sons",
-      "description": "&nbsp;The SP group’s Mistrys own 18.37% of the Tata group holding company, a fortune that has been difficult to monetise. Now debt, family history and a contentious listing have put that prized stake at the centre of a reckoning. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Shapoor_Mistry_1790745538293_sFeX_1790745538449_sk3n_871eb76b-df10-4465-ac61-977ca1ebe9bb_4luB.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/sp-group-tata-sons-stake-listing-11790742711748.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:02.562492Z"
-    },
-    {
-      "id": "ab8ddc51b56e44a6759c2daccb165925",
-      "title": "Chandra, Venu didn't inform Tata Sons board of a second family firm deal",
-      "description": "The Karnataka government has allotted land for a ₹330-crore project proposed by Hanno One, a company owned by the family of Tata Sons chairman N Chandrasekaran. The project had business relations with the Venu Srinivasan-led automaker. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Chandra-Venu-Copy_1790775006234_DNhC_1790775006469_C7Co_06a7e862-780e-4df3-b661-7aef65f1f158_LKbs.jpeg",
-      "fullArticleLink": "https://www.livemint.com/companies/natarajan-chandrasekaran-venu-srinivasan-family-links-tata-sons-tvs-group-11790770167917.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:02.562157Z"
-    },
-    {
-      "id": "6b0bdc79d5171d746845e6e93fa99251",
-      "title": "‘We weren't ready’: Inside Adam Neumann’s honest admission on WeWork’s failed IPO after $47 billion valuation",
-      "description": "WeWork co-founder Adam Neumann reflected on the company's rushed IPO attempt in 2019. He acknowledged a shift from its original community-building mission to a profit focus, leading to significant losses and corporate governance issues. Neumann resigned as CEO after the company withdrew IPO plans. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Untitled_design_1790771801445_5BS6_1790771805911_ScwN_d472af18-a79c-4a15-a401-458c40f509e8_mTug.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/we-werent-ready-inside-adam-neumann-s-honest-admission-on-wework-s-failed-ipo-after-47-billion-valuation-11790770421462.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-09-30T17:36:02.562101Z"
-    },
-    {
-      "id": "25f333c30136e0e381f5c375787e239e",
-      "title": "Air France-KLM says it won't split long-haul operations between Mumbai, Navi Mumbai airports",
-      "description": "The stance deepens an ongoing stand-off between Adani Airport and airlines, as the country’s second-largest airport operator prepares to redevelop Mumbai’s existing airport and seeks to redistribute capacity. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/im-95926240_1775005016227_1775005045710_1790777630285_H9VY_67ccb5a8-4c0c-4894-9d9d-81b6d271f8ac_mqfv.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/air-france-klm-says-it-wont-split-long-haul-operations-between-mumbai-navi-mumbai-airports-11790771660912.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:02.562001Z"
-    },
-    {
-      "id": "9998ea94999516add3a3653219fe9235",
-      "title": "RIL, Infosys, TCS, HUL, HDFC Bank at multi-year lows | Time to look beyond? Experts suggestion for investors",
-      "description": "The Indian stock market shows a divide between large-cap and broader indices, with large caps like Reliance and Infosys at multi-year lows, while mid and small-caps perform better. Investors are advised to focus on selective blue-chip stocks amidst persistent selling pressure from FIIs. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Indian_Blue-Chip_Market_1790763782505_Pzwh_1790763791710_AQXv_9aa31537-02f1-4579-816d-2cc0ab09424e_VCEk.png",
-      "fullArticleLink": "https://www.livemint.com/market/ril-infosys-tcs-hul-hdfc-bank-at-multi-year-lows-time-to-look-beyond-experts-suggestion-for-investors-11790759982722.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:01.922704Z"
-    },
-    {
-      "id": "48335b22c10d18a676059236ce243717",
-      "title": "IT Q2 results 2026 date and time: TCS, Infosys, HCL Tech FY 2027 earnings announcement schedule",
-      "description": "As Indian IT companies begin revealing their Q2 FY27 results this October, investor focus will be on firms like TCS and HCL Tech, despite ongoing challenges from geopolitical tensions and economic uncertainties, suggesting another subdued quarter for the sector's performance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/logo/Tech_stocks_1790781393526_ZRFF_1790781403076_t2fL_38a3225b-f108-47c4-bf3b-4929c3d8f62c_ktGA.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/it-q2-results-2026-date-and-time-tcs-infosys-hcl-tech-fy-2027-earnings-announcement-schedule-11790778777510.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:01.921956Z"
-    },
-    {
-      "id": "a87c4c754eca7958fdc087dd80c9dee4",
-      "title": "Tata Group stock! BofA turns bullish on Trent, initiates coverage with Buy, pegs 17% upside",
-      "description": "BofA Securities initiated coverage on Trent with a Buy rating and Rs 3,075 price target, citing its differentiated retail model, Zudio and Westside growth, integrated technology, supply chain capabilities and long-term market share opportunities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134595513,imgsize-129876.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stock-bofa-turns-bullish-on-trent-initiates-coverage-with-buy-pegs-17-upside/articleshow/134595513.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-09-30T17:36:01.195376Z"
-    },
-    {
-      "id": "6d34d114ac9f0bb0d17d1b67fcc95d44",
-      "title": "India bonds end choppy quarter at over 2-year lows as rate hike bets mount",
-      "description": "Indian government bonds closed the quarter at their weakest levels in more than two years. Fluctuations in oil prices and rising global yields influenced market conditions significantly. Anticipations regarding rate increases by the Reserve Bank of India affected bond supply fears after increased long-term bond issuance. India's inflation rate in August exceeded the RBI's medium-term target, showing persisted price pressures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134594158,imgsize-111102.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-choppy-quarter-at-over-2-year-lows-as-rate-hike-bets-mount/articleshow/134594158.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-09-30T17:36:00.433392Z"
     }
   ]
 }
