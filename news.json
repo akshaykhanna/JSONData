@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "30f594ea892349af0d5b186132ff4e9e",
+      "title": "Pharmacy retail stock Entero Healthcare zooms 33% in 1 week; hits new high",
+      "description": "Entero Healthcare Solutions' share price moved higher by 4% to ₹2,095.30, also its new high, bouncing back 7% from its intraday low of ₹1,967 on Monday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261109/full-126110900567.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/pharmacy-retail-stock-entero-healthcare-zooms-33-in-1-week-hits-new-high-126110900567_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-11T04:41:15.227743Z"
+    },
+    {
+      "id": "155cc22747edf26a699d55925401456c",
+      "title": "Stocks to watch: Kalyan Jewellers, MTNL, Dabur, IIFL Finance, MRF, NBCC",
+      "description": "Stocks to watch: Kalyan Jewellers, MTNL, Dabur, HUL, IIFL Finance, MRF, NBCC, Balrampur Chini Mills, Tata Motors PV, DLF, Bajaj Finance, among others, will be in focus today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261111/full-126111100092.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-kalyan-jewellers-mtnl-dabur-iifl-finance-mrf-nbcc-126111100092_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-11T04:41:15.227231Z"
+    },
+    {
+      "id": "590bfb8199e6a419586b7c9dfd7493da",
+      "title": "What next for Nifty after a gap-up open on Wed? Analysts decode strategy",
+      "description": "Ponmudi of Enrich Money reckons that the Nifty is likely to maintain a positive near-term bias, while some consolidation may emerge following the sharp recent rally. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261111/full-126111100093.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-outlook-what-next-for-nifty-after-a-gap-up-open-on-wednesday-analysts-decode-strategy-126111100093_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-11T04:41:15.227178Z"
+    },
+    {
+      "id": "4aa5643874454267875a8baac9ff01bf",
+      "title": "Dangote Refinery Gets $4.1 Billion Orders in Top Africa IPO",
+      "description": "Africa’s biggest refinery attracted about 5.85 trillion naira ($4.1 billion) of applications for shares in the continent’s largest public offering to date, almost three times the amount it sought to raise, according to people familiar with the matter. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/dangote-refinery-gets-4-1-billion-orders-in-top-africa-ipo-11794341424038.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-11T04:41:13.946414Z"
+    },
+    {
+      "id": "ee636ec231d8d2aca40973fd22de5ff5",
+      "title": "Top stocks to watch today: Cochin Shipyard, MRF, Tata Power shares in focus on Wednesday, 11 November | Full list",
+      "description": "Top stocks to watch today: Cochin Shipyard, MRF, Kalyan Jewellers, Tata Power, Hindustan Copper, BHEL, Bajaj Finance are among the shares in focus on Wednesday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/stw_11_nov_1794362160160_CECc_1794362160361_bsm5_4219332b-26e5-44b6-a960-ecc5189d22da_3r2f.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-cochin-shipyard-mrf-tata-power-shares-in-focus-on-wednesday-11-november-full-list-11794360457800.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-11T04:41:13.946204Z"
+    },
+    {
+      "id": "b271cb9e9183bfe26f56d44ec83259fd",
+      "title": "Trump says Iran war ‘effectively over’: How's it likely to impact Sensex, Nifty, gold and silver prices? Experts' views",
+      "description": "US-Iran war: For Indian markets, any signs of de-escalation between the US and Iran could be positive, particularly if they lead to a sustained decline in crude oil prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/US_Iran_war_over_1794363648350_UUu8_1794363648501_iXxV_87d50095-64a1-4a3c-a078-fd7c2a45c1f0_CbOL.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/trump-says-iran-war-effectively-over-hows-it-likely-to-impact-sensex-nifty-gold-and-silver-prices-experts-views-11794362432588.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-11T04:41:13.946155Z"
+    },
+    {
+      "id": "e99e4bb535d0b92ce4944ddd37f71b2a",
+      "title": "Sensex, Nifty 50 open higher on softer crude, robust foreign buying",
+      "description": "The NSE Nifty 50 rose 1.17% to 25,337.8 points and the S&amp;P BSE Sensex gained 1.41% to 82,248.68 as of 9:15 a.m. IST, their highest levels since 27 February. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/INDIA-EQUITIES-TAXATION-0_1793369322625_KCuQ_17933_1794366598859_Y1aj_1794366599032_zbhK_a991c040-2d37-4430-8a0f-51ae65898c04_VA0B.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/indian-stocks-poised-for-higher-open-on-softer-crude-robust-foreign-buying-11794366485802.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-11T04:41:13.946084Z"
+    },
+    {
+      "id": "cc6d0c7761b8586596f62b7f22345889",
+      "title": "Stock Market Today: Massive jump in Sensex, Nifty! ₹4.5 lakh cr wealth added in a few mins - Reasons for bullish party",
+      "description": "The Sensex and Nifty climbed more than 1% in Wednesday trading, led by gains in major stocks including IndiGo, M&amp;M and HDFC Bank. Mid- and small-cap shares also advanced as easing oil prices and improved investor sentiment buoyed markets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Sensex_Nifty_Surge_1794369757375_julq_1794369762750_TQET_5e43a96d-f08c-44e7-bdd8-22728ec1ccce_SFNT.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-today-massive-jump-in-sensex-nifty-rs-4-5-lakh-cr-wealth-added-in-a-few-mins-reasons-for-bullish-party-11794369074218.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-11T04:41:13.946052Z"
+    },
+    {
+      "id": "60eca4899faa818065854c11c03eeb90",
+      "title": "TD Power shares up 350% up in 3 years, jumps 5% today as Sensex, Nifty jump massively | More upside? target, stop loss",
+      "description": "TD Power share price opened at ₹580.35 per share on NSE today, as compared to previous close of ₹571.65 on Monday and touched an intraday high of ₹604 on November 11. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/TD_1794370392109_OjQ1_1794370392327_3QGr_288d17bb-3faa-4076-9506-ddab1d0456d4_odmr.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/td-power-shares-up-350-up-in-3-years-jumps-5-today-as-sensex-nifty-jump-massively-more-upside-target-stop-loss-11794369346196.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-11T04:41:13.946014Z"
+    },
+    {
+      "id": "c02662de53c2727e3f85c96bba28a30e",
+      "title": "Why Kalyan Jewellers shares surged 10%, hit 52-week high after Diwali, Dhanteras; up 26% in a week | Buy, sell or hold?",
+      "description": "Kalyan Jewellers shares rose 10% to a 52-week high after the company reported Q2 FY27 net profit growth of 64% to ₹427 crore and revenue growth of 32% to ₹10,323 crore. Brokerages maintained Buy ratings, while the stock’s gains extended across multiple timeframes. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Kalyan_Jewellers_Shares_Soar_10_1794370498087_u8oI_1794370501724_yGa2_3fcc2685-8af6-4363-a18f-e08703cfcded_o6wh.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/why-kalyan-jewellers-shares-surged-10-hit-52-week-high-after-diwali-dhanteras-up-26-in-a-week-buy-sell-or-hold-11794369395918.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-11T04:41:13.945938Z"
+    },
+    {
+      "id": "eff105f89c5e4648c395a3c520072a17",
+      "title": "Higher input costs drag MRF Q2 net profit down 23%",
+      "description": "Tyre maker MRF Ltd reported a 22.8% decline in net profit for the July-September quarter. Revenue from operations saw a growth of 17.4%, reaching Rs 8,660.19 crore compared to the previous year. However, total expenses also rose significantly, driven by sharp increases in raw material costs. The company announced an interim dividend of Rs 3 per share to its shareholders.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135722166,imgsize-172770.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/higher-input-costs-drag-mrf-q2-net-profit-down-23/articleshow/135722166.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-11T04:41:13.280946Z"
+    },
+    {
+      "id": "1319c9b576d0faae30c152acd1c39bf2",
+      "title": "US stocks: Dow Jones falls 200 points as hot inflation revives rate-hike fears; Nvidia sinks",
+      "description": "On Tuesday, Wall Street faced a downturn as inflation figures surpassed projections, raising worries about potential interest rate hikes. The declines were evident across the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite indices. While financial stocks showed minor gains, technology shares, especially Nvidia, experienced fluctuations due to uncertainty in leadership. Anthropic's looming IPO threatens to heat up competition.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135714411,imgsize-165922.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-octobers-hot-inflation-print/articleshow/135714411.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-11T04:41:12.748895Z"
+    },
+    {
+      "id": "9c60f74f9dfd091d17f6dc16e130360c",
+      "title": "US stocks: Five things to know about Anthropic",
+      "description": "Founded by former OpenAI researchers, Anthropic has grown into a major AI company backed by Amazon, Alphabet, Microsoft and Nvidia. As the Claude developer prepares for a landmark IPO, its safety-focused philosophy, unconventional roots and clash with the Pentagon are drawing renewed scrutiny. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135718802,imgsize-26354.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-five-things-to-know-about-anthropic/articleshow/135718802.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-11T04:41:12.748743Z"
+    },
+    {
+      "id": "a3429be483f5ece6933a09172040fdcd",
+      "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
+      "description": "Anthropic PBC is preparing for an initial public offering aiming for a fully diluted valuation of $1.4 trillion. The company plans to raise up to $90.4 billion, including a private placement with major investors. It has reported a revenue run rate of $81 billion, showcasing significant growth in recent months. The IPO is scheduled to price on November 18.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135721872,imgsize-264516.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-11T04:41:12.748661Z"
+    },
+    {
+      "id": "62ee12dffb7f0153f74c18d937722f35",
+      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+      "description": "OpenAI reported a quarterly revenue rise of approximately 50% to reach $10 billion in the third quarter. Despite this revenue growth, the company faced significant operating losses, which expanded to $10.9 billion. Investors are closely examining the finances of AI companies, including rivals like Anthropic, which is preparing for its IPO. The strong investor interest in AI persists despite ongoing.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135722331,imgsize-54902.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports/articleshow/135722331.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-11T04:41:12.748563Z"
+    },
+    {
       "id": "ce5e948973de4fde20e999c8bdc4c667",
       "title": "Retail investors shed stocks, but crowd into Reliance, HDFC Bank",
       "description": "Retail stakes fell in nearly half of listed companies in September, even as Reliance Industries, HDFC Bank and a handful of other stocks attracted more small shareholders. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14968,199 +15153,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-02T04:01:48.173099Z"
-    },
-    {
-      "id": "9953002661cc0192d0bfe49a0c064166",
-      "title": "Adani Energy Solutions gains 5.5%; extends winning streak to 3rd session",
-      "description": "Over the previous three sessions, Adani Energy Solutions shares have gained more than 7 per cent, compared with a nearly 1 per cent decline in the Nifty 50 index. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100100318.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/adani-energy-solutions-gains-5-5-extends-winning-streak-to-3rd-session-126100100318_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-01T18:00:17.740026Z"
-    },
-    {
-      "id": "6a6aa43d194ed715ebe651912465f0f2",
-      "title": "Market crash: Sensex sinks 1,280 pts intraday, at 2026 low; Nifty at 22,200",
-      "description": "Stock market crash: Analysts flag October rate hike fears, low liquidity, high oil prices, persistent FIIs selling and a long-weekend as some of the key reasons for the market fall on Thursday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100100568.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/why-are-markets-falling-today-sensex-crashes-1-000-pts-intraday-hits-2026-low-nifty-at-22-300-126100100568_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-01T18:00:17.739749Z"
-    },
-    {
-      "id": "d1e1f5ecc7c8f7c95f1d3efc1316c287",
-      "title": "IPOs lap up record ₹94,205 crore in April-September FY27: Report",
-      "description": "Fund raising through initial public offers (IPOs) touched a record high of Rs 94,205 crore in April-September FY27, courtesy big-ticket issues such as by NSE, as per a report released by Primedatabase.com on Thursday. A total of 78 companies hit the market with main board IPOs in the six months totalling Rs 94,205 crore. The money raised is 35 per.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100100972.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/ipos-lap-up-record-94-205-crore-in-april-september-fy27-report-126100100972_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-01T18:00:17.739495Z"
-    },
-    {
-      "id": "02e4be62ea0d505a8f99ab9832b27a3f",
-      "title": "Sebi to make investor awareness messages mandatory on broker apps, sites",
-      "description": "Market watchdog Sebi has asked stock brokers to display investor awareness messages on their websites and trading apps under its initiative Project Jagrook. This is part of Project Jagrook -- Sebi's nationwide investor awareness initiative -- and the upcoming World Investor Week 2026. From October 5 to 31, all stock brokers will be required to display the \"investor awareness message(s)\".",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100100962.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-to-make-investor-awareness-messages-mandatory-on-broker-apps-sites-126100100962_1.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-10-01T18:00:17.739391Z"
-    },
-    {
-      "id": "85d733486718e2139110bd49ce07f034",
-      "title": "September IPO fundraising highest so far in CY26 amid Nifty's big fall",
-      "description": "September's listings were at a median of 31 times. However, ESDS Software Solution (155 times), Hero Motors (143 times), and Prasol Chemicals (114 times) stood out. The NSE traded at 49 times. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261001/full-126100101167.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/september-fundraising-highest-for-any-month-this-year-amid-nifty-s-big-fall-126100101167_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-01T18:00:17.739262Z"
-    },
-    {
-      "id": "b26657a90961454da3e79d595d141cab",
-      "title": "Sindhuja raises ₹100 crore via NCDs; Carlsberg gets Sebi approval for IPO",
-      "description": "Sindhuja Microcredit raised ₹100 crore through NCDs, while Carlsberg India received Sebi's observations for a ₹6,600 crore IPO involving a stake sale by its parent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sindhuja-raises-100-crore-via-ncds-carlsberg-gets-sebi-approval-for-ipo-126100101273_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-01T18:00:17.739225Z"
-    },
-    {
-      "id": "cc2851c53a658cf70b1399db8e491455",
-      "title": "Airtel Money targets $7 billion valuation, plans $703 million London IPO",
-      "description": "London's stock market has shrunk over the past decade as companies have sought higher valuations elsewhere, prompting Britain to simplify listing rules in an effort to attract more issuers. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/airtel_1790857810776_DYfi_1790857817771_gR8Q_5ccc7a36-59ab-4b51-b692-36e0cdeea791_FkW8.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/airtel-money-targets-7-billion-valuation-plans-703-million-london-ipo-11790855854063.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-01T18:00:17.032992Z"
-    },
-    {
-      "id": "70d699cfe2dd764152860bcc2b8a449e",
-      "title": "Nifty IT crashes 11% in September: TCS, Infosys, Wipro among top losers — Can Q2 earnings spark a rebound?",
-      "description": "The IT sector has been hit hard in September, with the Nifty IT index down 11%. High interest rates, global growth fears, and generative AI pressures have impacted technology spending. Investors are looking to upcoming Q2 earnings for insights into demand and AI-led transformations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Nifty_IT_Sinks__October_Rebound__1790856150927_oFQM_1790856156492_7Psu_dd4236ff-272d-426a-a505-44503c4bf6d7_QcoQ.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-it-crashes-11-in-september-tcs-infosys-wipro-among-top-losers-can-q2-earnings-spark-a-rebound-11790851695743.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-01T18:00:16.397998Z"
-    },
-    {
-      "id": "90710b5df653d342339d2fc6974d567e",
-      "title": "Infosys, Wipro ADRs jump up to 10% after Accenture Q4 results beat Wall Street estimates",
-      "description": "Accenture's strong fiscal fourth-quarter performance boosted Infosys and Wipro ADRs significantly as they rebounded from losses. Infosys ADRs rose 8% and Wipro ADRs jumped 10%, suggesting improved market sentiment ahead of the upcoming earnings season. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/ADRs_2_1790859320997_z99c_1790859325679_lJSN_7c2794e3-daa5-4c54-8567-53d40840ba53_iUiN.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/infosys-wipro-adrs-jump-up-to-10-after-accenture-q4-results-beat-wall-street-estimates-11790859181291.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-01T18:00:16.397956Z"
-    },
-    {
-      "id": "7e04f6b1695b589de54511a39f81773a",
-      "title": "RIL Q2 Results: Nuvama sees 17% EBITDA growth, led by O2C biz. Here’s what to expect",
-      "description": "Reliance Industries is expected to report 17% year-on-year growth in Q2FY27 EBITDA to Rs 53,700 crore, led by stronger refining margins and higher throughput, according to Nuvama Research. While the O2C business is likely to drive near-term earnings, New Energy could emerge as a key growth driver, with EBITDA projected to reach Rs 20,100 crore by FY30. Nuvama retains its.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134612429,imgsize-181532.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-nuvama-sees-17-ebitda-growth-led-by-o2c-biz-heres-what-to-expect/articleshow/134612429.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-01T18:00:15.820028Z"
-    },
-    {
-      "id": "9a8b5ed28d47609466c50cc59ddb81e2",
-      "title": "Tata Motors PV shares fall over 3% despite 40% Q2 sales growth; Nifty Auto index down over 4%",
-      "description": "Tata Motors Passenger Vehicles shares dipped on Thursday despite a 40% year-on-year rise in Q2 FY27 sales, while the Nifty Auto index declined more than 4%. The company reported strong growth across passenger vehicles and EVs, with quarterly EV sales rising 90%. Investors are now watching festive-season demand and broader auto-sector trends. This key financial update highlights evolving market dynamics.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134613600,imgsize-2062736.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-shares-fall-over-3-despite-40-q2-sales-growth-nifty-auto-index-down-over-4/articleshow/134613600.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-01T18:00:15.819778Z"
-    },
-    {
-      "id": "405716cc9db97dedc2a779711ca62abf",
-      "title": "PB Fintech shares crash 50% from peak, fall below 2021 IPO price. More downside coming?",
-      "description": "PB Fintech shares plunged 50% from their all-time high to drop below the 2021 IPO price of Rs 980. The sharp six-day selloff follows proposed IRDAI regulatory curbs on insurance distribution, prompting brokerages like Bernstein and Jefferies to cut target prices amid earnings pressure concerns. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134614821,imgsize-140002.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-crash-50-from-peak-fall-below-2021-ipo-price-more-downside-coming/articleshow/134614821.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-10-01T18:00:15.819698Z"
-    },
-    {
-      "id": "ed1f75b183755145ac974831f31f2e07",
-      "title": "AMC stocks face rough waters; Kotak sees selective opportunities in SBI, HDFC AMC",
-      "description": "Indian asset management companies are experiencing steady retail inflows, notably through Systematic Investment Plans. Kotak Institutional Equities suggests that future growth is closely tied to market recovery and continuous fund performance. Smaller AMCs are becoming more popular, whereas larger firms are pressured to deliver consistent results. For significant AMCs like SBI Funds Management, stable performance is crucial for sustaining profit.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134614886,imgsize-184288.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/amc-stocks-face-rough-waters-kotak-sees-selective-opportunities-in-sbi-hdfc-amc/articleshow/134614886.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-01T18:00:15.819661Z"
-    },
-    {
-      "id": "3215a61c6a029d231a624b8f2ed54a05",
-      "title": "Carlsberg India IPO gets Sebi approval along with three other public offers. Check details",
-      "description": "India’s IPO pipeline expands as Sebi clears papers for Carlsberg India, Matangi Rubber, Ujin Pharma and TMC Transformer. The approvals come amid strong primary-market activity, with over 50 companies filing draft IPO papers in September despite volatility in broader equity markets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134620190,imgsize-4745398.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-ipo-gets-sebi-approval-along-with-three-other-public-offers-check-details/articleshow/134620190.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-01T18:00:15.244527Z"
-    },
-    {
-      "id": "8c01914d07df173c362c3d0e03f6f8e6",
-      "title": "Jio Platforms IPO in final stages after concluding worldwide roadshows",
-      "description": "Jio Platforms is on the verge of launching what is projected to be the largest public offering in India, targeting USD 3.8 billion. International roadshows spearheaded by Akash Ambani and Isha Ambani have garnered interest. Following approval from Sebi, Jio Platforms plans to release new equity shares, constituting about 2.9 percent of its base. This key financial update highlights evolving.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134621273,imgsize-276780.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-in-final-stages-after-concluding-worldwide-roadshows/articleshow/134621273.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-01T18:00:15.244360Z"
     }
   ]
 }
