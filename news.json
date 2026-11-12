@@ -1,6 +1,189 @@
 {
   "news": [
     {
+      "id": "43f71928f7023b9d86a1df2a86731658",
+      "title": "Equity MF inflows fall 14% in October as mid-, smallcap investments cool",
+      "description": "Net equity inflows fall to ₹32,994 crore as midcap and smallcap investments moderate; SIP contributions dip marginally to ₹32,160 crore amid profit booking and market volatility. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261111/full-126111101371.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/equity-mf-inflows-fall-14-in-october-as-mid-smallcap-investments-cool-126111101371_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-12T05:43:42.408469Z"
+    },
+    {
+      "id": "dba7edfc0ac1f226791c514fa6c01f72",
+      "title": "Stock Market LIVE: Sensex stuck in range, up 200 pts; Avanti Feeds, Cupid lead MidCap gains",
+      "description": "Sensex Today | Stock Market LIVE Updates Thursday: In the broader markets, the Nifty MidCap and the Nifty SmallCap rose 0.11 per cent and 0.72 per cent, respectively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111200066.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-12T05:43:42.408381Z"
+    },
+    {
+      "id": "b885a9207862125010133df376b3911f",
+      "title": "Stocks to watch: Bajaj Finance, GRSE, LIC, Meesho, ITC, Tata Investment",
+      "description": "Stocks to watch today: Bajaj Finance, Tata Power, LIC, Meesho, Coforge, Garden Reach, Cochin Shipyard, Bajaj Hindustan Sugar, ITC, among others, will be in focus today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111200073.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-bajaj-finance-grse-lic-meesho-itc-tata-investment-126111200073_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-12T05:43:42.408340Z"
+    },
+    {
+      "id": "e3cf806084be0b5d0e8e86311a7458ed",
+      "title": "Tata Power shares gain 2% after Q2 profit rises 33%; analysts upbeat",
+      "description": "Tata Power reported 33 per cent y-o-y growth in PAT at ₹1,652 crore for Q2FY27 from ₹1,245 crore last year. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111200194.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/tata-power-shares-gain-2-after-q2-profit-rises-33-analysts-upbeat-126111200194_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-12T05:43:42.408253Z"
+    },
+    {
+      "id": "b8d42fd9c12e264e9d1be519b71541bf",
+      "title": "GRSE stock gains 2% despite Q2 results miss; here's what brokerages suggest",
+      "description": "Elara Capital said that margins surprised positively, likely led by execution mix, even though growth on the sales front was subdued, likely due to slower execution. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111200217.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/navratna-psu-defence-stock-grse-gains-2-despite-q2-results-miss-here-s-what-brokerages-suggest-126111200217_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-12T05:43:42.408226Z"
+    },
+    {
+      "id": "3ca2de50a0ee4cf29a2813a994007c17",
+      "title": "Over 65% of Nifty large-cap stocks now above 200-DMAs; mid-, small-caps lag",
+      "description": "Anand James of Geojit Investments highlights that less than 20% of large-cap stocks traded above the 200-DMAs, towards the end of October, and now over 60% quote above their long-term moving averages. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111200213.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-trend-over-60-of-nifty-100-large-cap-stocks-now-trade-above-long-term-moving-averages-200-dmas-mid-small-caps-lag-126111200213_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-12T05:43:42.408182Z"
+    },
+    {
+      "id": "b37a3d66a5c0441c35ec014ebe48e74b",
+      "title": "Cupid shares jump 10% to record high on 133% Q2 PAT growth, higher guidance",
+      "description": "Cupid's net profit for the September quarter of FY27 increased by 133 per cent Y-o-Y to ₹56.22 crore. Revenue from operations rose 122 per cent Y-o-Y to ₹187.86 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111200282.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/cupid-shares-jump-10-to-record-high-on-133-q2-pat-growth-higher-guidance-126111200282_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-12T05:43:42.408099Z"
+    },
+    {
+      "id": "120c7886ac5b3f4742a69342e36cd31b",
+      "title": "Who is Sanjay Banga? Meet Tata Power's new CEO, a Harvard alumnus with 37 years of power sector experience",
+      "description": "Sanjay Banga, who joined Tata Power more than eight years ago, in May 2018, is currently the CEO and MD of Tata Power Renewable Energy. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Untitled_design_-_2026-11-11T205504.453_1794410718389_CH0R_1794410724385_Mw7h_aae5ebfd-b7b9-43bf-94d6-0e74fde72b58_cUKI.png",
+      "fullArticleLink": "https://www.livemint.com/companies/people/who-is-sanjay-banga-meet-tata-powers-new-ceo-a-harvard-alumnus-with-37-years-of-power-sector-experience-11794409947305.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-12T05:43:41.784028Z"
+    },
+    {
+      "id": "0bc8326b2df413cfac5eb25d91840f6f",
+      "title": "Tata Power says Singapore shares pledged with banks, safe from immediate seizure",
+      "description": "The Singapore High Court has directed the city's sheriff to attach and sell Tata Power's shares in Bhira Investments Pte. Ltd. and Tata Power International Pte. Ltd to recover the $650 million it owes Kleros Capital as part of an arbitration award over a coal project in Russia. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/2-0-784179017-tatapower-0_1680408594471_1794410886797_Osu0_864486ff-7647-4860-a221-1ddfc5ea5efc_u8Nb.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-power-singapore-high-court-renewable-energy-power-kleros-11794404371600.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-12T05:43:41.783970Z"
+    },
+    {
+      "id": "ebf7303037d995a6fbc3a64303c894c8",
+      "title": "Mishra Dhatu Nigam shares surge over 8% after Q2 profit more than doubles; MIDHANI jumps 19% in 2026 | Check key levels",
+      "description": "MIDHANI shares rose more than 8% after the defence PSU reported Q2 FY27 net profit more than doubling to ₹28 crore and revenue climbing 41.1% to ₹296 crore. EBITDA margin expanded to 16.8%, while the order book stood at ₹2,164 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/MIDHANI_Shares_Surge_on_Strong_Q2_1794456872126_udAQ_1794456885481_urso_71701323-f4fa-4a2e-aed6-98d340824aba_KoE7.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/mishra-dhatu-nigam-shares-surge-over-8-after-q2-profit-more-than-doubles-midhani-jumps-19-in-2026-check-key-levels-11794455785852.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-12T05:43:41.187638Z"
+    },
+    {
+      "id": "5ec2d875f5560b99aa34d3afdc75ad61",
+      "title": "Kalyan Jewellers shares hit 52-week high, rally 41% in 9 sessions; should you buy after Q2 results 2026? Check target",
+      "description": "Kalyan Jewellers shares rose for a ninth straight session, hitting a 52-week high after Q2 FY27 net profit climbed 64% to ₹427 crore and revenue grew 32% to ₹10,323 crore. Motilal Oswal retained its Buy rating, while technical analysts flagged potential gains and cautioned about consolidation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Kalyan_Jewellers_Hits_52-Week_High_1794457585146_VRpD_1794457591578_84Lk_488e9ace-ff53-4e83-a046-cc53f4d6277c_EYmY.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/kalyan-jewellers-shares-hit-52-week-high-rally-41-in-9-sessions-should-you-buy-after-q2-results-2026-check-target-11794457015532.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-12T05:43:41.187606Z"
+    },
+    {
+      "id": "1a5e7959d24c546c02ffe6c03f642d1f",
+      "title": "Small-cap stock under ₹100: Roto Pumps shares jump 19% today, soar 28% in 4 days - What's fuelling the rally?",
+      "description": "Roto Pumps shares rose 14% on November 12 after the company reported strong Q2 FY27 results. Consolidated net profit jumped 245.3% year-on-year to ₹20.58 crore, while revenue climbed 54.65% to ₹100.15 crore. The board also approved a ₹110 crore loan facility for its wholly owned subsidiary. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Roto_Pumps_Shares_Surge_1794459091996_PGDx_1794459098329_cTv8_ca04c711-516d-44bd-964f-5bdd4a07b702_6lBG.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-100-roto-pumps-shares-jump-19-today-soar-28-in-4-days-whats-fuelling-the-rally-11794458105178.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-12T05:43:41.187545Z"
+    },
+    {
+      "id": "775aecaea7fd23b5832e1e347d426857",
+      "title": "Multibagger stock: Cupid shares jump 10% as profit soars 133% in Q2 results 2026; already up 262% in 2026 — What's next?",
+      "description": "Cupid shares surged 10% to a 52-week high after strong Q2 FY27 results. First-half net profit rose 156% and revenue climbed 137%, supported by growing domestic consumer healthcare and FMCG sales. The firm raised its FY27–FY29 targets, while expanding retail partnerships are expected to boost growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Cupid_Shares_Jump_10_1794459299197_XrJa_1794459307275_117G_de63e422-9c85-4c4c-b2ae-64846cd0599a_RjxC.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/multibagger-stock-cupid-shares-jump-10-as-profit-soars-133-in-q2-results-2026-already-up-262-in-2026-whats-next-11794457689791.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-12T05:43:41.187507Z"
+    },
+    {
+      "id": "60ab4db2624658d1bd3caf24a2480a78",
+      "title": "Nuvama Wealth share price: Brokerage stock up over 6% today, just 5% away from peak on strong Q2 results | Check target",
+      "description": "Nuvama Wealth shares rose as much as 6.6% after the company reported a 19.5% year-on-year increase in Q2 FY27 net profit to ₹303.5 crore and 20.35% revenue growth to ₹1,366 crore. Motilal Oswal reiterated its Buy rating and set a ₹2,160 target price. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/Nuvama_Wealth_Surges_Toward_Record_High_1794461922_1794461933717_UgXO_1794461933831_mSON_53ec7802-5132-4066-9286-4ceca7d1e3bc_MS8e.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nuvama-wealth-share-price-brokerage-stock-up-over-6-today-just-5-away-from-peak-on-strong-q2-results-check-target-11794460740294.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-12T05:43:41.187397Z"
+    },
+    {
+      "id": "f9b083eaabd4cc7284f672ad0419b54a",
+      "title": "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
+      "description": "Indian government bonds are anticipated to trade between softer oil prices and rising US yields. The market is waiting for domestic inflation data that could influence the Reserve Bank of India's rate strategy. A Reuters poll estimates an increase in annual consumer inflation, potentially leading to further tightening by the RBI. Investors are cautious ahead of a significant bond auction.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135752937,imgsize-55564.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/articleshow/135752937.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-11-12T05:43:39.921545Z"
+    },
+    {
       "id": "34073db3674cb033b6c402af5db58203",
       "title": "Kalyan Jewellers surges 10%, hits 52-week high post Q2 results",
       "description": "The average trading volume at the Kalyan Jewellers' counter jumped 10-fold with a combined 17.37 million shares changing hands on the NSE and BSE till 09:32 AM on Wednesday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14964,192 +15147,6 @@
         "IPO"
       ],
       "pubDate": "2026-10-03T03:46:40.432687Z"
-    },
-    {
-      "id": "0f526828360b67e6678681c5b5e455b1",
-      "title": "Wipro gives junior staff 180 days on bench: Where do TCS, Cognizant, Infosys stand?",
-      "description": "Wipro has taken a different approach to bench management in India’s IT industry, giving junior and mid-level employees up to six months to find a new billable assignment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Wipro_1790943355697_ToO7_1790943355834_2pYn_7190b09a-466b-40b1-8eaf-c26cf387be02_6ZAd.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/wipro-breaks-ranks-with-it-peers-gives-junior-staff-180-days-on-bench-where-do-tcs-cognizant-infosys-stand-11790938692296.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-02T17:26:52.598134Z"
-    },
-    {
-      "id": "b3a0e7bb1dd25d3f22d6d220c13cf238",
-      "title": "SBI leads demand, snaps up 40% of Reliance Industries’ ₹13,000 crore bond issue",
-      "description": "The state-run bank is estimated to have bought bonds worth nearly 50 billion rupees, or about 40% of the offering, they said. The bonds were rated ‘AAA’ by rating agencies Crisil and CareEdge, and carried an annual coupon of 7.90%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/SBI_1790945638635_k9sF_1790945643347_xLI3_09874c78-7dcb-4ad2-a56a-3a2761182d74_FCOe.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/sbi-leads-demand-snaps-up-40-of-reliance-industries-13-000-crore-bond-issue-11790945274699.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-02T17:26:52.598065Z"
-    },
-    {
-      "id": "40a1d05cce4fbfcbad486f026b99444e",
-      "title": "Dividend, bonus, split, buyback, spin off in October: TCS, NMDC, PTC India, JSW Dulux among key corporate actions | List",
-      "description": "Corporate actions in October include spin-offs by Bhagyanagar India and Veranda Learning Solutions, dividends from TCS and NMDC, and stock splits by companies like Moldtek Technologies. Investors should hold stocks before record dates to qualify for various benefits and actions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/asfASFAF_1790927001703_o36O_1790927014737_aMRK_0f2ddc3a-201b-48da-9683-c8c96882c3a5_awnd.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/dividend-bonus-split-buyback-spin-off-in-october-tcs-nmdc-ptc-india-jsw-dulux-among-key-corporate-actions-list-11790925015237.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-02T17:26:51.965717Z"
-    },
-    {
-      "id": "78ab9bdf150f8b944d833603c26943f8",
-      "title": "Nifty 500 stocks fall up to 70% from 52-week highs; why broad market recovery may remain elusive in short term",
-      "description": "The Nifty 500 index has faced a significant downturn, with stocks plummeting by up to 70% from their 52-week highs. A blend of geopolitical tensions, escalating oil prices, and weak monsoon predictions is a contributing factor.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Indian_stock_market_1790912384848_qrtD_1790912391954_YGhp_f0c81a02-4f00-4572-808c-b2a239831c3e_8CaP.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-500-stocks-fall-up-to-70-from-52-week-highs-why-broad-market-recovery-may-remain-elusive-in-short-term-11790910378791.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-02T17:26:51.965642Z"
-    },
-    {
-      "id": "288f64e131e2ed3742f42d6924657791",
-      "title": "Final touch underway for Jio Platforms IPO; latest GMP, expected launch date, size, valuation, shareholders quota",
-      "description": "Jio Platforms is finalising its IPO documents for what may be India's largest public offering, estimated at $3.8 billion. Led by Akash Ambani, the IPO marks Reliance's first offering since 2008 and aims to engage global investors before a late 2026 market launch. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Jio_IPO_1790928415868_RqrA_1790928421179_mcE0_c279c982-4936-41c8-88f4-a8682a352ebe_K1p6.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/final-touch-underway-for-jio-platforms-ipo-latest-gmp-expected-launch-date-size-valuation-shareholders-quota-11790924443524.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-02T17:26:51.965602Z"
-    },
-    {
-      "id": "abd72320dd215b67d2e77ebf3a0265bd",
-      "title": "Adani Group's most valuable company sets new record; shares major business update",
-      "description": "Adani Ports reported 11% YoY cargo volume growth, reaching 46 MMT for September 2026. Check complete details and Adani Ports and Special Economic Zone share price performance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Adani_Group_Sets_New_Record_1790932161236_0j9b_1790932174952_DYrx_2a50e1eb-2616-410c-bd76-e8080019baa9_13hD.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/adani-groups-most-valuable-company-sets-new-record-shares-major-business-update-11790931996322.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-02T17:26:51.965477Z"
-    },
-    {
-      "id": "3849a9b1d812e8f4563ca6b128036662",
-      "title": "Investors worried over bloodbath as Nifty 50 sees longest weekly losing streak in 25 yrs - Outlook for H2 from experts",
-      "description": "Indian equity markets faced an eighth consecutive week of losses, with the Nifty 50 and &nbsp;Sensex declining 3.1% and 2.7%, respectively. Foreign institutional investors sold equities worth ₹44,012.82 crore, the highest since June 2026, exacerbating market volatility and negative investor sentiment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Nifty_50_1790932613681_vHA4_1790932618303_LGCL_c7b0230d-afbd-4375-9d0f-d0c3e398042c_lJwb.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/investors-worried-over-bloodbath-as-nifty-50-sees-longest-weekly-losing-streak-in-25-yrs-outlook-for-h2-from-experts-11790922247662.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-02T17:26:51.965431Z"
-    },
-    {
-      "id": "2814593f38ceddfe4e224c564477129b",
-      "title": "Taiwan index ends at record high, surges 65% year-to-date - What’s driving the rally?",
-      "description": "The Taiwan Weighted Index (TAIEX) has reached a fresh closing high, surging 65% year-to-date amid a booming AI and semiconductor market. From record exports to a tech-driven GDP growth, discover the compelling forces driving this remarkable rally. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Taiwan_stock_market_1790930944348_dfLG_1790930950936_b6sN_120efbb1-5162-4129-97a0-95c2ef58b48e_GGdB.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/taiwan-index-ends-at-record-high-surges-65-year-to-date-what-s-driving-the-rally-11790930484739.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-02T17:26:51.965377Z"
-    },
-    {
-      "id": "6c6d383dac0f107e1ee645c56a2c8748",
-      "title": "RBI MPC Meeting October 2026: Repo rate hike soon? Date, announcement time, members, monetary policy review expectations",
-      "description": "The RBI is likely to adopt a calibrated tightening approach after a 50 bps hike, responding to firm economic activity and rising inflation. A 25 bps increase to 5.50% could occur at the October meeting, driven by heightened price pressures and global rate changes. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/RBI_MPC_Rate_Hike_Decision_Graphic_1790933192939_Zd6c_1790933197821_OkJi_367de4df-14f3-4348-bde5-927379203126_rdbD.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-october-2026-repo-rate-hike-soon-date-announcement-time-members-monetary-policy-review-expectations-11790931729661.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-02T17:26:51.965316Z"
-    },
-    {
-      "id": "f2f092f9044faff6862310c56edec226",
-      "title": "IPO News: 4 companies, including Carlsberg beer, get nod from SEBI —what is the issue size for each?",
-      "description": "Four companies, including Carlsberg India's unit, have received regulatory observations from Sebi for their IPOs. This includes TMC Transformers, Ujin Pharma, and Matangi Rubber. The approvals mark a significant step for companies preparing to access India's active primary market. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/IPO_Market_1790936028359_6sVe_1790936031936_bYLY_9e1f953b-6084-4ba4-b9f4-50c6b13cca25_JUFD.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/ipo-news-4-companies-including-carlsberg-beer-get-nod-from-sebi-what-is-the-issue-size-for-each-11790932544984.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-02T17:26:51.965269Z"
-    },
-    {
-      "id": "8cb905cac04eccb8a5ae525cb0d226fc",
-      "title": "RBI MPC may hike repo rate next week: Experts share the equity-debt strategy investors should consider",
-      "description": "As retail inflation surges and global monetary tightening escalates, experts predict a likely 25 bps hike from the RBI. With equities showing resilience, now may be the time for investors to reassess strategies, particularly in sectors poised for growth amidst these changes. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/RBI_MPC_1790940221902_MiaB_1790940228180_MYkW_14702fc3-b209-4937-a7de-e12062a54b68_Z66Y.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rbi-mpc-may-hike-repo-rate-next-week-experts-share-the-equity-debt-strategy-investors-should-consider-11790937827085.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-02T17:26:51.964967Z"
-    },
-    {
-      "id": "b6acda469f3e305a6dad98f588a6093e",
-      "title": "Experts' view: Why would bears cheer Nifty's breakdown below 22,000?",
-      "description": "Experts' view: The Nifty 50 index may break below 22,000 because this is the first time there is no GoI commentary after the stock market crashes in succession. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Stock_market_crash_Nifty_50_today_Sensex_today_1790940031437_nt4B_1790940031567_6uiQ_7021ea37-5fa9-4f62-b036-f1e37dbeb500_nVf9.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/experts-view-why-would-bears-cheer-niftys-breakdown-below-22000-11790938909647.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-02T17:26:51.964931Z"
-    },
-    {
-      "id": "7a5b22753e20406f27b8afc1df5e09a7",
-      "title": "8 weeks, 2,149 points gone: Nifty’s longest losing streak in 25 years raises bear market fears",
-      "description": "The Nifty’s record losing streak has deepened as foreign investor outflows, elevated US bond yields, and geopolitical tensions weigh on sentiment. Analysts say markets remain sensitive to developments in the US-Iran conflict and crude prices, despite resilient domestic growth. Technicals point to a weak near-term outlook. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134612838,imgsize-112588.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/8-weeks-2000-points-gone-niftys-longest-losing-streak-in-25-years-raises-bear-market-fears/articleshow/134612838.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-02T17:26:51.355275Z"
-    },
-    {
-      "id": "4828e58d8ffdb0198e9d96bea766d3bb",
-      "title": "Danish brewing giant Carlsberg’s India arm, 3 others get Sebi nod to float IPOs",
-      "description": "In a significant move for India's market, Sebi has greenlit IPOs for Carlsberg's local entity, TMC Transformers, Ujin Pharma, and Matangi Rubber. TMC Transformers aims to raise Rs 550 crores via new equity to establish a manufacturing plant. Ujin Pharma's offering includes fresh shares and a sale from its promoters, while Carlsberg joins other global firms in this venture. Matangi.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134633869,imgsize-2083102.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/danish-brewing-giant-carlsbergs-india-arm-3-others-get-sebi-nod-to-float-ipos/articleshow/134633869.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-02T17:26:50.699858Z"
-    },
-    {
-      "id": "80453abb558b1606689d71d2e3ae2d1c",
-      "title": "Carlsberg India unit, 3 other firms get Sebi nod to proceed with IPO plans",
-      "description": "Sebi has provided observations for the IPOs of Carlsberg India, Matangi Rubber, Ujin Pharma, and TMC Transformer. Carlsberg's filing is under wraps, with specifics to be announced later. Matangi Rubber intends to issue 57.61 lakh new shares, complemented by an offer for sale. Ujin Pharma is looking to offer 1.18 crore shares, and TMC Transformer targets a substantial Rs 550.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134634784,imgsize-2367092.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-unit-3-other-firms-get-sebi-nod-to-proceed-with-ipo-plans/articleshow/134634784.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-02T17:26:50.699690Z"
     }
   ]
 }
