@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "30ebed0022375a558a2ce81288f5111b",
+      "title": "Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high",
+      "description": "Thus far in November 2026, the Nifty Realty index outperformed the market by soaring 14%, against a 9.6% rally in the Nifty 50. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111200602.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/realty-index-surges-4-oberoi-sobha-lodha-up-5-dlf-nears-52-week-high-126111200602_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-13T05:01:40.915003Z"
+    },
+    {
+      "id": "7becaa00aa688efbabb844a27bf71851",
+      "title": "Page Industries hits 10% lower circuit post Q2 show; ₹150 dividend declared",
+      "description": "Page Industries reported a 4 per cent Y-o-Y increase in profit after tax (PAT) to ₹202.5 crore in Q2FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111200894.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/page-industries-hits-10-lower-circuit-post-q2-show-150-dividend-declared-126111200894_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-13T05:01:40.914893Z"
+    },
+    {
+      "id": "55845fdcdbb5e58ebe5fc4dd3704d0e4",
+      "title": "Stock Market LIVE: M&M, HDFC Bank lead 200-pt loss in Sensex, Nifty near 25,200; VIX drops 7%",
+      "description": "Sensex Today | Stock Market LIVE Updates Thursday: In the broader markets, the Nifty MidCap and the Nifty SmallCap fell 0.63 per cent and 0.43 per cent, respectively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261113/full-126111300069.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-13T05:01:40.914757Z"
+    },
+    {
+      "id": "8eff17ca9b0c232733612453550d380f",
+      "title": "Stocks to watch: ZEEL, Ola Electric, Vi, IHCL, Manappuram Finance, RPower",
+      "description": "Stocks to watch today: ZEE Entertainment, Ola Electric, Vodafone Idea, IHCL, Manappuram Finance, Reliance Power, Oil India Ltd, HFCL, NBCC, Hitachi Energy, among others, will be in focus today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261113/full-126111300072.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-zeel-ola-electric-vi-ihcl-manappuram-finance-rpower-126111300072_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-13T05:01:40.914731Z"
+    },
+    {
+      "id": "65a0d14795c2b4b1814f187a0baca137",
+      "title": "Will inflation, higher bond yields spook markets? Here's what analysts say",
+      "description": "India's retail inflation breached the RBI's 6% upside limit, and the US 10-year bond yield jumped back above 5%, raising fears of rate hikes in the December policy meet. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261113/full-126111300077.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-bank-nifty-outlook-will-inflation-higher-bond-yields-spook-markets-here-s-what-analysts-say-126111300077_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-13T05:01:40.914700Z"
+    },
+    {
+      "id": "7601c51b7d8bfbdab7698f4887c4f277",
+      "title": "Ola Electric shares skid nearly 7% as Q2 revenue falls 39%, loss narrows",
+      "description": "Ola Electric Mobility posted a consolidated net loss of ₹362 crore for the July-September quarter, which narrowed from a ₹418 crore loss in the year-ago period. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261113/full-126111300115.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/ola-electric-shares-skid-nearly-7-as-q2-revenue-falls-39-loss-narrows-126111300115_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-13T05:01:40.914669Z"
+    },
+    {
+      "id": "deab8f78cddd1ed1f2904606ea0a365b",
+      "title": "Vodafone Idea shares decline 3.5% on wider-than-expected loss in Q2",
+      "description": "Vodafone Idea share price: Sustained subscriber growth, ARPU improvement, and successful execution of the capex programme will be critical for achieving a sustainable financial turnaround. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261113/full-126111300408.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/vodafone-idea-share-price-declines-3-5-on-wider-than-expected-loss-in-q2-126111300408_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-13T05:01:40.914638Z"
+    },
+    {
+      "id": "6ab65a08f19e713434711335b8821814",
+      "title": "Nifty Bank, Auto, Realty skid 1% as inflation stokes RBI rate hike fears",
+      "description": "Experts said that retail inflation is expected to remain above the RBI's upper tolerance limit of 6 per cent over the next few months, and this could increase the likelihood of monetary tightening. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261113/full-126111300433.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-bank-auto-realty-skid-1-as-inflation-stokes-rbi-rate-hike-fears-126111300433_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-13T05:01:40.914608Z"
+    },
+    {
+      "id": "12d0bde4e8137232f351b3ff879b10f8",
+      "title": "Vodafone Idea’s Q2 performance misses expectations",
+      "description": "&nbsp;Vodafone Idea’s net loss widened to ₹5,975 crore in Q2 from ₹5,562 crore a year ago, missing Bloomberg's estimate of ₹5,263 crore, even as it arranged over ₹4,000 crore in incremental bank funding during the quarter. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/3-0-137076683-DSC-2408-0_1679830215691_1794492968493_8tPv_ef18a04d-fd5a-4561-80d1-52e5aa4ea06c_3HoV.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/vodafone-idea-s-q2-performance-misses-expectations-funding-telecom-operator-11794490596377.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-13T05:01:40.197773Z"
+    },
+    {
+      "id": "3b6e702a5932a2550302d80ea0fb8e1d",
+      "title": "Nvidia stock plunges 14% to over one-year low as Jensen Huang quits amid affair; market cap falls below $4 trillion",
+      "description": "Nvidia shares fell 14.3% to $148.80 after CEO Jensen Huang resigned, ending his 33-year tenure. CFO Colette Kress was named interim CEO as the board searches for a permanent successor. Harvey C. Jones was appointed the company’s first board chairman. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/maxresdefault_1794499258520_UiQ0_1794499265116_3Qdb_8506340c-78d6-43fc-8cac-59c97995eb12_2sRO.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nvidia-stock-plunges-14-to-over-one-year-low-as-jensen-huang-quits-market-cap-falls-below-4-trillion-11794493911909.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-13T05:01:39.626744Z"
+    },
+    {
+      "id": "f6c9dfd4361813a0360b76cd07cb4243",
+      "title": "Anthropic IPO: Who is Krishna Rao? Meet the CFO whose $1.30 stock options could unlock a ₹7,000 crore fortune",
+      "description": "Anthropic is preparing an IPO that could value the company at up to $1.4 trillion. CFO Krishna Rao’s 9.497 million shares, acquired through options with a $1.30 exercise price, could gain about 5,600% at the proposed $74 share price. The company plans to list on Nasdaq as ANT. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/egtsgsh_1794497853396_3XaP_1794497865435_cAUI_4c7b5bd4-dc71-4300-90cc-e3bdcf4bf08f_IpfM.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/anthropic-ipo-who-is-krishna-rao-meet-the-cfo-whose-1-30-stock-options-could-unlock-a-rs-7-000-crore-fortune-11794497618384.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-13T05:01:39.626671Z"
+    },
+    {
+      "id": "3b1938a3745fdf63fcabdfdaf8efb49b",
+      "title": "Anthropic’s IPO Is About Six Times Oversubscribed",
+      "description": "Anthropic PBC’s initial public offering has drawn about six times the orders for the shares available, according to people familiar with the matter, as interest increases for potentially the biggest first-time share sale ever. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/anthropics-ipo-is-about-six-times-oversubscribed-11794519373423.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-13T05:01:39.626436Z"
+    },
+    {
+      "id": "737060f2445efeec02b5da4da5a2a020",
+      "title": "51% rally in 2026 so far! ICICI Direct sees 28% upside potential in this defence stock - Do you own? Check target price",
+      "description": "Azad Engineering shares have risen about 51% in 2026, but ICICI Securities sees up to 28% further upside and retains a Buy rating, with a revised target of ₹3,100. Potential delivery of a second engine to DRDO and aerospace expansion could support growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/12/1600x900/logo/GSHHjajj_1794507302029_iqAO_1794507314591_HO0f_05ca8a69-6896-4ddd-9d41-c5349f3d7137_X2LP.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/51-rally-in-2026-so-far-icici-direct-sees-28-upside-potential-in-this-defence-stock-do-you-own-check-target-price-11794507179450.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-13T05:01:39.626157Z"
+    },
+    {
+      "id": "d6ec9fe73e707ed538fe8aa11a3da6c6",
+      "title": "Automotive Axles share price jumps 15%: Why the small-cap stock rallied in trade today. Do you own? Check stock trend",
+      "description": "Automotive Axles shares surged nearly 15% after the company reported strong Q2 FY27 results. Net profit rose 66.7% to ₹60 crore, revenue grew 43.5% to ₹663 crore, and EBITDA increased 73.7%, lifting the margin to 12.6%. Raman K was appointed CFO. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/Automotive_Axles_Stock_Surges_1794542633009_GDmq_1794542640387_dy4t_02ef9b8e-971a-47a2-adc9-8ee00b0a46f2_Vfys.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/automotive-axles-share-price-jumps-15-why-the-small-cap-stock-rallied-in-trade-today-do-you-own-check-stock-trend-11794542084723.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-13T05:01:39.626055Z"
+    },
+    {
+      "id": "55b0b7c6286bb46e9ceecd49de37be8a",
+      "title": "Up 94% from 52-week low, Hitachi Energy shares jump 9% today after Q2 results: Should you buy power stock? Check targets",
+      "description": "Hitachi Energy India shares rose as much as 9.2% after Q2 FY27 net profit grew 21% year on year and revenue jumped 63.5%. Orders surged 85.9% to ₹4,120.8 crore, lifting the record backlog to ₹33,335.4 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/Market_-_stocks_1545996587096_1794544915488_4KDp_e8bdf42f-d8f0-4e7b-8942-52ac78a740e1_opIy.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/up-94-from-52-week-low-hitachi-energy-shares-jump-9-today-after-q2-results-should-you-buy-power-stock-check-targets-11794543376253.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-13T05:01:39.625940Z"
+    },
+    {
       "id": "96dd3672e83bc230b568e0e179877feb",
       "title": "Matrimony downgraded by ICICI Sec despite 167% rise in Q2 PAT; stock skids",
       "description": "Matrimony's consolidated profit in Q2FY27 increased by 167.3 per cent Y-o-Y to ₹20.7 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14957,197 +15142,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-04T04:17:03.474202Z"
-    },
-    {
-      "id": "6731ab9b0f4a0a6146b5d64e0dd612f9",
-      "title": "Sebi to soon issue framework on CAS; receives over 3,500 comments",
-      "description": "Market regulator Sebi will soon issue a framework on proposed changes to the Closing Auction Session (CAS) mechanism after receiving more than 3,500 comments on its consultation paper, its Chairman Tuhin Kanta Pandey said on Saturday. The Securities and Exchange Board of India (Sebi) had sought public comments on its proposal to review certain aspects of the CAS, market timings.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261003/full-126100300348.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-to-soon-issue-framework-on-cas-mechanism-after-receiving-3-5k-comments-126100300348_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-03T15:42:30.417334Z"
-    },
-    {
-      "id": "bcd1ea396fd741a84a564432d2c792e5",
-      "title": "RBI backs blockchain technology, remains cautious on crypto: Guv Malhotra",
-      "description": "India has maintained a cautious approach towards cryptocurrencies while promoting the underlying technologies such as distributed ledger technology and tokenisation, RBI Governor Sanjay Malhotra said on Saturday. Malhotra said India supports innovation in technologies underlying crypto assets, including distributed ledger and tokenisation, but remains cautious about cryptocurrencies due to concerns over monetary sovereignty, monetary policy and capital flows. \"So, our.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261003/full-126100300396.jpg",
-      "fullArticleLink": "https://www.business-standard.com/economy/news/rbi-backs-blockchain-technology-remains-cautious-on-crypto-guv-malhotra-126100300396_1.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-03T15:42:30.417259Z"
-    },
-    {
-      "id": "96355e654b19d7da35b0892b9f55bef4",
-      "title": "Sebi examining position limits for non-agri contracts to boost liquidity",
-      "description": "Market regulator Sebi is examining position limits for non-agricultural contracts to improve liquidity and depth without weakening risk controls, its chairman Tuhin Kanta Pandey said on Saturday. Speaking about reforms in the commodity derivatives market, Pandey said the market design should allow contracts to gain scale. In some agricultural commodities, physical settlement from the outset can impede market development.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261003/full-126100300459.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity-126100300459_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-03T15:42:30.417145Z"
-    },
-    {
-      "id": "5e5e5b8a48bdec613f2532945806010e",
-      "title": "SBI-led consortium tells Bombay HC Mallya owes over ₹8,700 crore; counters his claim of recovering more than dues",
-      "description": "A consortium of banks led by SBI has told the Bombay High Court that ₹8,751.86 crore remains recoverable from Vijay Mallya, despite ₹10,270 crore recovered so far. The disclosure counters Mallya’s claim that lenders have recovered more than his outstanding dues. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/SBI_Vijay_Mallya_1791002768765_Zjp6_1791002768921_lUDW_95508477-dd37-46b0-a184-26025bea8fca_6RAM.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/people/sbiled-consortium-tells-bombay-hc-mallya-owes-over-rs-8-700-crore-counters-his-claim-of-recovering-more-than-dues-11791002294982.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-03T15:42:29.594966Z"
-    },
-    {
-      "id": "224e3622451de743a2362cfad4e2c818",
-      "title": "Noel Tata on ₹250 cr investment for IIM Bangalore and why need of the hour is primary education",
-      "description": "Noel Tata, chairman of Tata Trusts, announced a ₹500 crore investment in partnership with IIM Bangalore to create a premier undergraduate institution, prioritising early childhood education as essential to academic success, and revealed plans for 40 to 50 not-for-profit hospitals nationwide. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/IIM_1791019155386_ctPx_1791019183766_4Boe_db5479fc-7341-46b2-98da-159ab36da34e_NMVj.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/people/noel-tata-on-rs-250-cr-investment-for-iim-bangalore-and-why-need-of-the-hour-is-primary-education-11791016772349.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-03T15:42:29.594744Z"
-    },
-    {
-      "id": "28f8364877d82c46ca0564994fe62004",
-      "title": "Stocks to buy: Galaxy Surfactants, Mankind Pharma and Engineers India; check share price target by Axis, rationale",
-      "description": "The Nifty 50 ended the week at 22,422, marking an extended decline. Immediate support lies at 22,200. Key recommendations include Galaxy Surfactants, Mankind Pharma, and Engineers India, each presenting potential profits in the coming weeks, according to Axis Direct's analysis. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/Axis_Weekly_Stock_Picks_1791004479886_L1eM_1791004488011_ERIx_ba34344d-2d65-422a-b035-8ffedeb7950a_8G8r.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-galaxy-surfactants-mankind-pharma-and-engineers-india-check-share-price-target-by-axis-rationale-11791001806429.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-03T15:42:28.879300Z"
-    },
-    {
-      "id": "ae2540cbacec6eeff98f6ea087e200e5",
-      "title": "Policybazaar, Paisabazaar share: PB Fintech stock down 48% in 6 days, more pain ahead - Here’s why | Revised target",
-      "description": "Shares of PB Fintech have fallen 48% over six sessions due to proposed insurance commission changes. Brokerages have revised estimates, raising concerns about profitability in general insurance and the POSP model. Bernstein cut its target price by 53%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/PB_Fintech_Stock_Decline_Alert_1791008267195_tc2X_1791008278036_qE1t_4dcdc06a-ca01-4440-8ed3-37e8dafce9e5_6NCk.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/policybazaar-paisabazaar-share-pb-fintech-stock-down-48-in-6-days-more-pain-ahead-here-s-why-revised-target-11791004792982.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-03T15:42:28.879248Z"
-    },
-    {
-      "id": "e0282f82569113e9ff781dd7cd4099f6",
-      "title": "After Sept, bond yields to peak in Oct too? Experts decode future of Indian bond market; RBI's next move holds key",
-      "description": "Shorter-tenure corporate bonds may offer better risk-reward opportunities, while dynamic bond funds provide flexibility for various risk profiles. RBI is expected to raise the repo rate by 50-75 basis points amid inflation risks, driven by higher food and oil prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/RBI_Bonds__Ten-Year_Yield_Outlook_1791000824948_DvVZ_1791000839383_W89n_f7d2d456-b13d-4a26-aaa6-c8cd2510b307_pvbh.png",
-      "fullArticleLink": "https://www.livemint.com/market/bonds/after-sept-bond-yields-to-peak-in-oct-too-experts-decode-future-of-indian-bond-market-rbis-next-move-holds-key-11790928652341.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-03T15:42:28.879016Z"
-    },
-    {
-      "id": "d1178bef03db2af741a130b7ebe0c33e",
-      "title": "FPIs pull out over ₹35,000 cr in Indian stocks in Sept: Why SEBI’s easier access reforms alone may not help",
-      "description": "Foreign portfolio investors sold ₹35,860 crore in Indian equities in September, reversing previous month inflows. Despite SEBI's efforts to ease regulations, concerns over returns and global competition persist, leading to sustained FPI selling amid challenging global conditions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/fpi_1791023698239_9OIs_1791023705150_stUv_757e4e8f-16bb-4a64-a815-c526cd748a0b_kBTW.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/fpis-pull-out-over-rs-35-000-cr-in-indian-stocks-in-sept-why-sebi-s-easier-access-reforms-alone-may-not-help-11791021166199.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-10-03T15:42:28.878916Z"
-    },
-    {
-      "id": "adf2d2dfa27fa5202f005360076b9344",
-      "title": "TCS, Infosys, Wipro shares ahead of Q2 results: Explained | What Accenture's strong earnings mean for Indian IT stocks",
-      "description": "Accenture's fourth-quarter results reflect a rising trend in AI adoption, marking a shift from pilot projects to larger implementations, positively impacting Indian IT stocks. Despite the optimism, concerns about pricing pressure and sluggish discretionary spending suggest a cautious outlook. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/Accenture_Earnings_Impact_Indian_IT_1791015549880_zQ8W_1791015583783_4e4m_ef1b441b-852c-4395-ab44-7e35b4a857d2_hkEd.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tcs-infosys-wipro-shares-ahead-of-q2-results-explained-what-accentures-strong-earnings-mean-for-indian-it-stocks-11791014052622.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-03T15:42:28.878804Z"
-    },
-    {
-      "id": "a407351018203d02cc7050ea18ab56ac",
-      "title": "US 10-year yield at 24-year high rattles Nifty, rupee and bond markets. Why is India hit hard?",
-      "description": "The US 10-year Treasury yield surged to a 24-year high, triggering a global bond sell-off and pressuring Indian equities, bonds and the rupee. Higher US borrowing costs are raising concerns over FII outflows, currency weakness, imported inflation and RBI policy. Rising crude prices are adding to the pressure on Indian markets. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134613973,imgsize-2340895.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/us-10-year-yield-at-24-year-high-rattles-nifty-rupee-and-bond-markets-why-is-india-hit-hard/articleshow/134613973.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-03T15:42:28.145645Z"
-    },
-    {
-      "id": "c551c1c6cb35de918d3efba9b97ca9ad",
-      "title": "SBI-led lenders say Vijay Mallya owes Rs 8,752 crore more",
-      "description": "A group of lenders, spearheaded by the State Bank of India, has revealed that Vijay Mallya still owes an astonishing Rs 8,752 crore. This figure remains despite having recovered over Rs 10,270 crore, including recent payments. Mallya's claims of settling his debts with banks are in question. Court proceedings continue regarding the recovery of dues and criminal charges.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134650640,imgsize-98750.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-led-lenders-say-vijay-mallya-owes-rs-8752-crore-more/articleshow/134650640.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-03T15:42:28.144972Z"
-    },
-    {
-      "id": "ce4cab30bf77f558997d5ee3bf4b980d",
-      "title": "Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions",
-      "description": "Over the last five trading sessions ended October 1, the benchmark Sensex declined 2.27%, or 1,671 points, to close at 71,909. The index recorded losses in four of the five sessions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134652164,imgsize-88260.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-14-midcap-stocks-decline-for-5-consecutive-sessions/slideshow/134652347.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-03T15:42:28.144662Z"
-    },
-    {
-      "id": "57cce58fce556c1c53f3a387e2bd6e40",
-      "title": "Cube Highways Trust secures Rs.1,150 crore through AAA-rated NCDs",
-      "description": "Cube Highways Trust has triumphantly secured Rs. 1,150 crore by issuing senior secured NCDs, boasting a competitive coupon rate of 7.50% per annum, payable quarterly for five years. Major institutional players, Axis Bank Limited and ICICI Bank Limited, were pivotal investors in this transaction. The proceeds will facilitate debt refinancing and support ongoing capital projects, as part of an ambitious.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134655392,imgsize-2218368.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-secures-rs-1150-crore-through-aaa-rated-ncds/articleshow/134655392.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-03T15:42:28.144507Z"
-    },
-    {
-      "id": "c46ff3c821370588dce557ee57c16f3e",
-      "title": "Jio Platforms IPO may open on October 21, issue estimated at $3.8 billion: Report",
-      "description": "The IPO is expected to remain open until October 23, with the anchor book likely to open on October 19. The shares are targeted to list on the stock exchanges on October 28, although the timeline remains subject to market conditions and could change depending on developments in financial markets, the report added. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134652545,imgsize-2171996.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-may-open-on-october-21-issue-estimated-at-3-8-billion-report/articleshow/134652545.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-03T15:42:27.501282Z"
     }
   ]
 }
