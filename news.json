@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "05460bc7380d39fd00c57bd99b8ba646",
+      "title": "Gabriel India hits 20% upper circuit on huge volume; up 112% from March low",
+      "description": "Gabriel India stock: The average trading volume at the counter jumped over 20-fold with a combined 8.02 million shares changing hands on the NSE and BSE on Thursday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111200893.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/gabriel-india-hits-20-upper-circuit-on-huge-volume-up-112-from-march-low-126111200893_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-15T04:46:51.004082Z"
+    },
+    {
+      "id": "cd87e0f9063456e61e289509bcbbd740",
+      "title": "Standard Chartered brings four Signature CIO Funds from GIFT City",
+      "description": "Standard Chartered has partnered with Amundi Asset Management and SBI Funds International to offer multi-asset portfolios investing across global markets from GIFT City. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261112/full-126111201886.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/standard-chartered-brings-four-signature-cio-funds-from-gift-city-126111201886_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-15T04:46:51.004001Z"
+    },
+    {
+      "id": "cd4bd23d3aab8ad2a43475012426e2c9",
+      "title": "Action Construction rallies 6%, nears 52-week high on healthy Q2 results",
+      "description": "Analysts say sustained infrastructure spending, government capex and a favourable construction equipment demand environment are expected to support growth momentum for ACE Construction. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261113/full-126111300421.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/action-construction-rallies-6-nears-52-week-high-on-healthy-q2-results-126111300421_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-15T04:46:51.003879Z"
+    },
+    {
+      "id": "fba61f52452da7f8c57ae2411f5926dd",
+      "title": "LIC, Meesho, Coforge stocks on radar amid MSCI Nov rejig; what charts say?",
+      "description": "Hitesh Tailor of Choice Broking sees a favourable chart setup for Coforge and Meesho, while flagging that the LIC stock seems trapped in a trading range. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261113/full-126111300450.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/lic-meesho-coforge-stocks-amid-msci-nov-rejig-what-charts-say-technical-analysis-126111300450_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-15T04:46:51.003853Z"
+    },
+    {
+      "id": "b24917595b59f697b4fd0f49479697fe",
+      "title": "Softbank further trims India exposure, sells Meesho shares worth ₹1,885 cr",
+      "description": "Japanese investor SoftBank Group has sold 1.65 per cent stake in Meesho for Rs 1,885 crore, further trimming its investments in India's e-commerce sector. In the latest transaction, SVF II Meerkat (DE) LLC, an affiliate of SoftBank, offloaded 7.64 crore shares in Bengaluru-based Meesho, according to the block deal data on the National Stock Exchange (NSE). The share sale was.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261114/full-126111400069.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/softbank-further-trims-india-exposure-sells-meesho-shares-worth-1-885-cr-126111400069_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-15T04:46:51.003481Z"
+    },
+    {
+      "id": "ca85edf5192973dc00b7e07b98691253",
+      "title": "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight",
+      "description": "Large liquidation events - whereby more than $500 million worth of Bitcoin positions are obliterated in a single 24-hour session - are becoming a recurring feature in the market. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261114/full-126111400176.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-s-billion-dollar-wipeouts-becoming-an-increasingly-familiar-sight-126111400176_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-15T04:46:51.003322Z"
+    },
+    {
+      "id": "d75219a3a724b11d687e6faf96da0c82",
+      "title": "China's BYD clears import hurdle, looks to accelerate India push",
+      "description": "Homologation removes the 2,500-unit import restriction on three models, giving the Chinese carmaker more room to scale its EV business as it enters the luxury market with Denza. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/BYD_India_1794573077349_9FEz_1794573077475_4XEE_64217b38-50cf-4e02-8a8e-42b91a2c63da_07ek.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/chinas-byd-clears-import-hurdle-looks-to-accelerate-india-push-11794562283540.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-15T04:46:50.302433Z"
+    },
+    {
+      "id": "94c40444f4b8ab5c136ff83c908d060d",
+      "title": "Bharti Airtel’s Sunil Mittal wants mobile tariff hiked to ₹10-12/day or ₹350 per month; here’s why",
+      "description": "Bharti Airtel founder and chairman Sunil Mittal wants mobile tariffs in India hiked to ₹350 per month as “prices are up”. He said entry plan costs could thus work out to ₹10-12 per day for users.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Bharti_Airtel_Sunil_Mittal_Reuters_1794644601846_k6uw_1794644608289_Vrfo_09babed7-104b-4b42-8710-1284cd601788_erV0.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/bharti-airtel-sunil-mittal-wants-mobile-tariff-hike-why-rs-350-monthly-12-per-day-cost-less-than-soap-pepsi-chips-packet-11794638826764.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-15T04:46:50.302249Z"
+    },
+    {
+      "id": "d7f382d49a5af0e8fdc7395bb038cb6e",
+      "title": "Best stocks to buy under ₹100: Lloyds Engineering, Niva Bupa, Vedanta Power by Sumeet Bagadia | Targets, stop-loss",
+      "description": "Stock market prediction: Sumeet Bagadia of Choice Broking believes the bias for the Indian stock market is positive, until the Nifty 50 index is above 25,000. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Sumeet_Bagadia_Stock_Recommendations_today_Nifty_1794674897311_DiCJ_1794674897532_bEVZ_3720cbe6-2fe1-463c-9803-41567a1b8c1e_zz2s.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/best-stocks-to-buy-under-rs-100-lloyds-engineering-niva-bupa-vedanta-power-by-sumeet-bagadia-targets-stoploss-11794674607528.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-15T04:46:49.615330Z"
+    },
+    {
+      "id": "ba3c24f9c1a5a124bc563ba1a032b78b",
+      "title": "MCX, BSE, Bharti Airtel shares: Top 3 stocks to buy; check expected returns, ratings, target price by market expert",
+      "description": "Sensex fell 318.56 points to 81,592.45 and Nifty 50 dropped 155.05 points to 25,144.30 on Friday, ending a three-session rally as October retail inflation rose to 6.09%. Analyst Chandan Taparia recommended MCX, BSE and Bharti Airtel, while identifying key index support and resistance levels. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Chandan_Taparia_1788834234050_af1895d2-d413-4eaa-9_1794715317450_hCaw_1794715317644_ynAN_3fe5e0e3-6ecd-4cb9-af72-63e2fe6ec0a0_hGIr.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/mcx-bse-bharti-airtel-shares-top-3-stocks-to-buy-check-expected-returns-ratings-target-price-by-market-expert-11794714137509.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-15T04:46:49.615181Z"
+    },
+    {
+      "id": "431314764cbb9e84602beb942ae3a5a8",
+      "title": "Anthropic IPO share orders from China are said to be rebuffed",
+      "description": "Investors based in mainland China and Hong Kong are excluded from placing orders in Anthropic's IPO. This decision reflects the strategic sensitivities between Washington and Beijing regarding technology advancements. Some investors are exploring alternative methods to participate in the public offering through offshore structures. Anthropic intends to complete its IPO on November 18, pricing the shares ahead of trading.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135809948,imgsize-26516.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-15T04:46:48.344358Z"
+    },
+    {
+      "id": "a5ede718c4430381df038d0f8c802b03",
+      "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO",
+      "description": "Robinhood Markets has filed an appeal with the US Supreme Court concerning a class action lawsuit brought forth by investors. The lawsuit claims the company misled investors ahead of its IPO in July 2021 by not revealing how reduced trading volumes would affect their investments. After initially dismissing the case, the 9th Circuit Court of Appeals has reopened it.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135821666,imgsize-139126.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-supreme-court-to-consider-lawsuit-over-robinhoods-2021-ipo/articleshow/135821666.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-11-15T04:46:48.344223Z"
+    },
+    {
+      "id": "6b56278c9d8690819d368f5ad942e016",
+      "title": "Wall Street Week Ahead: Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
+      "description": "Nvidia is poised for a critical quarterly earnings report amidst controversies and leadership changes. Investors are wary as Anthropic prepares for a significant initial public offering, valued at up to $1.4 trillion. The overall market sentiment towards AI stocks could shift based on these developments next week. Retail sales data will also provide insight into consumer health and inflation pressures.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135821735,imgsize-230450.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade/articleshow/135821735.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-15T04:46:48.344191Z"
+    },
+    {
+      "id": "4b940368c017e3095084ae2c9f2ef954",
+      "title": "5 world market themes for the week ahead",
+      "description": "Nvidia's recent leadership change and the upcoming IPO of Anthropic could significantly influence the AI market dynamics. US-China relations are set for discussions as Trump and Xi meet amid various geopolitical concerns. Oil prices remain volatile due to Middle East tensions and supply changes, affecting potential inflation relief. A UK and EU summit aims to advance post-Brexit cooperation on trade.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135822113,imgsize-211994.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/135822113.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-15T04:46:48.344086Z"
+    },
+    {
+      "id": "ae8f7a53b3a2e06921a374c8b36ee2e9",
+      "title": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
+      "description": "Mahanadi Coalfields Ltd has filed its Red Herring Prospectus for an initial public offering with regulatory bodies. This IPO features an offer for sale of roughly 66.18 crore equity shares from Coal India, amounting to a 10 percent stake in the subsidiary MCL. The intended capital raise is around Rs 9,500 crore, with the final execution reliant on regulatory approval.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135829640,imgsize-186196.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-15T04:46:48.343734Z"
+    },
+    {
       "id": "a2132a09faca4194c46fa0164b2b069c",
       "title": "Why Tata Sons rejected Noel Tata's request for board meeting recording: Inside the Tata boardroom tussle",
       "description": "Tata Sons has rejected Noel Tata's request for the September 17 board meeting recording, citing its policy of not sharing recordings of in-person meetings. Noel had sought it after opposing N Chandrasekaran's reappointment amid differences over Tata Sons' listing and business performance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
@@ -14948,196 +15133,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-06T17:55:02.176897Z"
-    },
-    {
-      "id": "9cb98cba0f287213a6418b4c3c41d195",
-      "title": "Who is Sanjeev Moghe? Axis Bank Group Head resigns after 8 years; read his resignation letter: ‘I leave with a...’",
-      "description": "The bank acknowledged his contributions during his tenure in a formal disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Untitled_design_-_2026-10-05T191717.397_1791208025785_6Ixj_1791208032583_jdpv_81473318-3369-498f-9e06-2169484e2cc4_2sgc.png",
-      "fullArticleLink": "https://www.livemint.com/companies/people/who-is-sanjeev-moghe-axis-bank-group-head-resigns-after-8-years-read-his-resignation-letter-i-leave-with-a-11791207532154.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO"
-      ],
-      "pubDate": "2026-10-06T04:50:36.760958Z"
-    },
-    {
-      "id": "2a905dea9b697a2bfb2bba4ab528dd1b",
-      "title": "Charity commissioner seeks reply from Tata Trusts over trustees’ complaints",
-      "description": "In a letter sent to SDTT on Monday, along with copies of the complaints, the Charity Commissioner gave the trust until 12 October to reply, according to an executive familiar with the matter. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/INDIA-TECH--16_1760276645095_1760276654484_1791220382595_PoTQ_3611b3ca-c558-44e4-9f0b-687c99d2cbd3_KDAz.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/charity-commissioner-seeks-reply-from-tata-trusts-over-trustees-complaints-11791214316002.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T04:50:36.760863Z"
-    },
-    {
-      "id": "c43225d1d25051fc9570c86c28bf6564",
-      "title": "Noel, three SDTT trustees slam Venu, Vijay over listing ‘epiphanies’, accuse them of breaching fiduciary duties",
-      "description": "The letter, which bares the deep rift at the heart of Tata Trusts, also signals the balance of power in SDTT, with four trustees ranged against two. SDTT is the largest shareholder of Tata Sons, owning 27.98% in the holding company of India's largest conglomerate. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/TATA-INDIA-SHAREHOLDERS-0_1790601143063_kVVO_17906_1791216102987_6wbQ_1791216103175_O1CW_2809a9ea-e27e-4563-9e2b-2e4a973f6bef_ji2f.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/tata-trusts-vs-venu-srinivasan-vijay-singh-tata-sons-listing-11791209202245.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T04:50:36.760764Z"
-    },
-    {
-      "id": "816987d14e7c2d50fdd4c07cb8f59982",
-      "title": "Netherlands wants Tata Steel to stay, but demands cleaner steelmaking",
-      "description": "The Netherlands wants Tata Steel to retain steelmaking at IJmuiden, but cleaner operations are a condition as talks over up to €2 billion in government aid enter an extended phase. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/NETHERLANDS-JUSTICE-STEEL-ENVIRONMENT-1_1791255738_1791255752004_doVd_1791255752149_6eU4_711e35e3-f6d6-46d0-8df3-d691744e8b01_g4j5.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/tata-steel-netherlands-ijmuiden-green-steel-steelmaking-decarbonization-electric-arc-furnaces-government-aid-11791215933836.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T04:50:36.760561Z"
-    },
-    {
-      "id": "cc0179ed8a95fb7f833117299c1e1d95",
-      "title": "Nifty prediction: RSI still hints at weak momentum | Resistance, support, LG Electronics India stock to watch",
-      "description": "The MACD is bullish, with the RSI in super-bullish territory. A breakout above ₹1,800 targets ₹1,930. The Nifty exhibited volatility but closed above 22,550, showing potential for recovery. Watch LG Electronics, which has broken out of its IPO base and shows strong performance indicators. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/INDIA-STOCKS-FLOWS-0_1789135165211_00ddd3f4-db5e-4_1791222318818_HXMq_1791222318983_ocPj_e5e8f0e6-3508-43b4-bd7d-5758912c974a_RDb9.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-prediction-rsi-still-hints-at-weak-momentum-resistance-support-lg-electronics-india-stock-to-watch-11791221648017.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-06T04:50:36.045313Z"
-    },
-    {
-      "id": "b2329701cd560936a32771fe5ea58afb",
-      "title": "FPIs turn cautious on Indian stocks amid global headwinds; what could improve the foreign flow outlook",
-      "description": "Foreign portfolio investors shifted to net selling in September, offloading stocks worth ₹35,860 crore, continuing into October with ₹18,513 crore. This trend caused the Nifty to decline 14% year-to-date, its worst since 2011, as geopolitical tensions and surging bond yields deter investments. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/FPI_Outflows_Amid_Oil_and_Rising_Yields_1791222657_1791222761940_4hKO_1791222762157_FtLd_d00fc76e-7d38-4fdf-86f1-050c3fa0de3a_w6xz.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/fpis-turn-cautious-on-indian-stocks-amid-global-headwinds-what-could-improve-the-foreign-flow-outlook-11791220979740.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-06T04:50:36.045261Z"
-    },
-    {
-      "id": "05bbdfe151fc8f0b4d8ecf99037ab539",
-      "title": "Top stocks to buy for short term: Experts suggest Aditya Infotech, Thyrocare, MIDHANI and 3 others - Check target price",
-      "description": "As the Nifty 50 rebounds amidst declining crude prices, experts highlight six promising stocks to consider for the short term. With potential target prices and key stop-loss levels, discover which stocks could steer your investment strategy in the coming weeks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/Top_Stocks_to_Buy_1791214759149_K1fS_1791214763813_FqAK_ed5ff78c-0d65-41fe-8385-ce685256c9c6_1NFx.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-experts-suggest-aditya-infotech-thyrocare-midhani-and-3-others-check-target-price-11791213973615.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-06T04:50:36.045099Z"
-    },
-    {
-      "id": "65024aab2cb38ad2c2b73f97897f5c62",
-      "title": "RBI MPC meeting October 2026: 25 bps repo rate hike on Oct 7? Impact on Sensex, Nifty, bank stocks decoded by experts",
-      "description": "RBI MPC meeting: Experts believe there are three possible outcomes that market expects: interest rate unchanged, interest rate hike by 25 BPS, and interest rate hike by more than 25 BPS. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/RBI_MPC_meeting_Stock_market_news_Today_1791218446044_QRdw_1791218446228_zS41_a1ef2077-5f6a-4c4d-8c4c-ae567ab5b5f2_32Pj.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-decoded-how-different-outcomes-may-impact-the-indian-stock-market-11791218169610.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-06T04:50:36.044746Z"
-    },
-    {
-      "id": "a5b0fe5c3fcb1b75631a7722168e47cb",
-      "title": "Mutual Funds', FPI favourite Tata Group stock hits upper circuit after Q2 update - Can it rise more? Experts decode",
-      "description": "Trent share price opened at ₹2,800 against its previous close of ₹2,575 and surged 10% to the upper price band of ₹2,832.50. It later extended gains, touching an intraday high of ₹2,901.20 and surging nearly 13% during the session. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Trent_share_price_1791258571388_kLJh_1791258576343_TuI8_c756fba9-5c14-4bb5-a892-f0bb3369dc84_jKK1.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/mutual-funds-fpi-favourite-tata-group-stock-jumps-10-to-hit-upper-circuit-after-q2-business-update-11791257821506.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T04:50:36.044660Z"
-    },
-    {
-      "id": "4608d7b58138db172f929a06e8368e09",
-      "title": "Nifty Expiry Today Prediction 6 Oct: Where is the index headed? Key support, resistance, and trading strategy",
-      "description": "The Nifty index shows signs of recovery after heavy selling, supported by improved global cues and easing crude oil concerns. However, key resistance levels at 22,700-22,750 persist, with traders eyeing the 22,400-22,450 support range and upcoming RBI policy announcements. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/nifty_expiry_1789446045509_s1C0_1789446052243_2mbB_1791259229389_cijm_1791259229542_GCkK_83db9c76-397d-4e0f-a4d6-a9414c7f9e57_fz0z.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-expiry-today-prediction-6-oct-where-is-the-index-headed-key-support-resistance-and-trading-strategy-11791257301878.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-06T04:50:36.044566Z"
-    },
-    {
-      "id": "e58578fcb8f5a1e834e7ae71b4a01139",
-      "title": "Kotak, Axis, IndusInd Bank shares: Q2 business updates trigger sharp moves- How stocks reacted; key data details to know",
-      "description": "Shares of Kotak Mahindra Bank, Axis Bank, and IndusInd Bank rose on October 6 after positive business updates for Q3. Advances and deposits showed healthy growth, though differences in deposit composition and CASA growth were notable for investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Bank_Stocks_Gain_Today_1791261591556_F1iM_1791261601914_tPdL_2bd3cd1c-c116-4240-9be1-9bf2932c2b6b_PtGc.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/kotak-axis-indusind-bank-shares-q2-business-updates-trigger-sharp-moves-how-stocks-reacted-key-data-details-to-know-11791259744667.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-06T04:50:36.044391Z"
-    },
-    {
-      "id": "d8d708e6dd646e5ff94499fc1b7867e2",
-      "title": "Physicswallah among 3 stocks that closed crossing above VWAP",
-      "description": "Three Nifty 500 stocks closed more than 1.5% above their VWAPs on October 5, signaling stronger price performance relative to volume-weighted average levels, according to StockEdge technical scan data. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134722096,imgsize-291501.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/physicswallah-among-3-stocks-that-closed-crossing-above-vwap/slideshow/134722114.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-06T04:50:35.404784Z"
-    },
-    {
-      "id": "cce5689607b0a3982d771152b48ece16",
-      "title": "Sensex rises over 300 points, Nifty above 22,600 as market extends gains. Why caution is warranted",
-      "description": "Indian equities extended their recovery for a second session, with Sensex and Nifty posting modest gains amid improved investor sentiment. Trent surged nearly 9% following a strong business update, while banks and NTPC advanced. However, analysts warned of continued FII selling, elevated bond yields, crude price uncertainty and potential RBI rate hikes, limiting upside. This key financial update highlights evolving.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134722541,imgsize-149016.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-100-points-nifty-above-22600-as-market-extends-gains-why-caution-is-warranted/articleshow/134722541.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-06T04:50:35.404584Z"
-    },
-    {
-      "id": "0fc70820a7a95fc6bfbfdac687ba830b",
-      "title": "Last line of defence! How 7 Nifty stocks survived the market’s two-month bloodbath",
-      "description": "In an unprecedented downturn, the Nifty has faced its longest losing streak in 25 years, sliding for over eight weeks as foreign investors withdrew significant funds from Indian equities. Despite this market decline in September, seven stocks, led by Kotak Mahindra Bank and Dr Reddy's Laboratories, demonstrated resilience. Particularly, Kotak Mahindra Bank's performance is linked to robust analyst endorsements.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134722719,imgsize-2310112.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/last-line-of-defence-how-7-nifty-stocks-survived-the-markets-two-month-bloodbath/articleshow/134722719.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-06T04:50:35.404534Z"
-    },
-    {
-      "id": "1b403eacd6de6d28f889a4a761d6ecd8",
-      "title": "Reliance Jio IPO clock ticking: Can you still buy RIL for shareholders quota amid October 21 launch buzz?",
-      "description": "On October 21, Reliance Jio is preparing to launch its IPO, aiming to raise around $3.8 billion. Eligible shareholders of Reliance Industries will have the chance to participate through the shareholder quota, which is available for a limited period. This public offering represents a prime opportunity for investors keen on Jio Platforms. This key financial update highlights evolving market dynamics.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134722533,imgsize-2190674.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-clock-ticking-can-you-still-buy-ril-for-shareholders-quota-amid-october-21-launch-buzz/articleshow/134722533.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T04:50:34.843303Z"
     }
   ]
 }
