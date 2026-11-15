@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "5b3301c898796d9547ceec62e9c0679d",
+      "title": "Sebi plans AI guardrails for capital markets, focus on investor protection",
+      "description": "Markets regulator Sebi will soon issue detailed guidelines for the responsible use of Artificial Intelligence (AI) in the capital markets, its chairman Tuhin Kanta Pandey said, emphasising the need to balance technological innovation with investor protection. The Sebi chief said the proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261115/full-126111500187.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-plans-ai-guardrails-for-capital-markets-focus-on-investor-protection-126111500187_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-15T18:28:26.914674Z"
+    },
+    {
+      "id": "e042e7dad20ccf06fe4e8145c70401e1",
+      "title": "Meet Hussain Sajwani, the Dubai investor who made more money from Anthropic in 2 years than his 30 years of investments",
+      "description": "Hussain Sajwani, founder of Damac Properties, says his Anthropic investment has delivered extraordinary returns and expects billions in profit from stakes in Anthropic, OpenAI and SpaceX. Damac Group invested $50 million in Anthropic in 2024 and has also backed xAI and Mistral. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/hussain_sajwani_1794726646609_fvtN_1794726664703_OYJo_65272c51-7bcc-4d5b-be3f-84f7c88cfc18_9s9d.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/meet-hussain-sajwani-the-dubai-investor-who-made-more-money-from-anthropic-in-2-years-than-his-30-years-of-investments-11794726343697.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-15T18:28:26.262047Z"
+    },
+    {
+      "id": "5b00676ddf37691f8a67ee0200b1b8c8",
+      "title": "Noel Tata reveals his idea of Tata way of life: ‘Charity precedes commerce, charity owns commerce; not other way around’",
+      "description": "For Noel Tata, the central issue is not merely whether Tata Sons should be listed, but whether the Tata Group can preserve its founding philosophy of putting philanthropy and nation-building ahead of commercial considerations in a changing ownership structure. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/noel_tata_on_tata_sons_listing_1794756267513_Eyr8_1794756272665_1wkt_43a402fe-cf38-4e6e-a1df-9a20aad013a6_azos.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/profits-may-become-more-important-than-philanthropy-why-noel-tata-is-resisting-the-push-to-list-tata-sons-11794751737310.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-15T18:28:26.261601Z"
+    },
+    {
+      "id": "7471c4cf84f966ea6ce479a4c2405a58",
+      "title": "₹10,000 cr Upcoming IPOs: Latest GMP price, key dates | Crystal Crop Protection, Mahanadi Coalfields, Watrana Rentals",
+      "description": "India’s IPO calendar is set to accelerate from 16 November, with Crystal Crop Protection, Mahanadi Coalfields and Watrana Rentals bringing three issues to market. The offerings are expected to raise more than ₹10,000 crore combined, with investors watching issue details and grey market premiums. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Rs_10000_Cr_Upcoming_IPOs_1794719802279_dpdo_1794719806382_ryv2_f04f2a2f-8403-49e7-ae92-2020fc817fae_SPmJ.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/rs-10-000-cr-upcoming-ipos-latest-gmp-price-key-dates-crystal-crop-protection-mahanadi-coalfields-watrana-rentals-11794716857818.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695635Z"
+    },
+    {
+      "id": "ba9314336cf6237fba2e004e4b1744f5",
+      "title": "Kamarajar Port picks SBI Capital, IDBI Capital and ICICI Securities for IPO",
+      "description": "Kamarajar Port valuation discussions are still some time away, but the IPO is likely to be completed within calendar 2027. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/1000026682_1755147126938_1755147130833_1794719985715_OLfn_98107161-cceb-4ea2-9d2f-e1955469395b_UDb0.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/kamarajar-port-ipo-2027-sbi-capital-idbi-icici-securities-11794716933859.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695561Z"
+    },
+    {
+      "id": "2893673958dbec392f69c9bbda855b4b",
+      "title": "Tata Motors shares: 22% down in 2026, right time to buy famous auto stock? What brokerages say after loss narrows in Q2",
+      "description": "Tata Motors PV reported a Q2 FY27 consolidated loss of ₹5,531 cr, including exceptional charges of ₹6,738 cr, even as revenue rose 34% and EBITDA margin improved. Brokerages are divided: Motilal Oswal maintained Sell with a ₹240 target, while Nuvama retained Buy with a revised ₹360 target. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Tata_Motors_Stock_Buy_Sell_or_Hold_1794723693408_e5dA_1794723699882_LrZM_90d3a53c-ce7c-4619-95b7-3a99393cb4a8_SPug.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tata-motors-shares-22-down-in-2026-right-time-to-buy-famous-auto-stock-what-brokerages-say-after-loss-narrows-in-q2-11794720978958.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695528Z"
+    },
+    {
+      "id": "66eaacbb5b2de549c1f4aad322910b0c",
+      "title": "ABB India shares 36% up in 2026: Time to buy? Rating upgrade boost and target price hike by Motilal Oswal - Details here",
+      "description": "ABB India reported an 11% rise in September-quarter profit to ₹440 crore and a 19.4% rise in revenue to ₹3,738 crore. Record order inflows rose 56% to ₹4,733 crore. Motilal Oswal upgraded the stock to Buy and set a target of ₹8,200, citing growth prospects and improving margins. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/ABB_India_Shares_Surge_36_in_2026_1794726309842_Ku2M_1794726314248_Imcn_bb40dd8f-088c-468a-a9d2-866c208bb423_NvZk.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/abb-india-shares-36-up-in-2026-time-to-buy-rating-upgrade-boost-and-target-price-hike-by-motilal-oswal-details-here-11794724492961.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695487Z"
+    },
+    {
+      "id": "2b29fcdea25d2ae9d5a3909d29d35c73",
+      "title": "Powerful solar stock to generate further returns? 33% up in 6 months, Motilal Oswal sees 40% more; do you own it? Target",
+      "description": "Fujiyama Power Systems shares fell 2.05% on Friday, extending recent losses, though they remain up 33% over six months. Motilal Oswal expects earnings growth in the second half of FY27, citing expanding distribution, new facilities and strong rooftop solar demand.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Fujiyama_Power_Share_Outlook_1794730615332_ClcU_1794730624605_cZic_7c96652a-9e7d-48c3-81e3-14f1ce63b529_ahew.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/midcap-solar-stock-rallies-33-in-six-months-motilal-oswal-sees-40-upside-do-you-own-it-check-target-price-11794669986419.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695450Z"
+    },
+    {
+      "id": "139bb342050148c48770235ff4f9323a",
+      "title": "Nifty 50 above 25,000, holds key moving averages: Is Buy-On-Dips right strategy? Here's what stock market experts say",
+      "description": "Indian markets fell on Friday after retail inflation rose to 6.09%, above the RBI’s tolerance limit, but analysts said the broader technical outlook remains positive. They cited support around 24,850–24,900 and recommended buying on dips if key levels hold. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Nifty_50_Bull_Market_Momentum_1794731706902_i9Ml_1794731712487_smkr_44597078-53a5-438a-9c64-8949adce7030_x3JD.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-50-above-25-000-holds-key-moving-averages-is-buy-on-dips-right-strategy-heres-what-stock-market-experts-say-11794726896459.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695415Z"
+    },
+    {
+      "id": "20cd40419a08cf177d20fdf5811912bb",
+      "title": "Coal India's Mahanadi Coalfields IPO: Stage set for launch, price band tomorrow; GMP, allotment, listing, other details",
+      "description": "Mahanadi Coalfields, Coal India’s largest coal-producing subsidiary, will open its IPO for subscription from 19 to 23 November. The offer is a sale of up to 66.18 crore shares by Coal India, expected to raise about ₹9,500 crore. The price band is yet to be announced. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Mahanadi_Coalfields_IPO_Mining_Banner_179473521839_1794735227887_kvKV_1794735228016_n9fH_988e5780-fac9-4755-b96b-f47b51be758b_RZe7.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-stage-set-for-launch-price-band-tomorrow-gmp-allotment-listing-other-details-11794731994241.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695375Z"
+    },
+    {
+      "id": "d07556cc83c80c6e7225360a1f4d707d",
+      "title": "PSU dividend this week Nov 16-20: Cochin Shipyard, Power Finance Corp, SCI to Oil India - Check record dates and returns",
+      "description": "Four PSU stocks will attract attention this week as investors track dividend record dates: Cochin Shipyard and Shipping Corporation of India on November 16, Power Finance Corporation on November 17, and Oil India on November 20. Their announced dividends range from ₹3 to ₹7 per share. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/PSU_Dividend_Shares_This_Week_1794737197969_S13H_1794737210283_8rDo_2d8be38d-767d-4cbb-924e-1a275cb27d42_RfWa.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/psu-dividend-this-week-nov-16-20-cochin-shipyard-power-finance-corp-sci-to-oil-india-check-record-dates-and-returns-11794735494353.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695332Z"
+    },
+    {
+      "id": "67f80d80c7838e19de6a82832af9701e",
+      "title": "Sensex, Nifty cheer as Bulls, FPIs back in Indian stock market; pump in over ₹84k cr in Nov so far - More rally ahead?",
+      "description": "FPIs invested ₹84,291 crore in Indian equities in November, helping the Sensex and Nifty extend their recovery and drawing buying into broader markets. Analysts cite earnings growth, reasonable valuations and global portfolio shifts as drivers. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Bullish_Market_RallySensex_and_Nifty_Surge_1794740_1794740131517_Xr4R_1794740131723_nEUV_5e83f8de-68a0-4fe3-800d-bcdb1ef541d8_AcYP.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-nifty-cheer-as-bulls-fpis-back-in-indian-stock-market-pump-in-over-rs-84k-cr-in-nov-so-far-more-rally-ahead-11794736253974.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695267Z"
+    },
+    {
+      "id": "809bcb7cbb584ce1921714f43e316136",
+      "title": "Stock market outlook, November 16-20: Nifty logs 3-week winning streak, first since June - Rally ahead or a pause?",
+      "description": "Indian equities may extend their rally during November 16–20, though volatility is expected. Strong foreign inflows, earnings and bullish technical momentum support the outlook, while crude prices, the rupee, geopolitical tensions and US policy signals pose risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Statatat_1794743288576_sPVz_1794743306954_l3af_81833bda-14f1-407b-8ea1-901fda8e41e1_H9WD.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-november-16-20-nifty-logs-3-week-winning-streak-first-since-june-rally-ahead-or-a-pause-11794738601982.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695222Z"
+    },
+    {
+      "id": "fa505e18c5d27f9894e3da578b9e28e1",
+      "title": "Crystal Crop Protection IPO one lot profit calculator on latest GMP: How much can retail and HNI investors earn? Listing",
+      "description": "Crystal Crop Protection’s ₹455.49 crore IPO opens November 18 and closes November 20, with shares priced at ₹259– ₹272. The latest grey market premium of ₹14 suggests a potential listing price of ₹286, or a 5.15% gain at the upper price band. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Crystal_Crop_Protection_IPO_Update_1794748040703_4Z5d_1794748050681_Xrqi_ee14e3dd-1a30-4235-ba6f-b75921800881_4SCN.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/crystal-crop-protection-ipo-one-lot-profit-calculator-on-latest-gmp-how-much-can-retail-and-hni-investors-earn-listing-11794744856974.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695122Z"
+    },
+    {
+      "id": "b93455617bfff81fd6c82e7801ef2d9d",
+      "title": "Stock to buy after Q2 Results 2026: Up 70% in YTD! Should you buy retail stock after strong guidance? Target, stop-loss",
+      "description": "Baazar Style Retail shares rose 5.39% on Friday and gained about 20% in a week ahead of the company’s Q2 FY27 results. Revenue from operations declined year over year to ₹47,848.31 lakh.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Baazar_Style_Retail_Share_Outlook_1794751475653_hwRT_1794751486180_EYT4_b66ce2be-f2a5-47bc-8607-a5db0dbee9ad_i2pN.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q2-results-2026-up-70-in-ytd-should-you-buy-this-retail-stock-after-strong-growth-guidance-target-11794751254602.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-15T18:28:25.695086Z"
+    },
+    {
       "id": "05460bc7380d39fd00c57bd99b8ba646",
       "title": "Gabriel India hits 20% upper circuit on huge volume; up 112% from March low",
       "description": "Gabriel India stock: The average trading volume at the counter jumped over 20-fold with a combined 8.02 million shares changing hands on the NSE and BSE on Thursday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14939,200 +15128,6 @@
         "Earnings"
       ],
       "pubDate": "2026-10-07T04:16:43.480203Z"
-    },
-    {
-      "id": "1a1a80084aac402a460becf94773a113",
-      "title": "Work on Google-Adani data centre can continue at developer's own risk: Andhra HC",
-      "description": "The Andhra Pradesh High Court (HC) has allowed the construction of the Google-Adani data centre to proceed at the developer's own risk, pending a review of environmental concerns raised by public interest litigation, including issues related to land use and proximity to protected areas. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/pexels-photo-4508751_1790307465798_CwOo_1790307477_1791295646847_O5Bz_1791295647124_CnwY_94986607-ef4a-4839-a43a-eeed9f166024_08YF.jpeg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/work-on-google-adani-data-centre-can-continue-at-developers-own-risk-andhra-hc-11791289938948.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T17:55:04.559363Z"
-    },
-    {
-      "id": "5111b26048154757ae9ed9b3c4e36782",
-      "title": "Sensex, Nifty up today: Why is Indian stock market rising ahead of RBI MPC meeting outcome? Explained with 3 reasons",
-      "description": "RBI MPC meeting: The BSE Sensex has surged over 1,000 points in the last two straight sessions, while the Nifty 50 index has risen 300 points. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Stock_market_today_RBI_MPC_Meeting_outcome_1791274402250_tDkH_1791274402408_TcTb_761db6dd-4a4d-46ae-8dd3-094491e9c127_5azI.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sensex-nifty-up-today-why-is-indian-stock-market-rising-ahead-of-rbi-mpc-meeting-outcome-explained-with-3-reasons-11791274136110.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-06T17:55:02.857603Z"
-    },
-    {
-      "id": "b540831bc7fc5f6e3d14c3f565001b12",
-      "title": "Up to 52% upside - Jindal SAW, SBI Life, ICICI Bank shares | 360 ONE's 21 biggest bets for investors - Check full list",
-      "description": "Stocks to buy: The brokerage has retained a focused list of 21 top multicap picks, with several stocks offering substantial potential upside from current levels. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/21_Stocks_to_Buy__Bullish_Market_Outlook_179127305_1791273065114_MNGO_1791273065311_guxt_10eec9dd-b962-46fd-87b5-2183b1075ba2_eFSe.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/up-to-52-upside-jindal-saw-sbi-life-icici-bank-shares-360-ones21-biggest-bets-for-investors-check-full-list-11791271707802.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T17:55:02.857552Z"
-    },
-    {
-      "id": "8655140cde96af9a92555be796db69f4",
-      "title": "Best auto stocks to buy ahead of Q2 results: Eicher, Hyundai Motor, Tata Motors PV among Nuvama’s top picks | Full list",
-      "description": "Nuvama Institutional Equities maintains a positive outlook on the auto sector, with key picks including Hyundai Motor, Tata Motors, and Eicher Motors. They anticipate 27% revenue growth driven by industry volumes, although EBITDA growth may be limited to 10% due to cost pressures. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Auto_Stocks_1791276913934_gMhC_1791276920911_G8Ii_bdf0db87-8416-4dab-b935-b4b91f771cbe_VS26.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/best-auto-stocks-to-buy-ahead-of-q2-results-eicher-hyundai-motor-tata-motors-pv-among-nuvama-s-top-picks-full-list-11791275027303.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T17:55:02.857518Z"
-    },
-    {
-      "id": "1ce15389d2fdb54598d1ca0a37a30e0c",
-      "title": "Why Kotak Mahindra Bank shares are outperforming Nifty 50 and Bank Nifty in the last two months? Experts explain",
-      "description": "Kotak Mahindra Bank outperformed despite market decline, gaining 10% over two months due to strong loan growth, leadership clarity, and improving asset quality. Analysts see positive catalysts, including a new CEO and better earnings expectations, as crucial for its recovery and valuation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Kotak_Outperforms_1791282734141_XswC_1791282740171_sV1A_3b3886e7-ef05-4f47-ac6a-6af30452567c_NQ1l.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/why-kotak-mahindra-bank-shares-are-outperforming-nifty-50-and-bank-nifty-in-the-last-two-months-experts-explain-11791281103828.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-06T17:55:02.857341Z"
-    },
-    {
-      "id": "fc8e09db1b74c1b359d921d5a9bcfeea",
-      "title": "Can IPO buzz boost CDSL and NSDL Q2 earnings? What the stocks investors need to know",
-      "description": "Strong IPO activity is expected to boost CDSL and NSDL's earnings in Q2 FY27, despite a decline in secondary-market trading volumes. Analysts highlight the importance of consistent revenue contributions beyond just one-time IPO income. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/IPO_Buzz_1791287475105_uXeJ_1791287490874_nAZo_9b17f22d-b1e2-47c8-9470-8c70bc92c95c_tLOO.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/can-ipo-buzz-boost-cdsl-and-nsdl-q2-earnings-what-the-stocks-investors-need-to-know-11791284891478.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-10-06T17:55:02.857313Z"
-    },
-    {
-      "id": "f2a9220a81e511102e31818bd18a2917",
-      "title": "RBI MPC interest rate decision in focus: Can a 25 bps hike trigger a market sell-off?",
-      "description": "As the Reserve Bank of India prepares for a potential 25 basis points rate hike amidst rising inflation and global economic pressures, market sentiments remain keenly focused. Analysts weigh in on how this decision could influence banking stocks and the broader economy amidst fluctuating oil prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/RBI_MPC_1791285078190_miAG_1791285097866_owcD_12c2b05e-92e9-45e9-a0dd-a4e675dce347_8Dch.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rbi-mpc-interest-rate-decision-in-focus-can-a-25-bps-hike-trigger-a-market-selloff-11791284684306.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-06T17:55:02.857214Z"
-    },
-    {
-      "id": "d72cad6f6bcc9f51454afdbb3f667f33",
-      "title": "Sebi vs Jane Street: 'Dilatory tactic; ulta chor kotwal ko daante' - What the markets regulator's lawyer said in hearing",
-      "description": "India’s markets regulator criticised Jane Street Group’s request for additional documents as a delaying tactic. Sebi argues Jane Street should clarify its trading strategy rather than questioning the regulator’s actions amid accusations of market manipulation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/SEBI_vs_Jane_Street__Financial_Showdown_1791290336_1791290380433_RnLP_1791290380641_Wl4A_6ed1b363-b2a3-4b43-bea2-ac0526a798de_D7Dw.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/sebi-vs-jane-street-dilatory-tactic-ulta-chor-kotwal-ko-daante-what-the-markets-regulators-lawyer-said-in-hearing-11791288783083.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-06T17:55:02.857178Z"
-    },
-    {
-      "id": "b8412225381f203d4331bd6013575c55",
-      "title": "FPIs pare bank Nifty shorts ahead of RBI policy",
-      "description": "The short covering aligns with domestic investor anticipation of rally post a policy -on -expected lines&nbsp;. Global headwinds , higher rate hike could play spoilsport , analysts warn. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/pexels-photo-7693229_1747618789217_1791299382340_oe3n_98f7935e-4a21-402f-bd6d-b7f94e5a2253_iVWW.jpeg",
-      "fullArticleLink": "https://www.livemint.com/market/fpis-pare-bank-nifty-shorts-ahead-of-rbi-policy-11791286990325.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-06T17:55:02.857073Z"
-    },
-    {
-      "id": "083b9a14c291eadce537f985f3a83bad",
-      "title": "Vaishali Parelh's best stocks to buy: IndiGo, IndusInd Bank, GPIL | Target price, stoploss, Nifty, Bank Nifty prediction",
-      "description": "Stock market prediction: Vaishali Parekh believes that Dalal Street bias has improved after successive rallies this week. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Stocks_to_buy_Vaishali_Parekh_stock_recommendation_1791305184207_Vv2t_1791305184327_eRuo_660cbbbe-0cf0-4fda-a55f-602976ab811c_VyOS.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/vaishali-parelhs-best-stocks-to-buy-indigo-indusind-bank-gpil-target-price-stoploss-nifty-bank-nifty-prediction-11791304696619.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-06T17:55:02.856995Z"
-    },
-    {
-      "id": "c598424ee616f2834fff67d0ada6011f",
-      "title": "Banks vs NBFCs: Which stocks could benefit as RBI eyes rate hike for first time in 3 years?",
-      "description": "The RBI’s expected first rate hike in three years could have a mixed impact on banks and NBFCs. While higher funding costs may pressure NBFC margins, lenders with floating-rate assets and strong liquidity could benefit. Brokerages favour HDFC Bank, ICICI Bank, Kotak Mahindra Bank, Bajaj Finance and Tata Capital. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134726852,imgsize-2641228.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/banks-vs-nbfcs-which-stocks-could-benefit-as-rbi-set-to-hike-rates-for-the-first-time-in-3-years/articleshow/134726852.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T17:55:02.177308Z"
-    },
-    {
-      "id": "70c7c71115c923d824e5a9d136244578",
-      "title": "Orient Cables shares tumble 10% a day after strong market debut",
-      "description": "Orient Cables' shares faced a notable drop of 10% soon after a promising IPO launch, leading to a dip in investor sentiment. However, the stock continues to hold firm above the initial issue price of Rs 272. Analysts are now focused on the firm’s capability to maintain revenue growth and its profitability, urging investors to carefully evaluate its financial soundness.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134727066,imgsize-1923641.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/orient-cables-shares-tumble-10-a-day-after-strong-market-debut/articleshow/134727066.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-10-06T17:55:02.177270Z"
-    },
-    {
-      "id": "9f813ab1ebb7551a8b869321f2f87082",
-      "title": "MFs kept buying these 10 microcaps for 2 straight quarters; stocks surge up to 70% in 3 months",
-      "description": "Mutual funds increased holdings in 64 Nifty Microcap 250 companies for two consecutive quarters. Ten microcap stocks gained 25%-68% in three months, led by Electronics Mart India, Sky Gold, Bluestone Jewellery, Sudarshan Chemical and Timex Group, highlighting strong institutional buying and investor interest. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134729153,imgsize-7652.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-10-microcaps-for-2-straight-quarters-stocks-surge-up-to-70-in-3-months/slideshow/134730010.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-06T17:55:02.177170Z"
-    },
-    {
-      "id": "fcd2e91043d34a787a6d55844feca548",
-      "title": "Indian banks face a Q2 paradox: FCNR boosts loan growth but margins shrink",
-      "description": "Indian banks are heading into the Q2 earnings season with strong loan growth, helped by FCNR(B) deposit inflows, but margins are likely to remain under pressure. Analysts expect healthy earnings growth on lower credit costs and stable asset quality, while favouring large private banks such as HDFC Bank, ICICI Bank and Kotak Mahindra Bank. This key financial update highlights evolving.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134728309,imgsize-2370454.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indian-banks-face-a-q2-paradox-fcnr-boosts-loan-growth-but-margins-shrink/articleshow/134728309.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T17:55:02.177136Z"
-    },
-    {
-      "id": "9f08220677283e8382be194d08a8af7e",
-      "title": "Reliance Industries shares gain 3% as JIO IPO inches closer; Jefferies increases weight in conglomerate",
-      "description": "Reliance Industries is preparing for the IPO of Jio Platforms scheduled to launch on October 21. The valuation of Jio Platforms is reported at Rs 11 lakh crore, making it highly anticipated. The public issue is expected to attract significant attention as it opens for subscription. Jefferies has raised its weight on Reliance Industries due to attractive valuations amid improving.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134738865,imgsize-178764.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-gain-3-as-jio-ipo-inches-closer-jefferies-increases-weight-in-conglomerate/articleshow/134738865.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-06T17:55:02.176897Z"
     }
   ]
 }
