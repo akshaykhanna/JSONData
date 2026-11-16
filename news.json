@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "c8aa6cdbda7c446d41a7c983089fa31d",
+      "title": "WPI inflation, oil, FII trading activity may guide stock markets this week",
+      "description": "WPI inflation data, foreign investor trading activity, crude oil prices, and developments in West Asia will drive investor sentiment this week, analysts said. Globally, US retail sales, Nvidia's earnings and the FOMC (Federal Open Market Committee) minutes will shape global rate expectations and tech sentiment, an expert said. \"Movements in crude oil, the dollar, US Treasury yields and FII flows.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261115/full-126111500300.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/wpi-inflation-oil-fii-trading-activity-may-guide-stock-markets-this-week-126111500300_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-16T04:43:53.046547Z"
+    },
+    {
+      "id": "96d923b735ba2963ec8a64e315cef1e1",
+      "title": "Will inflation, Iran tension spook the market bulls? Jefferies, HSBC answer",
+      "description": "In its latest assessment, Christopher Wood identified a fresh escalation in tensions involving Iran as the biggest risk to Indian equities, both in terms of absolute returns and relative performance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261115/full-126111500228.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/will-inflation-iran-tension-spook-the-market-bulls-jefferies-hsbc-answer-126111500228_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-16T04:43:53.046496Z"
+    },
+    {
+      "id": "9da8bec0931a4e24eeb90000c7b2f93b",
+      "title": "Stock Market LIVE: Sensex jumps 600 pts, Nifty near 25,300; Max Health, Airtel top gainers",
+      "description": "Sensex Today | Stock Market LIVE Updates Monday: In the broader markets, the Nifty MidCap rose 0.16 per cent and the Nifty SmallCap fell 0.37 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261116/full-126111600051.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-16T04:43:53.046430Z"
+    },
+    {
+      "id": "be15ebf63dedf3fe38f0e56af857f667",
+      "title": "Stocks to watch: Ashok Leyland, BEL, Hero Moto, Coal India, Tata Motors PV",
+      "description": "Ashok Leyland, Kaynes Technology and Easy Trip Planners will be in focus after reporting their Q2FY27 results. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261116/full-126111600057.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-ashok-leyland-bel-hero-moto-coal-india-jupiter-wagons-126111600057_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-16T04:43:53.046407Z"
+    },
+    {
+      "id": "985d4145820288f5522e877a3da977fa",
+      "title": "Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target",
+      "description": "Tata Motors Passenger Vehicles (TMPV) reported a consolidated net loss of ₹5,451 crore from continuing operations for the second quarter of financial year 2026-27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261116/full-126111600451.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/tata-motors-pv-shares-plunge-9-after-q2-results-brokerages-cut-target-126111600451_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-16T04:43:53.046294Z"
+    },
+    {
+      "id": "af0f3d2264d4bcc10b302e11a36ff719",
+      "title": "Kaynes Technology shares tank 18% as Q2 PAT plunges 65%, margin shrinks",
+      "description": "Kaynes Technology has reported a consolidated net profit of ₹39.8 crore in Q2FY27, down 65 per cent from ₹115.7 crore posted in the corresponding quarter of the previous financial year. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261116/full-126111600694.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/kaynes-technology-shares-tank-18-as-q2-pat-plunges-65-margin-shrinks-126111600694_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-16T04:43:53.046191Z"
+    },
+    {
+      "id": "a33befbcd92ce44f5da57d1ab902810a",
+      "title": "SpaceX’s S&P 500 bid gets new life as Elon Musk pitches Tesla merger",
+      "description": "Both Tesla and SpaceX have been burning through billions of dollars in cash, and plan to bleed through more to finance new ventures, even as worries about the sustainability of the AI boom drag on the stock market. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/SPACEX-STOCKS-TESLA-0_1794671787180_h1VB_1794671860279_jaYH_515463cc-95f7-4766-bd5a-d263412895b3_pVRI.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/spacexs-s-p-500-bid-gets-new-life-as-elon-musk-pitches-tesla-merger-11794670926716.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-16T04:43:52.200110Z"
+    },
+    {
+      "id": "9aafcd837f798e46fe9766c8732c4d10",
+      "title": "Ola Electric founder Bhavish Aggarwal has a new plan to sell e-scooters: Shut down company-owned outlets and…",
+      "description": "Ola Electric is shifting from direct sales to independent dealers, betting that the network will revive its scooter business and lower costs. The move comes as quarterly registrations fell year-over-year and sequentially.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Screenshot_2024-02-28_151750_1709113772179_1794725235955_f9oS_9fcaed2d-d6f8-4ea6-885e-9e9a465e1cd5_KaYb.png",
+      "fullArticleLink": "https://www.livemint.com/companies/ola-electric-founder-bhavish-aggarwal-has-a-new-plan-to-sell-e-scooters-shut-down-company-owned-outlets-and-11794724920505.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-16T04:43:52.199839Z"
+    },
+    {
+      "id": "5d2cca117eff8fa1448a25d76e046dd9",
+      "title": "Standard Chartered taps GIFT City to help wealthy Indians diversify overseas",
+      "description": "The launch follows an August approval from the IFSCA, GIFT City’s regulator, allowing the bank to distribute the funds to resident Indians. Launched four years ago, the funds manage $5 billion in assets across 13 markets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Samir_1794726585025_ESWs_1794726604652_V819_7e32f52b-17b7-4620-bd15-68061a168aaa_zhUP.png",
+      "fullArticleLink": "https://www.livemint.com/companies/standard-chartered-taps-gift-city-to-help-wealthy-indians-diversify-overseas-11794726225669.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-16T04:43:52.199648Z"
+    },
+    {
+      "id": "4c8747085973a1ff07c0fdd5577b4745",
+      "title": "Jensen Huang's $140B Nvidia fortune isn't entirely his to control: How wife Lori, family trusts hold the keys — Details",
+      "description": "The approximately 800 million shares jointly held through trusts and LLCs represent a substantial portion of the Huangs' Nvidia wealth. However, the different structures mean that not all these shares can necessarily be sold or transferred in the same way. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/USA-CHINA--117_1794740582432_2gOC_1794740594986_xxgZ_ef44f772-a7d8-42bf-8145-0e3b3abdbee1_xNmN.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/people/jensen-huangs-140b-nvidia-fortune-isnt-entirely-his-to-control-how-wife-lori-family-trusts-hold-the-keys-details-11794739315200.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-16T04:43:52.199582Z"
+    },
+    {
+      "id": "72a780a3ef7cbd5ffa20b80b8d7c6380",
+      "title": "Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch",
+      "description": "Nvidia's earnings announcement on Tuesday will be among the biggest events of the week, as investors look for indications that demand for AI infrastructure remains strong amid concerns over the sustainability of massive investments in the sector. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/wallstnyse_1794763539668_Umek_1794763581566_nQJf_291441e5-be74-4484-811a-d9d935b13cb6_5d9g.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-nvidia-earnings-anthropic-ipo-federal-reserve-minutes-retail-sales-top-things-to-watch-11794763105921.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-16T04:43:51.589300Z"
+    },
+    {
+      "id": "ece763dc7de85237cb606da2940a576c",
+      "title": "Tata Motors PV shares crash: What led to auto stock 8% ramming, Nifty laggard; down 27% in 2026 - Buy, sell or hold?",
+      "description": "Tata Motors Passenger Vehicles shares fell more than 8% after the company reported a September-quarter consolidated loss of ₹5,531 crore, despite revenue rising 34% year-on-year. Exceptional costs totalled ₹6,738 crore, while brokerages differed on the stock’s outlook and target prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/Tata_Motors_Shares_Crash_8_1794802741603_gG1t_1794802746051_AXlJ_b9fe1d2e-4105-49a8-bf62-49ffc1588685_JHLw.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tata-motors-pv-shares-crash-what-led-to-auto-stock-8-ramming-nifty-laggard-down-27-in-2026-buy-sell-or-hold-11794801946841.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-16T04:43:51.588793Z"
+    },
+    {
+      "id": "a0c40516409619650f1c49664fca549c",
+      "title": "Cisco shares rally after earnings beat: 6 key things investors need to know",
+      "description": "Cisco shares surge after strong Q1 FY2027 results, beating analyst estimates. Robust AI data-centre demand drives revenue growth, prompting the networking giant to raise its annual revenue and earnings forecasts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135794371,imgsize-139476.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/cisco-shares-rally-after-earnings-beat-6-key-things-investors-need-to-know/slideshow/135794957.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-16T04:43:50.363266Z"
+    },
+    {
+      "id": "a8155639bc779b6d971d71e54ba04b1d",
+      "title": "How US tech pain is European stock markets' gain",
+      "description": "European stock markets, particularly the STOXX 600, are performing well as tech turmoil affects global markets. This relative stability is attributed to Europe's lower exposure to tech giants compared to the US market. Companies in sectors such as energy and financials are supporting earnings growth, which is on track for 25% quarterly profit. Investors remain cautious, noting that broader market.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135804056,imgsize-198194.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-us-tech-pain-is-european-stock-markets-gain/articleshow/135804056.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-16T04:43:50.363146Z"
+    },
+    {
+      "id": "a31ca3fc5bb275a643b9514c78432a69",
+      "title": "India 10-year bond yield reverses half of last week's drop on elevated inflation",
+      "description": "Indian government bonds fell for a third consecutive session, driven by inflation and interest-rate outlook concerns. The benchmark yield increased to 7.3079%, reversing much of last week's gains. Retail inflation in India accelerated, surpassing the Reserve Bank of India's target range, which raises rate hike expectations. In the US, rising Treasury yields and inflation data led to altered rate hike.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135804127,imgsize-190570.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-reverses-half-of-last-weeks-drop-on-elevated-inflation/articleshow/135804127.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-16T04:43:50.363112Z"
+    },
+    {
       "id": "5b3301c898796d9547ceec62e9c0679d",
       "title": "Sebi plans AI guardrails for capital markets, focus on investor protection",
       "description": "Markets regulator Sebi will soon issue detailed guidelines for the responsible use of Artificial Intelligence (AI) in the capital markets, its chairman Tuhin Kanta Pandey said, emphasising the need to balance technological innovation with investor protection. The Sebi chief said the proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities.",
@@ -14932,202 +15121,6 @@
         "Earnings"
       ],
       "pubDate": "2026-10-07T18:25:21.165573Z"
-    },
-    {
-      "id": "3875bf80aa4ce7c5419fd191856673e9",
-      "title": "Honasa Consumer soars 10% on strong Q2 biz update; stock nears 52-week high",
-      "description": "On profitability, Honasa said it continues to deliver on its goal of EBITDA margin improvement, and management expects the business to deliver an early double-digit operating margin profile in Q2. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261006/full-126100600308.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/honasa-consumer-sharesoars-10-on-strong-q2-biz-update-stock-nears-52-week-high-126100600308_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-07T04:16:45.970238Z"
-    },
-    {
-      "id": "3ae847bf53833f508094384216f6934c",
-      "title": "Jane Street should explain trading strategies, Sebi tells SAT in hearing",
-      "description": "Sebi told SAT that Jane Street has received sufficient material to answer manipulation allegations and should explain its trading conduct instead of seeking more documents. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261006/full-126100601048.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/jane-street-should-explain-trading-strategies-sebi-tells-sat-in-hearing-126100601048_1.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-10-07T04:16:45.969916Z"
-    },
-    {
-      "id": "d691b7522cb3329a2f71ec2496408653",
-      "title": "Mutual funds log 5% AUM growth in Q2 despite equity market volatility",
-      "description": "Mutual fund houses' average quarterly assets under management rose to ₹87.2 trillion in Q2FY27 from ₹83.1 trillion in Q1, supported by strong inflows across categories. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261006/full-126100601248.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/mutual-fund/mutual-funds-log-5-aum-growth-in-q2-despite-equity-market-volatility-126100601248_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-07T04:16:45.969873Z"
-    },
-    {
-      "id": "edfc7aed071128541f5532de21d91b43",
-      "title": "Stock Market LIVE: Sensex drops 400 pts, Nifty near 22,600 ahead of RBI policy meet outcome",
-      "description": "Sensex Today | Stock Market LIVE Updates Wednesday:In the broader markets, the Nifty MidCap fell 0.45 per cent, while the Nifty SmallCap rose 0.1 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261007/full-126100700099.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-october-7-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-rbi-mpc-repo-rate-ipo-today-126100700099_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-07T04:16:45.969757Z"
-    },
-    {
-      "id": "0fa091cbeff1c0d898e2c7819ef1b382",
-      "title": "TCS Q2 earnings: Five things to watch as Tata boardroom fight adds to scrutiny",
-      "description": "TCS’s second-quarter results will offer clues on demand, AI revenue, data-centre spending and margins, while investors assess whether the Tata Sons dispute could distract its top leadership. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/TCS-ACQUISITION-MHP-1_1791306208511_zDTD_1791306215528_VckA_0c9c16da-6e2b-4bfe-95c8-b53c9b29d9dc_rI8i.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tcs-q2-earnings-five-things-to-watch-as-tata-boardroom-fight-adds-to-scrutiny-11791297435743.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-07T04:16:45.293521Z"
-    },
-    {
-      "id": "5bb3bfbe2ed954525645325396c44453",
-      "title": "RBI MPC Meeting October 2026 outcome announcement today at 10 am: When, where to watch LIVE Guv Sanjay Malhotra’s speech",
-      "description": "RBI MPC Meeting October 2026: The RBI has maintained the repo rate at 5.25% for four consecutive policy reviews, following a cumulative 125 basis point reduction in 2025. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_live_1791345231445_yPPn_1791345236538_uSh0_b9a9a3f2-047d-4d1b-ad59-8a0970a03341_uqm4.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-october-2026-outcome-announcement-today-at-10-am-when-where-to-watch-live-guv-sanjay-malhotra-s-speech-11791333371101.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-07T04:16:44.700032Z"
-    },
-    {
-      "id": "a2a2366b743b68d0cadbb75025115b64",
-      "title": "Investor awareness key to long-term wealth creation, technology double-edged sword: ANMI President Kamlesh Shroff",
-      "description": "Investor education in India is vital for effective market participation and wealth accumulation. The trend of younger investors signifies a promising advantage for early market entry. Nonetheless, the escalating prevalence of online financial scams threatens investor assets. SEBI highlights capital protection through regulated investment pathways and stresses the necessity for investors to cautiously validate the legitimacy of entities before making.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134742397,imgsize-46318.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/investor-awareness-key-to-long-term-wealth-creation-technology-double-edged-sword-anmi-president-kamlesh-shroff/articleshow/134742397.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-10-07T04:16:44.064367Z"
-    },
-    {
-      "id": "609efb6917e5b89966eb18ff5ff7b29a",
-      "title": "Sebi accuses Jane Street of dilatory tactics at SAT, says 'investigator is being investigated'",
-      "description": "Securities and Exchange Board of India has expressed concerns about Jane Street's approach to the investigation. The regulator provided over 10 GB of documents but refuses to share more data. Jane Street seeks extensive access to various records and documents related to its case. The proceedings are aimed at resolving alleged index manipulation and trading violations.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134749152,imgsize-1914330.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-accuses-jane-street-of-dilatory-tactics-at-sat-says-investigator-is-being-investigated/articleshow/134749152.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-07T04:16:44.064262Z"
-    },
-    {
-      "id": "34970856203fb34f78414ffafca4ab99",
-      "title": "Jefferies favours Indian largecap stocks amid rising bond yields",
-      "description": "Jefferies has suggested enhancing investments in large-cap stocks in India, citing their favorable valuations compared to midcaps. The brokerage has also added Kotak Mahindra Bank to its model portfolio and increased its weight in Reliance Industries. It emphasizes that large-caps present a better risk-reward scenario as earnings growth gap narrows. Meanwhile, exposure to rate-sensitive sectors has been reduced due.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134752755,imgsize-5485783.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-favours-indian-largecap-stocks-amid-rising-bond-yields/articleshow/134752755.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-07T04:16:44.064180Z"
-    },
-    {
-      "id": "d40d6112a20cce08f41213f1327eba4a",
-      "title": "Bank stocks lift Indian markets as crude prices ease, RBI decision eyed",
-      "description": "The Indian stock markets saw an upswing fueled by the performance of banking stocks amid falling oil prices. The Sensex and Nifty enjoyed substantial rises, as market participants eagerly anticipated the upcoming Reserve Bank of India monetary policy decision. Key players like Axis Bank and Kotak Mahindra Bank reported strong quarterly figures, lifting investor mood.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134752640,imgsize-253652.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-lift-indices-ahead-of-rbi-policy/articleshow/134752640.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-07T04:16:44.064152Z"
-    },
-    {
-      "id": "a13a1bc1f819becf92ab5f8e7a839fd7",
-      "title": "Nifty 50 companies likely to log strong double-digit growth in Q2",
-      "description": "Revenue and net profit of Nifty 50 companies are projected to grow by nearly 20% year-on-year. Analysts note that performance is driven by sectors like automobiles, banking, and oil. Operating margins, however, might contract slightly due to input cost pressures and inflation. Key sectors show varied conditions, balancing strong demand against potential challenges. Overall, medium to long-term outlook remains optimistic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134753164,imgsize-70108.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-50-companies-likely-to-log-strong-double-digit-growth-in-q2/articleshow/134753164.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-07T04:16:44.064053Z"
-    },
-    {
-      "id": "5fa16b3b67e12580c9dfd05fa6287a3d",
-      "title": "Trent surges 13% to 2-year high after strong Q2 update",
-      "description": "Trent, the prominent Tata Group retailer, experienced a notable spike in share prices as it unveiled impressive second-quarter results. The company reported a significant 23% year-on-year revenue growth, amounting to ₹5,788 crore. This development led brokerages to enhance their forecasts and issue favorable ratings. Additionally, Trent celebrated the launch of its 1,000th Zudio store, reflecting productivity gains.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134753290,imgsize-35758.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-surge-nearly-13-on-robust-q2-updates/articleshow/134753290.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-07T04:16:44.064025Z"
-    },
-    {
-      "id": "ceda6447852ae9cdb7103facc5eaab13",
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates | Opening Bell: Sensex falls over 450 pts ahead of RBI MPC decision, Nifty below 22,650; Titan, Adani Ent drop up to 3%",
-      "description": "Sensex Today | Nifty 50 | Stock Market Live Updates | Opening Bell: Sensex falls over 450 pts ahead of RBI MPC decision, Nifty below 22,650; Titan, Adani Ent drop up to 3%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134753791,imgsize-289656.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-titan-hcltech-share-price-07-october-2026/liveblog/134753791.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-07T04:16:44.063978Z"
-    },
-    {
-      "id": "13b402d767f239177e112d74bf326a67",
-      "title": "RBI to hike repo rate by 25 bps? These rate sensitive sectors will be in focus on Wednesday",
-      "description": "The RBI’s policy decision will keep banks, NBFCs, realty and auto stocks in focus, with the central bank widely expected to raise the repo rate by 25 bps to 5.50%. Markets will track its inflation outlook and future rate guidance, especially as elevated crude prices pose risks to inflation and the current account deficit. This key financial update highlights evolving.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134754911,imgsize-264492.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-to-hike-repo-rate-by-25-bps-these-rate-sensitive-sectors-will-be-in-focus-on-wednesday/articleshow/134754911.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-07T04:16:44.063871Z"
-    },
-    {
-      "id": "2dc838e07d3ab250b04c978f0242ef71",
-      "title": "Sensex falls over 450 points, Nifty below 22,650 ahead of RBI’s expected rate hike. What lies ahead?",
-      "description": "After a fleeting rally, the Indian stock market dipped once again, with Sensex and Nifty experiencing noticeable declines. Investor attention is fixed on the impending RBI MPC meeting, where an interest rate hike is expected. Titan shares dropped more than 4% due to an unsatisfactory Q2 business report, which weighed heavily on market sentiment. This key financial update highlights evolving.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134755335,imgsize-91096.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-450-points-nifty-below-22650-ahead-of-rbis-expected-rate-hike-what-lies-ahead/articleshow/134755335.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-07T04:16:43.480203Z"
     }
   ]
 }
