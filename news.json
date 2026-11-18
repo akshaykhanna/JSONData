@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "e567e92f33aeeaaa63febce8c7ca3d74",
+      "title": "Metal meltdown: SAIL, NALCO, Hindalco drag Nifty Metal 2% lower; here's why",
+      "description": "Analysts said metal stocks were under pressure due to a decline in global commodity prices, as a stronger USD and expectations of higher interest rates weighed on the appeal of non-yielding assets. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261118/full-126111800417.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/metal-meltdown-sail-nalco-hindalco-drag-nifty-metal-2-lower-here-s-why-126111800417_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-18T19:57:50.349491Z"
+    },
+    {
+      "id": "6ec24eaee9737e90509300a74a9ca7ae",
+      "title": "SBI trades firm in down market, stock up 16% in Nov; brokerages stay upbeat",
+      "description": "SBI's share price hit intraday high of ₹1,118.55, trading at its highest level since August 7, 2026 and 10% away from its record high of ₹1,234.80 hit on February 24, 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261118/full-126111800409.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sbi-trades-firm-in-down-market-stock-up-16-in-nov-brokerages-stay-upbeat-126111800409_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T19:57:50.349463Z"
+    },
+    {
+      "id": "96896718f89d7795e29aca89f4021732",
+      "title": "Nifty Consumer Durables index slides 3%; Titan, Kalyan Jewellers crack 5%",
+      "description": "Among others in the Consumer Durables index, Dixon, Havells India, Voltas, Crompton Greaves Consumer Electricals and Bata India declined in the range of 2-3% in Wednesday's trade. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261118/full-126111800512.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-consumer-durables-index-slides-3-titan-kalyan-jewellers-crack-5-126111800512_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-18T19:57:50.349415Z"
+    },
+    {
+      "id": "60bc21f6678fd739d19e2cb77b6006c8",
+      "title": "Goldman Sachs upgrades India to overweight; Dec.'27 Nifty target at 28,500",
+      "description": "As regards the Indian markets, risks look more balanced today versus the 2024 peak, Goldman Sachs said, as MSCI India has de-rated substantially across most parameters. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261118/full-126111800674.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/goldman-sachs-upgrades-india-to-overweight-dec-27-nifty-target-at-28-500-126111800674_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-18T19:57:50.349281Z"
+    },
+    {
+      "id": "b1df1aaf177f6c0121ce13786d1a94d9",
+      "title": "Glass Wall Systems shares jump 4% on new order win, up 55% from IPO price",
+      "description": "Glass Wall Systems recently announced its second quarter results for the financial year 2026-27 (FY27), posting a 31.2 per cent year-on-year (YoY) rise in its consolidated profit after tax (PAT). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261118/full-126111800697.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/glass-wall-systems-shares-jump-4-on-new-order-win-up-55-from-ipo-price-126111800697_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-18T19:57:50.349234Z"
+    },
+    {
+      "id": "db3cd8476e3eaa05ad6402610a197ebb",
+      "title": "Cognizant beats TCS, HCLTech: Tech giant bags seven-year contract worth ₹16,313 crore from UK’s Network Rail | Details",
+      "description": "Cognizant has been selected for a seven-year Network Rail contract worth £132.2 million, beating TCS, HCLTech and two global rivals. The deal adds to the IT services major’s recent UK wins amid steady revenue growth in the region. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Cognizant_TCS_HCLTech_Network_Rail_AI_Image_1794985082608_zN5x_1794985082795_OKlM_e6ec7284-0011-4f0f-a926-a34cb92c406d_SmY8.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/cognizant-beats-tcs-hcltech-tech-giant-bags-seven-year-contract-worth-rs-16-313-crore-from-uk-s-network-rail-details-11794984226018.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T19:57:49.652354Z"
+    },
+    {
+      "id": "2b3b2a01a0cbc79290b1102ff2e87f69",
+      "title": "Tata Steel's 40 mtpa domestic capacity target slips by upto five years",
+      "description": "The steelmaker expects to reach its domestic capacity target three to five years late, while seeking government support to fund its green steel transition in the Netherlands. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/INDIA-TATA-STEEL--0_1794988084279_7btB_1794988097327_NQAp_5f38a11e-7f32-4203-a36c-2f6f45ff70d4_Lyc3.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-steel-40-million-tonne-capacity-target-delayed-to-2035-11794982739586.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T19:57:49.652317Z"
+    },
+    {
+      "id": "2bffdd34227622f8c0c83b26ca283b7b",
+      "title": "Bombay HC quashes ICICI Bank’s sanction to prosecute ex-CEO Chanda Kochhar in Videocon loan case: What the court said",
+      "description": "The Bombay HC quashed ICICI Bank's sanction to prosecute former CEO Chanda Kochhar in the ₹3,250 crore Videocon loan case, ruling that the authority granting approval was incompetent and had failed to apply its mind to the material before it. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Bombay_High_Court_and_ICICI_Bank_Montage_1795000457052_J6dI_1795000472133_G1GF_ecda46c2-37bc-4abf-ac80-100b0b090b2c_04mP.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/bombay-hc-quashes-icici-bank-s-sanction-to-prosecute-ex-ceo-chanda-kochhar-in-videocon-loan-case-what-the-court-said-11794999967762.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T19:57:49.651925Z"
+    },
+    {
+      "id": "cd5e491ca19d448c2f42f646af34c897",
+      "title": "Jio Platforms shares gain over 26% from IPO price: Should investors hold, buy more or book profits? What experts say",
+      "description": "After a strong IPO debut, Jio Platforms reported higher revenue and profit, with growth supported by 5G, broadband and digital services. Analysts recommend existing investors consider holding, while new buyers may wait for a correction or a technical breakout rather than chase the rally. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Jio_Platforms_Stock_Surge_Bull_Market_179498990794_1794989917669_Ct1x_1794989917890_Azpl_d7779f18-cb76-4e58-a422-a625ec93b31c_DzUs.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/jio-platforms-shares-gain-over-26-from-ipo-price-should-investors-hold-buy-more-or-book-profits-what-experts-say-11794985144658.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-18T19:57:48.933826Z"
+    },
+    {
+      "id": "bd3d2a630024aa205b6348585554cee0",
+      "title": "Metal stocks to buy! APL Apollo Tubes, Hindalco: Axis Sec lists 2 conviction picks post Q2 results 2026; check targets",
+      "description": "Axis Securities has named APL Apollo Tubes and Hindalco Industries its top metal-stock picks, assigning both Buy ratings with targets of ₹2,500 and ₹1,060, respectively. It cites growth prospects, value-added products, operating efficiencies and expansion plans. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Metal_Stocks_to_Buy__Conviction_Picks_179499094369_1794990967404_v1SS_1794990967695_HIkz_b5ee53fd-1e29-4f40-a5a8-1316bcc96a10_mIB3.png",
+      "fullArticleLink": "https://www.livemint.com/market/metal-stocks-to-buy-apl-apollo-tubes-hindalco-axis-sec-lists-2-conviction-picks-post-q2-results-2026-check-targets-11794986876146.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-18T19:57:48.933792Z"
+    },
+    {
+      "id": "61f247f438c5663b3c4c14618e36c169",
+      "title": "Mahanadi Coalfields IPO: Should you bet on Coal India’s cash cow despite muted growth?",
+      "description": "Debt-free and generating a third of Coal India’s profit, the miner comes at a discount to peers, but pricing curbs and levy risks warrant caution. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/coal_india_1795002464112_w4Xh_1795002464277_ETr1_502a2f33-47f5-4e41-89e0-ff69b471f5d8_7RGU.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/mahanadi-coalfields-ipo-review-price-band-valuation-risks-11794989503971.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-18T19:57:48.933520Z"
+    },
+    {
+      "id": "ba0349a41f953f6027db5c153ae2d7ba",
+      "title": "Nifty Bank crosses 62,000, jumps 20% from 52-week low: What's driving rally? Check performance; best bank stock to buy?",
+      "description": "Indian banking stocks surged in November, with the Nifty Bank rising more than 13% to a record high and outperforming the Nifty 50. Strong credit growth, stable asset quality and easing funding pressures supported gains.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Nifty_Bank_Surges_Past_62000_1795000688445_maKt_1795000693630_94iy_0bd70697-c994-466c-bd21-09238cc8bccb_r8rw.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-bank-crosses-62-000-jumps-20-from-52-week-low-whats-driving-rally-check-performance-best-bank-stock-to-buy-11794997522430.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-18T19:57:48.933491Z"
+    },
+    {
+      "id": "b5d0e840da4b2073bb1a284b96a300f7",
+      "title": "Nvidia shares gain 3% in premarket after Q3 results, upbeat forecast top estimates: Is the AI rally back on track?",
+      "description": "Nvidia shares rose 3% in premarket trading after quarterly revenue and profit more than doubled year on year, while its $130 billion revenue forecast beat expectations.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/NVIDIA-RESULTS-INVESTORS-0_1794998530633_dq74_1794_1795005604532_BGKl_1795005605133_pWSg_cdc2fb97-878b-440b-acfd-6a43b8f86454_4e5O.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nvidia-shares-gain-3-in-premarket-after-q3-results-upbeat-forecast-top-estimates-is-the-ai-rally-back-on-track-11795005376675.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-18T19:57:48.933422Z"
+    },
+    {
+      "id": "1f866affec01e58d2eea309d1daa81ea",
+      "title": "Assetz IPO gets SEBI nod; Bengaluru realty developer reportedly plans to raise ₹1,200 crore",
+      "description": "SEBI has issued observations on Bengaluru-based Assetz Ltd’s draft IPO documents, clearing the developer to proceed with a public issue within 18 months. Assetz confidentially filed its preliminary papers in August and is reportedly seeking to raise ₹1,200 crore.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Upcoming_IPO_1795013895351_9cme_1795013901814_aUGa_2c7b16d8-8eb3-482d-8a66-439620d5d50c_KPNi.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/assetz-ipo-gets-sebi-nod-bengaluru-realty-developer-reportedly-plans-to-raise-rs-1-200-crore-11795013611163.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-11-18T19:57:48.933347Z"
+    },
+    {
+      "id": "6b77187488e3c04ec8412747d0341f91",
+      "title": "Anthropic IPO: Why Wall Street is betting big on Claude AI maker",
+      "description": "Anthropic is preparing for a blockbuster IPO that could value the Claude AI maker at up to $1.6 trillion. Strong investor demand, strategic stakes held by Amazon and Google, and bullish analyst forecasts are driving interest, although governance and profitability risks remain. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135951773,imgsize-31168.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-why-wall-street-is-betting-big-on-claude-ai-maker/slideshow/135951884.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-18T19:57:47.542125Z"
+    },
+    {
       "id": "3c409187176d6348aa7ab164ae308e52",
       "title": "India's stock market premium faces test from slower growth, tight rates: UBS",
       "description": "Globally, however, UBS remains constructive on US equities and expects the S&P 500 to climb around 20 per cent to 8,900 by the fourth quarter of 2027 (Q4-2027). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14930,195 +15118,6 @@
         "Banking"
       ],
       "pubDate": "2026-10-10T04:18:15.960355Z"
-    },
-    {
-      "id": "53843df822f854cb2804b2fe31702a65",
-      "title": "ITC stock rallies 5%, sees sharpest intraday rally in 6 months; here's why",
-      "description": "Top buyers in ITC's block deal on Thursday: Fidelity Advisor Series VIII-Fidelity Advisor Overseas Fund, ICICI Prudential MF, SBI MF, Nippon India MF and Citigroup Global Markets Singapore Pte. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100900612.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/itc-stock-rallies-5-sees-sharpest-intraday-rally-in-6-months-here-s-why-126100900612_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T17:57:29.860703Z"
-    },
-    {
-      "id": "1733102f5b748969c383b0ec64d55ec6",
-      "title": "Investors cheer TCS Q2 report card despite slowest growth in three years",
-      "description": "The company’s shares surged nearly 6% intraday on Friday as investors backed its strategy to prioritize market share and AI deal pipelines over operating margins. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/INDIA-TCS-14_1684749915439_1791534857314_Er44_97f1f032-e617-4984-87bd-aebc0d6ee6e2_5Brc.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tcs-share-price-tcs-q2-results-tata-consultancy-services-11791529102759.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T17:57:29.113184Z"
-    },
-    {
-      "id": "eb8d2234c004cd36fd02feae331303ec",
-      "title": "Delta Air Lines cuts 2026 earnings forecast, Q3 profit misses analyst estimates, shares dip 1.72%",
-      "description": "Delta Air Lines said that it expects adjusted earnings of $5.10 to $5.60 per share in 2026, sharply below the $6.50 to $7.50 range it reaffirmed in July. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/DELTA-AIR-RESULTS--0_1791558028331_UA3N_1791558061312_8cX6_a56af00c-2124-4ebc-8fba-00d3e6b3a97d_QAx3.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/delta-air-lines-cuts-2026-earnings-forecast-q3-profit-misses-analyst-estimates-shares-dip-172-11791557802233.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-09T17:57:29.112961Z"
-    },
-    {
-      "id": "87c6c3645f5a1cdfbb98c51d51c238aa",
-      "title": "TCS gets a lift from the anti-AI trade, but earnings risks are building",
-      "description": "TCS’s in-line Q2 and reports of lower-than-indicated OpenAI revenue helped lift IT stocks, but muted demand, H2 margin pressure and AI-led pricing risks cloud the outlook. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/TCS-STOCKS--0_1791533470815_aS67_1791533484843_Gpyj_4d804a9f-7381-400d-a2e0-58712b93b037_hGaw.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/tcs-tata-consultancy-services-nifty-it-openai-ai-disruption-anti-ai-trade-q2fy27-results-it-stocks-11791531832161.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T17:57:28.513775Z"
-    },
-    {
-      "id": "5eb6302fc3118bf2df7ded9998cab5c6",
-      "title": "No RBI rate cuts in the near-term! Where are banking stocks headed in the next 3-6 months?",
-      "description": "RBI MPC meeting October 2026: According to Gaurav Garg, Head of Research at Lemonn, large private-sector lenders could hold up better than the broader market following the RBI’s rate hike. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/banking_stocks_1791534914590_SpRt_1791534914856_IknL_de5da827-9b0e-480f-838c-2fdf5caca1c4_OGql.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/no-rbi-rate-cuts-in-the-near-term-where-are-banking-stocks-headed-in-the-next-3-6-months-11791530528880.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-09T17:57:28.513630Z"
-    },
-    {
-      "id": "d587e5540615317dc5aa87737abd3abb",
-      "title": "Asian Paints Q2 results, dividend 2026: Board meet on Oct 29 for quarterly earnings; check record date, payout history",
-      "description": "Asian Paints’ board will meet on October 29, 2026, to review Q2 FY27 results and consider an interim dividend. The record date, if a dividend is declared, is November 4. The company paid ₹27.50 per share for FY26. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Asian_Paints_Q2_Results_Preview_1791533984969_AOL6_1791533991540_s0jT_4991de5a-8822-4e1d-9a2c-9234b38a1b99_YEZt.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/asian-paints-q2-results-dividend-2026-board-meet-on-oct-29-for-quarterly-earnings-check-record-date-payout-history-11791531215441.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-09T17:57:28.513556Z"
-    },
-    {
-      "id": "21c6685662a71cb372d6a492cde5acb1",
-      "title": "Anand Rathi Wealth Q2 results 2026: Dividend declared; check amount, record date, net profit, revenue and key financials",
-      "description": "Anand Rathi Wealth, on Friday, reported a 10.37% year-on-year decline in Q2FY27 net profit to ₹88.95 crore, while operating revenue rose to ₹343.98 crore. Its board approved an interim dividend of ₹4 per share, check record date. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Anand_Rathi_wealth_image_as_1791553567606_sMKe_1791553574818_AJGD_9eb89017-ee6e-4e65-9738-08024aed1517_FTOM.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/anand-rathi-wealth-q2-results-2026-dividend-declared-check-amount-record-date-net-profit-revenue-and-key-financials-11791550522687.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-09T17:57:28.512967Z"
-    },
-    {
-      "id": "cc9ef41823c49faaed425dff7aa3b66a",
-      "title": "Reliance Jio IPO price band alert: Mukesh Ambani's telecom giant likely to set band at ₹1,065– ₹1,119, says report",
-      "description": "Jio Platforms is reportedly planning an IPO priced at ₹1,065– ₹1,119 per share, potentially valuing the company at up to ₹10.3 trillion and raising about ₹30,200 crore.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Reliance_Jio_IPO_Price_Band_Revealed_1791555318922_TH7P_1791555337537_qFt0_b7a8e8b3-2c68-468b-802d-f289d784e17b_K4WC.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-price-band-revealed-price-band-fixed-at-rs-1-065-rs-1-119-report-11791554628948.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T17:57:28.512706Z"
-    },
-    {
-      "id": "c64e81f8fed1a3111ab852543073e827",
-      "title": "15,410% rally in 5 years! Multibagger Cupid shares jump 3% to hit fresh 52-week high",
-      "description": "Cupid shares jumped hit a fresh 52-week high of Rs 368 on Friday, extending their rally for a fourth straight session. Earlier this month, Cupid raised its FY27 revenue and profit guidance for the second time in less than two weeks, targeting revenue of Rs 800 crore and net profit of Rs 250 crore for the financial year.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134812919,imgsize-.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/15410-rally-in-5-years-multibagger-cupid-shares-jump-3-to-hit-fresh-52-week-high/articleshow/134812919.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-09T17:57:27.831439Z"
-    },
-    {
-      "id": "b18ea5e8fa2d70ff65f7a568e790e332",
-      "title": "Explained: Why IT stocks ignored Donald Trump’s PERM suspension to gain Rs 70,000 crore in one day",
-      "description": "IT stocks rallied up to 4% on Friday, adding Rs 70,000 crore in market capitalisation, despite the US suspension of a labour certification programme. Strong Q2 results from TCS, easing oil prices and bond yields, and developments around OpenAI also supported sentiment. TCS gained after reporting 15% profit growth, while brokerages flagged near-term margin pressures and evolving AI-related risks.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134824300,imgsize-2656962.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-it-stocks-ignored-donald-trumps-perm-suspension-to-gain-rs-70000-crore-in-one-day/articleshow/134824300.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T17:57:27.831331Z"
-    },
-    {
-      "id": "c77257dc34ba479117205d71df77513a",
-      "title": "Madhusudan Kela-backed MV Electrosystems shares more than double from IPO price in just 2 months. Should you buy?",
-      "description": "MV Electrosystems shares have surged over 100% from their IPO price, boosting Madhuri Kela’s stake value to Rs 111.55 crore. However, declining FY26 revenue and a net loss raise concerns about the company’s future profitability. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134830534,imgsize-56892.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-mv-electrosystems-shares-more-than-double-from-ipo-price-in-just-2-months-should-you-buy/articleshow/134830534.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-10-09T17:57:27.831093Z"
-    },
-    {
-      "id": "dc7a76622b9757eb397f41713975c8a1",
-      "title": "Anand Rathi Wealth Q2 Results: Profit rises 22% to Rs 122 crore; co declares dividend of Rs 4 per share",
-      "description": "Anand Rathi Wealth reported a 22% year-on-year rise in Q2 business profit to Rs 122 crore, with revenue increasing 16%. Assets under management reached Rs 1.08 lakh crore as quarterly net inflows hit a record Rs 4,186 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134835390,imgsize-17650.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-wealth-q2-results-profit-rises-22-to-rs-122-crore-co-declares-dividend-of-rs-4-per-share/articleshow/134835390.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-09T17:57:27.830715Z"
-    },
-    {
-      "id": "f905cf2e8094688bd1911d87c2ba09ca",
-      "title": "Poonawalla Fincorp Q2 Results: Profit skyrockets 407% YoY to Rs 375 crore, NII rises 81%",
-      "description": "Poonawalla Fincorp reported a 407% year-on-year surge in Q2FY27 profit to Rs 375 crore, while net interest income rose 81%. Operating profit more than doubled, supported by business growth, improving asset quality and an expanded gold loan network. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134835689,imgsize-1096867.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-results-profit-skyrockets-407-yoy-to-rs-375-crore-nii-rises-81/articleshow/134835689.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-09T17:57:27.830671Z"
-    },
-    {
-      "id": "51e96bf2528a563b4df538f785223a97",
-      "title": "Poonawalla Fincorp Q2 profit surges fivefold as income rises",
-      "description": "Poonawalla Fincorp reported a substantial increase in net profit for the second quarter, rising over fivefold. The company's net interest income and fee income grew significantly, contributing to the profit surge. New loan products accounted for a notable percentage of disbursements during this period, demonstrating the diversification of their offerings. Additionally, improvements in the gross non-performing asset ratio reflect better.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134838286,imgsize-73836.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-surges-fivefold-as-income-rises/articleshow/134838286.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-09T17:57:27.830627Z"
-    },
-    {
-      "id": "a149fc0a47a2327b40adf6f577cdb9c2",
-      "title": "Reliance Jio IPO: Likely price band for India's biggest listing revealed. Check details",
-      "description": "Jio Platforms has set a price band of Rs 1,065-1,119 for its upcoming IPO. The company plans to raise between Rs 28,755 crore and Rs 30,213 crore with the offer. Public subscription is scheduled to start on October 21, with shares potentially listing on October 28. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134831025,imgsize-19088.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-likely-price-band-range-for-indias-biggest-listing-revealed-check-details/articleshow/134831025.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T17:57:27.189508Z"
     }
   ]
 }
