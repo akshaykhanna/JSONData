@@ -1,6 +1,196 @@
 {
   "news": [
     {
+      "id": "3c409187176d6348aa7ab164ae308e52",
+      "title": "India's stock market premium faces test from slower growth, tight rates: UBS",
+      "description": "Globally, however, UBS remains constructive on US equities and expects the S&P 500 to climb around 20 per cent to 8,900 by the fourth quarter of 2027 (Q4-2027). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261117/full-126111700336.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/india-s-stock-market-premium-faces-test-from-slower-growth-tight-rates-ubs-126111700336_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-18T05:53:25.826630Z"
+    },
+    {
+      "id": "522f2f8838a366b443e2bd5ff1d01698",
+      "title": "TTK Healthcare zooms 20% as board mulls issuing preference shares via bonus",
+      "description": "NCRPS are a type of preference share that carry a fixed dividend entitlement and are redeemable after a specified period, but cannot be converted into ordinary equity shares. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261117/full-126111700516.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/ttk-healthcare-zooms-20-as-board-mulls-issuing-preference-shares-via-bonus-126111700516_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-18T05:53:25.826523Z"
+    },
+    {
+      "id": "921d6794da41c44cd19a38373e0371b2",
+      "title": "Nifty eyes breakout atop 25,500; Analyst flags divergence in market breadth",
+      "description": "The market breadth was negative for last three sessions, indicating a sharp divergence between Nifty performance and broader participation, explains Dharmesh Bhatt of Systematix Institutional Research. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261118/full-126111800133.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-eyes-breakout-atop-25-500-analyst-flags-divergence-in-market-breadth-126111800133_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-18T05:53:25.826354Z"
+    },
+    {
+      "id": "528ba0e9266d4a4d8a12a2f187edc6eb",
+      "title": "Stock Market LIVE: Sensex down 400 pts; NALCO, SAIL shares lead loss in Nifty Metal",
+      "description": "Sensex Today | Stock Market LIVE Updates Wednesday: In the broader markets, the Nifty MidCap 100 fell 0.29 per cent while the Nifty SmallCap rose 0.06 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261118/full-126111800134.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-18T05:53:25.826334Z"
+    },
+    {
+      "id": "771722cc46903424a5236875f598f3e5",
+      "title": "Tech view on Axis, ICICI and HDFC Bank as Nifty Bank quotes near new high",
+      "description": "Sudeep Shah of SBI Securities expects a positive bias for ICICI Bank, Axis Bank and HDFC Bank in the near-term following a downward-sloping trendline breakout on the respective stock charts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261118/full-126111800266.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/bank-stocks-tech-view-on-axis-bank-icici-bank-and-hdfc-bank-with-nifty-bank-quoting-at-new-high-126111800266_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T05:53:25.826141Z"
+    },
+    {
+      "id": "6d845d74187a5e89000755de51f0b086",
+      "title": "Hindustan Copper shares fall 3% as copper prices hit 5-month low",
+      "description": "Helped by higher sales volume and metal prices, Hindustan Copper posted an 182 per cent year-on-year (YoY) rise in the second quarter (Q2 FY27) consolidated net profit to ₹518.13 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261118/full-126111800284.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/hindustan-copper-shares-fall-3-as-copper-prices-hit-5-month-low-126111800284_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-18T05:53:25.826109Z"
+    },
+    {
+      "id": "8e39b9718c11ad69b33531f99fd6f401",
+      "title": "Nvidia Q3 results FY27: Revenue more than doubles to $115.8 billion; board begins CEO search, rules out Huang's return",
+      "description": "Nvidia reported a 103% year-on-year rise in Q3 FY27 revenue to $115.8 billion and forecast $130 billion in Q4 revenue. The results come amid Jensen Huang's resignation, with CFO Colette Kress appointed interim CEO as the board searches for a permanent successor. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/voyager_1794964332197_IBQq_1794964343958_7PDt_26508655-06ac-48f8-b050-df61a749f226_eDLd.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/company-results/nvidia-q3-results-fy27-revenue-more-than-doubles-to-115-8-billion-board-begins-ceo-search-rules-out-huangs-return-11794961338156.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-18T05:53:25.112748Z"
+    },
+    {
+      "id": "b3f459c0462105768c443f3dd2705f71",
+      "title": "Reliance vs Starlink: Ambani’s firm explores manufacturing partnerships to counter Musk’s satellite service | Details",
+      "description": "Reliance is reportedly exploring manufacturing partnerships with Indian firms and satellite imports from the US to build its planned 1,600-satellite broadband constellation, as it seeks to expand connectivity and strengthen India's strategic space capabilities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Mukesh_ambani_Elon_musk_Starlink_Ai_image_1794979100269_UUKy_1794979100367_83Jv_6cfb8a3d-0b47-4276-9e3d-9b8313898ccb_EiKb.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/reliance-vs-starlink-ambani-s-firm-explores-manufacturing-partnerships-to-counter-musk-s-satellite-service-details-11794978152675.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T05:53:25.112610Z"
+    },
+    {
+      "id": "2a1a9ec0379bcc1c7955fbdb772861f7",
+      "title": "Nifty reclaims pre-war levels intraday as Indian stocks lead Asia with 10% monthly gain",
+      "description": "The Nifty 50 moved past its pre-conflict level, with Tuesday’s intraday high of 25,501.35 surpassing the 27 February high of 25,476. The Sensex also crossed its intraday high of 82,246.17, closing at 82,532.19 on Tuesday. The Nifty rose 0.4% to end at 25,387.40, while the Sensex gained 0.5%. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/INDIA-BSE-10_1718252822146_1794929176055_ziUY_d5c480a5-33b5-4e89-a52a-57b94bdd2a6a_shs7.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-reclaims-pre-war-levels-intraday-as-indian-stocks-lead-asia-with-10-monthly-gain-11794923846111.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-18T05:53:24.455532Z"
+    },
+    {
+      "id": "012217fb7bf5f5b515a1c7fd5991b683",
+      "title": "Reliance, UltraTech, Hyundai Motor shares: Top 3 stocks to buy; check ratings, target price, stop loss by Jay Thakkar",
+      "description": "Indian benchmarks rose to their highest levels since late February, supported by lower crude prices, record foreign investment and corporate earnings. ICICI Securities analyst Jay Thakkar recommended Reliance Industries, UltraTech Cement and Hyundai Motor India. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Jay_Thakkar_1788926097718_2adc4cd4-40c7-4308-9dad-_1794962000536_uYqs_1794962000768_e8yY_3741e5ce-d274-433b-8ee9-77ace5ff13e2_Ht1l.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/reliance-ultratech-hyundai-motor-shares-top-3-stocks-to-buy-check-ratings-target-price-stop-loss-by-jay-thakkar-11794931314865.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T05:53:24.455211Z"
+    },
+    {
+      "id": "ebe976f2fca5488c42062a4f9444b425",
+      "title": "Top stocks to watch today: Ashoka Buildcon, IIFL Finance, Prestige Estates, HCLTech and 5 others in focus",
+      "description": "Sensex and Nifty 50 are likely to open lower on Wednesday as GIFT Nifty signals a gap-down start. Stocks in focus include Advait Energy Transitions, Ashoka Buildcon, GK Energy, HCLTech, IIFL Finance, Prestige Estates, P&amp;G Hygiene, Signature Global and Tata Group companies. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Top_Stocks_to_Watch_Today_wed_1794967286327_roX8_1794967292808_9L68_e434fd2a-0495-44c8-b1d7-88499492df0d_Q7pj.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-ashoka-buildcon-iifl-finance-prestige-estates-hcltech-and-5-others-in-focus-11794966479611.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T05:53:24.455155Z"
+    },
+    {
+      "id": "ac18f606839dd7c9d4d1734b5e22882a",
+      "title": "TCS share price down 26% in 2026: Is this a buying opportunity? What do technical charts suggest? Key levels to watch",
+      "description": "TCS shares fell more than 1% on Wednesday amid broader market weakness, despite strong September-quarter results. Profit rose 15% year on year and revenue increased 11.22%. AI revenue reached $3.1 billion, while the company retained its 24–26% FY27 EBIT margin target. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/TCS_Share_Price_Buying_Opportunity_1794976941330_57VQ_1794976970756_c1Vm_723aa12f-fe86-418c-b296-90d0a4f0c4db_jHhp.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tcs-share-price-down-26-in-2026-is-this-a-buying-opportunity-what-do-technical-charts-suggest-key-levels-to-watch-11794974220332.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T05:53:24.455040Z"
+    },
+    {
+      "id": "0e91283675362a12b4632d2a5d155467",
+      "title": "OnEMI Technology Solutions shares surge 103% from IPO price, jump 65% in 6 months: What’s driving Kissht parent's gains?",
+      "description": "OnEMI Technology Solutions shares have risen 65% in six months, supported by strong growth at its Kissht lending platform. September-quarter AUM increased 68% year-on-year to ₹9,317 crore, while profit doubled to ₹125 crore.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/Kissht_OnEMI_Shares_Surge_103_1794980089144_QIrt_1794980094724_KJ49_1aa0836a-1a9c-4820-ab74-38b892006a2c_2kgq.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/onemi-technology-solutions-shares-surge-103-from-ipo-price-jump-65-in-6-months-what-s-driving-kissht-parents-gains-11794978355741.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-18T05:53:24.454918Z"
+    },
+    {
+      "id": "ca79be62f063fadaec264d2fe328f953",
+      "title": "Prime Focus among 4 stocks that closed above VWAP",
+      "description": "Four Nifty500 stocks, including Prime Focus, RHI Magnesita India, Laurus Labs and Tata Investment Corporation, closed more than 1.5% above their respective volume-weighted average prices (VWAPs) on November 18. The technical scan by StockEdge highlights stocks that ended the trading session above their volume-weighted average traded prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135948148,imgsize-310169.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/prime-focus-among-4-stocks-that-closed-above-vwap/slideshow/135948232.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T05:53:23.745429Z"
+    },
+    {
+      "id": "ff79f251e89ff4f9a97157308cc0ed25",
+      "title": "Tata Chemicals among 4 stocks that show RSI Trending Up",
+      "description": "“RSI trending up” means that the Relative Strength Index (RSI) values are increasing, indicating strengthening momentum in the stock's price. The RSI is a technical indicator commonly used by traders to assess price momentum and trend strength. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135948602,imgsize-272638.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-among-4-stocks-that-show-rsi-trending-up/slideshow/135948695.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-18T05:53:23.745390Z"
+    },
+    {
       "id": "e68f755ca0977042d6fdfd603c0cf6bc",
       "title": "Capital Market stocks shine: Angel One jumps 6%; Groww, NSE hit new highs",
       "description": "The Nifty Capital Markets index bounced back 23.4% from its low of 4,875.15 hit on October 26, 2026, against a 13.4% rise in the Nifty 50. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14929,195 +15119,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-09T17:57:27.189508Z"
-    },
-    {
-      "id": "8c742ebc05dcf98b973e17af656c34a7",
-      "title": "RBI rate hike: Your EMI may not move, but your loan may get longer",
-      "description": "How to save ₹55k on home loans after rate hikes: Increase your monthly EMI instead of loan tenure. Expert guide to floating rate resets, EBLR, MCLR, and prepayments in India. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261008/full-126100800533.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/rbi-rate-hike-your-emi-may-not-move-but-your-loan-may-get-longer-126100800533_1.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-09T04:32:33.352149Z"
-    },
-    {
-      "id": "1c0a99e77bc136e9e768962c3d31eee0",
-      "title": "Sebi changed goalposts, seeks order logs: Trading firm Jane Street to SAT",
-      "description": "Jane Street seeks order logs and counterparty details to defend itself in the market manipulation case, while Sebi argues that it has disclosed all material relied upon so far. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261008/full-126100801282.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/jane-street-accuses-sebi-of-shifting-goalposts-in-sat-hearing-on-documents-126100801282_1.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-10-09T04:32:33.352030Z"
-    },
-    {
-      "id": "19984471949698b518108e5a66e728cf",
-      "title": "Stock Market LIVE: Sensex rises 600 pts; Nifty IT gains 3% as TCS, Infosys shares lead",
-      "description": "Sensex Today | Stock Market LIVE Updates Friday: In the broader markets, the Nifty MidCap rose 0.54 per cent and the Nifty SmallCap fell 0.17 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100900099.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-october-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-it-stocks-today-126100900099_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:33.351941Z"
-    },
-    {
-      "id": "8e2f36a3bd506806bd7906b9af770f5d",
-      "title": "Stocks to watch: TCS, Infosys, Wipro, Anand Rathi, KEC Int'l, NCC, BEML",
-      "description": "Stocks to watch today: Anand Rathi, Canara Robeco, Can Fin Homes, and Poonawalla Fincorp are among the companies slated to post their Q2 results today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100900116.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-october-9-tcs-infosys-wipro-it-stocks-anand-rathi-kec-int-l-ncc-beml-126100900116_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:33.351899Z"
-    },
-    {
-      "id": "0bc9dfe945a020ed5d6880ba53afb56e",
-      "title": "TCS Q2 review: Analysts flag weak margins amid steady growth; stock up 4%",
-      "description": "TCS reported a net profit of ₹13,884 crore for Q2FY27, up 14.9 per cent year-on-year from ₹12,075 crore in Q2FY26. Revenue for the company grew 11.2 per cent in reported terms at ₹73,188 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100900185.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/tcs-q2-review-analysts-flag-weak-margins-amid-steady-growth-stock-up-4-126100900185_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:33.351830Z"
-    },
-    {
-      "id": "4dadd7a14cadbc11659127c262f63012",
-      "title": "TCS' first reaction to US green card suspension: ‘We don’t expect an impact as…’",
-      "description": "TCS said it will comply with any US Department of Labor directive on the suspension of the PERM green card program. The company said its US hiring focuses on local talent and that the suspension is unlikely to affect its workforce strategy or customer engagements. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/green_card_1791519531515_oNUE_1791519531860_gpa6_ceca480a-291f-420d-af07-e22ba5f032bb_4r4l.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tcs-first-reaction-to-us-green-card-suspension-we-don-t-expect-an-impact-as-11791516509213.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:32.509921Z"
-    },
-    {
-      "id": "e69434358c9207ae8bc6f20982816dc5",
-      "title": "Adani Group's Group CFO Jugeshinder Robbie Singh on recent market volatility: 'Mood is ephemeral; stone is eternal'",
-      "description": "Adani Group CFO Jugeshinder Robbie Singh said the company’s infrastructure assets and long-term fundamentals matter more than short-term market sentiment. His remarks came as Indian equities fell sharply, with the Nifty down 1.71% and foreign investors continuing to withdraw funds. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/ADANI-ENTERPRISES-RESULTS--0_1730222225395_1791472649758_5z9z_ea7a109c-180e-4767-aa84-8bcddab318ef_qd2h.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/adani-groups-group-cfo-jugeshinder-robbie-singh-on-recent-market-volatility-mood-is-ephemeral-stone-is-eternal-11791471088722.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:31.753419Z"
-    },
-    {
-      "id": "90414994f4dda54b87c2d193f45bd8c8",
-      "title": "Infosys, Wipro ADRs drop 3% as Cognizant, Infosys, TCS, Wipro, HCL among IT firms suspended from US green card programme",
-      "description": "Infosys and Wipro ADRs fell about 3% after the Trump administration suspended major technology outsourcing firms from a programme that helps companies seek green cards for H-1B workers.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791476893234_vRKF_1791476899728_k5P7_a88656a1-fc8c-4758-9afc-35f8ee4774ba_HNFm.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/infosys-wipro-adrs-drop-3-as-cognizant-infosys-tcs-wipro-hcl-among-it-firms-suspended-from-us-green-card-programme-11791475795645.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:31.753373Z"
-    },
-    {
-      "id": "091147e5c528e893d5c9893348655358",
-      "title": "TCS Q2, US Green Card program, H1B visa: Big triggers for IT stocks today - TCS, Infosys, Wipro, HCL | Experts' view",
-      "description": "IT stocks today: IT stocks are likely to remain in focus following Thursday evening’s developments around H-1B visas and TCS’s September-quarter results, which marginally surpassed market expectations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IT_stocks_1791513841401_ZJM0_1791513841527_rM8t_afe97ea9-38a8-4b05-b073-37e587016435_YsGB.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tcs-us-green-card-program-h1b-visa-big-triggers-for-it-stocks-today-tcs-infosys-wipro-hcl-tech-experts-views-11791511691763.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:31.753000Z"
-    },
-    {
-      "id": "6950042f13ec198b28ed20626070cced",
-      "title": "KEC International shares: 51% down in 2026 but jumps 5% today after this order; can stock rise further? Experts view",
-      "description": "KEC International shares jumped almost 5% in morning trade after the company announced it had bagged new orders worth ₹1,030 crore. Year-to-date in the calendar year 2026, the stock is down 51% compared to a 15% fall in the equity benchmark Sensex. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/KEC_International_1791518478972_VFJA_1791518483306_r9Cr_c79e651f-d731-46ae-ab64-a3b7ce5cd1c4_T4Li.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/kec-international-shares-51-down-in-2026-but-jumps-5-today-after-this-order-can-stock-rise-further-experts-view-11791518043817.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-09T04:32:31.752925Z"
-    },
-    {
-      "id": "008ace582b2b71767d1751f5cdec612d",
-      "title": "TCS shares surge 5% after D-Street cheers strong Q2 results - Should you book profit or invest more? Experts' suggestion",
-      "description": "TCS shares gained up to 4.7% after the company reported quarterly profit growth of 15% and revenue growth of 11%. Annualised AI revenue reached $3.1 billion, and the board declared a ₹12 interim dividend. Emkay retained its add rating with a ₹2,600 target price. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/TCS_Shares_Surge_5_After_Strong_Q2_Results_1791518_1791518713717_dyFM_1791518713955_baW8_5be9d546-81db-4a99-ba6c-2ba65a9a25ee_L1l2.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tcs-shares-surge-5-after-d-street-cheers-strong-q2-results-should-you-book-profit-or-invest-more-experts-suggestion-11791518071788.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:31.752843Z"
-    },
-    {
-      "id": "6a263230fab3ac953534c9390dc9ab28",
-      "title": "India IT set for fourth year of weak growth on geopolitics, AI risks",
-      "description": "As HCL Technologies Ltd. and Tech Mahindra Ltd. unveil their latest reports, investors are keenly observing the situation, particularly given the looming threats posed by AI disruptions and restrained client expenditures. These factors are influencing growth forecasts for tech companies. Tata Consultancy Services Ltd. did exceed expectations in profit gains; however, revenue growth remained modest in terms of constant currency.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134804013,imgsize-3621397.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/india-it-set-for-fourth-year-of-weak-growth-on-geopolitics-ai-risks/articleshow/134804013.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:31.078451Z"
-    },
-    {
-      "id": "933ee2ed2cf2f4fd968f5d7e5c275b0a",
-      "title": "Wipro Share Price Live Updates: 'Never-ending flow of cheap labour': JD Vance reiterates US stand on barring Microsoft, TCS Infosys & others from green card program",
-      "description": "Wipro Share Price Live Updates: 'Never-ending flow of cheap labour': JD Vance reiterates US stand on barring Microsoft, TCS Infosys & others from green card program. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134804578,imgsize-21140.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-livestock-price-today-live-updates-09-oct-2026/liveblog/134804578.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:31.078346Z"
-    },
-    {
-      "id": "d7083faa076133054b21c3bbd8421c70",
-      "title": "KPR Mill among 4 stocks closing below VWAP",
-      "description": "Four Nifty 500 stocks closed more than 2% below their respective VWAPs on October 8, indicating that they ended the session below their volume-weighted average traded prices, according to StockEdge’s technical scan data. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134804797,imgsize-297057.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/kpr-mill-among-4-stocks-closing-below-vwap/slideshow/134804843.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-09T04:32:31.078275Z"
-    },
-    {
-      "id": "ad5d3a3e04c681f817270e268586bb33",
-      "title": "TCS shares jump 4% after Q2 results. What are Goldman Sachs, Nomura, others saying?",
-      "description": "TCS shares surged after the IT major reported a 15% year-on-year rise in Q2 consolidated net profit to Rs 13,884 crore. Revenue in constant currency terms grew 0.5% quarter-on-quarter, while operating margin stood at 24%. The company declared a second interim dividend of Rs 12 per share for FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134806449,imgsize-27856.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-4-after-q2-results-what-are-goldman-sachs-nomura-others-saying/articleshow/134806449.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-09T04:32:31.078011Z"
     }
   ]
 }
