@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "e8688a502e51dfe7668802985f1236e0",
+      "title": "Stock Market Close: Sensex rebounds 990 pts, Nifty settles at 25,514; Nifty Bank ends near new high",
+      "description": "Sensex Today | Stock Market Highlights, Thursday: In the broader markets, the Nifty MidCap 100 and the Nifty SmallCap 100 rose 1.06 per cent and 0.71 per cent, respectively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261119/full-126111900101.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-november-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-ipo-today-126111900101_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-19T19:56:41.225578Z"
+    },
+    {
+      "id": "bd432b419fef62d517500d721e0aea1b",
+      "title": "PSU Bank index nears record high; SBI, PNB, BoI rally up 27% in November",
+      "description": "On Thursday the Nifty PSU Bank index was up over 2% in intraday deals, and has soared over 18.5% thus far in November as against a 10% rally in the Nifty 50. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261119/full-126111900399.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/psu-bank-index-nears-record-high-sbi-pnb-boi-rally-up-27-in-november-126111900399_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-19T19:56:41.225255Z"
+    },
+    {
+      "id": "8993d0ba134d2227047c6f5fd03f1e88",
+      "title": "Tata Tech jumps over 9% as FY30 roadmap targets $1.3 billion revenue",
+      "description": "The key announcements included FY30 revenue target of $1.1-1.3 billion versus approximately $620 million in FY26, implying a 15-20 per cent compound annual growth rate. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261119/full-126111900557.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/tata-tech-jumps-over-9-as-fy30-roadmap-targets-1-3-billion-revenue-126111900557_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-19T19:56:41.225013Z"
+    },
+    {
+      "id": "a93b734a8542912f657d44c518b3b1fe",
+      "title": "Sebi's next push: Making corporate bonds more liquid and tradable",
+      "description": "SEBI is working on a market-making framework with continuous quoting and repo liquidity support to improve corporate bond trading, said whole-time member K V R Murty. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261119/full-126111901259.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-s-next-push-making-corporate-bonds-more-liquid-and-tradable-126111901259_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-19T19:56:41.224762Z"
+    },
+    {
+      "id": "41bd88a8807a96612f9d118fccfaf706",
+      "title": "Mint Explainer | Why are Indian IT companies bleeding brand value?",
+      "description": "A report by consumer insights firm Kantar shows IT majors TCS, Infosys, Wipro and others have lost upwards of 40% of their brand value in 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/IT_company_1795089790677_WbnU_1795089790887_6Nmy_b10b9e38-3743-4fce-ac90-6ad660c8b12a_Gzc6.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/why-indian-it-firms-are-losing-ground-to-global-tech-giants-11795082531526.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-19T19:56:40.544802Z"
+    },
+    {
+      "id": "8c22e95c477ebac3d32200999dc3ead8",
+      "title": "Reliance Industries shares: After 13% surge in 1 month, JPMorgan sees another 23% upside in Mukesh Ambani stock | Target",
+      "description": "JPMorgan maintained its Overweight rating on Reliance Industries with a ₹1,675 price target, implying about 23% upside. It expects stronger O2C earnings and possible upgrades to support growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Reliance_Shares_Rally_Financial_News_Graphic_17950_1795072148059_aDUz_1795072148245_e0Xa_4c26c36f-437b-4183-8906-58a33678775d_T9dE.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-after-13-surge-in-1-month-jpmorgan-sees-another-23-upside-in-mukesh-ambani-stock-target-11795069231709.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-19T19:56:39.975191Z"
+    },
+    {
+      "id": "b6392038e7954f6ab5bfd7af37948269",
+      "title": "Auto stocks hit the accelerator! Nifty Auto jumps 4%; Maruti, M&M, Hyundai lead the rally | What's behind the surge?",
+      "description": "Auto stocks rose today, with Nifty Auto index up nearly 4%, as falling metal and crude prices eased concerns about manufacturers’ input costs. Maruti Suzuki led gains, while analysts cited improving technical momentum, though procurement delays and rising steel prices could limit near-term savings. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Auto_Stocks_Hit_the_Accelerator_1795071886997_afm1_1795071894211_Bwk4_5261068a-e5a3-4e96-9d27-0bd7070a4918_lKjH.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/auto-stocks-hit-the-accelerator-nifty-auto-jumps-4-maruti-m-m-tata-motors-pv-lead-rally-whats-behind-the-surg-11795070748708.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-19T19:56:39.975087Z"
+    },
+    {
+      "id": "866449b273ebeae882aba75f815c5165",
+      "title": "This small-cap stock plunges 42% in 1 year, but Jefferies sees 53% upside - Is a big turnaround coming? Check target",
+      "description": "Jefferies retained its Buy rating on CMS Info Systems and a ₹315 target, implying 53% upside. Services revenue and profitability strengthened in the September quarter, while product sales are expected to recover.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Small-Cap_Crash_Meets_Jefferies_Upside_17950800869_1795080099573_hwWn_1795080099726_yqYu_bef2e628-80d7-4f73-8b36-b15ff7a94ecb_qwgE.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/this-small-cap-stock-plunges-42-in-1-year-but-jefferies-sees-53-upside-is-a-big-turnaround-coming-check-target-11795076080217.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-19T19:56:39.974675Z"
+    },
+    {
+      "id": "36745a21b6788d0007c18b6d5031b474",
+      "title": "Mahanadi Coalfields IPO latest GMP: Listing gain or long-term wealth? 5 reasons to bid despite weak subscription; review",
+      "description": "Mahanadi Coalfields’ ₹8,981.12 crore IPO is open from November 19 to 23, 2026. Anand Rathi recommends subscribing for the long term, citing market leadership, large reserves, low-cost operations and strong profitability. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Mahanadi_Coalfields_IPO_Mining_Scene_1795083045343_qqWO_1795083053869_v1Da_b4553e09-8a59-4ce2-b56f-d2693991967f_9LyV.png",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-latest-gmp-listing-gain-or-long-term-wealth-5-reasons-to-bid-despite-weak-subscription-review-11795080232975.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "IPO"
+      ],
+      "pubDate": "2026-11-19T19:56:39.974520Z"
+    },
+    {
+      "id": "7095d8351893b6d64adb2d93ae080396",
+      "title": "Beyond BEL and HAL: L&T, Bharat Forge, BEML among 5 defence stocks that could benefit from proposed 20% capex boost",
+      "description": "The Defence Ministry has sought a 20% increase in capital spending for 2027–28. HAL and BEL are expected to benefit most, while L&amp;T, BEML, Bharat Dynamics, Mazagon Dock, Bharat Forge and Tata Advanced Systems may also gain from increased orders. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Defense_Industry_Sunset_Showcase_1795095286509_XhNV_1795095298986_ecUH_137e68ad-6e8f-4d35-a1f4-cb1448c4663c_Rvmg.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/beyond-bel-and-hal-l-t-bharat-forge-beml-bel-among-6-defence-stocks-to-benefit-from-centres-proposed-20-capex-11795089244463.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-19T19:56:39.974223Z"
+    },
+    {
+      "id": "4f9cc20e76feefd055b89c2147a2d718",
+      "title": "Morgan Stanley is ‘overweight’ on these 9 largecap stocks. How many do you own?",
+      "description": "Morgan Stanley has given an overweight rating to nine major largecap stocks in India in light of current market dynamics. While several stocks faced downturns over the past year, some others experienced increases. The analysis stresses that for India to excel on a global scale, earnings growth is vital. Companies like Hyundai Motor and Trent saw significant declines, while Adani.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135976915,imgsize-330699.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-is-overweight-on-these-9-largecap-stocks-how-many-do-you-own/slideshow/135977398.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-19T19:56:39.386039Z"
+    },
+    {
+      "id": "87206c807fd8d2ff28464c9493793ff8",
+      "title": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
+      "description": "Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feature prominently. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135980951,imgsize-89118.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-19T19:56:39.385934Z"
+    },
+    {
+      "id": "9ab230f2e4112a6ea70908f4d829f1f0",
+      "title": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
+      "description": "Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion. Additionally, Sebi is working on enhancing corporate bond markets and expanding financing sources. It is also reforming municipal bond issuances to encourage urban infrastructure financing. With these changes, Sebi anticipates significantly mobilizing both.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135998128,imgsize-57978.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-11-19T19:56:39.385764Z"
+    },
+    {
+      "id": "080275653b5e98dc0494d03936a704f2",
+      "title": "Stock rally keeps rupee upbeat, traders eye exporters for fresh fuel",
+      "description": "The Indian rupee has surged to its highest value in seven months, driven by a notable uptick in equity markets. A 1% rise in the Nifty 50 index has fostered optimism among traders and analysts alike. As the foreign exchange market's corporate activities demonstrate mixed reactions from exporters and importers, improved participation from exporters may further enhance the rupee's strength.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135986825,imgsize-24666.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-stock-rally-keeps-rupee-upbeat-traders-eye-exporters-for-fresh-fuel/articleshow/135986825.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-19T19:56:38.819322Z"
+    },
+    {
+      "id": "483bceaeb256eb215598475098a9edd8",
+      "title": "Nasdaq rallies as record Anthropic IPO revives AI stocks",
+      "description": "The Nasdaq surged following Anthropic's IPO, which sparked a revival in artificial intelligence investments. Pricing higher than expected, the IPO raked in impressive funds and valuations, positively impacting tech peers like Amazon and Alphabet. Despite some investor caution, notable gains were seen in firms like Palo Alto Networks. Overall, the market displayed a varied performance, reflecting ongoing uncertainties over.",
+      "imageUrl": "https://img.etimg.com/photo/msid-135996273,imgsize-110394.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-over-1-at-open-as-anthropic-ipo-pricing-bolsters-ai-trade/articleshow/135996273.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-19T19:56:38.819165Z"
+    },
+    {
       "id": "74d594ca310e8b68a7a2ed4fc01333f1",
       "title": "Buy Nifty on dips as 25,000 holds; BoB among 3 stock ideas: Ajit Mishra",
       "description": "Market sentiment remained subdued amid weak global cues, selling pressure across commodities, including gold, silver and other metals, a strengthening US dollar index and rising bond yields. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14929,195 +15118,6 @@
         "Banking"
       ],
       "pubDate": "2026-10-11T03:57:35.373147Z"
-    },
-    {
-      "id": "88b25581553e65dc127af4f09b5dee81",
-      "title": "Sebi to issue closing auction guidelines in a week: Tuhin Kanta Pandey",
-      "description": "The regulator is also working to simplify digital onboarding for persons resident outside India (PROIs), allowing them to access Indian markets without requiring their physical presence. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261010/full-126101000778.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-to-issue-closing-auction-guidelines-in-a-week-tuhin-kanta-pandey-126101000778_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO"
-      ],
-      "pubDate": "2026-10-10T16:57:27.468379Z"
-    },
-    {
-      "id": "c6ec8255a2d5c1ed4b6d84a717f0eb39",
-      "title": "Jio Platforms IPO: What does listing of Reliance Industries' company mean for Airtel, Vodafone, Indus Towers shares?",
-      "description": "Jio Platforms IPO: At a reported valuation of around ₹11 lakh crore, Jio Platforms would be valued slightly above Airtel’s market capitalisation of approximately ₹10.87 lakh crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Jio_1791560133123_J4cj_1791560133556_WAbf_edb729f9-d000-4011-89b3-9b8eeaccbf6b_qAUl.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-what-does-listing-of-reliance-industries-company-means-for-airtel-vodafone-idea-indus-towers-share-11791558078789.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-10T16:57:26.094166Z"
-    },
-    {
-      "id": "194950215565c2a1604e40193b7b7929",
-      "title": "Upcoming dividend, stock split, bonus share, right issue next week, 12-17 October: Vedanta, TCS, Ola Electric, and more",
-      "description": "Several Indian companies have corporate actions scheduled for October 12–17. TCS, Vedanta, Anand Rathi Wealth and Canara Robeco AMC have dividend record dates. Check full details in the story. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/upcoming_dividend_next_weekasa_1791617409502_Xh79_1791617427058_4t8d_f6dd05df-bcaf-4de7-acd5-9fccf3c23f0f_32HA.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-bonus-share-right-issue-next-week-12-17-october-vedanta-tcs-ola-electric-and-more-11791616940572.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-10T16:57:26.094013Z"
-    },
-    {
-      "id": "e77d1561aed450b6d15f907b406ceb6a",
-      "title": "Jio Platforms IPO: How Reliance boss Mukesh Ambani's mega issue compares with India's 5 biggest IPOs; price band, size",
-      "description": "Jio Platforms is preparing an IPO expected to raise up to ₹30,213 crore, potentially making it India’s largest-ever public issue and surpassing Hyundai Motor India’s ₹27,859 crore offering. The proposed fresh issue is expected to open to public investors from October 21 to 23, 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Jio_Platforms_IPO_Comparison_Infographic_179161872_1791618758128_pniO_1791618758386_Zg1q_493a05b6-b845-4c18-b7d6-849a4ca1c787_GXAP.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/jio-ipo-how-mukesh-ambanis-mega-issue-compares-with-indias-5-biggest-ipos-check-price-band-valuation-11791616589751.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-10T16:57:26.093978Z"
-    },
-    {
-      "id": "3cc874c689213c7e6a67ade21387354f",
-      "title": "RBI opens special USD window for these 3 state-run OMCs; facility in effect from Oct 12 - What it means for INR support?",
-      "description": "RBI's special USD facility will ease the pressure on the Indian Rupee as the Indian central bank has opened a special window for these 3 Oil PSUs to get the US dollar from the designated banks instead of the open market, say experts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/USD_vs_INR_BPCL_HPCL_IOCL_Indian_Rupee_RBI_news_1791622144860_2f66_1791622144982_yPOa_42da4bc2-1f79-4a30-a06d-dbc7c1cb5236_m0QS.png",
-      "fullArticleLink": "https://www.livemint.com/market/commodities/rbi-opens-special-usd-window-for-these-3-state-run-omcs-facility-in-effect-from-oct-12-what-it-means-for-inr-support-11791620603159.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-10T16:57:26.093943Z"
-    },
-    {
-      "id": "a0f8b91963d14d39aa1428d121f09427",
-      "title": "Private vs PSU banks face off: SBI, PNB, Union vs HDFC, ICICI, Axis, AU - Which pack could outperform in Q2 2026 results",
-      "description": "Analysts expect strong bank earnings, supported by business growth, FCNR (B) inflows and possible stake-sale gains. PSU banks may outpace private banks in profit growth, while private lenders are forecast to post stronger net interest income growth. Check details. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/psu_vs_private_1791634767423_4pGF_1791634767629_2UOk_0f404915-8797-4d6b-9825-bf3b3c77799e_aTEq.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/private-vs-psu-banks-face-off-sbi-pnb-union-bank-vs-hdfc-icici-axis-au-which-pack-could-outperform-in-q2-2026-re-11791631645257.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-10T16:57:26.093704Z"
-    },
-    {
-      "id": "19c5b2bf02dd93633ffd1ee337968c22",
-      "title": "Sebi to issue norms on closing auction soon: Sebi chief",
-      "description": "Sebi chief Tuhin Kanta Pandey said the regulator will issue fresh norms for derivatives settlement during the closing auction session within a week after reviewing market feedback.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/INDIA-SEBI-DERIVATIVES-179021289855_1791640287860_FIHI_1791640287991_zQqB_2697efcd-8c2e-4b96-aea4-5f3e3ad71521_XOyh.JPG",
-      "fullArticleLink": "https://www.livemint.com/market/sebi-to-issue-norms-on-closing-auction-soon-sebi-chief-11791638593315.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-10T16:57:26.093674Z"
-    },
-    {
-      "id": "2cbfd38a34f604cccba015f280d2d1b7",
-      "title": "Sebi notifies new settlement rule; unveils formula, fast-track route. Check details",
-      "description": "The Securities and Exchange Board of India (SEBI) has rolled out fresh regulations that modify how settlement amounts for securities violations are calculated. This revamped formula curtails the double counting of unjust gains in settlement assessments. Moreover, it introduces a fast-track process for cases where settlement amounts are less than ₹10 lakh, aiming for quicker resolutions while ensuring regulatory efficiency.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134847119,imgsize-211899.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-notifies-new-settlement-rule-unveils-formula-fast-track-route-check-details/articleshow/134847119.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-10T16:57:25.418944Z"
-    },
-    {
-      "id": "4da8e980d4b431d5bad0c95fc65f201c",
-      "title": "IT stocks surge despite US immigration curbs",
-      "description": "On Friday, Indian IT stocks experienced an impressive surge, spearheaded by a remarkable 4.2% jump in Tata Consultancy Services shares. This unexpected rally took analysts by surprise, as it unfolded amidst ongoing concerns surrounding US regulations impacting technology firms. Additionally, OpenAI’s updated revenue projections alleviated fears regarding potential disruptions from AI on traditional IT services.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134847206,imgsize-1838850.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-surge-despite-us-immigration-curbs/articleshow/134847206.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-10T16:57:25.418864Z"
-    },
-    {
-      "id": "585ef16f8268fad967a246bbe45dfd5d",
-      "title": "Nifty bulls regain momentum, but can bears strike back? 5 factors to decide D-Street’s fate next week",
-      "description": "Indian equities snapped an eight-week losing streak as the Nifty 50 and Sensex rebounded on Friday. However, elevated crude prices, foreign investor outflows, inflation data, bond yields and the September-quarter earnings season could shape the market’s next move. Here are five key factors investors should track next week. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134848721,imgsize-2289889.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bulls-regain-momentum-but-can-bears-strike-back-5-factors-to-decide-d-streets-fate-next-week/articleshow/134848721.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-10T16:57:25.418815Z"
-    },
-    {
-      "id": "2476fa90dc94a8149d17c4127759c40d",
-      "title": "Canara HSBC Life Q2 profit rises 5% YoY to Rs 43 crore",
-      "description": "Canara HSBC Life Insurance Company's September quarter has marked a significant growth, with a 5 percent rise in net profit, totaling Rs 43 crore from Rs 41 crore last year. This quarter also saw total income climb to Rs 2,511 crore, a rise in net premium collections reaching Rs 2,553 crore, and an increase in first-year premiums to Rs 642.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134850519,imgsize-1846198.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-hsbc-life-q2-profit-rises-5-yoy-to-rs-43-crore/articleshow/134850519.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-10T16:57:25.418684Z"
-    },
-    {
-      "id": "c4c22f6856f866352138ab48d4b397cc",
-      "title": "FIIs dump Indian stocks for eight straight weeks: Is a reversal on the cards or more pain ahead?",
-      "description": "FIIs sold Indian equities for an eighth consecutive week, offloading Rs 30,294 crore, while DIIs bought Rs 30,313 crore to cushion the outflows. The Nifty 50 ended marginally higher, snapping its losing streak. Elevated crude oil prices, rupee weakness and global bond yields remain key factors shaping the outlook for a sustained recovery. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134851502,imgsize-2251596.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-eight-straight-weeks-is-a-reversal-on-the-cards-or-more-pain-ahead/articleshow/134851502.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-10T16:57:25.418632Z"
-    },
-    {
-      "id": "e799546eb2e5b9be91d38c76a363ab6c",
-      "title": "DMart Q2 Results: Cons profit rises nearly 9% YoY to Rs 743 crore, revenue jumps 18%",
-      "description": "DMart operator Avenue Supermarts reported an 8.5% year-on-year rise in consolidated net profit to Rs 743 crore in Q2FY27, while revenue grew 17.8% to Rs 19,644 crore. However, EBITDA and profit after tax margins declined amid entry-level wage inflation. The company opened 15 new stores during the quarter, taking its total to 518. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134851993,imgsize-193566.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q2-results-cons-profit-rises-nearly-9-yoy-to-rs-743-crore-revenue-jumps-18/articleshow/134851993.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-10T16:57:25.418589Z"
-    },
-    {
-      "id": "9abd33db95e95f7e19e85fa7e005a369",
-      "title": "Adani Green Energy H1 Update: Operational capacity rises 24% YoY to 20,763 MW, energy sales jump 32%",
-      "description": "Adani Green Energy reported a 24% year-on-year rise in operational capacity to 20,763 MW in H1FY27, while energy sales jumped 32% to 25,747 million units. The company added 4,083 MW of greenfield capacity and expanded its battery storage portfolio. Its board will consider Q2FY27 financial results on October 21. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134852554,imgsize-2270081.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-h1-update-operational-capacity-rises-24-yoy-to-20763-mw-energy-sales-jump-32/articleshow/134852554.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-10T16:57:25.418551Z"
-    },
-    {
-      "id": "f5bdc21ba96870a934ea55a41525d4db",
-      "title": "Exclusive | Akash, Isha Ambani take Rs 30,000 crore Jio IPO pitch global; marquee investors seek bigger stakes",
-      "description": "Jio Platforms’ proposed Rs 30,000 crore IPO is set to be one of India’s biggest public issues, with Akash and Isha Ambani leading global investor outreach. Existing investors, including Meta and Google, are not looking to exit, with some reportedly seeking to raise their stakes as Jio targets a valuation of up to Rs 10.3 lakh crore.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134849084,imgsize-243568.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-akash-isha-ambani-take-rs-30000-crore-jio-ipo-pitch-global-marquee-investors-seek-bigger-stake/articleshow/134849084.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-10T16:57:24.862739Z"
     }
   ]
 }
