@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "c539952d79e46f6515760775f3ea69ce",
+      "title": "NLC India Renewables files IPO papers, plans ₹3,300 crore fresh issue",
+      "description": "NLC India, the state-run ‌lignite miner and power producer that operates under the Ministry of Coal, is offloading 100 million shares in its green energy unit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261119/full-126111900441.jpg",
+      "fullArticleLink": "https://www.business-standard.com/companies/news/nlc-india-renewables-files-ipo-papers-plans-3-300-crore-fresh-issue-126111900441_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-20T05:42:02.429913Z"
+    },
+    {
+      "id": "e6ba64eb1c3f77547390e400044b3c62",
+      "title": "NSE stock price rallies 5% on huge volume; zooms 35% from October low",
+      "description": "NSE share price rose in the last 11 out of 13 trading sessions, gaining 22% during the period. Analysts at Jefferies and Motilal Oswal are bullish on the stock. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261119/full-126111900622.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nse-stock-price-rallies-5-on-huge-volume-zooms-35-from-october-low-126111900622_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-20T05:42:02.429817Z"
+    },
+    {
+      "id": "0571d095d5afc28caf4d8a8a6ae77c55",
+      "title": "Stock Market LIVE: Sensex up 100 pts, Nifty above 25,550; Nifty Bank hits fresh high",
+      "description": "Sensex Today | Stock Market LIVE Updates Friday: In the broader markets, the Nifty MidCap and the Nifty SmallCap fell 0.85 per cent and 0.94 per cent, respectively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000118.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-november-20-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126112000118_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-20T05:42:02.429493Z"
+    },
+    {
+      "id": "0e32f6b8aa5d5a0aab9ae43ec18bdf7e",
+      "title": "Stocks to watch: Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB",
+      "description": "Stocks to watch today: ICICI Pru AMC, Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB, Airtel, HDFC Bank, Coal India, Keystone Realtors, YES Bank, among others, will be in focus today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000127.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-voltas-dilip-buildcon-paytm-nlc-india-axis-bank-pnb-126112000127_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-20T05:42:02.429466Z"
+    },
+    {
+      "id": "bd5385d22dd4e384a4a6d77745edc4d5",
+      "title": "Titan, Muthoot Finance, Kalyan Jewellers fall up to 4% as Gold prices slide",
+      "description": "The recent correction in gold prices could result in inventory losses, given the higher-cost inventory procured by jewellery companies prior to the customs duty changes, says ICICI Securities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000238.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/titan-muthoot-finance-kalyan-jewellers-fall-up-to-4-as-gold-prices-slide-126112000238_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-20T05:42:02.429259Z"
+    },
+    {
+      "id": "76f3d541d3713de37359640618c5f9ad",
+      "title": "Nifty Metal drops 3% as firm dollar dents base metals; APL Apollo top loser",
+      "description": "The Nifty Metal index, which tracks the performance of companies operating in the metal and mining sectors, declined 2.59 per cent to 11,980 at intraday trade. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000276.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-metal-drops-3-as-firm-dollar-dents-base-metals-apl-apollo-top-loser-126112000276_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-20T05:42:02.429220Z"
+    },
+    {
+      "id": "1d93b36c8a3b8b1e4759b2920d716969",
+      "title": "Anthropic is not a safe AI company? Nobel laureates accuse Claude maker of abandoning promises ahead of IPO",
+      "description": "Nobel laureates and leading AI experts accuse Anthropic of putting its race for AI dominance ahead of safety commitments as it makes its stock market debut. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/ANTHROPIC-IPO-19_1795094186282_57Mv_1795094201419_WGiu_5259c11c-22b4-414a-9522-92072459cad0_v94J.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/anthropic-is-not-a-safe-ai-company-nobel-laureates-accuse-claude-maker-of-abandoning-promises-ahead-of-ipo-11795091158478.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-20T05:42:01.697161Z"
+    },
+    {
+      "id": "a9aa3fbebb8dfd6ec70607c2425ede8e",
+      "title": "Disney plans $3 billion cost cuts by 2029, warns of more layoffs despite strong quarterly results",
+      "description": "Disney CFO Hugh Johnston, as per CNBC report, indicated “we do expect more layoffs” as the company pursues its cost-reduction target. However, the company has not disclosed how many employees could be affected or when the layoffs would take place. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/Disney_Cost_cuts_1795095498990_IBf6_1795095502222_oNkQ_66cf26ed-0509-4a97-9812-ce88e88324ca_S1GS.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/disney-plans-3-billion-cost-cuts-by-2029-warns-of-more-layoffs-despite-strong-quarterly-results-11795094214232.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-20T05:42:01.697102Z"
+    },
+    {
+      "id": "7fef67becd872f7618f161539745c8c5",
+      "title": "As Anthropic IPO debuts, founders see AI accelerating medical breakthroughs, transforming lives",
+      "description": "As Anthropic makes its stock market debut, co-founders Dario and Daniela Amodei highlight how AI could accelerate medical research, reshape workplaces and improve everyday lives, while stressing the need for responsible development. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/ANTHROPIC-IPO-DEBUT-99_1795107546012_eUuv_1795107560011_bce4_ad48ae7b-780f-4dda-aa2c-970837bcd1d7_VPjF.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/people/anthropic-founders-see-ai-speeding-up-medical-breakthroughs-transforming-daily-life-11795106593779.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-20T05:42:01.696927Z"
+    },
+    {
+      "id": "7c1e57b7cc0a6ec4afe3348dcc75a89e",
+      "title": "Anthropic IPO jackpot! CEO Dario Amodei's 237.3 million shares at $83 apiece now carry a $19.7 billion valuation",
+      "description": "The surge in Anthropic's share price also highlights the wealth created for its early investors and founders as the company completed what became the largest IPO in history, raising approximately $81.34 billion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/ANTHROPIC-IPO-92_1795113098762_anp9_1795113106911_K49r_e96638d8-a2da-4419-a4ba-705591cc0b08_ZOjH.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/people/anthropic-ipo-jackpot-ceo-dario-amodeis-237-3-million-shares-at-83-apiece-now-carry-a-19-7-billion-valuation-11795112083821.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-20T05:42:01.696897Z"
+    },
+    {
+      "id": "60cc515cb162866942f6ebe84f73e0c6",
+      "title": "Big dividends, thin profits? 7 stocks that are paying out more than they earn - CyberTech to UTI AMC",
+      "description": "Several companies, including IL&amp;FS Investment Managers, CyberTech Systems and Premco Global, paid dividends exceeding their FY26 net profits. Their payout ratios reached 1,000%, 245.6% and 242.8%, respectively, highlighting why high dividend yields alone may not tell investors the full story. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/fykdkysj_1795117071473_g8L8_1795117082759_NNjU_5a5a40dd-bbfd-4148-b996-cd3fafc06f72_Xlsa.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/big-dividends-thin-profits-7-stocks-that-are-paying-out-more-than-they-earn-cybertech-to-uti-amc-11795116779879.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-20T05:42:01.099768Z"
+    },
+    {
+      "id": "e156a8c7ded4286c1db9fa59c10a7ac0",
+      "title": "Indian stocks seen falling from nine-month highs; Asia market rout deepens",
+      "description": "The Nifty and Sensex have risen 1.5% and 1.8% this week, on course for their fourth straight weekly gain, helped by record monthly foreign inflows worth $12.21 billion as an AI-trade unwind, easing crude, and upbeat earnings. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/INDIA-BSE-10_1718252822146_1795143358981_LaUu_f257472f-69f9-4f6f-b11e-7d959b1bc5ae_O8Ig.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/indian-stocks-seen-falling-from-nine-month-highs-asia-market-rout-deepens-11795143190742.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-20T05:42:01.099645Z"
+    },
+    {
+      "id": "bdff4a71a28254a44817d3c9e9249d16",
+      "title": "Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy",
+      "description": "Indian IT stocks rose more than 2% on Friday, bucking global technology losses and a decline in the Nifty 50. The broad-based rebound followed three sessions of losses and was supported by value buying, foreign inflows, lower exposure to AI infrastructure risks, and improving demand. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Nifty_IT_Rises_Amid_Global_Rout_1795150122148_ixMl_1795150138392_cYW4_ac521745-5559-493d-9ce6-5038c3748467_Jx00.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/infosys-tcs-hcl-tech-indian-it-stocks-buck-global-ai-rout-trend-nifty-it-jumps-2-key-reasons-top-shares-to-buy-11795103694291.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-20T05:42:01.099486Z"
+    },
+    {
+      "id": "4657d175e2b9333e325dbfebd121ecf4",
+      "title": "Axis Direct names 35 top stocks to buy; ICICI Bank, HUL and Maruti Suzuki feature in list",
+      "description": "Axis Direct has pinpointed 35 high-potential stocks spanning diverse sectors, including banking, cement, and pharmaceuticals, offering promising buying opportunities. Each stock features a target price indicating anticipated growth in the upcoming months. This recommendation stems from a robust earnings season for Indian businesses in the September quarter, urging investors to weave these stocks into their financial strategies.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136011692,imgsize-1684800.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-35-top-stocks-to-buy-icici-bank-hul-and-maruti-suzuki-feature-in-list/slideshow/136011903.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-20T05:42:00.426705Z"
+    },
+    {
+      "id": "0a3fac8ff978076b8318452e35c5d4a5",
+      "title": "IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades",
+      "description": "Elara Securities identifies 10 Nifty 50 companies facing the sharpest earnings estimate downgrades for FY27 and FY28 against its Q2FY27 preview. IndiGo leads the list, followed by Tata Motors PV and Eternal. The companies span sectors including automobiles, healthcare, materials, consumer staples, utilities and financials. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136012003,imgsize-72396.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/slideshow/136012225.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-20T05:42:00.426661Z"
+    },
+    {
       "id": "e8688a502e51dfe7668802985f1236e0",
       "title": "Stock Market Close: Sensex rebounds 990 pts, Nifty settles at 25,514; Nifty Bank ends near new high",
       "description": "Sensex Today | Stock Market Highlights, Thursday: In the broader markets, the Nifty MidCap 100 and the Nifty SmallCap 100 rose 1.06 per cent and 0.71 per cent, respectively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14933,191 +15121,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-11T17:18:43.689406Z"
-    },
-    {
-      "id": "fb93a3eea8a7d9af802c972ae66d1184",
-      "title": "Fusion CX fixes IPO price band at ₹275-289 per share, issue size at ₹702 cr",
-      "description": "AI-powered customer experience solutions provider Fusion CX Ltd on Friday fixed the price band of Rs 275-289 per share for its Rs 702 crore Initial Public Offering (IPO), which will open for subscription on October 14. At the upper end of the price band, Fusion CX is expected to command a post-issue market capitalisation of over Rs 4,170 crore.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100900212.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/ipo/fusion-cx-fixes-ipo-price-band-at-275-289-per-share-issue-size-at-702-cr-126100900212_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-11T03:57:38.197404Z"
-    },
-    {
-      "id": "1301f194708a938d542bf1fe8c2ba5f6",
-      "title": "NSDL hits new low, down 8% vs IPO; CDSL up 748%; analysts decode divergence",
-      "description": "NSDL hit a new lifetime low on Friday; the stock shed 7% in FY27 and was down 48% from its peak. CDSL gained 13% so far this fiscal but has declined 38% from its December 2024 summit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100900424.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/nsdl-hits-new-low-down-8-vs-ipo-cdsl-up-748-analysts-decode-divergence-126100900424_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-11T03:57:38.197033Z"
-    },
-    {
-      "id": "51cdd5bd59a7ae3fc5cf82327a911a49",
-      "title": "TCS earnings lift IT stocks as demand recovery hopes boost market mood",
-      "description": "Better-than-expected Q2 earnings and attractive valuations boost IT stocks, even as AI headwinds and US labour curbs remain concerns. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100901293.jpg",
-      "fullArticleLink": "https://www.business-standard.com/companies/news/tcs-earnings-lift-it-stocks-as-demand-recovery-hopes-boost-market-mood-126100901293_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T03:57:38.196739Z"
-    },
-    {
-      "id": "2577a89bc6ef9e37a7b37abfcc87ccf1",
-      "title": "Nvidia-backed Firmus scraps $5 bn Australia IPO amid growing AI scrutiny",
-      "description": "Nvidia-backed Firmus has scrapped its planned $5 billion Australian IPO amid investor concerns over its valuation, debt burden and ambitious AI data centre expansion plans. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100901490.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/nvidia-backed-firmus-scraps-5-bn-australia-ipo-amid-growing-ai-scrutiny-126100901490_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-11T03:57:38.196648Z"
-    },
-    {
-      "id": "48c434c6790cd5e78dbcebf67bbd7276",
-      "title": "WazirX futures trading volume jumps 236% in Q3 as exchange expands AI tools",
-      "description": "Indian cryptocurrency exchange WazirX said its futures trading volume rose 236 per cent between the beginning of July and the end of September, as it expanded derivatives offerings, introduced AI-powered trading tools and stepped up tax-reporting and compliance features. Trading volume at its September peak was about 345 per cent above early-July levels, while the number of daily futures traders.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261009/full-126100900174.jpg",
-      "fullArticleLink": "https://www.business-standard.com/companies/news/wazirx-futures-trading-volume-jumps-236-in-q3-as-exchange-expands-ai-tools-126100900174_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-11T03:57:38.196558Z"
-    },
-    {
-      "id": "42bc2a32ceffff5eabd469b82c26379a",
-      "title": "OpenAI’s revenue run rate is $20 billion lower than reported: Why it matters for the Anthropic IPO race",
-      "description": "OpenAI’s September annualised revenue was nearly $50 billion, below media reports of about $70 billion. The gap reflects different accounting methods: Anthropic counts sales through cloud partners, while OpenAI does not. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/open_ai_1791513003090_Xhh1_1791513003261_aJBg_c2735ee0-2384-4210-8259-1d6c09167089_yFrA.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/openais-revenue-run-rate-is-20-billion-lower-than-reported-why-it-matters-for-the-anthropic-ipo-race-11791510627896.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-10-11T03:57:37.537265Z"
-    },
-    {
-      "id": "30f9d6ab515aa831e60f35e6715c4b98",
-      "title": "Stock to buy in short term: Choice Broking's Sumeet Bagadia recommends this PSU bank stock as Navratri Pick",
-      "description": "Choice Broking’s Sumeet Bagadia identified Bank of Maharashtra as a Navratri 2026 stock pick, citing an uptrend, breakout, support near its 20-week EMA and bullish RSI. The brokerage suggested buying at ₹82.75, adding near ₹80, and targeting ₹91 and ₹96, with ₹76 as key support. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Sumeet_Bagadia_Navratri_PSU_Stock_Pick_17916056069_1791605619981_L5N5_1791605620204_BCKv_374421e8-a27e-47c3-8657-4ee82184fee9_qrzP.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-to-buy-in-short-term-choice-brokings-sumeet-bagadia-recommends-this-psu-bank-stock-as-navratri-pick-11791602676758.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-11T03:57:36.951731Z"
-    },
-    {
-      "id": "9d2c8203a810a7c02150eb9de2103cd4",
-      "title": "RIL, ICICI Bank, Infosys, and more: Motilal Oswal names 40 stocks to buy during Q2 earnings season — Check full list",
-      "description": "After steep valuation declines, Motilal Oswal sees an improved risk-reward profile for Indian equities and expects September 2026-quarter earnings to rise 22% across its coverage universe. The brokerage has recommended 26 stocks in its model portfolio. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Motilal_Oswal_Model_Portfolio_Checklist_1791606956_1791606969046_HkZ3_1791606969266_GUvy_4c41b3b8-41c2-4502-8f13-e72b72caf404_5PAz.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/ril-icici-bank-infosys-and-more-motilal-oswal-names-40-stocks-to-buy-during-q2-earnings-season-check-full-list-11791605694356.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T03:57:36.951675Z"
-    },
-    {
-      "id": "7ae5582866fb3860030ad0c5205bb718",
-      "title": "Q2 Quarterly Results 2026 Today|Avenue Supermarts (DMart), Premier Polyfilm, , LCC Infotech, Grand Oak Canyon Distillery",
-      "description": "Q2 Quarterly Results 2026 Today: Avenue Supermarts (DMart), Premier Polyfilm, , LCC Infotech, Grand Oak Canyon Distillery are announcing their Sept quarter earnings on Saturday 10 Oct 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/q2_quarterly_results_today_1791614687020_p3uS_1791614703124_lUb6_b39a8e13-6abd-4230-8b2a-fc1ccad6abfb_DU3d.png",
-      "fullArticleLink": "https://www.livemint.com/market/q2-quarterly-results-2026-today-avenue-supermarts-dmart-premier-polyfilm-lcc-infotech-grand-oak-canyon-distillery-11791613424016.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-11T03:57:36.951512Z"
-    },
-    {
-      "id": "55a96393e8be2376f19268ddc51c5669",
-      "title": "Diamond Power, Finolex, Polycab: How cables and wire stocks will perform in Q2 results 2026 | Expectations, preview",
-      "description": "India’s wires and cables sector is expected to deliver another strong quarter in FY27, driven by higher copper and aluminium prices and value-led growth. InCred Equities sees Diamond Power and Finolex outperforming. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/Cable_Stocks_Poised_for_Q2_Growth_1791642339839_uPWd_1791642351222_rphw_06096125-68f1-46bd-80be-d20aea36dd2b_geZ1.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/diamond-power-finolex-rr-kabel-polycab-shares-how-cables-and-wire-stocks-will-perform-in-q2-results-2026-expectati-11791640110373.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-11T03:57:36.950976Z"
-    },
-    {
-      "id": "79608f96f16aaea3d7e1a3b83af6e1a7",
-      "title": "HCL Tech Q2 results 2026 preview, expectations: Will IT giant deliver strong growth? Profit, revenue, dividend history",
-      "description": "HCL Technologies is expected to report modest sequential revenue growth in Q2FY27, supported by IT services and engineering work, with acquisitions adding to growth.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/HCL_Tech_Q2_Result_Preview_1791644457839_mNDX_1791644477092_xQx2_547ce6b9-cf02-490b-a29a-5a0c9aadd9f5_QL3z.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hcl-tech-q2-results-2026-preview-expectations-will-it-giant-deliver-strong-growth-profit-revenue-dividend-history-11791644293696.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-11T03:57:36.950918Z"
-    },
-    {
-      "id": "a8edac3f81224091b0c0c5f4993b8876",
-      "title": "US bull market nears fourth anniversary, but narrow rally raises risks",
-      "description": "The ongoing US stock bull market is nearing its fourth anniversary with strong corporate earnings and low volatility. Investor concerns are rising due to the disparity between benchmark indices and the performance of individual stocks. The reliance on artificial intelligence for growth makes the market susceptible to volatility if sentiment shifts. Upcoming third-quarter earnings and midterm elections could introduce additional.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134839055,imgsize-175688.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bull-market-nears-fourth-anniversary-but-narrow-rally-raises-risks/articleshow/134839055.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T03:57:35.374099Z"
-    },
-    {
-      "id": "403b4a18d08b2c9bb86384c899345b9b",
-      "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
-      "description": "The RBI has tightened rules for rupee-linked foreign exchange derivatives, restricting the rebooking of cancelled contracts and cutting the threshold for transactions without establishing underlying exposure to $5 million from $100 million. It has also mandated additional checks for hedging activities and introduced a 20% cash reserve requirement for certain transactions. This key financial update highlights evolving market dynamics, strategic.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134847351,imgsize-2219647.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-11T03:57:35.373524Z"
-    },
-    {
-      "id": "68dfd3fe52e117401774047e21c8fd97",
-      "title": "RBI to sell $2.6 billion of bonds, tighten bank reserve need to squeeze cash",
-      "description": "The Reserve Bank of India is set to initiate bond sales to better regulate liquidity within the banking system. As of October 16, banks will face a stricter cash reserve ratio requirement, further enhancing liquidity oversight. This follows the RBI's first key policy rate hike in almost four years, hinting at possible future increases. This key financial update highlights evolving.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134850313,imgsize-80638.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/rbi-to-sell-2-6-bln-of-bonds-tighten-bank-reserve-need-to-squeeze-cash/articleshow/134850313.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-11T03:57:35.373195Z"
-    },
-    {
-      "id": "b5cfa73b7a000b47f74d2cd6129f4218",
-      "title": "RBI to conduct Rs 25,000 cr OMO sale auction of government securities on Oct 13",
-      "description": "On October 13, the Reserve Bank of India plans to auction government securities valued at Rs 25,000 crore. This operation will present six distinct securities, each with maturities ranging between 2030 and 2034. The central bank will determine the accepted amounts and may opt for lower bids. At present, the banking sector holds a surplus liquidity estimated at approximately Rs.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134850360,imgsize-2146696.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/rbi-to-conduct-rs-25000-cr-omo-sale-auction-of-government-securities-on-oct-13/articleshow/134850360.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-11T03:57:35.373147Z"
     }
   ]
 }
