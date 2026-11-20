@@ -1,6 +1,189 @@
 {
   "news": [
     {
+      "id": "05c3d61ddad8bd96823903105b53db10",
+      "title": "SBI, PNB, 3 other PSBs zoom up to 27% in Nov; here's what tech analysts say",
+      "description": "Mayank Jain of PhonePe Invest and Gaurav Bissa of InCred Capital decode charts of SBI, Punjab National Bank, Canara Bank, Bank of Baroda and Bank of Maharashtra amid the over 20% rally in November. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000334.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sbi-pnb-3-other-psu-bank-stocks-rally-up-to-27-in-nov-here-s-what-tech-analysts-say-126112000334_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-20T19:36:26.113093Z"
+    },
+    {
+      "id": "c4ced00b0b987c86076216c210810db6",
+      "title": "Paytm snaps 2-day losing run on S'pore investment plan; Nomura retains Buy",
+      "description": "Paytm share price target: Nomura has maintained 'Buy' rating on Paytm stock, with a target price of ₹2,300. The target implies an upside of 33 per cent from the previous close of ₹1,725.90. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000373.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/paytm-snaps-2-day-losing-run-on-singapore-investment-plan-nomura-retains-buy-126112000373_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-20T19:36:26.112979Z"
+    },
+    {
+      "id": "47ff07e2512b2b4f96bde506b85642d2",
+      "title": "Sebi studies domestic AI model to make regulatory tools cheaper, safer",
+      "description": "The regulator is also working with the RBI to simplify FPI onboarding, improve corporate bond liquidity and ease access to capital for SMEs and new-age companies. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000530.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-domestically-governed-ai-model-securities-market-tuhin-kanta-pandey-126112000530_1.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-11-20T19:36:26.112709Z"
+    },
+    {
+      "id": "f8aeb7a43d11b36efa08b1631d92b1dc",
+      "title": "India VIX up 9%, tops 17-mark; analysts say FII flows keep bulls in control",
+      "description": "Analysts said that profit booking is happening in the market, but the FII buying is so sustained and aggressive that the bulls are calling the shots. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000547.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/india-vix-up-9-tops-17-mark-analysts-say-fii-flows-keep-bulls-in-control-126112000547_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-20T19:36:26.112632Z"
+    },
+    {
+      "id": "5aed35599c1e1ab992bd549f7504f594",
+      "title": "Markets gain 2.6% on FPI inflows, rupee rally and cooling crude oil prices",
+      "description": "The NSE Nifty 50 ended at 25,800.60, up 1.12 per cent on Friday and 2.61 per cent for the week. The Sensex gained 2.85 per cent over the week, and 1.08 per cent on Friday, closing at 83,919.71. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000973.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/markets-gain-2-6-on-fpi-inflows-rupee-rally-and-cooling-crude-oil-prices-126112000973_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-20T19:36:26.112322Z"
+    },
+    {
+      "id": "2fd0cc7f5baddc31a4f204291ab0615c",
+      "title": "Sebi plans tighter tenure caps for exchange MDs, public interest directors",
+      "description": "Sebi has proposed a 12-year overall tenure cap for MII managing directors, lower age and term limits for public interest directors, and changes to clearing corporation boards. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112001247.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-plans-tighter-tenure-caps-for-exchange-mds-public-interest-directors-126112001247_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-20T19:36:26.112278Z"
+    },
+    {
+      "id": "c7434d5130ed6349ba0df99889a8e773",
+      "title": "Air India faces ₹22,000 crore loss: Tata Sons Board reviews airline's performance ahead of crucial meeting",
+      "description": "Tata Sons leaders reviewed Air India’s financial and operational challenges ahead of a board meeting. The airline lost more than ₹22,000 crore in FY2025-26, with fuel costs, airspace restrictions and aircraft delays adding pressure.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Air_India_1795166420238_HqYf_1795166426873_cssf_c94702b0-7b31-4eef-88e7-cc52883509a8_uZJ0.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/air-india-faces-22-000-crore-loss-tata-sons-board-reviews-airlines-performance-ahead-of-crucial-meeting-11795166061145.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-20T19:36:25.453741Z"
+    },
+    {
+      "id": "29bab2cdbd1145de53e5e2c17336a12b",
+      "title": "Power stocks to buy: Why Axis Sec is betting on NTPC and JSW Energy shares post Q2 results? Check targets, rationale",
+      "description": "Axis Securities named NTPC and JSW Energy its top power-sector picks after Q2 results, assigning both Buy ratings and target prices of ₹370 and ₹590, respectively, for 15% potential upside.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Power_Stocks_Rising__NTPC_and_JSW_Energy_179517270_1795172723674_IPZc_1795172723886_46wZ_3c0c68fa-f93f-4556-bc72-d8b282cf69d5_1U6E.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/power-stocks-to-buy-why-axis-sec-is-betting-on-ntpc-and-jsw-energy-shares-post-q2-results-check-targets-rationale-11795169287632.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-20T19:36:24.882558Z"
+    },
+    {
+      "id": "a917fb66fe7cfcfdcba614cf4e90906d",
+      "title": "BSE Sensex rejig: Shriram Finance to replace Trent; Which stocks are entering and exiting other BSE indices? Check list",
+      "description": "Shriram Finance will replace Trent in the 30-stock BSE Sensex, with the change taking effect on December 21, 2026. The reshuffle also adds five companies to the BSE 100, while Punjab National Bank, Godrej Consumer Products, SRF, Shree Cement and Havells India will exit that index. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/BSE_Sensex_Rejig_Market_Graphic_1795180430419_3el6_1795180441341_TZwI_c937066f-bf3a-4740-a01f-4a42a6258412_O7Ac.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bse-sensex-rejig-shriram-finance-to-replace-trent-which-stocks-are-entering-and-exiting-other-bse-indices-check-full-11795179927182.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-20T19:36:24.882349Z"
+    },
+    {
+      "id": "1483a9cfdb3993a967fbfff474474e96",
+      "title": "HDFC Bank shares recover 22% in Nov, adds ₹2.38 lakh crore in market value. What's fuelling the rebound?",
+      "description": "HDFC Bank shares rose 22% in November as easing leadership concerns, improved business performance and stronger market sentiment drew investors back. The rally restored its market value to above ₹13 lakh crore, though the stock remains down 14% in 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/HDFC_Bank_1795182938978_teiZ_1795182963612_GyCf_46_1795183122980_G56J_1795183123260_KULQ_676c007a-52dd-4542-b34a-c7517f689530_GQdx.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hdfc-bank-shares-recover-22-in-nov-adds-rs-2-38-lakh-crore-in-market-value-whats-fuelling-the-rebound-11795182150085.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-20T19:36:24.882303Z"
+    },
+    {
+      "id": "30c734126857b88e7ee49e1d07f6d43f",
+      "title": "Sebi proposes easing disclosure rules for foreign funds",
+      "description": "Sebi has proposed scrapping additional disclosure requirements for foreign portfolio investors, arguing that the rules are out of step with global practices and may deter overseas investment.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/sebi_1750670473946_1795185708773_HuFw_d201b9a9-2aa9-4030-9f72-8cbf61f41534_qvH8.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/sebi-proposes-easing-disclosure-rules-for-foreign-funds-11795183389431.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-20T19:36:24.882255Z"
+    },
+    {
+      "id": "6acb456c2c5c34a637ef2a43460b2c9d",
+      "title": "StockGro expert explains: WeWork India share price target - should investors buy, sell or hold?",
+      "description": "StockGro expert Sachin Kapoor, CFA (SEBI RIA), rates WeWork India Management Ltd a Buy on dips, with a three-month target of ₹700 and a 12-month target of ₹785. Get expert insights on the coworking stock's Q2 FY27 results, peer comparison, valuation and key risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/StockGro_1795186545905_nATD_1795186546283_6Ewa_a9337eb9-a1ac-403c-9f1a-3157f25d37a9_bgC8.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stockgro-expert-explains-wework-india-share-price-target-should-investors-buy-sell-or-hold-11795184993421.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-20T19:36:24.882207Z"
+    },
+    {
+      "id": "c1d48d7919f637377afba6ba47abbbf1",
+      "title": "SEBI proposes big relief for FPIs: Additional disclosure rules may go - What it means for NSE and BSE",
+      "description": "SEBI has proposed reviewing its Additional Disclosure Framework for foreign portfolio investors, which currently requires certain funds to disclose ownership, economic interests, and control down to individual beneficiaries. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/SEBI_Proposes_Relief_for_FPIs_1795190192159_kkx0_1795190212305_u6vo_fa8fed7d-6ec3-45a8-95c6-dac0db449136_33Et.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/gold-prices-near-14-month-low-what-does-sharp-price-crash-mean-for-titan-kalyan-pc-jeweller-other-jewellery-stocksg-11795184261882.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-20T19:36:24.882097Z"
+    },
+    {
+      "id": "517933bd9d3c827305f5cbbf6fcc0575",
+      "title": "Sebi plans consultation paper to remove FPI constraints absent in other markets",
+      "description": "SEBI is set to release a consultation paper aimed at simplifying regulations for foreign portfolio investors. The goal is to eliminate certain compliance restrictions to enhance India's appeal to global investors. SEBI also plans to expedite the onboarding process, targeting completion in just five business days. Additionally, KYC review cycles for applicable FPIs will be extended, reducing repetitive compliance activities.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136020808,imgsize-41262.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-20T19:36:24.328012Z"
+    },
+    {
+      "id": "e00499372085538926fda618c7670401",
+      "title": "Sebi proposes limiting tenure of chief executives, independent directors at exchanges",
+      "description": "India's Securities and Exchange Board is proposing crucial adjustments to governance norms affecting market institutions. Key suggestions include lowering the age threshold for public interest directors from 75 to 70 years, instituting a maximum of two three-year terms for directors, and restricting managing directors to an eight-year tenure. Current executives can finish their ongoing terms despite these proposed changes. SEBI.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136031465,imgsize-168964.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136031465.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-20T19:36:24.327942Z"
+    },
+    {
       "id": "c539952d79e46f6515760775f3ea69ce",
       "title": "NLC India Renewables files IPO papers, plans ₹3,300 crore fresh issue",
       "description": "NLC India, the state-run ‌lignite miner and power producer that operates under the Ministry of Coal, is offloading 100 million shares in its green energy unit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14930,197 +15113,6 @@
         "Earnings"
       ],
       "pubDate": "2026-10-12T04:18:16.292753Z"
-    },
-    {
-      "id": "2303deda877882e1b81c57819011b104",
-      "title": "Aditya Birla unit seeks ₹14,500 crore in loans, says report; here's why it needs the funds",
-      "description": "Aditya Birla Renewables is seeking $1.5 billion in rupee loans from Indian banks including SBI and HDFC, as per a news report. Here's why it needs the funds. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/abds_1690873041334_1791704762159_H7Lk_314fa6cd-96e5-4a6b-89b9-eca3c8a4dc8b_UigT.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/aditya-birla-unit-seeks-14-500-crore-in-loans-says-report-heres-why-it-needs-the-funds-11791702020254.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T17:18:45.587752Z"
-    },
-    {
-      "id": "d50881c429e4c12afdad83720c3abead",
-      "title": "Adani Power shares up 27% in 2026 but Elara sees 16% more upside - What’s powering stock? Target price",
-      "description": "Elara Capital sees thermal power’s role in India’s energy system and Adani Power’s planned capacity growth as supportive of the company’s outlook. It initiated coverage with an Accumulate rating and a ₹220 target price, noting that the shares’ recent gains limit valuation upside. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/Adani_Power_Stock_1791691401316_7j5C_1791691407035_vCmC_abf63c1d-9c3f-454e-ba6c-9b6844c33916_D1yl.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/adani-power-shares-up-27-in-2026-but-elara-sees-16-more-upside-what-s-powering-stock-target-price-11791689591531.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T17:18:45.027305Z"
-    },
-    {
-      "id": "3db7612cd02dc7514257a2c1ac0fae34",
-      "title": "Nifty target: 27,000 in 1-year - Why Emkay stock market experts are bullish despite poor performance",
-      "description": "Emkay expects Nifty 50 to rise nearly 20% to 27,000 by Sept 2027, supported by reasonable valuations, resilient earnings and strong domestic fundamentals. However, elevated oil prices, global uncertainty, uneven earnings growth pose risks, with index potentially falling to 21,000 in a downside case. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/Nifty_Bullish_Market_Outlook_1791695007224_jW9f_1791695012611_5QIj_f2b366d6-47ee-4d03-bb6e-aacf549ae4d8_cnKn.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-target-27-000-in-1-year-why-emkay-stock-market-experts-are-bullish-despite-poor-performance-11791692144256.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-11T17:18:45.027229Z"
-    },
-    {
-      "id": "617becb8f75e5e9ef9f0fba840c11029",
-      "title": "Best defence stocks to buy: HAL, BEL, Azad among ICICI Securities’ top picks ahead of Q2 2026 results",
-      "description": "ICICI Securities expects private defence firms to post stronger Q2 FY27 growth than most PSUs, led by Zen Technologies, Solar Industries India and Azad Engineering. PSU results could be mixed, with delayed Tejas Mk-1A deliveries weighing on HAL and BDL facing declines. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/India_Defence_Stocks_Market_Rally_1791699321829_d2fT_1791699334205_CN3p_9f49aa09-cab2-423a-9db0-35c58d88ca69_ieJZ.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/best-defence-stocks-to-buy-hal-bel-azad-among-icici-securities-top-picks-ahead-of-q2-2026-results-11791696675731.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T17:18:45.027196Z"
-    },
-    {
-      "id": "1c078b786fd5cda06def312ee4250035",
-      "title": "Special dividend stocks: TCS, JSW Dulux, Premco Global, Honda India Power in 6 firms offering extra payout",
-      "description": "Tata Consultancy Services, JSW Dulux, Indo Borax &amp; Chemicals, Premco Global, Majestic Auto and Honda India Power Products announced special dividends in FY26. Their total payouts ranged from ₹10 to ₹236 per share, while share-price performance varied widely. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/Special_dividend_1791708188902_HsTg_1791708189216_IKPp_e1c42b30-158d-459a-a366-7b8d311bb665_qJJ1.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/special-dividend-stocks-tcs-jsw-dulux-premco-global-honda-india-power-in-5-firms-offering-extra-payout-11791707217414.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T17:18:45.027117Z"
-    },
-    {
-      "id": "616f744f670398d9570d72f1ffb49daa",
-      "title": "Elon Musk vs Mukesh Ambani: Why is Tesla, SpaceX CEO attacking Reliance Industries ahead of Jio Platforms IPO launch?",
-      "description": "Elon Musk vs Mukesh Ambani: Experts believe Tesla, SpaceX CEO is attacking Reliance Industries because his Indian venture Starlink will have to compete with Jio Platforms, which is ready to hit the Indian primary market any time. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/maxresdefault_1791713016542_u3uE_1791713022860_JnV1_936372c2-4b5f-42d8-a081-c6acac80d47a_LGXT.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/elon-musk-vs-mukesh-ambani-why-is-tesla-spacex-ceo-attacking-reliance-industries-ahead-of-jio-platforms-ipo-launch-11791704026670.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T17:18:45.027080Z"
-    },
-    {
-      "id": "89ebc9781dc88335b0fcefbaaa0e7ec7",
-      "title": "Poonawalla Fincorp shares down 15% in a year, will strong Q2 results boost the stock? Buy, sell or hold ? Experts' views",
-      "description": "Poonawalla Fincorp’s Q2 FY27 profit rose nearly five-fold year on year to ₹375 crore, with AUM growth and improved asset quality supporting results. Brokerages remain divided: Motilal Oswal maintained a Buy rating and a ₹570 target, while Emkay retained a Reduce rating and a ₹410 target. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/Poonawalla_1791709145896_cva9_1791709154608_Hsps_20a2917f-3ecb-464b-82cd-3e3edf70cfe6_GgYx.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/poonawalla-fincorp-shares-down-15-in-a-year-will-strong-q2-results-boost-the-stock-buy-sell-or-hold-experts-views-11791707208767.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-11T17:18:45.027042Z"
-    },
-    {
-      "id": "8d3b03f8303b410ae612114a3e5e04e8",
-      "title": "Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch?",
-      "description": "After snapping their longest weekly losing streak in 25 yrs, the Nifty 50 and Sensex face a crucial test in the coming week as investors assess whether latest rebound signals a sustained recovery or merely pause in the broader downtrend. Technical analysts identify key support and resistance levels. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/Nifty_50_Market_Strategy_Outlook_1791716560386_jcNG_1791716564976_FnqS_2c7889be-f142-4591-9c58-792a04119b77_Db1F.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/market-strategy-where-are-nifty-50-sensex-bank-nifty-headed-this-week-top-things-investors-should-watch-11791713354067.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-11T17:18:45.026836Z"
-    },
-    {
-      "id": "b09a75fbfd3dc5a29ec48d2ffe8accb4",
-      "title": "Hitachi Energy vs CG Power vs Siemens Energy: Which power stock offers best returns? Check target prices",
-      "description": "Brokerage forecasts for Q2 FY27 point to growth across the three companies: Hitachi Energy is expected to post a 17% EBITDA margin and ₹77.2 EPS; CG Power’s profit and revenue may rise 28.6% and 24.4%; Siemens Energy’s may climb 44.7% and 46%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/Power_stocks_1791717597025_i5yv_1791717597491_nV0Q_4b125450-b429-4b36-ae31-455f635e86cd_jvAq.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hitachi-energy-vs-cg-power-vs-siemens-energy-which-power-stock-offers-best-returns-check-target-prices-11791717480656.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-11T17:18:45.026801Z"
-    },
-    {
-      "id": "9ed568dd3bab14aa0b72ffe54be655a2",
-      "title": "Dividend record date stocks this week: TCS, Vedanta, Anand Rathi Wealth shares - check dates, amount and payment details",
-      "description": "Vedanta, TCS and Anand Rathi Wealth have announced interim dividends of ₹5, ₹12 and ₹4 per share, respectively. Vedanta and TCS set October 14 as the record date, while Anand Rathi Wealth set October 15. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/aiadaa_1791721152700_Ii7N_1791721174957_qaKE_5287562f-1446-4f7a-aab7-495ba3bed952_oMtc.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/dividend-record-date-stocks-this-week-tcs-vedanta-anand-rathi-wealth-shares-check-dates-amount-and-payment-details-11791720954556.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T17:18:45.026702Z"
-    },
-    {
-      "id": "362a8c99065344a523514c5a38f9c8e9",
-      "title": "HCL Tech Q2 Preview: Will the IT major narrow its guidance? 5 things to watch out for",
-      "description": "HCL Tech is set to announce its September quarter results on October 12, with brokerages expecting 12% year-on-year profit growth and 16% revenue growth. Acquisitions, deal ramp-ups and seasonal strength are likely to support performance. Investors will track FY27 revenue guidance, margin trends, discretionary spending, deal wins and AI-led pricing pressures for clues on the company’s growth outlook.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134865454,imgsize-142578.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q2-preview-will-the-it-major-narrow-its-guidance-5-things-to-watch-out-for/articleshow/134865454.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-11T17:18:44.228671Z"
-    },
-    {
-      "id": "7ee77540aa887fa1576815587f6fe3d1",
-      "title": "Bonus, dividends, rights issues and stock splits: TCS, Vedanta, Ola Electric among 14 stocks turning ex-record date this week",
-      "description": "Around 14 companies, including TCS, Vedanta and Ola Electric Mobility, have key corporate action dates scheduled between October 12 and 16. The announcements cover dividends, bonus issues, rights issues, stock splits and share consolidations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134865638,imgsize-171394.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-rights-issues-and-stock-splits-tcs-vedanta-ola-electric-among-14-stocks-turning-ex-record-date-this-week/articleshow/134865638.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T17:18:44.228636Z"
-    },
-    {
-      "id": "a38a4f6af2114d76a236b90c5253f144",
-      "title": "Weekly Market Outlook: Nifty snaps 8-week losing streak, but can bulls reclaim the crucial 200-week moving average?",
-      "description": "The Nifty snapped its eight-week losing streak but remains below the crucial 200-week moving average at 22,627. The weekly market outlook points to a possible technical rebound, supported by positive divergences on daily charts, though momentum remains weak. Investors should watch key support and resistance levels, sector rotation trends and a sustained move above the long-term average before turning more.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134865763,imgsize-227554.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-nifty-snaps-8-week-losing-streak-but-can-bulls-reclaim-the-crucial-200-week-moving-average/articleshow/134865763.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-11T17:18:44.228604Z"
-    },
-    {
-      "id": "8292b855bc1cbdb6282a9767074c3ada",
-      "title": "Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",
-      "description": "As many as 129 companies are set to announce their Q2 FY27 results this week, including HDFC Bank, ICICI Bank, Axis Bank, HCL Tech, Wipro and Nestle India. With the earnings season underway, investors will track key announcements across banking, IT and other sectors after markets snapped an eight-week losing streak. Here is a day-wise list of major companies scheduled.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134866148,imgsize-111842.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/earnings-tracker-hdfc-bank-hcl-tech-wipro-among-129-companies-set-to-report-q2-results-this-week/articleshow/134866148.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T17:18:44.228573Z"
-    },
-    {
-      "id": "e009a2d7ac9845e1994bbd013c0361ca",
-      "title": "F&O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah picks 5 stocks for next week",
-      "description": "Nifty snapped its eight-week losing streak as bullish technical signals emerged near key support levels. Analysts see Nifty Private Bank outperforming in the short term, while Radico Khaitan, Karur Vysya Bank, ICICI General Insurance and Nykaa remain on traders' radar. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134866209,imgsize-179920.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-22750-could-open-doors-for-23000-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134866209.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-11T17:18:43.689406Z"
     }
   ]
 }
