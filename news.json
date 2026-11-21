@@ -1,6 +1,191 @@
 {
   "news": [
     {
+      "id": "4a1b652d3be87d4e5a6a060b19fcac91",
+      "title": "IndusInd Bank shares jump 8% on volume surge, near 52-week high",
+      "description": "IndusInd Bank posted a sequential improvement in business momentum, profitability and asset quality, even as net interest margins moderated during the second quarter of FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000682.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/indusind-bank-shares-jump-8-on-volume-surge-near-52-week-high-126112000682_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-21T05:37:04.300261Z"
+    },
+    {
+      "id": "e2c5a585df19380f34a4ac4dac09baaf",
+      "title": "Anthropic shares tumble after record IPO as AI trade faces reality check",
+      "description": "Anthropic shares fell nearly 9 per cent after their record $93.5 billion IPO, as concerns over stretched AI valuations and heavy spending weighed on technology stocks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112001268.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/anthropic-shares-tumble-after-record-ipo-as-ai-trade-faces-reality-check-126112001268_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-21T05:37:04.300004Z"
+    },
+    {
+      "id": "56045692e5ed5c9b9db140b56fdd0d9a",
+      "title": "Indian investors show strong appetite for Anthropic's blockbuster IPO",
+      "description": "Indian investors flocked to Anthropic shares on its US market debut, with the AI company ranking among the most-traded stocks on platforms such as INDmoney and Vested. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112001087.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/indian-investors-show-strong-appetite-for-anthropic-s-blockbuster-ipo-126112001087_1.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-21T05:37:04.299949Z"
+    },
+    {
+      "id": "d03418ee91036db1e99b780bcadd4675",
+      "title": "Anthropic shares jump 21% after $107.3 billion IPO breaks record",
+      "description": "Anthropic PBC shares soared 21% above their IPO price after the artificial intelligence lab’s blockbuster $107.3 billion debut broke SpaceX’s record for the biggest-ever offering. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/AI-HEALTH--2_1795137734991_sE9m_1795137747236_9hox_31dfe218-fb97-431c-93ec-875f43d23bea_Nnqf.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/anthropic-shares-jump-21-after-107-3-billion-ipo-breaks-record-11795137716176.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-21T05:37:03.643355Z"
+    },
+    {
+      "id": "dac138c9bd00fa5adab544c019468e4a",
+      "title": "Anthropic IPO windfall: Over 5,000 employees become millionaires; 600 join the $100 million club",
+      "description": "Anthropic's record IPO has turned an estimated 5,100 employees into millionaires, with nearly 600 holding equity worth over $100 million. The windfall could boost San Francisco's housing market and charitable giving. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Anthropic_IPO_millionares_1795141981502_utnx_1795141985717_IntS_c9247ba5-4c92-4ae4-b33f-603a4cbd854d_YbNK.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/anthropic-ipo-windfall-over-5-000-employees-become-millionaires-600-join-the-100-million-club-11795141454809.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-21T05:37:03.643232Z"
+    },
+    {
+      "id": "fb13a092cc755e68ffbe7c433724c6e5",
+      "title": "Who are Anthropic’s seven founders who became multibillionaires after Claude AI maker’s historic IPO?",
+      "description": "Anthropic’s seven co-founders could each hold shares worth about $18 billion after the company’s anticipated Nasdaq debut, according to The Wall Street Journal. The former OpenAI employees founded Anthropic in 2020, building Claude and positioning the company as a major AI rival focused on safety. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Untitled_Design_1795175608076_IHAE_1795175611546_1YwG_61b29d5a-8a16-452e-b8bf-961699bd6211_wk8V.png",
+      "fullArticleLink": "https://www.livemint.com/companies/people/who-are-anthropic-s-seven-founders-who-became-multibillionaires-after-claude-ai-maker-s-historic-ipo-11795172512612.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-21T05:37:03.642642Z"
+    },
+    {
+      "id": "537ad3619f862184b7de6228cb91a6b7",
+      "title": "Can Physicswallah deliver on its ambitious growth blueprint?",
+      "description": "Physicswallah is targeting ₹10,000 crore in revenue by FY30, with online growth and better offline economics central to its plan. Execution remains the key test. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Physicswallah_1791450848356_Y0Qg_1791450854382_BfE_1795159679011_jXaw_1795159679166_L3By_a5bf930b-eb44-4199-8f87-8804b618ce2e_D3VD.png",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/physicswallah-edtech-online-education-offline-coaching-revenue-growth-ebitda-margins-jee-neet-ai-tutor-11795156474405.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-21T05:37:03.065224Z"
+    },
+    {
+      "id": "1d0704ced5c8f4869408ed035e427c16",
+      "title": "Urban Company shares dip 4% after ₹2,500 crore fundraising; opportunity to buy on the dip? Target, stop-loss",
+      "description": "Urban Company shares fell over 4% despite completing a ₹2,500 crore QIP that attracted bids exceeding ₹15,000 crore. The company will use proceeds to expand InstaHelp, invest in marketing, technology and training, and consider acquisitions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Urban_Company_Stock_Drops_1795161424813_1qSJ_1795161429179_R444_0af541b4-2438-4e5b-9655-49c3e15abf0c_BhGz.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/urban-company-shares-dip-4-after-rs-2-500-crore-fundraising-opportunity-to-buy-on-the-dip-target-stoploss-11795160058174.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-21T05:37:03.065134Z"
+    },
+    {
+      "id": "8a45b62db409d2dcd89f8783091a90bd",
+      "title": "Gold price crash: Muthoot Finance, Manappuram shares lose sheen, down up to 5% | Is gold heading for deeper correction?",
+      "description": "Gold loan lenders Manappuram Finance and Muthoot Finance fell as gold prices hit a 1-year low amid a stronger US dollar and expectations of US Fed rate hikes. Investors are concerned that further bullion declines could reduce loan demand, raise default risks and pressure lenders’ profitability. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/plain_gold_1795161952281_pd2h_1795161977738_d35F_4163f48f-035d-4a9c-aab6-7485fb2916fc_aSjq.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/gold-price-crash-muthoot-finance-manappuram-shares-lose-sheen-down-up-to-5-is-gold-heading-for-deeper-correction-11795161489903.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-21T05:37:03.065083Z"
+    },
+    {
+      "id": "c0b2038814cc786ea53960deb401f9b9",
+      "title": "Bull run gathers pace! IndusInd Bank shares surge 8.5%, head for best week in over a year; Should investors still buy?",
+      "description": "IndusInd Bank shares rose 8.5% to ₹1,001 on Friday, extending their weekly gains to nearly 9% and marking a fourth consecutive weekly advance. The rally followed a return to quarterly profitability, stronger core income and improved asset quality, though brokerages differ on the stock’s outlook. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/IndusInd_Bank_1795166864319_2NvL_1795166872599_issC_bccef9a4-bccd-4e70-82b9-6dc9830f70ad_sb3M.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bull-run-gathers-pace-indusind-bank-shares-surge-8-5-head-for-best-week-in-over-a-year-should-investors-still-buy-11795162715431.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-21T05:37:03.064907Z"
+    },
+    {
+      "id": "1db3e69aafcdee7cae1b806da16edfc0",
+      "title": "Nifty set to test record high in a month after toppling key hurdle",
+      "description": "Oil and its inflationary impact to determine sustenance of rally. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1795174245372_tLgm_363d75af-656b-4875-bea2-7adff59a7e4c_9W9b.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/nifty-set-to-test-record-high-in-a-month-after-toppling-key-hurdle-11795164473722.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-21T05:37:03.064741Z"
+    },
+    {
+      "id": "b5e34f108647c6bf9ae62a03cafe59ef",
+      "title": "SoftBank shares crash 14.5%, biggest 1-day fall in 2 years: Why Anthropic's strong IPO debut failed to revive AI trade",
+      "description": "SoftBank shares plunged 14.5% as a technology selloff swept Japan, despite a strong Nasdaq debut for AI company Anthropic. Investor concerns over interest rates and AI valuations weighed on the sector, while SoftBank’s close ties to OpenAI and Arm heightened its exposure. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Soft_bank_2_1795177878426_tzzo_1795177883377_FakJ_6f3bfec1-eb87-45b5-8435-e521f15cc2a9_eRAc.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/softbank-shares-crash-14-5-biggest-1-day-fall-in-2-years-why-anthropics-strong-ipo-debut-failed-to-revive-ai-trade-11795173623939.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-11-21T05:37:03.064623Z"
+    },
+    {
+      "id": "c0f12aa16d0cc8f6f60fc366683d330f",
+      "title": "Anthropic shares tumble 10% after blockbuster IPO, erase debut gains; why are investors turning cautious on AI?",
+      "description": "Anthropic shares fell 10% on Friday, dropping below their lowest point during Thursday’s Nasdaq debut. Despite strong IPO demand and a peak valuation near $2 trillion, the decline reflects investor uncertainty over AI spending, potential returns, and regulatory risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Anthropic_IPO_1795185397542_TYYh_1795185402121_FnUz_174c1477-093d-4c9c-b700-851af87dd45b_qIdG.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/anthropic-shares-tumble-10-after-blockbuster-ipo-erase-debut-gains-why-are-investors-turning-cautious-on-ai-11795184887970.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-21T05:37:03.064530Z"
+    },
+    {
+      "id": "6714d4a4ab2cdb2ff7f11759965f5b7e",
+      "title": "Smallcap dividend stars: 5 stocks under ₹100 with high dividend yield - Jagran Prakashan, Radiant Cash, and more",
+      "description": "Jagran Prakashan and IL&amp;FS Investment Managers lead a group of small-cap stocks trading below ₹100 with attractive FY26 dividend yields. Jagran’s yield is 16.1%, followed by IL&amp;FS at 15.9%, Radiant Cash Management at 7.9%, Gateway Distriparks at 7.6% and Balmer Lawrie Investments at 6.8%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Smallcap_Dividend_Stars_Growth_Chart_1795194051143_dAvx_1795194064318_Q8bw_6bd766b9-22a8-4808-9721-0d957bfbc068_qylM.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/smallcap-dividend-stars-5-stocks-under-rs-100-with-high-dividend-yield-jagran-prakashan-radiant-cash-and-more-11795193828075.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-21T05:37:03.064400Z"
+    },
+    {
+      "id": "c67413787f79b4c07a18709a1b118011",
+      "title": "Anthropic's debut rally fades as shares crack 7% in US pre-market trade",
+      "description": "Anthropic shares fell as much as 7.4% in premarket trading on their second day, as a global market selloff and concerns over the AI trade overshadowed the optimism surrounding its record-setting IPO debut. After surging 39% from the IPO price on Thursday, the stock ended 17% higher. A steep valuation and competitive threats added to investor caution.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136021174,imgsize-36398.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-debut-rally-fades-as-shares-crack-7-in-pre-market-trade-on-day-2/articleshow/136021174.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-21T05:37:01.907574Z"
+    },
+    {
       "id": "05c3d61ddad8bd96823903105b53db10",
       "title": "SBI, PNB, 3 other PSBs zoom up to 27% in Nov; here's what tech analysts say",
       "description": "Mayank Jain of PhonePe Invest and Gaurav Bissa of InCred Capital decode charts of SBI, Punjab National Bank, Canara Bank, Bank of Baroda and Bank of Maharashtra amid the over 20% rally in November. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14925,194 +15110,6 @@
         "IPO"
       ],
       "pubDate": "2026-10-12T20:53:30.410997Z"
-    },
-    {
-      "id": "06eb8a9604a0de5be7fcc894bce43863",
-      "title": "IPO rush continues: Jio, Zetwerk among cos set to tap primary market in Oct",
-      "description": "A dozen companies, including Jio Platforms, Zetwerk Manufacturing Business, and Avaada Electro, are set to tap the primary market in October to raise funds through initial public offerings (IPOs), extending 2026's strong fundraising momentum. Other companies expected to launch their maiden public offerings this month include Fusion CX, HD Fire Protect, Tonbo Imaging, Bonfiglioli Transmissions, Sahajanand Medical Technologies, Paras Healthcare.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261011/full-126101100192.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/ipo/ipo-rush-continues-jio-zetwerk-among-cos-set-to-tap-primary-market-in-oct-126101100192_1.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO"
-      ],
-      "pubDate": "2026-10-12T04:18:19.198282Z"
-    },
-    {
-      "id": "46bf00d15391f4bcee432a8c395c3ba3",
-      "title": "Around 1,000 ex-Flipkart staff approach Walmart over stock option liquidity",
-      "description": "Former employees of Flipkart and group firms Myntra and Cleartrip have approached Walmart and Flipkart seeking liquidity for vested stock options amid uncertainty over the IPO timeline. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/companies/news/around-1-000-ex-flipkart-staff-approach-walmart-over-stock-option-liquidity-126101100587_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-12T04:18:19.198008Z"
-    },
-    {
-      "id": "bd15a786cf52e563f783c2a393c00540",
-      "title": "Angel One: Nifty's technical setup remains weak; Trent among 3 stock ideas",
-      "description": "From a technical perspective, the 22,200-22,000 zone emerges as a crucial support threshold, and any decisive breach below this range could weaken the near-term market structure further. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261012/full-126101200048.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-s-technical-setup-remains-weak-trent-among-3-stock-ideas-by-angel-one-126101200048_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-12T04:18:19.197906Z"
-    },
-    {
-      "id": "588d663236d52a450dd1a87ce1a65e0a",
-      "title": "Stocks to watch: HCLTech, DMart, M&M, Adani Green, KEC Int'l, ICICI Pru",
-      "description": "Stocks to watch today: HCL Technologies, ICICI Pru, RBL Bank, Plastiblends India are among the companies slated to post their Q2 results today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261012/full-126101200059.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-hcltech-dmart-m-m-adani-green-kec-int-l-icici-pru-126101200059_1.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-12T04:18:19.197809Z"
-    },
-    {
-      "id": "5b67fcc1951b220b6e35225bd7ba900a",
-      "title": "Rupee opens over 1% higher at 95.73 on RBI measures to curb dollar demand",
-      "description": "The rupee opened at 95.73 against the greenback today compared with Friday's close of 96.76. As of 9.14 AM, it was trading at 95.76, according to Bloomberg data. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261012/full-126101200114.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/rupee-opens-over-1-higher-at-95-73-on-rbi-measures-to-curb-dollar-demand-126101200114_1.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-12T04:18:19.197660Z"
-    },
-    {
-      "id": "dc4d0c6751890ccc341400f3f7dcbe20",
-      "title": "Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO",
-      "description": "The $518 million IPO will open for ‌public subscription on October 15 and close on October 19, with the contract electronics manufacturer's shares expected to begin trading on October 23. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261012/full-126101200066.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/ipo/peak-xv-accel-backed-zetwerk-seeks-2-6-billion-valuation-in-india-ipo-126101200066_1.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-12T04:18:19.197581Z"
-    },
-    {
-      "id": "dc14a23b022f9aeb5d5278755b1237a4",
-      "title": "Top 5 stocks to buy today: RBL Bank, Birlasoft, Go Digit, LIC, Nykaa by Sumeet Bagadia | Target, stop-loss, rationale",
-      "description": "Sumeet Bagadia of Choice Broking believes the immediate support for the Nifty 50 index is placed at 22,250–22,400, while 22,650–22,700 remains the key resistance zone. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/Sumeet_Bagadia_Stock_Recommendations_today_1791716948450_LNEg_1791716948606_N92K_638899ad-5ce9-4235-9a48-4839a6c23900_Nv0Z.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-today-rbl-bank-birlasoft-go-digit-lic-nykaa-by-sumeet-bagadia-target-stop-loss-rationale-11791716546378.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-12T04:18:17.800482Z"
-    },
-    {
-      "id": "bc9c06d276d27d25cc32f125725c3b14",
-      "title": "Rupee set for a rebound on RBI curbs, but depreciation pressure persists",
-      "description": "The RBI’s new measures to supply dollars directly to state-run oil companies and curb speculative currency trades are expected to lift the rupee in the near term. Experts caution that high oil prices, capital outflows and weak external balances will continue to weigh on the currency. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1791720333783_46M7_1791720333935_VhFH_a4bf8659-ae30-490e-93c1-5a2fdbeb6612_EGE5.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/rbi-rupee-support-measures-versus-dollar-11791712027213.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-12T04:18:17.800423Z"
-    },
-    {
-      "id": "bef94143674506e008b21306155ae3ca",
-      "title": "Nifty price-RSI combination indicates a potential bullish divergence, says Anand Rathi's expert",
-      "description": "According to Jigar S. Patel, Senior Manager of Equity Technical Research at Anand Rathi Share and Stock Brokers, the index is trying to establish a durable base, while the price-RSI combination indicates a potential bullish divergence. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/12/1600x900/logo/g303e89a8a5084f1e284621febe4e2708019028068ab2249e8_1791773961523_DHmy_1791773961694_DdOI_bfecdaed-3a62-4a84-89c5-dd08ed19aa38_1I2N.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-price-rsi-combination-indicates-a-potential-bullish-divergence-says-anand-rathis-expert-11791773833116.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-12T04:18:17.799941Z"
-    },
-    {
-      "id": "7ddf2fd0d7bed650c7115c0945c92a34",
-      "title": "TCS, HDFC Life, Cipla - Which stock to buy and sell? Jigar Patel of Anand Rathi suggests strategy - Target, stop loss",
-      "description": "Jigar S. Patel, Senior Manager of Equity Technical Research at Anand Rathi Share and Stock Brokers, recommends strategies for TCS, HDFC Life, Cipla shares, with their target prices and stop losses.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/12/1600x900/logo/Stock_Market_Picks_1791776631701_nNvx_1791776635741_FJHR_20fe3ed7-ed28-4caf-b1ae-4e7ecc1977d5_YQWd.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tcs-hdfc-life-cipla-which-stock-to-buy-and-sell-jigar-patel-of-anand-rathi-suggests-strategy-target-stop-loss-11791776335057.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-12T04:18:17.799805Z"
-    },
-    {
-      "id": "28ad7357003378d1dde6ee813c5f9122",
-      "title": "Stocks in news: HCL Technologies, DMart, Adani Green Energy, PTC Industries and Anand Rathi Wealth",
-      "description": "Indian equity markets showed a significant recovery driven by bargain buying and favorable global cues. The Nifty 50 and Sensex both closed higher, indicating improved investor sentiment. Notable companies reporting earnings include Canara Robeco Asset Management and Avenue Supermarts, among others. Banking stocks are expected to draw attention due to changes in cash reserve ratio requirements by the Reserve Bank.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134879753,imgsize-179406.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-banks-hcl-technologies-dmart-adani-green-energy-ptc-industries-and-anand-rathi-wealth/articleshow/134879753.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-12T04:18:17.003131Z"
-    },
-    {
-      "id": "2b7d60cdb4149c0ea05095d4fc9965c3",
-      "title": "FMCG revenues to rise in Q2, but costs could dent margins",
-      "description": "India's FMCG sector is poised for a substantial revenue boost in the upcoming September quarter, with growth projected in double digits. This rise is attributed to an increase in both product volume and strategic pricing tactics across diverse categories. However, the ongoing surge in raw material costs, particularly for items like sugar and edible oils, may exert pressure on profit.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134880368,imgsize-89118.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/fmcg-revenues-to-rise-in-q2-but-costs-could-dent-margins/articleshow/134880368.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-12T04:18:17.003028Z"
-    },
-    {
-      "id": "26c7bc06e785358c1f604adba05b60ec",
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls 50 pts, Nifty above 22,500; Bajaj Auto, HCL Tech rise up to 2% each",
-      "description": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls 50 pts, Nifty above 22,500; Bajaj Auto, HCL Tech rise up to 2% each. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134880524,imgsize-358677.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-12-october-2026/liveblog/134880524.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-12T04:18:17.002995Z"
-    },
-    {
-      "id": "070b6e04b1f81b1150944042fd6d610c",
-      "title": "Nifty’s 22,200 defence may open the door to 23,600, says Geojit’s Anand James",
-      "description": "Nifty’s sharp rebound after defending the 22,200–22,000 support zone could extend towards 23,600, according to Anand James, Chief Market Strategist at Geojit Investments. However, the index must first post a sustained close above 22,800 to confirm that Friday’s recovery marks more than a relief rally, he said. James also sees early signs of leadership emerging in IT stocks, while Bank.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134880643,imgsize-37394.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/niftys-22200-defence-may-open-the-door-to-23600-says-geojits-anand-james/articleshow/134880643.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-12T04:18:16.293273Z"
-    },
-    {
-      "id": "e2fee1aec4d12715fe24aba5812800f1",
-      "title": "Avenue Supermarts shares fall 3% after Q2 results. What are Motilal Oswal, Nuvama saying?",
-      "description": "Avenue Supermarts shares fell 3.3% despite an 8.5% year-on-year rise in Q2FY27 net profit to Rs 743 crore. Revenue grew 17.8%, but margins weakened. Motilal Oswal maintained a Neutral rating, while Nuvama retained Hold and cut its target price amid rising costs and profitability concerns. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134881994,imgsize-2235259.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-shares-fall-3-after-q2-results-what-are-motilal-oswal-nuvama-saying/articleshow/134881994.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-12T04:18:16.292753Z"
     }
   ]
 }
