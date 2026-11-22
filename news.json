@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "4b8fdcb785ea00d3931cc49d4a9511f7",
+      "title": "InvIT IPO rush gathers pace, 4-5 trusts likely to go public by Mar 2027",
+      "description": "Four to five privately placed Infrastructure Investment Trusts (InvITs) are expected to tap the public markets by March 2027 to raise a combined Rs 17,000 crore, as infrastructure developers increasingly turn to this route to mobilise long-term capital and monetise operational assets, investment bankers said. InvITs have already mobilised around Rs 88,000 crore through equity issuances during FY23-FY25, indicating growing.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261122/full-126112200225.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/invit-ipo-rush-gathers-pace-4-5-trusts-likely-to-go-public-by-mar-2027-126112200225_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-11-22T19:01:16.463682Z"
+    },
+    {
+      "id": "d59ccdb263a9a6f89b762e06622ae4a7",
+      "title": "FPI, crude oil, global trends to to steer markets in holiday-shortened week",
+      "description": "Stock market movement would depend on trading activity of foreign investors, crude oil prices and global trends in a holiday-shortened week ahead, analysts said. Equity markets would remain closed on Tuesday for \"Prakash Gurpurb Sri Guru Nanak Dev\". \"The holiday-shortened week will be influenced by global economic releases, FPI flows and movements in crude oil and the rupee. Domestically.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261122/full-126112200353.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/fpi-crude-oil-global-trends-to-to-steer-markets-in-holiday-shortened-week-126112200353_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-22T19:01:16.463592Z"
+    },
+    {
+      "id": "cf80166ae0fa79351c48b285127bb996",
+      "title": "Tata Sons board meeting this week to revisit listing issue amid row",
+      "description": "The board meeting is the first since September that exposed a rift between Noel Tata's Tata Trusts and Tata Sons over listing and reappointment of Chairman Natarajan Chandrasekaran. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Bombay-House_1795343611598_aUEZ_1795343611781_1yk6_0db96078-2525-4009-8c47-b3f82d4f824f_owSq.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-board-meeting-listing-issue-11795342582808.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-22T19:01:15.691607Z"
+    },
+    {
+      "id": "4edb52a9a37d42988d78e99564b274b2",
+      "title": "Microsoft overhauls Azure compensation model: Who gets extra stock and who faces scrutiny? Here's what changes",
+      "description": "Microsoft is revising compensation in its Azure division to give top performers more stock awards and require formal discussions with employees falling short. The move reflects a broader push across the tech industry to improve productivity, amid Microsoft job cuts and voluntary buyouts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Untitled_Design_1795344971920_poNv_1795344975118_6ynC_93360120-6fb2-4af5-b8c6-a5682d3090c8_O6VR.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/microsoft-overhauls-azure-compensation-model-who-gets-extra-stock-and-who-faces-scrutiny-heres-what-changes-11795338639375.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-22T19:01:15.691509Z"
+    },
+    {
+      "id": "ca5b267391eea5aef797899271fc8858",
+      "title": "JK Urbanscapes plans six hotels beyond metros to tap rising demand",
+      "description": "India’s hospitality opportunity is becoming increasingly diverse, with growth extending beyond traditional hotel markets and formats. As business, leisure and experience-led travel evolve, developers and operators are taking a more market-led approach to identifying opportunities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Abhishek_Singhania__1795351484128_mzIC_1795351497692_tt10_c2c1e2f1-bdc4-4add-996b-127421ce485e_fkjF.jpeg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/jk-urbanscapes-plans-six-hotels-beyond-metros-to-tap-rising-demand-hospitality-real-estate-11795328598109.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-22T19:01:15.691173Z"
+    },
+    {
+      "id": "ca23a1deeeb527d3f090830ba8c0a0a6",
+      "title": "Tata Steel’s ₹28,000 crore deal with APL Apollo is part of a two-stage takeover transaction",
+      "description": "Tata Steel has agreed to transfer its tubes business for up to ₹11,700 crore and its 100% stake in Tata Steel Colors for ₹16,300 crore to APL Apollo. Later, Tata Steel will buy APL Apollo’s promoter stake, and launch an open offer. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/TATA-STEEL-RESULTS--0_1765786614129_1765786711607_1795365611421_uiDy_628a83c1-7d27-4323-8102-f9d72f04df89_iF70.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-steel-s-28-000-crore-deal-with-apl-apollo-is-part-of-a-two-stage-transaction-11795360468769.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-22T19:01:15.691018Z"
+    },
+    {
+      "id": "61f15191c91691e8f833375070ad928f",
+      "title": "Stock split reset: SanDisk stock crashes 87.5% overnight? Here's what investors need to know about its 8-for-1 split",
+      "description": "SanDisk completed an eight-for-one stock split, giving eligible shareholders seven additional shares for each share held. The adjustment lowered the per-share price from $755.16 to about $94.40 without changing investors’ ownership or the company’s market value. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/SanDisk_Stock_Split_Plunge_1795267461562_tfwP_1795267517899_kPmZ_17ad10af-f085-4e0c-a0db-edcc91c2d376_8Y2h.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-split-reset-sandisk-stock-crashes-87-5-overnight-heres-what-investors-need-to-know-about-its-8-for-1-split-11795267376660.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-22T19:01:15.105117Z"
+    },
+    {
+      "id": "239f71e7d12562d4027cdca946f70351",
+      "title": "Gold rate today in India at 14-month low; will it hit ₹1 lakh? Experts list out 3 reasons for gold price drop in 2026",
+      "description": "Gold rate today in India: MCX gold rate finished at 14-month low of ₹1,21,949 per 10 gm on Friday, whereas gold price in the international market ended at $3,539/oz. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/Gold_Rate_Today_Gold_Price_drop_2026_Gold_USD_Pric_1795283854342_v9DV_1795283854581_BFlg_a47ca041-fc5d-492c-8c2e-61c6c3d12dcb_p903.png",
+      "fullArticleLink": "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-22T19:01:15.104958Z"
+    },
+    {
+      "id": "c1dd6f708dc5233dbfe18852f3ccd694",
+      "title": "WeWork India share price jumps 40% in 6 months; ICICI Direct sees 37% more gains ahead - Buy? Check Target",
+      "description": "WeWork India shares fell 1.60% to ₹683.30 on Friday, extending weekly losses, but have gained about 40% in six months. ICICI Securities expects the company to fund planned capex internally and forecasts 22% revenue and EBITDA growth, maintaining a Buy rating with a ₹933 target. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/WeWork_India_Share_Price_Target_1795334609754_EzCG_1795334621862_eIj9_0fee33a5-f97c-4d36-96db-1bc9ae18f96b_fYo9.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/wework-india-share-price-jumps-40-in-6-months-icici-direct-sees-37-more-gains-ahead-buy-check-target-11795334473941.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-22T19:01:15.104650Z"
+    },
+    {
+      "id": "a285b673a33cfd12ccb00a3f1a453441",
+      "title": "New Sebi proposal could flip fates of key men at NSE, BSE",
+      "description": "Proposed amendments to tenures of MDs of exchanges revise age-based limit to term-based limit. Ashishkumar Chauhan may be barred from another term at NSE because of his prior service at BSE, while Sundararaman Ramamurthy could continue at BSE beyond age 65 and potentially serve at another exchange. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/sebi_1750670473946_1795340087107_KCjl_04fdf906-1421-4769-996a-7ab6f036a514_JSFQ.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/nse-bse-chief-tenure-rules-sebi-proposal-11795333434935.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-22T19:01:15.104452Z"
+    },
+    {
+      "id": "22301cce5e5ed94f99425bb1de3a1166",
+      "title": "RVNL vs Texmaco Rail: Which railway stock deserves a place in your portfolio for long-term gains? Check target price",
+      "description": "RVNL’s Q2 FY27 profit rose 8.3% year over year, while revenue fell 8.2%. Texmaco Rail’s consolidated profit jumped 73.7%, despite lower revenue and a decline in standalone profit. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/sgsgsh_1795341451737_3Bqg_1795341459902_7A06_67788044-28c2-44cb-ac06-a32266b76193_cW39.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rvnl-vs-texmaco-rail-which-railway-stock-deserves-a-place-in-your-portfolio-for-long-term-gains-check-target-price-11795331266376.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-22T19:01:15.104403Z"
+    },
+    {
+      "id": "b67407d9a5639a6b94492846bf0c717b",
+      "title": "Stock market outlook: Nifty posts longest weekly winning streak in 5 months; will rally survive next week, Nov 23-27?",
+      "description": "Nifty 50 gained nearly 2.2% for a fourth consecutive winning week, while banking and financial stocks led the rally. Analysts see a positive near-term outlook, with resistance near 26,000 and support around 25,100–25,550. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Stock_Market_Outlook__Next_Week_1795352722294_Z7T0_1795352743164_zSZE_04e97756-c83a-4e3f-9796-9d11134229c2_qmK2.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-nifty-posts-longest-weekly-winning-streak-in-5-months-will-rally-survive-next-week-nov-2327-11795350642959.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-22T19:01:15.104112Z"
+    },
+    {
+      "id": "3daaa0a4c83e88965db29d9e7c5a846b",
+      "title": "52% rally in six months! Mukul Agrawal portfolio’s defence stock has 19% upside, says ICICI Direct - Do you own it?",
+      "description": "PTC Industries shares rose 1.01% on Friday, while the stock gained about 23% in three months and 53% in six. ICICI Securities retained its Buy rating and ₹29,000 target, implying 19% upside, citing strong EBITDA growth and long-term aerospace and defence opportunities. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/PTC_Industries_Share_Price_Outlook_1795355245903_KZ6c_1795355256947_0NoE_ffc4d608-e773-44b6-956e-9ac615a257a8_Bzx6.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/52-rally-in-six-months-mukul-agrawal-portfolio-s-defence-stock-has-19-upside-says-icici-direct-do-you-own-it-11795353943967.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-22T19:01:15.104040Z"
+    },
+    {
+      "id": "f6090c5d823474badf17c0e5ee4abffe",
+      "title": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
+      "description": "Reliance Brands has marked a significant financial milestone, achieving a revenue of Rs 3,390.89 crore for FY26 and reducing losses. Operating more than 1,085 Points of Sale nationwide, the brand continues to collaborate with over 90 partner names. Recent acquisitions, including Hamleys and new entries like Stella McCartney and Fabletics, demonstrate the company’s drive to lead in the competitive fashion.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136068185,imgsize-169960.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-22T19:01:14.344508Z"
+    },
+    {
+      "id": "f981b59c5cc485276d9951204355aaef",
+      "title": "Why gold’s five-year winning streak is under threat after dramatic selloff",
+      "description": "Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026, putting it on track for its first annual loss in five years. A stronger dollar, elevated bond yields, profit-booking and weaker safe-haven demand continue to pressure prices. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136070323,imgsize-102862.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-22T19:01:13.791513Z"
+    },
+    {
       "id": "809a446abfc133adbd6ae05ffb32516c",
       "title": "BSE Hospitals index soars 3%; Apollo, Max, Narayana Hrudayalaya surge 5%",
       "description": "In the past month, the BSE Hospitals index outperformed the market by soaring 20%, against a 12.7% rally in the BSE Sensex. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14914,195 +15102,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-14T03:30:37.604335Z"
-    },
-    {
-      "id": "bddbeeb22fc41e8376a4571881d7d1ab",
-      "title": "Venezuelan crude comeback puts Reliance’s refining edge back in focus",
-      "description": "Processing Venezuelan oil could help Reliance Industries generate a sustainable structural premium of $3 per barrel over domestic public sector refiners like Indian Oil Corporation Ltd, according to Yes Securities.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/12/1600x900/logo/im-35202781_1756488139187_1756488570093_1791807655613_ZKkM_644141c1-f234-45a2-9e2c-5f688cdffceb_VH28.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/venezuelan-crude-comeback-puts-reliance-s-refining-edge-back-in-focus-11791800830505.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T18:51:42.655337Z"
-    },
-    {
-      "id": "4068d41ed5877657a8f78a25033833e8",
-      "title": "Tata Sons chair defends nation-building bets over short-term returns",
-      "description": "The Tata Group will keep building what India and the world need, including semiconductor chips, even if these projects are slow to deliver, Chairman N. Chandrasekaran says. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Tata_Sons_Chairman_Natarajan_Chandrasekaran_1791875347336_cpVw_1791875347514_SfSb_edb8689c-6fbd-4da0-a7e0-256856d1609a_jGyG.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-chair-defends-nation-building-bets-over-short-term-returns-11791874861515.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T18:51:42.654803Z"
-    },
-    {
-      "id": "53bbe414842b8cb616ae34cc375fe189",
-      "title": "‘We can’t be reckless’: Tata Sons chairman signals caution on $120 billion growth bets amid boardroom tensions",
-      "description": "Tata Sons Chairman N Chandrasekaran urged caution over the group’s $120 billion growth investments while defending long-term projects such as semiconductors, which may be slow to deliver returns, amid a growing feud with Tata Trusts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Tata_Sons_N_Chandrasekaran_1791883863358_hC6X_1791883863498_Z5KZ_9dc5ab3c-9da7-44d3-841f-efdce9e6437f_scQu.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/we-can-t-be-reckless-tata-sons-chairman-signals-caution-on-120-billion-growth-bets-amid-boardroom-tensions-11791880919787.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T18:51:42.654757Z"
-    },
-    {
-      "id": "98c914afed49eef4c830ebd22bd38436",
-      "title": "Mehli Mistry rules out reinstatement as Tata Trusts trustee, seeks final order on complaints: Report",
-      "description": "Mehli Mistry has reportedly told Maharashtra’s charity commissioner he does not want to be reinstated as a trustee of the Sir Dorabji Tata Trust and Sir Ratan Tata Trust.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/images_1791892205159_8cm0_1791892217302_4UBu_6c287a91-c83f-4c04-9c8e-a395fc69d905_wxmM.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/people/mehli-mistry-rules-out-reinstatement-as-tata-trusts-trustee-seeks-final-order-on-complaints-report-11791888891405.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T18:51:42.654567Z"
-    },
-    {
-      "id": "cc3d4c64f354058c02a484620d275147",
-      "title": "Tata Sons row: Tata Trusts gets more time to respond to 'interference' claims | What Venu Srinivasan, Vijay Singh allege",
-      "description": "The Maharashtra Charity Commissioner has given the Sir Dorabji Tata Trust until October 19 to respond to governance complaints by trustees Venu Srinivasan and Vijay Singh, who allege the trust interfered in Tata Sons’ commercial decisions and sought to restrict Srinivasan’s role in proposed listing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Untitled_design_1791901110941_cN8x_1791901114907_JONO_86efbf2a-adbc-4257-955c-e7ff580da6e9_l45Y.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-row-tata-trusts-gets-more-time-to-respond-to-interference-claims-what-venu-srinivasan-vijay-singh-allege-11791897249438.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T18:51:42.654450Z"
-    },
-    {
-      "id": "ff235bda581d905a8aa3954a74bed2c3",
-      "title": "ICICI Life defends credit cover as Irdai weighs steep commission cut",
-      "description": "Management highlighted loan-linked protection as a vital safety net for low-income borrowers as the insurer awaits final rules on Irdai’s proposal to cap lender commissions at 2%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/pexels-photo-5849552_1782624877909_1782624887986_0cd5069c-4bfc-4ccf-9d02-e94cdf9dd442_1791902991707_M1Cs_1947f5b3-05bb-4267-9e4d-6d90ee897584_mnvw.jpeg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/icici-life-defends-credit-cover-as-irdai-weighs-steep-commission-cut-11791897611703.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T18:51:42.654401Z"
-    },
-    {
-      "id": "eebd37183f78328aa3f353881f99c7ff",
-      "title": "Adani Airport delays Mumbai international flight shift by at least five months",
-      "description": "Mumbai airport had planned to begin rebuilding Terminal 1B in January 2027. Under the original proposal, domestic flights from Terminal 1 would move to Terminal 2, while some international operations would shift to Navi Mumbai airport. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/5_NAVI_Mumbai_2025_1759769438449_1759769445343_1791908735613_wL1f_b57c2b6a-7d48-4804-bd5a-6ac41c2c622e_Drtv.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/adani-airport-delays-mumbai-international-flight-shift-by-at-least-five-months-11791901735911.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T18:51:42.654146Z"
-    },
-    {
-      "id": "3067e5dcfc817571655ebdceadacf72b",
-      "title": "RIL target price ahead of Jio IPO: 47% upside - Why Religare recommends buying Mukesh Ambani stock before issue launch",
-      "description": "Religare Broking recommends buying Reliance Industries, setting a target price of ₹1,696 against a reference price of ₹1,156, implying 46.7% upside. It sees a potential Jio Platforms IPO, improving cash flows, debt reduction and growth in Retail, O2C and New Energy as catalysts for a re-rating. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/maxresdefault_1791885818154_dWaH_1791885821954_L3R1_866bedff-7080-4313-b4c2-adbe8457adcc_BdZz.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/ril-target-price-ahead-of-jio-ipo-47-upside-why-religare-recommends-buying-mukesh-ambani-stock-before-issue-launch-11791877937959.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T18:51:42.066259Z"
-    },
-    {
-      "id": "ff8fdc2808fd12ae61cb0cb6f8b40874",
-      "title": "Moneyview share price: Newly listed stock gives 83% returns in 13 days | Should you hold for more gains or book profits?",
-      "description": "Moneyview share price: The digital lending platform’s shares were fixed at ₹34 apiece and listed on 1 October 2026 at ₹55 on the NSE, a premium of 61.76% over the IPO price. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/moneyview_1791883405675_uya9_1791883405808_Hnt4_bb85188d-7a67-4ea0-8125-3beeb0f5b247_T3JK.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/moneyview-share-price-newly-listed-stock-gives-83-returns-in-13-days-should-you-hold-for-more-gains-or-book-profits-11791881534101.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-10-13T18:51:42.066178Z"
-    },
-    {
-      "id": "2409891782e4e63d84c30ea9bd262b87",
-      "title": "Swaraj Engines share price in focus after strong Q2 results; Centrum Broking sees 24% upside — What's next for the stock",
-      "description": "Swaraj Engines reported strong Q2results, with net profit up 21.9%, revenue up 26% and engine sales rising 19.6% year on year. Centrum retained its Buy rating and ₹4,500 target, while flagging moderating tractor-industry growth and weather risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Swaraj_Engines_Upside_Outlook_1791884114625_Llub_1791884118653_9351_7ee03f76-19eb-4d3f-8fc9-ccc0ecd76c41_OkWH.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/swaraj-engines-share-price-in-focus-after-strong-q2-results-centrum-broking-sees-24-upside-whats-next-for-the-stock-11791880800959.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-13T18:51:42.066127Z"
-    },
-    {
-      "id": "6783077e4aaa75d2599b6d8427770dba",
-      "title": "Big IPO buzz! Jio Platforms reportedly attracts over $20 billion in bids ahead of India's biggest issue; GMP hits ₹200",
-      "description": "Jio Platforms has reportedly received more than $20 billion in bids for its planned IPO, which could become India’s largest. The company is targeting a valuation of up to $108 billion, with domestic and global investors showing interest.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Jio_IPO_Growth_and_GMP_Surge_1791897437960_oGBJ_1791897443052_Nbqn_71a9ccb0-94be-4d00-bccb-ca429c2a468b_CuWi.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/big-ipo-buzz-jio-platforms-reportedly-attracts-over-20-billion-in-bids-ahead-of-indias-biggest-issue-gmp-hits-rs-200-11791894843159.html",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-13T18:51:42.065588Z"
-    },
-    {
-      "id": "ff490d0c94b59c64a3851cb9bd841473",
-      "title": "Dividend, rights issue record date: Last chance to buy today - Shivam Autotech, Shraddha Prime, Anand Rathi Wealth",
-      "description": "Shivam Autotech and Shraddha Prime Projects have set October 15, 2026, as the record date for their rights issues. Anand Rathi Wealth also chose that date for its ₹4 interim dividend, after reporting 22% September-quarter profit growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/fsdfsg_1791824885261_Lu3r_1791824901680_d9IR_7ffba_1791913142333_9g70_1791913142578_MF2E_9e50ffed-6f57-42c6-87b1-17356dd9599a_f8qA.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/dividend-rights-issue-record-date-last-chance-to-buy-today-shivam-autotech-shraddha-prime-anand-rathi-wealth-11791910945306.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-10-13T18:51:42.065201Z"
-    },
-    {
-      "id": "1c7784d8cf1e93b562ccfc02f709c8c7",
-      "title": "Rule out V-shaped recovery, markets can fall more, says PL Capital with Nifty 12-month target at 27,589",
-      "description": "PL Capital remains cautious on the Nifty after its eight-week losing streak, ruling out a quick V-shaped recovery. The brokerage has trimmed earnings estimates but sees valuation comfort in largecaps, while flagging inflation, FII outflows and demand risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134912984,imgsize-211396.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rule-out-v-shaped-recovery-markets-can-fall-more-says-pl-capital-with-nifty-12-month-target-at-27589/articleshow/134912984.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-13T18:51:41.432798Z"
-    },
-    {
-      "id": "5dc8bf3f5cd58a9056078a66116a25ec",
-      "title": "Sebi notifies PMS rules; broadens investment avenue for portfolio managers, introduces PRIM route",
-      "description": "Sebi has announced a new Portfolio Management Services framework effective from April 1, 2027. This framework permits portfolio managers to invest in IPOs, primary market debt, and various overseas securities. Portfolio managers can also offer advisory services related to unlisted securities for large investors. Furthermore, a Portfolio Managers Route for Investing in Mutual Fund units will facilitate investment in direct.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134915892,imgsize-92514.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-notifies-pms-rules-broadens-investment-avenue-for-portfolio-managers-introduces-prim-route/articleshow/134915892.cms",
-      "type": "news",
-      "categories": [
-        "IPO"
-      ],
-      "pubDate": "2026-10-13T18:51:41.432610Z"
-    },
-    {
-      "id": "0baf8d5941b4b6c2aeba8c0561e600e6",
-      "title": "Sebi extends IPO-size flexibility on the back of soaring primary market activity",
-      "description": "Sebi has extended the IPO relaxation allowing companies to revise fresh issue sizes by up to 50% without filing a new draft red herring prospectus. The flexibility will apply to IPOs opening on or before March 2027, helping issuers and merchant bankers adjust fundraising plans amid changing market conditions and record activity. This key financial update highlights evolving market dynamics.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134920286,imgsize-81584.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-extends-easier-ipo-rules-till-march-2027-bankers-lobby-says/articleshow/134920286.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO"
-      ],
-      "pubDate": "2026-10-13T18:51:40.811180Z"
     }
   ]
 }
