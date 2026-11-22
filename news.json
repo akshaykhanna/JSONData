@@ -1,6 +1,189 @@
 {
   "news": [
     {
+      "id": "809a446abfc133adbd6ae05ffb32516c",
+      "title": "BSE Hospitals index soars 3%; Apollo, Max, Narayana Hrudayalaya surge 5%",
+      "description": "In the past month, the BSE Hospitals index outperformed the market by soaring 20%, against a 12.7% rally in the BSE Sensex. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000298.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/bse-hospitals-index-soars-3-apollo-max-narayana-hrudayalaya-surge-5-126112000298_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-22T05:01:47.126939Z"
+    },
+    {
+      "id": "4ef14c4518c604630cb4c05c3f409ceb",
+      "title": "Gold, silver prices fall amid stronger dollar, hawkish Fed signals",
+      "description": "In the domestic market, gold futures on the Multi Commodity Exchange (MCX) were trading near ₹1,23,000 per 10 gram, while silver futures were trading near ₹1,49,600 per kg. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000502.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/commodities/gold-silver-prices-fall-amid-stronger-dollar-hawkish-fed-signals-126112000502_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-22T05:01:47.126738Z"
+    },
+    {
+      "id": "7774e1fdfa0f6b0f715b3a2e40b55997",
+      "title": "HDFC Bank regains ₹13 trillion market-cap; stock hits 8-month high",
+      "description": "HDFC Bank's market cap hit ₹13.06 trillion, surpassing Jio Platforms (₹12.8 trillion market cap) in Friday's intraday deal. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000503.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/hdfc-bank-regains-13-trillion-market-cap-stock-hits-8-month-high-126112000503_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-22T05:01:47.126662Z"
+    },
+    {
+      "id": "72cbe6dd5d1e11a4de36a3f1f6d2f354",
+      "title": "Contra funds get NFO boost: Is it time to bet against the market consensus?",
+      "description": "ICICI Prudential Contra Fund raised ₹1,488 crore through its NFO, while the category's other five schemes together attracted net inflows of just ₹206 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000570.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/mutual-fund/contra-funds-get-nfo-boost-is-it-time-to-bet-against-the-market-consensus-126112000570_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-22T05:01:47.126552Z"
+    },
+    {
+      "id": "c5823829bf57e1da6cf780451c4d72cf",
+      "title": "SAHI launches free charting platform with AI-based market analysis tools",
+      "description": "The Accel- and Elevation Capital-backed stockbroking platform is offering real-time NSE data, 140 indicators and 23 market scanners through a browser-based service without subscription fees. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000598.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sahi-launches-free-charting-platform-sahicharts-indian-traders-126112000598_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-22T05:01:47.126495Z"
+    },
+    {
+      "id": "db42272d4171664d4704a66d8f427760",
+      "title": "Textiles shares hit new high; Indo Count, Welspun Living rally up to 8%",
+      "description": "In the past month, the stock price of Indo Count Industries zoomed 45%, followed by Welspun Living (29%), Pearl Global Industries (21%) and Nitin Spinners (11%). This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261120/full-126112000642.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/textiles-shares-hit-new-high-indo-count-welspun-living-rally-up-to-8-126112000642_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-22T05:01:47.126445Z"
+    },
+    {
+      "id": "49a2d2bb82efc5cfc07f526052e9e29e",
+      "title": "Paint companies eye stronger Q3 demand on festival shift, weddings",
+      "description": "Paint companies expect stronger demand and volume growth in Q3FY27, but margins remain under pressure as price increases have yet to fully offset input cost inflation. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261122/full-126112200081.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-paint-sector-demand-q3fy27-asian-paints-berger-kansai-nerolac-outlook-126112200081_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-22T05:01:47.126088Z"
+    },
+    {
+      "id": "1f3320eae125a6bcb68fa1eb2ffbf84b",
+      "title": "Anthropic's $1 trillion AI bet: Why it may need $602 billion in annual revenue to justify the investment",
+      "description": "The Financial Times estimates Anthropic may need $602 billion in annual revenue to earn a 20% return on its roughly $1 trillion in compute commitments. The calculation highlights the scale of the commercial challenge facing AI companies investing heavily in infrastructure. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Anthropic_IPO_debut_1795162091327_w0k5_1795162095580_b94F_023e7a6d-55f7-4310-a896-8d40ce9b8df5_fPgo.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/anthropics-1-trillion-ai-bet-why-it-may-need-602-billion-in-annual-revenue-to-justify-the-investment-11795159243685.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-22T05:01:46.527445Z"
+    },
+    {
+      "id": "13a6acad5a987f60ad798d1067351cd6",
+      "title": "Trump traded Nvidia stock 103 times in his second term: When did he buy and sell, and what's his stake worth?",
+      "description": "Trump’s investment accounts made 103 Nvidia trades worth up to $97.5 million since his return to the White House in January 2025, a CNBC analysis found. His Nvidia holdings surged to as much as $58 million by end-2025, as his ties with Jensen Huang deepened amid shifting US chip policies on China. This key financial update highlights evolving market dynamics.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/NVIDIA-PROBE-CEO-TRUMP-0_1794451564883_36cl_1794939168282_Wpzu_6d7c923c-1f1b-439a-a3b8-5b9252417d59_rFBE.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/people/trump-traded-nvidia-stock-103-times-in-his-second-term-when-did-he-buy-and-sell-and-whats-his-stake-worth-11794938377312.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-22T05:01:46.527342Z"
+    },
+    {
+      "id": "9e19e6809c69663e64863edd531160b4",
+      "title": "Pulse of the Street: Dalal Street extends winning run as global markets slide",
+      "description": "Foreign buying and a rally in bank stocks lifted Indian equities for a fourth straight week, but a broader global selloff could weigh on gains. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1795186371751_psuj_ce95d752-df84-4d28-8313-0ae2345c4e12_Jmof.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/pulse-of-the-street-dalal-street-extends-winning-run-as-global-markets-slide-11795181421343.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking"
+      ],
+      "pubDate": "2026-11-22T05:01:45.983306Z"
+    },
+    {
+      "id": "df2f16608b3f96c29fa28788658be219",
+      "title": "Nasdaq 100 sinks 5.6% in worst week since Covid, S&P 500 corrects to 3.7% as investors sell off AI, tech stocks",
+      "description": "AI investment concerns triggered a broad selloff, pushing the S&amp;P 500 into correction territory and the Nasdaq 100 to its worst week since March 2020. The sharp market pullback reflected worries about slowing data-center construction, tighter AI-project funding and weaker technology earnings growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/US-STOCKS-52_1795224667013_FzI2_1795224687106_OrVV_80fae1a4-d1fd-4b7c-b5bc-4b8eea6948d8_4iiB.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/us-stock-markets-nasdaq-100-5-6-pc-worst-week-since-covid-2020-s-p-500-3-7-pc-correction-investors-sell-off-ai-tech-11795223650589.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-22T05:01:45.982927Z"
+    },
+    {
+      "id": "2377108da1bf4768c4d6fa4b62ea6072",
+      "title": "Bitcoin crashes to over two-year low below $60,000 level: What do experts expect from crypto markets going ahead?",
+      "description": "Bitcoin price today: The world's largest cryptocurrency is trading near over two-year lows on 21 November, below the $60,000 level. The overall crypto market cap also slipped by 7.58% to $1.95 trillion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/pexels-photo-29822158_1794477105906_9GcX_179447711_1795239323310_JGui_1795239323480_EsmJ_14283afc-2709-4ec0-8ec5-b1997f609c6c_anXQ.jpeg",
+      "fullArticleLink": "https://www.livemint.com/market/cryptocurrency/bitcoin-crashes-to-over-two-year-low-below-60-000-level-what-do-experts-expect-from-crypto-markets-going-ahead-11795234024656.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-22T05:01:45.982708Z"
+    },
+    {
+      "id": "251293988163deab6bd01c3550102172",
+      "title": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+      "description": "Taiwan widened curbs on short sales of local stocks and said it has been buying shares, stepping up efforts to revive confidence after the island’s benchmark index had its worst weekly fall in 35 years. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/taiwan-widens-short-sale-curbs-after-shares-plunge-on-ai-concern-11795255471195.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-22T05:01:45.982442Z"
+    },
+    {
+      "id": "0d2e05639c579309fbda8ff196f61f67",
+      "title": "Penny stock under ₹10 with strong fundamentals, high book value; do you own this Reliance Group share? Target, SL",
+      "description": "Penny stock under ₹10: The Reliance Group company has a book value of around ₹26, which means the microcap stock is trading at a huge discount with price-to-book ratio of around 0.35. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Penny_Stock_under_Rs_10_with_high_book_value_1795316571258_wu8X_1795316571377_nOGg_14287839-11f0-41d5-b73e-c53962607fc0_WEFu.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-with-strong-fundamentals-high-book-value-do-you-own-this-reliance-group-share-target-sl-11795316117383.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-22T05:01:45.981845Z"
+    },
+    {
+      "id": "e56eca35b9c0d6770a071cafcb41c364",
+      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+      "description": "Anthropic’s shares fell about 9% after their market debut, deepening concerns over stretched AI valuations and showing that even a marquee listing has not revived investor enthusiasm for the sector. The focus is now shifting to whether Anthropic can justify its roughly 40-times-sales valuation and whether a potential OpenAI IPO next year can restore appetite for AI stocks.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136066633,imgsize-42900.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-22T05:01:44.786720Z"
+    },
+    {
       "id": "ed49dc747a9d81200429d29737ca2248",
       "title": "Ashoka Buildcon shares tank 6% as ₹846-cr Saudi Arabia project cancelled",
       "description": "Ashoka Buildcon share price: According to a press release shared by the company, a Saudi Arabia project worth Rs ₹846.38 crore was cancelled by Diriyah Company due to internal factors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14920,196 +15103,6 @@
         "IPO"
       ],
       "pubDate": "2026-10-13T18:51:40.811180Z"
-    },
-    {
-      "id": "92cbbc99930c458a7fb9e0302fe9f86b",
-      "title": "Sebi nudges brokerage firms to join return verification platform",
-      "description": "Only four qualified stock brokers have joined the PaRRVA platform so far, while several industry players have raised concerns over high costs and limited adoption. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261012/full-126101200779.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-nudges-brokerage-firms-to-join-return-verification-platform-126101200779_1.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-10-13T05:27:17.053067Z"
-    },
-    {
-      "id": "798c05eeb4fdee2f390f4213e05b8b2c",
-      "title": "Stocks to watch: HCLTech, RBL Bank, IRCON, TMPV, Hero Motors, Nazara Tech",
-      "description": "Tata Elxsi, Hero Motors, Anand Rathi Share and Stock Brokers, Den Networks, GTPL Hathway, PNB Gilts, ICICI Prudential Life Insurance will announce their quarterly earnings on October 13. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261013/full-126101300084.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-hcltech-rbl-bank-ircon-tmpv-hero-motors-nazara-tech-126101300084_1.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T05:27:17.052839Z"
-    },
-    {
-      "id": "44df68166062da05f0b6d79791382165",
-      "title": "Nifty weekly expiry in focus; Analysts decode charts, derivatives positions",
-      "description": "Based on the options data, on Tuesday the focus will be on the 22,250-22,500 range owing to Nifty's weekly expiry, says Dharmesh Bhatt, Head-Derivatives Research at Systematix Institutional. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261013/full-126101300086.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-weekly-expiry-in-focus-analysts-decode-charts-derivatives-positions-126101300086_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-13T05:27:17.052746Z"
-    },
-    {
-      "id": "9429e3eb1f60add4ecd0d050e38e491f",
-      "title": "HCL Tech shares gain over 5% after Q2 results; brokerages remain mixed",
-      "description": "HCLTech reported a 21.2 per cent rise in net profit at ₹5,132 crore in the second quarter of financial year 2027, up from ₹4,235 crore in the corresponding quarter last year. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261013/full-126101300164.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/hcl-tech-shares-gain-over-4-after-q2-results-brokerages-remain-mixed-126101300164_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-13T05:27:17.052627Z"
-    },
-    {
-      "id": "e9d6d0c7d49ee7c79377f054cd378e77",
-      "title": "RBL Bank plunges 8% even as Q1 profit zooms 170% YoY; analysts bullish",
-      "description": "RBL Bank's net profit rose 170 per cent YoY to ₹482 crore on the back of a net interest income (NII) growth of 37 per cent to ₹2,131 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/rbl-bank-share-price-plunges-8-even-as-q1-profit-zooms-170-yoy-analysts-bullish-126101300199_1.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-13T05:27:17.052551Z"
-    },
-    {
-      "id": "d0c352d696a02be2149f932cd30157c9",
-      "title": "ICICI Prudential AMC gains 2% after steady Q2 nos, positive analyst views",
-      "description": "Post Q2, brokerages have shared a constructive view on ICICI Prudential AMC, with Jefferies saying the quarter was a beat led by higher revenue yield. It has kept Buy rating & raised target to ₹3,760. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261013/full-126101300245.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/icici-prudential-asset-management-company-126101300245_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T05:27:17.052501Z"
-    },
-    {
-      "id": "f09bd7e33b4e87777d9667cbcf159d88",
-      "title": "Reliance’s Jio convention centre construction delay: SC directs MMRDA to deposit ₹646 cr",
-      "description": "The lease of the BKC land required Reliance to complete construction of the Jio World Convention Centre within four years, but the project was subsequently expanded and required additional approvals. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/12/1600x900/ANI-20250522260-0_1747987279567_1791806239084_1TIp_e16a3400-b3f8-4992-aeae-e59bb5a03b97_P44U.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/reliance-jio-convention-centre-construction-mmrda-11791802539461.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T05:27:16.359178Z"
-    },
-    {
-      "id": "bd072ef9d5919f21a14b24bc866cc2a4",
-      "title": "Why did Japanese chain 7-Eleven shut 31 stores in India despite its ‘long-term’ ambitions?",
-      "description": "At the end of September, Reliance Retail, which operates 7-Eleven stores in India under a master franchise agreement, shut all 31 outlets across the country. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/12/1600x900/logo/Untitled_design_-_2026-10-12T203946.993_1791817799088_vCCt_1791818441731_vpD4_475921cc-939b-4cb7-b895-7f8693569158_UYbV.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/why-did-japanese-chain-7-eleven-shut-31-stores-in-india-despite-its-long-term-ambitions-11791817401033.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T05:27:16.359008Z"
-    },
-    {
-      "id": "4dd0365da1c98ab30c6357945e008204",
-      "title": "'Be hungry like Samsung': Vedanta's Anil Agarwal shares S. Korean firm's growth story as it projects $80 bn in Q3 profit",
-      "description": "Vedanta chairman Anil Agarwal urged businesses to stay hungry for growth, citing Samsung’s evolution from trading to technology. His remarks came as Samsung projected nearly ninefold growth in Q3 operating profit to about $80 billion, driven by strong AI chip demand. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/Anil_Agarwal_Vedanta_Samsung_1791866784148_8Zog_1791866784247_8xHJ_1c814812-32bf-4e69-bb31-42ce2021e073_XZdF.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/be-hungry-like-samsung-vedantas-anil-agarwal-shares-s-korean-firms-growth-story-as-it-projects-80-bn-in-q3-profit-11791866541220.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-13T05:27:16.358408Z"
-    },
-    {
-      "id": "b0acac2575f4655c715006dbb255df8e",
-      "title": "Multibagger stock PC Jeweller share price drops 5% after 16% rally in 4 sessions: Here's why - Should investors worry?",
-      "description": "PC Jeweller shares fell 5% on October 13 as investors booked profits after a four-session, 16% rally that had taken the stock to a 52-week high. The company said it had repaid its outstanding bank debt and secured 28% year-on-year revenue growth in Q2 FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/13/1600x900/logo/PC_Jeweller_Shares_Drop_5_1791866854180_WJ6b_1791866864928_C7WT_8f65763b-9b86-4f04-9c31-ee583b297a72_iroC.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/multibagger-stock-pc-jeweller-share-price-drops-5-after-16-rally-in-4-sessions-heres-why-should-investors-worry-11791866049273.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-13T05:27:15.761083Z"
-    },
-    {
-      "id": "a288c94394f1bb58e54a1fc2fcef6f07",
-      "title": "HCL Tech shares rally over 4% after Q2 results. What are CLSA, JPMorgan, others saying?",
-      "description": "HCL Tech shares rose after the IT services major reported a 21% YoY rise in Q2 FY27 net profit to Rs 5,132 crore. Revenue grew 12% to Rs 35,620 crore, while new deal wins stood at $3.26 billion. The company retained its FY27 EBIT margin guidance at 17.5-18.5% and projected constant-currency revenue growth of 2.5-4% for the full year.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134907568,imgsize-2102340.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hcl-tech-shares-rally-over-4-after-q2-results-what-are-clsa-jpmorgan-others-saying/articleshow/134907568.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-13T05:27:15.071580Z"
-    },
-    {
-      "id": "0abde09b06c90e915282e2a42d7c1aea",
-      "title": "Reliance Jio IPO: GMP already seeing 'Ambani premium' ahead of record issue launch",
-      "description": "Reliance Jio Platforms is gearing up for a monumental IPO, sparking tremendous investor interest as grey market prices indicate a robust premium. Analysts suggest a potential 15-16% rise over the anticipated price range, with estimated proceeds around Rs 30,200 crore, marking this as India's largest public offering. Jio aims to redefine its image as a technology powerhouse, with further details.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134907748,imgsize-2254701.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-jio-ipo-gmp-already-seeing-ambani-premium-ahead-of-record-issue-launch/articleshow/134907748.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T05:27:15.071400Z"
-    },
-    {
-      "id": "51d2e428bc1e378b2e6d829936e78721",
-      "title": "RBL Bank shares plunge 8% despite 170% jump in Q2 profit. Should you buy, sell or hold?",
-      "description": "RBL Bank shares fell up to 8% despite a 170% year-on-year jump in Q2 FY27 net profit to Rs 481.7 crore. Strong net interest income growth and improved asset quality supported performance, while provisions rose. Nuvama raised its target price to Rs 500, citing the ENBD acquisition and FCNR deposit mobilisation, while Dolat Capital retained its Sell rating.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134907804,imgsize-2124199.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-plunge-8-despite-170-jump-in-q2-profit-should-you-buy-sell-or-hold/articleshow/134907804.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-13T05:27:15.071315Z"
-    },
-    {
-      "id": "87125b9105cf24d7aa9630bc21e7aa46",
-      "title": "ICICI Prudential AMC shares rise 2% as Jefferies, other brokerages revise target prices after Q2 results. Should you buy?",
-      "description": "ICICI Prudential AMC shares rose 2% after reporting a 6% YoY net profit rise to Rs 889 crore in Q2 FY27. Major brokerages including Jefferies, Emkay, and Centrum retained positive ratings with revised target prices offering up to 30% upside potential, while a Rs 30 dividend was declared. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134907852,imgsize-2152938.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-rise-2-as-jefferies-other-brokerages-revise-target-prices-after-q2-results-should-you-buy/articleshow/134907852.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-13T05:27:15.071233Z"
-    },
-    {
-      "id": "8731ab90d922279b2fa9daa9f93dfea6",
-      "title": "Why is market rising today? Sensex jumps 650 points, Nifty above 22,550. 4 key factors behind D-Street rebound",
-      "description": "On Tuesday morning, Indian equity benchmarks, Sensex and Nifty, showcased a robust recovery after a lower opening. The Sensex surged over 650 points, while Nifty ascended by nearly 200 points, surpassing the 22,550 mark. Driving this upward momentum, IT stocks saw notable gains, particularly HCL Tech, which soared more than 5% following its impressive Q2 results.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134907888,imgsize-218222.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-above-22550-4-key-factors-behind-d-street-rebound/articleshow/134907888.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-13T05:27:15.071163Z"
     }
   ]
 }
