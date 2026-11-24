@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "209276fb684a956cd1c0f96964201109",
+      "title": "Investors become richer by ₹34.61 trillion as Sensex surges in November",
+      "description": "Equity markets have rallied sharply this month, with the BSE Sensex climbing nearly 11 per cent, making equity investors richer by Rs 34.61 lakh crore amid strong foreign fund inflows, lower crude oil prices, better-than-expected Q2 earnings and a global sell-off in AI-linked stocks. The 30-share BSE benchmark Sensex jumped 7,976.46 points, or 10.71 per cent till November 23. Following.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261124/full-126112400402.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/investors-become-richer-by-34-61-trillion-as-sensex-surges-in-november-126112400402_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-24T21:54:35.383633Z"
+    },
+    {
+      "id": "37db6e510a32ed57ff80286a7380d00c",
+      "title": "IIFCL IPO: Govt to part sale stake, company to issue fresh shares",
+      "description": "The government is looking to part sale its equity shareholding in IIFCL along with a fresh issue of shares by the company in the initial public offering (IPO), which is likely by the end of the current fiscal year, an official said. The Cabinet had earlier this year approved the IPO and listing of India Infrastructure Finance Company Ltd (IIFCL).",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261124/full-126112400446.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/ipo/iifcl-ipo-govt-to-part-sale-stake-company-to-issue-fresh-shares-126112400446_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-11-24T21:54:35.383522Z"
+    },
+    {
+      "id": "2e775bd7fc76c502ee46cb9cca6e381c",
+      "title": "GSK India enters blood cancer space with Blenrep launch, bets on new drugs for growth",
+      "description": "The launch of its third oncology drug expands GSK’s innovative medicines portfolio as it targets doubling revenue to ₹8,000 crore by FY30, with new assets expected to contribute at least 20% to overall revenue. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/2-0-413680559-glaxo-0_1680665320597_1795523614965__1795523801033_6IkX_1795523801327_oO5L_0ed6d5dd-a2bb-4b32-9af1-d6f9156df989_yilP.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/gsk-india-enters-blood-cancer-space-with-blenrep-launch-bets-on-new-drugs-for-growth-11795519487348.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-24T21:54:34.731128Z"
+    },
+    {
+      "id": "20c7ed1721efb52fdbe747a98e881e69",
+      "title": "Ashok Leyland turns to Bengal for manufacturing expansion: What is the company planning to make in Singur? Details here",
+      "description": "Union minister Sukanta Majumdar says Ashok Leyland will build a heavy-vehicle plant in Singur, where a planned Tata Nano factory was abandoned after protests over land acquisition. The announcement follows initial talks with the company, but project details remain unclear. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/singur_1795524188641_GXfS_1795524193469_WB1z_15a8768f-1684-49a2-a690-54db94772978_9RxW.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/ashok-leyland-turns-to-bengal-for-manufacturing-expansion-what-is-the-company-planning-to-make-in-singur-details-here-11795521455454.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-24T21:54:34.731075Z"
+    },
+    {
+      "id": "5b2c01ea33fc158592274d55f0c80dfc",
+      "title": "Tata Sons reviews Air India, Tata Digital and Tata Electronics after Noel Tata flags losses of nearly ₹29,000 crore",
+      "description": "Tata Sons chairman N Chandrasekaran has begun reviewing businesses flagged by Noel Tata over mounting losses. After Air India, the review is expected to cover Tata’s Dholera semiconductor project, as the group assesses turnaround plans. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/Tata_Leadrs_Amid_Aviation_and_Technology_1795527_1795527961241_1vfY_1795527961365_ELBS_75bfe1ee-9b13-4126-afb8-909b63431d7c_KoHK.png",
+      "fullArticleLink": "https://www.livemint.com/companies/tata-sons-reviews-air-india-tata-digital-and-tata-electronics-after-noel-tata-flags-losses-of-nearly-29-000-crore-11795527586758.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-24T21:54:34.731014Z"
+    },
+    {
+      "id": "8660782d679927bbe41c22eef5a7de3d",
+      "title": "Tata Sons wins ITAT backing for ₹1,498 crore interest deduction on group investments",
+      "description": "The ITAT ruled that Tata Sons may deduct interest on loans used to invest in group companies, subject to limits for expenses linked to tax-exempt income. It said the company’s activities extend beyond passively earning dividends and that its business purpose must be considered. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/tatasons2_1795531871721_ETi7_1795531871834_hzKF_6b62b6cb-163a-4284-aa29-4bf925ffdcff_scxx.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-sons-wins-itat-backing-for-1-498-crore-interest-deduction-on-group-investments-11795529522443.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-24T21:54:34.730921Z"
+    },
+    {
+      "id": "34b779ed5f264452ed84bba9fea3157e",
+      "title": "5 energy stocks with attractive dividend yield - Hindustan Petroleum, Indian Oil, Bharat Petroleum, ONGC, to Gulf Oil",
+      "description": "HPCL, Indian Oil, BPCL, ONGC and Gulf Oil Lubricants are highlighted for dividend income. HPCL delivered a 7.1% FY26 dividend yield, while HPCL, Indian Oil, BPCL and Gulf Oil were reported to have yields above 4.5%.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/23/1600x900/logo/Energy_Stocks_and_Dividend_Growth_1795467459920_nKfT_1795467473251_ZXtn_2fb0fe23-1919-44b2-9bec-453b4fab5914_tDm2.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/5-energy-stocks-with-attractive-dividend-yield-hindustan-petroleum-indian-oil-bharat-petroleum-ongc-to-gulf-oil-11795467131434.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-24T21:54:34.126027Z"
+    },
+    {
+      "id": "cdf54899592fa42f19308f4e6d24f0f1",
+      "title": "Jensen Huang is back $1 trn m-cap; Nvidia's ₹92.84 lakh cr comeback - 70% losses recovered; Baird is bullish; target",
+      "description": "Nvidia shares surged 31.5% after Jensen Huang returned as CEO, recovering about 70% of recent losses and adding more than $1 trillion to the company’s market value. Several brokerages turned more positive, though export restrictions, China exposure and uncertainty over AI spending remain risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/Jensen_Huang_Leads_NVIDIA_Stock_Rally_179550322228_1795503234582_COHu_1795503234721_mTIk_232c9133-5b4e-49ef-a93b-519002e39d58_01gJ.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/jensen-huang-is-back-1-trn-m-cap-nvidias-rs-92-84-lakh-cr-comeback-70-losses-recovered-baird-is-bullish-target-11795500713599.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-24T21:54:34.125982Z"
+    },
+    {
+      "id": "0d386eef2d57ecde991ececbac4c6e06",
+      "title": "31.5% surge in Nvidia share adds $34 billion to Jensen Huang's wealth in a day; what's his net worth now?",
+      "description": "Nvidia’s board reinstated co-founder Jensen Huang as CEO, president and board member, triggering a 31.5% share-price surge and adding $33.7 billion to his fortune. The rally lifted other AI-related stocks and the Nasdaq, though Nvidia shares remain below their record high and down for the year. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/Jensen_Huang_1795445709041_DqIK_1795445722440_BKwj_1795516933176_k2gR_1795516933434_tuxJ_86de07de-e21d-45c9-b150-9b30caa574cb_bM7S.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/315-surge-in-nvidia-share-adds-34-billion-to-jensen-huangs-wealth-in-a-day-whats-his-net-worth-now-11795516605100.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-24T21:54:34.125793Z"
+    },
+    {
+      "id": "8c2d459ab25cb28e8843b935bbbb63c1",
+      "title": "South Indian Bank shares in focus as RBI approves SBI Mutual Fund to acquire up to 9.99% stake; stock up 612% in 5 years",
+      "description": "The RBI approved SBI Mutual Fund’s proposal to acquire up to a 9.99% stake in South Indian Bank, subject to regulatory conditions. The approval comes as the bank’s shares hit record highs; it also reported higher second-quarter profit and income, alongside improved asset quality. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/South_Indian_Bank_1792560145664_eU8i_1792560150072_1795527200478_IzEB_1795527201150_oWP1_8e6280dd-e9ef-455d-9279-6bf0faffff9d_pg55.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/south-indian-bank-shares-in-focus-as-rbi-approves-sbi-mutual-fund-to-acquire-up-to-9-99-stake-stock-up-612-in-5-years-11795526894476.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-24T21:54:34.125541Z"
+    },
+    {
+      "id": "54a55ce3f97e5213392da74533124748",
+      "title": "Anthropic shares crash below IPO price of $83 after record Nasdaq debut, down 31% from peak. What is spooking investors?",
+      "description": "Anthropic shares fell below their $83 IPO price, dropping to $79.42 after an early post-listing rally faded. The reversal has renewed concerns about AI valuations, infrastructure costs, competition and investment risks.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/Anthropic_Stock_1795535985068_4Cer_1795535990653_lnFS_aeeedcc3-2fdc-4e4f-a3d4-331988a6cb60_p5YK.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/anthropic-shares-crash-below-ipo-price-of-83-after-record-nasdaq-debut-down-31-from-peak-what-is-spooking-investors-11795533362689.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-24T21:54:34.125449Z"
+    },
+    {
+      "id": "186133e2b24e42863764c2b449eae251",
+      "title": "Beware! Fraudsters impersonating as Sebi-registered intermediaries: How can investors avoid traps - Experts explain",
+      "description": "Fraudsters impersonating Sebi-registered intermediaries are luring investors into unauthorised trading platforms and siphoning off money; regulator advises investors to verify intermediaries, avoid assured-return schemes and report cyber frauds on helpline 1930. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/scam_1795537908859_I0fU_1795537932778_hGRN_8622039b-fa13-4559-900b-67e4e08e0d16_C6x6.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/beware-fraudsters-impersonating-as-sebi-registered-intermediaries-how-can-investors-avoid-traps-experts-explain-11795535116795.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-24T21:54:34.125421Z"
+    },
+    {
+      "id": "69bcc4a3b5d350c7939018204c68c4d9",
+      "title": "A 50 bps jumbo rate hike can lead to financial stability concerns, hurt growth: Report",
+      "description": "SBI economists have lowered their rate hike expectations for the upcoming RBI policy review. They now anticipate a 0.25 per cent increase rather than the previously expected 0.50 per cent. This adjustment stems from concerns regarding financial stability and potential impacts on economic growth. The RBI's monetary policy committee is scheduled to meet from December 2 to December 4.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136130764,imgsize-334890.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/a-50-bps-jumbo-rate-hike-can-lead-to-financial-stability-concerns-hurt-growth-report/articleshow/136130764.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-24T21:54:33.510242Z"
+    },
+    {
+      "id": "7c449a0706780cb50f525d91ea32fccc",
+      "title": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
+      "description": "RBI Deputy Governor Rohit Jain has urged primary dealers to bid responsibly in government securities auctions. Jain noted instances of volatile pricing that misalign with orderly market conditions, impacting government borrowing costs. He highlighted the challenge of liquidity concentration in a few securities and called for improved market-making activities. Jain also pointed out declining demand from institutional investors for long-term.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136125661,imgsize-234514.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-11-24T21:54:32.977876Z"
+    },
+    {
+      "id": "ed7047ff9006ca169954ca375410be58",
+      "title": "Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG",
+      "description": "The demand for long-term government securities has seen a marginal decline recently. Insurance companies and pension funds are increasingly focusing on equities instead of sovereign debt. This change has impacted the stability of the government securities market and highlighted challenges in liquidity distribution. The Reserve Bank of India emphasizes the need for a coordinated approach and broader participation from institutional.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136130860,imgsize-113768.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-11-24T21:54:32.977755Z"
+    },
+    {
       "id": "12af674772c412a490bb5807030d83fe",
       "title": "Cons durables, autos: Systematix bullish on 2 sectors amid metal price fall",
       "description": "Copper and zinc prices have come under pressure due to a combination of macroeconomic factors, weakening industrial demand, rising inventories and profit booking after a strong rally since mid-2025. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14898,199 +15086,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-16T03:06:13.848254Z"
-    },
-    {
-      "id": "ce00d1aa287615566d30c1691ec6c28c",
-      "title": "Nifty IT rallies 9% in 3 sessions: 3 key factors driving the momentum",
-      "description": "Market experts attribute the rally to a combination of earnings resilience, value buying after a prolonged correction, and a possible rotation of funds away from AI-linked technology stocks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261015/full-126101500316.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-it-rallies-9-in-3-sessions-3-key-factors-driving-the-momentum-126101500316_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-15T16:18:09.290010Z"
-    },
-    {
-      "id": "f5f9b3519afa1c88aebaeaf45dc81acc",
-      "title": "Nestle India share price crashes 9% in intraday trade post Q2 results",
-      "description": "Nestle India on Thursday reported a 36.3% YoY growth in Q2FY27 net profit at ₹1,026.70 crore, backed by a 20.5% YoY surge in sales to ₹6,782.17 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261015/full-126101500502.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/nestle-india-share-price-crashes-9-in-intraday-trade-post-q2-results-126101500502_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-15T16:18:09.289792Z"
-    },
-    {
-      "id": "1956458b235e2203902ad0ba4f922d76",
-      "title": "Zetwerk IPO review: Analysts divided on growth prospects; losses a concern",
-      "description": "Zetwerk IPO review: Brokerages have shared mixed views on the public issue. SBI Securities and ICICI Direct have recommended a 'Subscribe' rating, while Swastika has rated it 'Neutral'. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261015/full-126101500501.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/zetwerk-ipo-review-analysts-divided-on-growth-prospects-losses-a-concern-126101500501_1.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:09.289753Z"
-    },
-    {
-      "id": "0bb51937f0717920435e8c48b4c4b82c",
-      "title": "Uday Kotak at Reliance Jio IPO press conference: Historic issue! RIL to become largest conglomerate by market cap",
-      "description": "Uday Kotak at Reliance Jio IPO press conference: The founder of Kotak Mahindra Bank said RIL would become the largest conglomerate by market cap, and Jio's years of perseverance had translated into market leadership in India's mobility and home broadband segments. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/INDIA-NEF-36_1792061110451_VZRn_1792061118350_gNhb_9d84b148-0d79-4cd7-896f-3902afddaa92_qsup.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/uday-kotak-in-reliance-jio-ipo-press-conference-historic-issue-ril-to-become-largest-conglomerate-by-market-cap-11792060852077.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:08.445129Z"
-    },
-    {
-      "id": "7cc84a859aa3eae18c68cfa833964e63",
-      "title": "Tata Elxsi vs Tata Tech: Which Tata Group's stock wins Q2 results report card? Profit, revenue compared - Target price",
-      "description": "Tata Elxsi vs Tata Tech: Tata Elxsi shares rose nearly 22.8% in a week after reporting 10% annual profit growth in Q2FY27. Tata Technologies gained about 6.36%, with profit up 3.6%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/Tata_Elxsi_Tata_Tech_1792056793142_IQOY_1792056793276_043j_282427aa-b640-4ee2-9f47-516d92c68a37_Oy2e.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tata-elxsi-vs-tata-tech-which-tata-groups-stock-wins-q2-results-report-card-profit-revenue-compared-target-price-11792056700603.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:07.736391Z"
-    },
-    {
-      "id": "1c07d25c33848f1c66fc27b9131635e9",
-      "title": "Reliance-backed Jio Platforms IPO RHP: 10 key risks investors can't afford to miss out before subscribing",
-      "description": "Jio Platforms’ IPO will open for subscription from 21 October to 23, with a price band of ₹1,065– ₹1,119 apiece. While GMP trends indicate strong listing expectations, investors should weigh key risks, including dependence on its telecom subsidiary, infrastructure providers, and customer retention. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/Jio_Platforms_IPO_10_Key_Risks_1792058444044_Md1z_1792058453529_QsdE_b695f78f-8453-4399-96d3-ee86ba0c5902_zYne.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/reliancebacked-jio-platforms-ipo-rhp-10-key-risks-investors-cant-afford-to-miss-out-before-subscribing-11792055995379.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:07.736288Z"
-    },
-    {
-      "id": "0d080d3b1dcad53401e36baf58d953fd",
-      "title": "ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest",
-      "description": "Brokerages expect banks to post healthy Q2FY27 earnings growth, supported by strong loan demand and deposit mobilisation. However, FCNR-B inflows and subdued low-cost deposit growth may squeeze private-bank margins. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/Banking_Stocks_Poised_for_Q2_Results_1792057351135_GrmW_1792057365570_E0w3_37606f13-e59f-488c-8dea-d385b41f3d3a_d6UG.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/icici-bank-hdfc-bank-sbi-axis-bank-which-banking-stock-to-buy-ahead-of-q2-results-what-experts-suggest-11792056491007.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:07.736250Z"
-    },
-    {
-      "id": "20b5689baa0fade845e1226e727580c7",
-      "title": "ICICI Life Insurance shares: Despite 34% slump in 2026, Religare sees 42% upside post Q2 results | Here's why",
-      "description": "Religare Broking reiterated its ‘Buy’ rating on ICICI Life Insurance, with a target price of ₹650, implying a 42.6% upside. The brokerage cited leadership continuity, distribution strategy and operating efficiency as key growth drivers, while flagging near-term softness in some product segments. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/ICICI_Life_Insurance_1792062582336_Tqwm_1792062586236_jqRE_f007a911-d361-4c3d-8f15-49ca08966c7c_0twV.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/icici-life-insurance-shares-despite-34-slump-in-2026-religare-sees-42-upside-post-q2-results-heres-why-11792055000414.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:07.736124Z"
-    },
-    {
-      "id": "145eba4a5c4a6beb080ff343f6b74615",
-      "title": "IRFC Q2 results 2026, dividend: Navratna PSU declares highest-ever dividend; Profit rises 10% to ₹1,958 cr",
-      "description": "IRFC reported a 10% year-on-year rise in Q2FY27 net profit to ₹1,958.48 crore, while quarterly revenue reached ₹7,866.41 crore. Its board approved a record interim dividend of ₹1.15 per share, with October 23, 2026, set as the record date. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/IRFC_Q2_Results_and_Dividend_Growth_1792066513119_8l1G_1792066523670_S21N_ad7f9f35-5391-4ac3-88db-313e8b4cc936_Vrjm.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/irfc-q2-results-2026-dividend-maharatna-psu-declares-highest-ever-dividend-profit-rises-10-to-rs-1-958-cr-11792066355251.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-15T16:18:07.735931Z"
-    },
-    {
-      "id": "c4c7869253119fbd1fc6d253f9f0a2cc",
-      "title": "Q2 results: Tech Mahindra dividend, bonus shares - Double delight for 7 lakh investors | Payout, ratio, record date",
-      "description": "Tech Mahindra reported a 32.74% year-on-year rise in Q2 FY27 net profit to ₹1,585.6 crore, while revenue grew 15.6% to ₹16,180.2 crore. The company announced an interim dividend of ₹15 per share and a 1:1 bonus issue. Check details. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/Tech_Mahindra_Q2_Rewards_Surge_1792071612562_VJGE_1792071625585_VZyf_d36393f8-ed1c-443b-8d2f-3233aad2634b_TYQo.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/q2-results-tech-mahindra-dividend-bonus-shares-double-delight-for-7-lakh-investors-payout-ratio-record-date-11792060760425.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-10-15T16:18:07.735840Z"
-    },
-    {
-      "id": "60a253fab63110473a1f03eee14a9484",
-      "title": "Jio Platforms IPO: Uday Kotak draws interesting link between Reliance’s 1977 listing and Jio market debut",
-      "description": "Recalling the moment, Kotak said that one evening in 1977, he saw the entire stretch of Marine Drive and Chowpatty illuminated and was told it was part of the IPO marketing campaign for Reliance Textile Industries, founded by Dhirubhai Ambani. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/maxresdefault_1792079313902_A7cs_1792079317990_4Gue_703f240f-df0b-46ca-a188-9d06cba41195_1l42.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-uday-kotak-draws-interesting-link-between-reliance-s-1977-listing-and-jio-market-debut-11792073601149.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:07.735733Z"
-    },
-    {
-      "id": "22c51102efa977e9ab0bfc1400160741",
-      "title": "Wipro ADRs surge 5% to two-month high despite Q2 profit dip: Is anti-AI trade driving gains?",
-      "description": "Wipro ADRs rose 5% to a nearly two-month high despite muted September-quarter results. Revenue increased modestly, while net profit and deal bookings declined. The company forecast Q3 IT services revenue of $2.571 billion to $2.625 billion, and its CEO expressed optimism about upcoming bookings. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/Wipro_US_1791903815296_VEr1_1791903821150_DJyV_9ad_1792078589142_zazB_1792078589271_y3Jk_1d57d05c-80d1-48ec-a74d-a89acc914429_jHBN.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/wipro-adrs-surge-5-to-two-month-high-despite-q2-profit-dip-is-anti-ai-trade-driving-gains-11792075444652.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-15T16:18:07.735564Z"
-    },
-    {
-      "id": "d0bc9213bfaa0526cd0923bdd8773d71",
-      "title": "Reliance Jio IPO to be listed soon: Why a 12% tariff hike may be coming in 3-4 months? Experts explain reasons",
-      "description": "A Centrum report expects telecom tariffs to rise 12–15% over the next three to four months, citing limited competition and strong demand for 5G fixed wireless and broadband. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/Reliance_Jio_1792080602450_xHm2_1792080602571_RYN1_3ee26f29-959d-48ec-838d-b098b3869192_XjaV.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-to-be-listed-soon-why-a-12-tariff-hike-may-be-coming-in-3-4-months-experts-explain-reasons-11792080397811.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:07.735477Z"
-    },
-    {
-      "id": "fb338b125f8f971adfa348effda9eebf",
-      "title": "Tata Sons pays Rs 4,475 crore in annual dividends; hypothetical investment could generate Rs 82,000 crore for philanthropy, says Harsh Goenka",
-      "description": "RPG Enterprises Chairman Harsh Goenka shared a hypothetical thought experiment on X regarding Tata Sons. He noted that selling Tata Sons' Rs 11.68 lakh crore listed equity portfolio and reinvesting in 6-7% safe yield instruments could generate up to Rs 82,000 crore annually for philanthropy, compared to its current Rs 4,475 crore dividend. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134964723,imgsize-1997664.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-pays-rs-4475-crore-in-annual-dividends-hypothetical-investment-could-generate-rs-82000-crore-for-philanthropy-says-harsh-goenka/articleshow/134964723.cms",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:07.024881Z"
-    },
-    {
-      "id": "94df877e6fd6b024cfc4ce3b5ded1da1",
-      "title": "How Akash, Isha Ambani’s missed college assignment led to the creation of Rs 10 lakh crore Jio",
-      "description": "A failed college assignment by Isha Ambani helped spark the idea for Jio, which is now preparing for a Rs 30,213 crore IPO at a valuation of around Rs 10.3 lakh crore. Akash Ambani said the proceeds would go towards debt reduction, as Reliance seeks to unlock value from its digital business. This key financial update highlights evolving market dynamics.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134968376,imgsize-206802.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/how-akash-isha-ambanis-missed-college-assignment-led-to-the-creation-of-rs-10-lakh-crore-jio/articleshow/134968376.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-15T16:18:07.024699Z"
     }
   ]
 }
