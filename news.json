@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "180fca5f55eeefc0448052927324c099",
+      "title": "Nifty eyes gap-up open; here's why 25,700 is the key level to watch out for",
+      "description": "Monday's session formed a textbook reversal day for Nifty, with the midpoint around 25,700, now becoming the immediate resistance, explains Dharmesh Bhatt of Systematix Institutional Research. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261125/full-126112500073.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-eyes-gap-up-open-here-s-why-25-700-is-the-key-level-to-watch-out-for-126112500073_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-25T06:58:17.382495Z"
+    },
+    {
+      "id": "b1e8bf78d8c0a6b48c2071fa2021c5e4",
+      "title": "Stock Market LIVE: Trent, Bajaj Finserv lead 2,000-pt rally in Sensex; Nifty Financial Svcs gain 3%",
+      "description": "Sensex Today | Stock Market LIVE Updates Wednesday: The GIFT Nifty indicated a gap-up open for the Nifty50 index. Asian markets reversed gains amid a sell-off in technology stocks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261125/full-126112500069.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-november-25-gift-nifty-bse-sensex-today-nifty50-crude-oil-prices-ipo-today-126112500069_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-25T06:58:17.382464Z"
+    },
+    {
+      "id": "440da0e2b68b82df6dd58681d7075f60",
+      "title": "Bulls return to D-St! Sensex zooms 2,000 points intraday; key factors here",
+      "description": "Analysts said that the dramatic change in FII stance towards India, AI trade unwinding, rupee appreciation, and better-than-expected earnings growth have combined to boost market sentiment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261125/full-126112500139.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/bulls-return-to-d-st-sensex-zooms-1-500-points-intraday-key-factors-here-126112500139_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-25T06:58:17.382332Z"
+    },
+    {
+      "id": "2ce63224497fd57042d0febff866fdb6",
+      "title": "APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows",
+      "description": "From Friday's close (before the deal was announced) to Wednesday's low the company's share price is down 29.13 per cent. Meanwhile, Tata Steel's stock is down 10.67 per cent in the same period. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261125/full-126112500175.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/apl-apollo-crashes-29-since-tata-steel-deal-sg-mart-sg-finserve-hit-lows-126112500175_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:17.382223Z"
+    },
+    {
+      "id": "22eec156ad2e75db8e5631e5bfbd249a",
+      "title": "Insurance stocks in demand: PB Fintech, Max Life, HDFC Life rally up to 8%",
+      "description": "Motilal Oswal maintained a positive stance toward the insurance sector's value of new business (VNB) margin expansion, backed by a rising share of non-ULIP products and improving cost efficiency. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261125/full-126112500194.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/insurance-stocks-in-demand-pb-fintech-max-life-hdfc-life-rally-up-to-8-126112500194_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:17.382165Z"
+    },
+    {
+      "id": "be5ea8fd3c3e4633891103bccfe51530",
+      "title": "Thomas Cook shares rally 14%, soar 62% in a month; what's driving gains?",
+      "description": "Thomas Cook shares have delivered a stellar performance over the past month, surging 62 per cent, even as the benchmark Nifty 50 index declined nearly 1 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261125/full-126112500294.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/thomas-cook-shares-rally-14-soar-62-in-a-month-what-s-driving-gains-126112500294_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-25T06:58:17.381890Z"
+    },
+    {
+      "id": "5a7f1ada9665b85c9e074c136283f92a",
+      "title": "Exclusive: Two Mistry letters to govt, 16 RBI meetings—inside the Tata Sons listing push",
+      "description": "An RTI-based Mint investigation found that Shapoor Mistry wrote twice to the govt over the matter of a Tata Sons listing, and that RBI's top officials and Tata leaders have had 16 meetings since 2022. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Shapoor_Mistry_Noel_Tata_1795579780378_ujho_1795579780500_gObU_32a8e791-826b-4138-8f86-0a686107ceaf_uW5J.jpeg",
+      "fullArticleLink": "https://www.livemint.com/companies/tata-sons-listing-shapoorji-pallonji-letter-to-pm-modi-rbi-11795496064785.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:16.706344Z"
+    },
+    {
+      "id": "b3e2fe64a5478b05d54c199e1812240f",
+      "title": "Investors, proxy firms question fairness of APL Apollo's ₹28k-cr Tata Steel deal",
+      "description": "The key concern lies in the complex structuring of the deal, where APL Apollo will buy two assets from Tata Steel for a total ₹28,000 crore, funded through debt. Tata Steel, in turn, will pay ₹15,510 crore for the 26.38% promoter stake in the tubes firm and make an open offer for another 26% stake.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/2-0-1411307928-iStock-936987156-0_1679753543499_1795534320678_lHo2_dea01d71-82da-4844-a3d5-37813faef0e5_yMhI.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/investors-proxy-firms-question-fairness-of-apl-apollos-28k-cr-tata-steel-deal-11795528424973.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:16.706235Z"
+    },
+    {
+      "id": "7b9dfaa94d11a02236f562f4802e43ef",
+      "title": "Foxconn faces India insolvency case over unpaid vendor dues",
+      "description": "While the dispute isn’t expected to derail Foxconn’s growth plans in India, it adds to the challenges as it competes with Tata Electronics for a bigger role in Apple's iPhone supply chain. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Foxconn_India_1795581522652_X94u_1795581522829_b25R_6963c8ac-5e4b-4ca1-8779-b028a364ffd3_74cz.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/foxconn-india-insolvency-case-bcd-emprasa-llp-11795580916661.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:16.705861Z"
+    },
+    {
+      "id": "ec3479c2e74c3f2bfeca89efa4d8fdbe",
+      "title": "New CEO Tewolde Gebremariam gets free hand from Tata Sons for Air India revamp: Report",
+      "description": "Tata Sons has authorized Air India CEO Tewolde Gebremariam to overhaul management and improve performance. The airline’s plans include reducing expenses, adjusting routes affected by airspace closures, pursuing wide-body aircraft and examining ways to integrate operations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/air_india_1795583551606_OCg4_1795583565005_loO6_86559034-e137-415c-8a02-b6e285d0fb3e_Jk5S.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/new-ceo-tewolde-gebremariam-gets-free-hand-from-tata-sons-for-air-india-revamp-report-11795583129626.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:16.705743Z"
+    },
+    {
+      "id": "8c65f6749a76c8876bfbf0c8805a12a6",
+      "title": "Valuation, debt worries overshadow Tata Steel-APL Apollo deal’s strategic gains",
+      "description": "While the two-part asset-sale and buyout deal will eventually triple Tata Steel’s downstream capacity, shares of both companies slid on Monday as shareholders face a 3-to-3.5-year wait for earnings accretion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/2-0-1262546722-Copy-of-tatasteel2-0_1679551695189_1795515052464_VRfq_20730e66-4fcb-4218-a072-de2918d1f5ae_4UGN.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/mark-to-market/tata-steel-apl-apollo-acquisition-deal-review-11795510022151.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:16.110410Z"
+    },
+    {
+      "id": "f5c93c9150d134b6b8184fb7edb647e1",
+      "title": "Top stocks to watch today: Tata Steel, Lenskart, Adani Enterprises, PhysicsWallah, Hindalco, ABB, and 9 others in focus",
+      "description": "Sensex and Nifty 50 are expected to open higher on Wednesday, supported by GIFT Nifty, despite weakness in Asian and US markets. After the Sensex’s steepest one-day fall in over four months, investors will track 15 stocks, including ABB India, Adani Enterprises, Tata Steel and Lenskart Solutions. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Top_Stocks_to_Watch_Today_wednesday_1795572725963_cGGm_1795572798247_GmzX_f48a40a6-e48c-4e9b-9144-e86765d8f155_Vc3h.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-lenskart-adani-enterprises-physicswallah-hindalco-abb-and-9-others-in-focus-11795571323811.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:16.110149Z"
+    },
+    {
+      "id": "87aa499472d7fb6b871a49904dbf434e",
+      "title": "Big boom in stock market today; ₹2.2 lakh cr wealth for investors! Sensex up 1,400 points, Nifty 600 | 3 main reasons",
+      "description": "Indian stocks rebounded sharply on Wednesday, with the Sensex and Nifty rising more than 1.5% after Monday’s selloff. Foreign investor inflows, falling crude prices and a stronger rupee lifted sentiment, while the Nifty moved closer to its record high. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/Sensex_Surges_as_Nifty_Nears_Peak_1795579387006_Xfd2_1795579393409_AuuN_53c9323a-211e-4c6b-b7db-98c40d64eec0_YwVN.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-today-rs-2-2-lakh-crore-added-sensex-surges-1-400-points-nifty-nears-peak-3-reasons-behind-the-rally-11795578511242.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-25T06:58:16.109983Z"
+    },
+    {
+      "id": "1a6ad167f5d89224c4c1bdae04e57e79",
+      "title": "Why APL Apollo Tubes shares crashed 15% today to plunge at 52-week low; downgrade from brokerages after Tata Steel deal",
+      "description": "APL Apollo Tubes fell 15% to its lower circuit after brokerages downgraded the stock following its proposed ₹28,000-crore acquisition of Tata Steel’s tubes and colour-coated businesses. Analysts cited debt, financing costs, earnings dilution and valuation concerns. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/APL_Apollo_Shares_Crash_15_1795582406263_NlGS_1795582410673_IHD0_c9a04b24-a3ee-4adc-a832-ae8f002081be_yBWE.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/why-apl-apollo-tubes-shares-crashed-15-today-to-plunge-at-52-week-low-downgrade-from-brokerages-after-tata-steel-deal-11795579639211.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:16.109859Z"
+    },
+    {
+      "id": "e382b430e47dca2d906c400892942028",
+      "title": "Top Nifty Bank gainer today: HDFC Bank shares jump 4% as index soars 2%— Should you buy or book profit? Experts advice",
+      "description": "HDFC Bank shares rose 3.7% to ₹848.95 as banking stocks rebounded, helping the Bank Nifty climb more than 2% despite weak global cues. Brokerages remained positive on the bank, citing healthy income growth and asset quality while flagging margin pressure and execution risks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/HDFC_Bank_Share_Price_Jumps_4_1795582730318_rS5N_1795582738979_oYcy_8c727adc-bafa-4313-a01d-e22ac486846c_XtFq.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-nifty-bank-gainer-today-hdfc-bank-shares-jump-4-as-index-soars-2-should-you-buy-or-book-profit-experts-advice-11795580304968.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-25T06:58:16.109816Z"
+    },
+    {
       "id": "209276fb684a956cd1c0f96964201109",
       "title": "Investors become richer by ₹34.61 trillion as Sensex surges in November",
       "description": "Equity markets have rallied sharply this month, with the BSE Sensex climbing nearly 11 per cent, making equity investors richer by Rs 34.61 lakh crore amid strong foreign fund inflows, lower crude oil prices, better-than-expected Q2 earnings and a global sell-off in AI-linked stocks. The 30-share BSE benchmark Sensex jumped 7,976.46 points, or 10.71 per cent till November 23. Following.",
@@ -14899,193 +15090,6 @@
         "Earnings"
       ],
       "pubDate": "2026-10-16T16:04:08.737042Z"
-    },
-    {
-      "id": "014b99afb1b30f814c0f895c3ab606c9",
-      "title": "Indian Bank, South Indian Bank gain up to 5% from day's low post Q2 results",
-      "description": "Indian Bank reported a near 15% YoY growth in net profit, while Uco Bank and South Indian Bank posted 26.8% and 21.3% profit growth in Q2FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261015/full-126101500635.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/indian-bank-south-indian-bank-gain-up-to-5-from-day-s-low-post-q2-results-126101500635_1.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-16T03:06:15.755826Z"
-    },
-    {
-      "id": "3976ce6fb56498592f1d2da829fb0780",
-      "title": "Aeroflex Industries tanks 11% on huge volume; down 17% in 2 days",
-      "description": "Thus far in the calendar year 2026, Aeroflex Industries stock outperformed the market by zooming 169%, as compared to a 13% fall in the BSE Sensex. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261015/full-126101500713.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/aeroflex-industries-tanks-11-on-huge-volume-down-17-in-2-days-126101500713_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-16T03:06:15.755683Z"
-    },
-    {
-      "id": "f56ea9b017711a36947ee27cdbda0b7b",
-      "title": "In freefall! Yes Bank crashes 20% after SC ruling on AT-1 bond write-off",
-      "description": "The dispute stems from the RBI-led reconstruction plan for Yes Bank in March 2020, under which AT1 bonds worth more than ₹8,300 crore were written down. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261015/full-126101500759.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/in-freefall-yes-bank-crashes-20-after-sc-ruling-on-at-1-bond-write-off-126101500759_1.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-16T03:06:15.755609Z"
-    },
-    {
-      "id": "a2e8803029a5eaed302c54328b7ba1d4",
-      "title": "Nifty sees best day in 4 months, rally remains confined to largecap stocks",
-      "description": "Nifty gains 1.66% as IT stocks, private banks and Reliance rally despite a sell-off in Asian technology shares; broader market breadth stays weak, with smallcap indices falling. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261015/full-126101501402.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/it-private-banks-lift-nifty-1-7-as-asian-ai-stocks-tumble-smallcaps-fall-126101501402_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-16T03:06:15.755539Z"
-    },
-    {
-      "id": "45a6812578d85b109c2883db947b3b9d",
-      "title": "South Indian Bank Q2 profit rises 21% to ₹426 cr on higher interest income",
-      "description": "South Indian Bank's net profit rose 21.3% to ₹426 crore in Q2FY27 as net interest income grew 38% to a record ₹1,116 crore, while gross NPAs declined to 1.24%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/south-indian-bank-q2-profit-rises-21-to-426-cr-on-higher-interest-income-126101501433_1.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-16T03:06:15.755496Z"
-    },
-    {
-      "id": "d4af0302c4ea72fdc3e4b52e16ef706e",
-      "title": "Infosys says 80,000 employees use AI coding tools. Why is it still hiring 20,000 graduates?",
-      "description": "Infosys' chief executive and managing director Salil Parekh expects AI services to account for almost half of the company’s work within two to three years. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/infosys_1792033853792_xoLg_1792033853969_aYE6_a280e664-a699-477b-8eca-53ca9fd017f4_p2q9.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/infosys-says-80-000-employees-use-ai-coding-tools-why-is-it-still-hiring-20-000-graduates-11792030468356.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-16T03:06:15.090194Z"
-    },
-    {
-      "id": "951022a86fabe85ba9c6d6d3e34f3f68",
-      "title": "TSMC open to partnership with Elon Musk’s Terafab as chip giant's Q3 profit hits record $23.6 billion",
-      "description": "TSMC is discussing a partnership with Elon Musk’s Terafab but insists on running the chip plant as the Taiwanese giant reports record quarterly profit of NT$763.1 billion. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/tsmc_1792054408372_MpOR_1792054408622_eJZw_30778ff4-a469-4a74-9795-6711271bbdb8_lvHm.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tsmc-open-to-partnership-with-elon-musk-s-terafab-as-chip-giants-q3-profit-hits-record-23-6-billion-11792051967864.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-16T03:06:15.089957Z"
-    },
-    {
-      "id": "9558abea2fce9bd265e14928c2ab1865",
-      "title": "Global auto once fled India; but some MNCs are now changing the script",
-      "description": "Stellantis, Hyundai, and Suzuki are committing billions of dollars in fresh investments in India. The aggressive push comes as foreign brands seek to counter market share gains by domestic rivals Tata Motors and Mahindra &amp; Mahindra. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/volvo11a1_1791863724496_xLHG_1792077738130_kOZ1_a9d67a66-e57b-4202-92c3-ca3dbb2648ed_lE4T.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/suzuki-hyundai-stellantis-india-investments-11792062860055.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-16T03:06:15.089133Z"
-    },
-    {
-      "id": "48f6a7fdd7e40a334ef414220f229c15",
-      "title": "Jio parent Reliance Industries breaks silence on Starlink row: 'We have never feared competition’",
-      "description": "Reliance Industries said it welcomes competition, including Starlink, and has never feared rivals. The company emphasized that all satellite communication providers must follow Indian laws and policies, noting that Jio’s own satellite services are awaiting government clearances. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/starlink_jio_1792119576230_0DUD_1792119582319_nRgu_1b53a4b2-867f-4c38-a791-e78db9005ad8_sZ9x.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/jio-parent-reliance-industries-breaks-silence-on-starlink-row-we-have-never-feared-competition-11792118824211.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-16T03:06:15.088886Z"
-    },
-    {
-      "id": "4bfc4123794bdf5338e417c87a6ad430",
-      "title": "Nifty bucks global AI selloff as heavyweights flex muscle",
-      "description": "The Nifty 50 index closed 1.66% higher at 22,997.35 on Thursday, clocking its biggest rise in percentage terms since 12 June. The Sensex 30 index closed 2.1% up at 74,315.61, similarly recording its highest rise since 12 June. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/maxresdefault_1792117999167_ocCx_1792118003971_LWjt_7d311aba-8772-4fb9-8b30-be5b24a8b4e4_ctPB.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/nifty-market-equity-ai-selloff-11792068678919.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-16T03:06:14.459226Z"
-    },
-    {
-      "id": "975eb8eeb15a5d3a945b5363c74cc5e7",
-      "title": "Wipro returns over ₹17,000 crore to shareholders through buyback, dividend, 2.6 times its H1 profit",
-      "description": "Wipro returned ₹17,029 crore to shareholders in the first half of FY27, well above its net profit, after completing a major share buyback and paying a dividend.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/15/1600x900/logo/buybacks_1792089232251_aump_1792089242179_zhX2_fe692ecf-78c4-4a03-8079-67baa5a0a409_qewn.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/wipro-returns-over-rs-17-000-crore-to-shareholders-through-buyback-dividend-2-6-times-its-h1-profit-11792084542028.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-16T03:06:14.459106Z"
-    },
-    {
-      "id": "c2f39b6247c6e5f8cc1500c2f34cab1c",
-      "title": "Banks defy Treasury drag, clock double-digit profit growth in July-Sept quarter",
-      "description": "Indian Bank, UCO Bank, South Indian Bank and Karur Vysya Bank reported double-digit Q2 profit growth, supported by core income and loan expansion. However, rising bond yields hurt treasury earnings, while improving asset quality and provisions shaped quarterly performance. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134969955,imgsize-61668.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-bank-uco-bank-lead-q2-profit-growth-as-treasury-income-slumps/articleshow/134969955.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-16T03:06:13.848773Z"
-    },
-    {
-      "id": "fee7bf6535a44a6c2d8cc0660ecca141",
-      "title": "Jio Financial Services Q2 Results: PAT drops 51% YoY to Rs 340 crore; NII soars 165%",
-      "description": "Jio Financial Services reported a 51% year-on-year decline in Q2 FY27 profit to Rs 340 crore, despite total income rising 132% and net interest income surging 165%. Its NBFC business delivered 140% profit growth amid expanding financial services operations. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134970520,imgsize-179162.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-financial-services-q2-results-pat-drops-51-yoy-to-rs-340-crore-nii-up-132/articleshow/134970520.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-16T03:06:13.848667Z"
-    },
-    {
-      "id": "b13638a27fe690bbc72661037924bfde",
-      "title": "L&T Finance Q2 net profit rises 33% to Rs 975 crore",
-      "description": "L&T Finance reported a 33% increase in consolidated net profit for the quarter ending September 30, 2026. The company's consolidated loan book rose 28% year-on-year to reach Rs 1.36 lakh crore. Net interest margin improved to 10.48%, while total income increased by 26% to Rs 5,484 crore. Asset quality also showed improvement, with gross non-performing loans declining to 2.7%.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134971866,imgsize-1001134.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/lt-finance-q2-net-profit-rises-33-to-rs-975-crore/articleshow/134971866.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-16T03:06:13.848502Z"
-    },
-    {
-      "id": "7c7b65f1750c7cd76d68c38e8bad44bb",
-      "title": "HDFC Life posts 14% rise in Sept quarter profit",
-      "description": "Value of new business (VNB) margin expanded 20 basis points to 24.7% against 24.5% a year ago. One basis point is a hundredth of a percentage point. Value of new business grew 12% to ₹2,040 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134979822,imgsize-1370562.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-life-posts-14-rise-in-sept-quarter-profit/articleshow/134979822.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-16T03:06:13.848254Z"
     }
   ]
 }
