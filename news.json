@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "e5cc85500547fa66561af9488afd9bc0",
+      "title": "Nifty can rally towards 26600; Ceat among 3 stock ideas: Jatin Gedia",
+      "description": "We expect the Nifty to reach the all-time high of 26373 and potentially extend towards 26600, where resistance in the form of the daily upper Bollinger band is placed. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261126/full-126112600048.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-can-rally-towards-26600-ceat-among-3-stock-ideas-jatin-gedia-126112600048_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-26T06:49:57.854037Z"
+    },
+    {
+      "id": "a26a62e11f4a89626e675be29264f369",
+      "title": "Stock Market LIVE: Sensex gains 500 pts; MCX, KFin Tech top SMID gainers",
+      "description": "Sensex Today | Stock Market LIVE Updates Thursday: In the broader markets, the Nifty MidCap 100 and the Nifty SmallCap 100 rose 0.51 per cent and 0.81 per cent, respectively. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261126/full-126112600049.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/stock-market-live-november-26-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112600049_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-26T06:49:57.853994Z"
+    },
+    {
+      "id": "64dc9f4d002e03bc5233942ebc0170ae",
+      "title": "Foodlink F&B IPO review: Why brokerages are divided on ₹361-crore issue",
+      "description": "Foodlink F&B IPO review: Brokerages are divided on the issue, with Anand Rathi assigning a 'Subscribe - Long Term' rating, while SBI Securities has given it a 'Neutral' rating. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261126/full-126112600087.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/foodlink-f-b-ipo-review-why-brokerages-are-divided-on-361-crore-issue-126112600087_1.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-26T06:49:57.853918Z"
+    },
+    {
+      "id": "034c09d5f28d52a916b1193044ba1520",
+      "title": "Siemens Energy jumps 9% as Sept qtr PAT rises 81%; ₹12 dividend declared",
+      "description": "Siemens Energy India has posted an 81.5 per cent Y-o-Y rise in net profit to ₹653 crore in the September quarter, supported by higher export contribution and disciplined order execution. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261126/full-126112600125.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/siemens-energy-jumps-9-as-sept-qtr-pat-rises-81-12-dividend-declared-126112600125_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-26T06:49:57.853813Z"
+    },
+    {
+      "id": "75810bc40ce87fa29d8a1cf22bfbbb01",
+      "title": "Multibagger stock Diamond Power gains 2% on order wins from Adani group",
+      "description": "Diamond Power stock has delivered spectacular returns to investors, gaining 155 per cent on a year-to-date (YTD) basis and 3353 per cent over three years. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261126/full-126112600174.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/multibagger-stock-diamond-power-gains-2-on-order-wins-from-adani-group-126112600174_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-26T06:49:57.853703Z"
+    },
+    {
+      "id": "dd01c6a5014d2b36539c9a57d4263653",
+      "title": "BSE shares gain 3%, hit 4-month high on HDFC Securities' upgrade to 'Buy'",
+      "description": "BSE: HDFC Securities attributed its upgrade to volume recovery, supportive CAS 2.0 regulations, continued options market share gains, lower SGF requirements and BSE's ability to outgrow the industry. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261126/full-126112600196.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/bse-shares-gain-3-hit-4-month-high-on-hdfc-securities-upgrade-to-buy-126112600196_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-26T06:49:57.853675Z"
+    },
+    {
+      "id": "5a27921b44d37e93dbf73fccf1ea4dc7",
+      "title": "Rupee recovery spells margin pressure for IT; Infosys stands out: Jefferies",
+      "description": "For every 1 per cent appreciation in the domestic cut, Jefferies estimates an earnings per share (EPS) cut for large IT firms in the range of 2-4 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261126/full-126112600362.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/rupee-recovery-spells-margin-pressure-for-it-infosys-stands-out-jefferies-126112600362_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-26T06:49:57.853571Z"
+    },
+    {
+      "id": "6c238c060305152b8bdfc7faf387c2ce",
+      "title": "HDFC Bank vaults 30% from Oct low; surpasses Airtel in market cap ranking",
+      "description": "At 10:59 AM on Thursday, with a ₹13.39 trillion market cap, HDFC Bank stood in second position, surpassing Bharti Airtel (₹13.22 trillion) in the overall market cap ranking. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261126/full-126112600392.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/hdfc-bank-share-price-hdfc-bank-vaults-30-from-oct-low-surpasses-airtel-in-market-cap-ranking-126112600392_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-26T06:49:57.853424Z"
+    },
+    {
+      "id": "ffaaad9b8fc738eda582d922488f198e",
+      "title": "Tata trusts sue to strip chairman of casting vote, challenge Chandrasekaran's reappointment as Tata Sons chairman",
+      "description": "The two trusts asked the court to stop any casting vote from being used at the 30 November meeting, where a plan to make Tata Sons public is expected to be discussed. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/If_1795671667406_kAhr_1795671667616_VLoe_785316fe-dae5-4500-aed8-25765eda1025_va2R.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/news/tata-trusts-challenge-chandrasekaran-reappointment-as-tata-sons-chairman-11795669654605.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-26T06:49:57.220936Z"
+    },
+    {
+      "id": "c55c4763ef2dc7803960d5257cf8fa51",
+      "title": "Top stocks to watch today: Bharti Airtel, HDFC Bank, LG Electronics, Lupin, Alembic Pharma, KSB and 7 others in focus",
+      "description": "Indian markets are poised to open higher on Thursday after the Sensex and Nifty surged nearly 2% on Wednesday, supported by foreign inflows, softer crude and bank-stock buying. Investors will track corporate updates from companies including HDFC Bank, Bharti Airtel, Lupin and LG Electronics India. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/Top_Stocks_to_Watch_Today_26_1795660640599_EzQr_1795660646143_BKPR_11993163-5a25-49d0-92d3-9bf83bc49371_Mb9q.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-bharti-airtel-hdfc-bank-lg-electronics-lupin-alembic-pharma-ksb-and-7-others-in-focus-11795659069403.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-26T06:49:56.653952Z"
+    },
+    {
+      "id": "f664a5aeff951f690a3189d02f3bdc2e",
+      "title": "BSE shares jump 48% in 2026 so far: HDFC Securities upgrades to BUY, hikes target; sees 18% returns | Revised price",
+      "description": "BSE shares rose about 3% after HDFC Sec upgraded the stock to Buy from Add and raised its target price to ₹4,450. The brokerage cited recovering derivatives volumes, market-share gains and regulatory changes, while noting that Oct’s activity was boosted by volatility and an extra Sensex expiry. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/BSE_Shares_Jump_48_Graphic_1795668773548_LR34_1795668780308_HcTC_a58d749f-93a2-4c57-b952-738fcebcdec3_EkHt.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/bse-shares-jump-48-in-2026-so-far-hdfc-securities-upgrades-to-buy-hikes-target-sees-18-returns-revised-price-11795665701890.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-26T06:49:56.653581Z"
+    },
+    {
+      "id": "4780a3973af385be642005a2fc3a2cbd",
+      "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
+      "description": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regarding food inflation and supply chain issues persist, adversely influencing overall forecasts.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136162711,imgsize-113464.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "IPO"
+      ],
+      "pubDate": "2026-11-26T06:49:55.975695Z"
+    },
+    {
+      "id": "267d1bff6be54f4d814875c40bf8ba84",
+      "title": "Sebi mulls early payout of up to 80% of sale proceeds to FPOs in commodity derivatives market",
+      "description": "Sebi introduced a proposal for an early pay-out framework designed to assist Farmer Producer Organisations. This framework would allow FPOs to access up to 80 percent of sale proceeds before contract expiry. The initiative aims to alleviate liquidity challenges by providing timely payments to farmers. Corporate trading members will offer this facility based on certain conditions and net worth requirements.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136162861,imgsize-168964.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-early-payout-of-up-to-80-of-sale-proceeds-to-fpos-in-commodity-derivatives-market/articleshow/136162861.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-26T06:49:55.975645Z"
+    },
+    {
+      "id": "afbe7f71c9356e646f5eb2889c7288bd",
+      "title": "Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?",
+      "description": "In the September 2026 quarter, Foreign Institutional Investors (FIIs) boosted their stakes in various firms, notably in Eternal and Adani Enterprises, despite facing mixed performance trends in stock values. While ICICI Bank and the Life Insurance Corporation of India saw a downturn, Welspun Corp and Lenskart Solutions marked notable stock price increases. Overall, the aggregate FII investment in NSE-listed companies.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136178764,imgsize-43200.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-adani-enterprises-among-10-stocks-with-highest-fii-buying-in-q2-how-many-do-you-have/slideshow/136178864.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-26T06:49:55.975243Z"
+    },
+    {
+      "id": "7f86de45d565f92a6246266b06ebf6ea",
+      "title": "RBI net buyer of dollars for fourth straight month in September, data shows",
+      "description": "The Reserve Bank of India recorded net purchases of $6.94 billion in the foreign exchange market during September. It bought a total of $82.18 billion while selling $75.25 billion in currency transactions. Despite a decline in the rupee, capital inflows reached about $143 billion due to various measures. Indian equities have recently attracted investors, leading to a rise.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136163192,imgsize-113398.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-11-26T06:49:55.424660Z"
+    },
+    {
       "id": "b02132932b2ce9c6341cb605d223f2db",
       "title": "PL Capital ups Nifty target to 28,561 on earnings growth, valuation comfort",
       "description": "Amnish Aggarwal, Co-Head - Institutional Equities, PL Capital, said that while near-term volatility cannot be ruled out, we remain cautiously optimistic over the next 12-15 months. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14898,194 +15089,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-17T14:56:48.821902Z"
-    },
-    {
-      "id": "067b2ffe3fb46b647569e0b02d3aac58",
-      "title": "Q2 impact: TechM shares gain 8% as analysts raise earnings estimate, target",
-      "description": "Tech Mahindra shares jumped 5 per cent and emerged as the top Sensex gainer after the Q2 results. SBI Securities said that it expects Tech Mahindra stock to outperform the broader IT sector and peers. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261016/full-126101600185.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/q2-impact-techm-shares-gain-5-as-analysts-raise-earnings-estimate-target-126101600185_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-17T02:58:07.560150Z"
-    },
-    {
-      "id": "504d6b384d1812d0a8494a77d696196d",
-      "title": "Sebi's CAS rule change bigger positive for brokers vs exchanges: Jefferies",
-      "description": "Jefferies said the decision to use the volume-weighted average price (VWAP) to calculate settlement prices of derivatives contracts on expiry days is a bigger positive for brokers than for exchanges. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261016/full-126101600560.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-s-cas-rule-change-bigger-positive-for-brokers-vs-exchanges-jefferies-126101600560_1.html",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-10-17T02:58:07.559556Z"
-    },
-    {
-      "id": "5d307c4a9d8f9a5ddbf50974c563a740",
-      "title": "RBI approves Emirates NBD merger with RBL Bank from December 1: 5 key things to know",
-      "description": "RBI has approved the merger of Emirates NBD’s Indian branches with RBL Bank from 1 December 2026. The decision follows Emirates NBD’s ₹26,000 crore investment for a 60% stake in RBL Bank, completed in June 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/GeminiGenerated_Image_5or8d75or8d75or8_179215870_1792158708077_5lex_1792158708219_el6W_313251b4-0323-420e-9c50-dd2b89c3190c_EL1O.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/rbi-approves-emirates-nbd-merger-with-rbl-bank-from-december-1-5-key-things-to-know-11792158278080.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-17T02:58:06.994569Z"
-    },
-    {
-      "id": "368454cd4724731a5360c331bc91e84d",
-      "title": "Nifty, Sensex investors alert! US bond yields remain above 5% - 5 ways this could impact your investments, portfolio",
-      "description": "US Treasury yields eased to 5.086% after reaching 5.33%, but analysts warned the decline may be temporary amid persistent inflation concerns. Prolonged high yields could pressure Indian stocks, bonds, and rupee, making diversification and regular portfolio reviews important. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/static/1yr/newmintdefault-120.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-sensex-investors-alert-us-bond-yields-remain-above-5-5-ways-this-could-impact-your-investments-portfolio-11792147018152.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-17T02:58:06.310688Z"
-    },
-    {
-      "id": "bed6d82d749977952b61d8e756cc597c",
-      "title": "Dividend delight on D-Street: Modison, LTM to Oberoi Realty announce dividends on October 16 | Amount, record dates",
-      "description": "Modison, Oberoi Realty and LTM announced dividends, with October 23 set as the record date for all three. Modison approved ₹4 per share, Oberoi Realty ₹2, and LTM ₹25. Modison’s Q2FY27 profit and revenue rose sharply, while Oberoi Realty’s profit edged up and income declined. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/Dividend_Delight_on_D-Street_1792167011439_skPm_1792167021115_A5FP_8e2310b1-bd19-42ab-b4e1-0c93296c9a14_lH6O.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/dividend-delight-on-d-street-modison-ltm-to-oberoi-realty-announce-dividends-on-october-16-amount-record-dates-11792166904111.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-17T02:58:06.310259Z"
-    },
-    {
-      "id": "3c986b74cac239152e1f11e7478c8785",
-      "title": "₹30 dividend: ICICI Prudential AMC dividend record date ahead! Check yield, payout history, stock performance",
-      "description": "ICICI Prudential AMC has declared an interim dividend of ₹30 per share for FY27, with October 21, 2026, set as the record date. Investors must own shares by October 20 to qualify. The stock closed 0.90% lower at ₹2,811.75 on Friday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/afg_1792168376361_2778_1792168409703_pvYS_71902a33-2771-480a-9f48-106ffdf6dd32_QoCs.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/rs-30-dividend-icici-prudential-amc-dividend-record-date-ahead-check-yield-payout-history-stock-performance-other-d-11792168215358.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-17T02:58:06.310207Z"
-    },
-    {
-      "id": "e7d8916f3e43a4b6c399e6ee726c651e",
-      "title": "HFCL shares jump 277% in 2026 ahead of Reliance Jio IPO; Nuvama says buy rating. Check target price and Jio connection",
-      "description": "Nuvama initiated coverage of HFCL with a Buy rating and a ₹380 target, citing its shift toward telecom and networking products, strong order book, investment plans and opportunities in data centers and defence. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/HFCL_Stock_1792174259090_yJfi_1792174268145_YliM_204dc490-03ac-46e0-8d4d-7a9d552ad4ef_m26d.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/hfcl-shares-jump-277-in-2026-ahead-of-reliance-jio-ipo-nuvama-says-buy-rating-check-target-price-and-jio-connection-11792172068819.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-17T02:58:06.310113Z"
-    },
-    {
-      "id": "2242417666c78abae1da89779f254cb3",
-      "title": "Karur Vysya Bank shares rally 6% after Q2 profit jumps 37% YoY",
-      "description": "Karur Vysya Bank shares rose sharply after the private sector lender reported a 37% year-on-year rise in Q2FY27 net profit to Rs 788 crore. Net interest income grew 19% to Rs 1,497.3 crore, while total business increased nearly 18% to Rs 2.40 lakh crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134982900,imgsize-2013049.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/karur-vysya-bank-shares-rally-6-after-q2-profit-jumps-37-yoy/articleshow/134982900.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-17T02:58:05.713736Z"
-    },
-    {
-      "id": "1cb3da7f50a851b4773d9972b54c7ff4",
-      "title": "Persistent Systems shares slide 5% despite Q2 revenue growth. Buy, sell or hold?",
-      "description": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brokerages remained divided on the stock amid valuation concerns and acquisition-related costs. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134983124,imgsize-1968917.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-5-despite-q2-revenue-growth-buy-sell-or-hold/articleshow/134983124.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-17T02:58:05.713609Z"
-    },
-    {
-      "id": "f92be3ed3f96e6996df70d4d919ec7d7",
-      "title": "Yes Bank Q2 preview: Will strong profit, NII growth offer relief for investors amid AT-1 bond saga?",
-      "description": "Yes Bank is expected to post a 48% YoY jump in Q2 net profit to Rs 969 crore, driven by robust loan growth and higher NII. However, investor focus remains on the Supreme Court ruling invalidating its Rs 8,415 crore AT-1 bond write-off, which has pressured the stock. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134990515,imgsize-1177068.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-preview-will-strong-profit-nii-growth-offer-relief-for-investors-amid-at-1-bond-saga/articleshow/134990515.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-17T02:58:05.713139Z"
-    },
-    {
-      "id": "056872a6b29dec93700cb40fd4aee220",
-      "title": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
-      "description": "Urban Company reported a net loss of Rs 182 crore in Q2FY27 as investments in its quick services business, InstaHelp, weighed on profitability. Revenue rose 41% year-on-year to Rs 537 crore, while orders grew 103%. The company also approved a fresh capital raise of up to Rs 2,500 crore, subject to shareholder approval. This key financial update highlights evolving market.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134992492,imgsize-144246.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q2-results-loss-widens-to-rs-182-crore-revenue-rises-41/articleshow/134992492.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-17T02:58:05.713064Z"
-    },
-    {
-      "id": "708b4a7d112f3338281ab8564ff91830",
-      "title": "Bajaj Housing Finance Q2 Results: PAT rises 18% YoY to Rs 757 crore, AUM grows 25%",
-      "description": "Bajaj Housing Finance reported an 18% year-on-year rise in Q2 FY27 profit to Rs 757 crore, while net interest income increased 10%. Assets under management grew 25% to Rs 1.58 lakh crore, with asset quality remaining largely stable. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134993051,imgsize-24012.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-housing-finance-q2-results-pat-rises-18-yoy-to-rs-757-crore-aum-grows-25/articleshow/134993051.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-17T02:58:05.713026Z"
-    },
-    {
-      "id": "bc213f565aea74e6ac30d6f1ae8c46f4",
-      "title": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
-      "description": "Federal Bank posted record Q2 profit of Rs 1,386 crore, up 45% year-on-year, as net interest income climbed 26%. Advances grew 22% and deposits 19%, while asset quality improved, with gross NPAs declining to 1.32% during the September quarter. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134996156,imgsize-81604.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-17T02:58:05.712924Z"
-    },
-    {
-      "id": "2d8f8e17395a7f6cc72519c20a57e390",
-      "title": "Ujjivan SFB to raise Rs 409 crore from IFC, three insurers",
-      "description": "Ujjivan Small Finance Bank plans to raise Rs 409 crore through a preferential share allotment to IFC and three insurers at Rs 64.73 per share. The bank also reported a 200% year-on-year jump in Q2 net profit to Rs 365 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134996772,imgsize-22394.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/ujjivan-sfb-to-raise-rs-409-crore-from-ifc-three-insurers/articleshow/134996772.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "IPO"
-      ],
-      "pubDate": "2026-10-17T02:58:05.712887Z"
-    },
-    {
-      "id": "62eef99b5a485c7c27ef7e6a5e776046",
-      "title": "DLF Q2 profit rises to Rs 1,301 crore as luxury project sells out",
-      "description": "DLF reported a 11% year-on-year increase in July-September net profit to Rs 1,301 crore, with sales bookings reaching Rs 3,800 crore. Its Aureva luxury retirement project in Gurugram sold out, while the company maintained a strong net cash position. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134996827,imgsize-40694.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/dlf-q2-profit-rises-to-rs-1301-crore-as-luxury-project-sells-out/articleshow/134996827.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-17T02:58:05.712821Z"
     }
   ]
 }
