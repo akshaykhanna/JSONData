@@ -1,6 +1,190 @@
 {
   "news": [
     {
+      "id": "6cd4a4601b8c20d4008d776a6463e806",
+      "title": "Sebi takes minority shareholders' rights seriously: Chairman Tuhin Pandey",
+      "description": "Sebi Chairman Tuhin Kanta Pandey on Friday said the market regulator takes minority shareholders' interests very seriously and supports the role of proxy advisory firms in flagging governance concerns. Investor protection remains one of Sebi's key priorities, Pandey said. When asked about the Tata Steel-APL Apollo Tubes proposed deal, he said proxy advisory firms have every right to raise issues.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700410.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-takes-minority-shareholders-rights-seriously-chairman-tuhin-pandey-126112700410_1.html",
+      "type": "news",
+      "categories": [
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T20:40:30.130698Z"
+    },
+    {
+      "id": "94592c05845ac67b3c46cbcd0c1e8739",
+      "title": "IIFCL, UCO Bank eye debut dollar debt before RBI window shuts, say bankers",
+      "description": "The plans come as US Treasury yields slide amid an unravelling of the global AI trade and investors ‌flocking towards safe-haven assets, making the window more attractive. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700586.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/iifcl-uco-bank-eye-debut-dollar-debt-before-rbi-window-shuts-say-bankers-126112700586_1.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-11-27T20:40:30.130509Z"
+    },
+    {
+      "id": "1a341df760fe3f54f6817e49f6ab0310",
+      "title": "Angel One surges 7% on huge volume; stock nears record high in weak market",
+      "description": "Angel One: In the past month, the stock price of the stock broking & allied services company surged 32% against a 13.6% rally in the BSE Sensex. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700640.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/angel-one-surges-7-on-huge-volume-stock-nears-record-high-in-weak-market-126112700640_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-27T20:40:30.130446Z"
+    },
+    {
+      "id": "ba413a6acff19063489e62e005c41f00",
+      "title": "Sebi aims to cut FPI onboarding time to five business days: Chairman",
+      "description": "Markets regulator Sebi is aiming to reduce the onboarding time for Foreign Portfolio Investors (FPIs) from several months to as little as five business days through digital workflows and system integration, its chairman Tuhin Kanta Pandey said on Friday. Addressing the 17th Capital Markets Conference organised by ASSOCHAM, Pandey said the regulator has also proposed removing the additional disclosure framework.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700698.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-aims-to-cut-fpi-onboarding-time-to-five-business-days-chairman-126112700698_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-27T20:40:30.130398Z"
+    },
+    {
+      "id": "f396b35dfbbd65027a22aa3314aac50f",
+      "title": "Sebi clarifies no change proposed to managing director age limit at MIIs",
+      "description": "Sebi says its proposals on managing directors concern only their term and tenure within and across MIIs, with the maximum age limit of 65 years remaining unchanged. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700801.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-clarifies-no-change-proposed-to-managing-director-age-limit-at-miis-126112700801_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-27T20:40:30.130354Z"
+    },
+    {
+      "id": "bd7e379b1175c0c2724a85cd4aee8b75",
+      "title": "Sebi grants Tata Steel extension till Dec 8 for APL Apollo Tubes open offer",
+      "description": "The extension comes amid concerns raised by proxy advisers, institutional investors, and other shareholders over the deal; the deadline for filing the draft letter remains unchanged. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112701221.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sebi-grants-tata-steel-extension-till-dec-8-for-apl-apollo-tubes-open-offer-126112701221_1.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T20:40:30.130268Z"
+    },
+    {
+      "id": "78e32186b52c9648b121b69c0b779246",
+      "title": "Noel Tata, Tata Trusts file caveat before Maharashtra Charity Commissioner ahead of HC hearing, says report",
+      "description": "Noel Tata and Tata Trusts filed a caveat with Maharashtra’s Charity Commissioner, seeking a hearing before decisions on applications concerning the Trusts. The move precedes a Bombay High Court hearing on a plea by SDTT and SRTT against Tata Sons and chairman N Chandrasekaran. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Untitled_Design_1795777571395_Um5t_1795777574642_2c3b_cb28bc98-9501-407c-a259-26de370591f1_mgme.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/noel-tata-tata-trusts-file-caveat-before-maharashtra-charity-commissioner-ahead-of-hc-hearing-says-report-11795772482769.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T20:40:29.141037Z"
+    },
+    {
+      "id": "d843aef3e4aa59b0e570f1f6f0187aea",
+      "title": "No stay for Tata Trusts: HC lets Tata Sons board meet, casting vote intact",
+      "description": "The Bombay High Court on Friday refused to grant interim relief to Sir Dorabji Tata Trust and RD Tata Trust, allowing Tata Sons to proceed with its board meeting on Monday, with any outcome subject to the court’s final ruling. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/2-0-656144453-Bombay-House03-20120918-HM-0_1680252210692_1795785749841_izhz_00c86f36-de8e-45a5-aa7d-983db8190752_omSC.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T20:40:29.140912Z"
+    },
+    {
+      "id": "54784eeb347d684076ea92518597a001",
+      "title": "No HDFC bank SMS alerts for UPI payments up to ₹500 from 1st January 2027 - here's why; what customers should know",
+      "description": "From 1 January 2027, HDFC Bank will stop sending SMS alerts for UPI transactions of ₹500 or less. Email alerts will continue for all UPI payments, provided customers have a valid registered email address. SMS alerts will remain for transactions above ₹500. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/AI_1795789392055_AncD_1795789392191_3zD4_af25f044-4938-44df-8aaa-a00bb99c9047_qloZ.png",
+      "fullArticleLink": "https://www.livemint.com/companies/news/no-hdfc-bank-sms-alerts-for-upi-payments-up-to-500-from-1st-january-2027-heres-why-what-customers-should-know-11795787590342.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T20:40:29.140811Z"
+    },
+    {
+      "id": "a2bdf0c161ef28c2bacf69f4d20b609e",
+      "title": "Why is Indian stock market falling today? Nifty down to near 25,600, Sensex crashes 900 points | Top 3 reasons explained",
+      "description": "Stock market today: Experts believe weakness in the Indian Rupee, renewed inflation fear, and US Fed rate hike buzz are the top 3 reasons that are dragging key benchmark indices on Dalal Street. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Stock_market_today_Crash_Nifty_50_Sensex_today_1795761586248_6ZKO_1795761586382_GZmP_ce729c42-316f-4990-9eff-accc988f7ff9_d5dt.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/why-is-indian-stock-market-falling-today-nifty-down-to-near-25-700-sensex-crashes-700-points-top-3-reasons-explained-11795761327368.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-27T20:40:28.486454Z"
+    },
+    {
+      "id": "4b495de97a0a3e3e5ebe3643d68a3ac5",
+      "title": "Is a US Fed rate hike confirmed in Dec meet? How will it impact Sensex, Nifty, Gold as US PCE inflation rises in October",
+      "description": "Sensex and Nifty fell on Friday as higher crude prices and Middle East tensions weighed on sentiment, despite institutional buying. Hotter-than-expected US core inflation has raised expectations of a possible December Fed rate hike, which could strengthen the dollar. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Inflation_Gold_and_Market_Momentum_1795766435164_jdG7_1795766439574_HpzB_c0e0ad40-e26c-4083-b82a-5c23511b5986_LZvP.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/us-pce-inflation-rises-in-oct-is-a-us-fed-rate-hike-confirmed-in-dec-meet-how-will-it-impact-sensex-nifty-and-gold-11795764103649.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-27T20:40:28.486403Z"
+    },
+    {
+      "id": "374d60a856c61a924d6c2f4333505692",
+      "title": "Stock market today: Sensex tumbles 1,000 points, Nifty drops 277 points as TCS, Infosys, Shriram Finance lead losses",
+      "description": "Indian markets fell on Friday, with the Nifty 50 down 1.07% and the Sensex losing as much as 1.20%. IT and financial stocks led declines, while rising crude prices and profit-taking after a strong November rally weighed on sentiment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Nifty_new_1795778195211_ln5F_1795778209329_esIx_d35c742c-c72f-4aa6-8a4d-71bf1544efff_ubpv.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-tumbles-1-000-points-nifty-drops-277-points-as-tcs-infosys-shriram-finance-lead-losses-11795774138976.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T20:40:28.486186Z"
+    },
+    {
+      "id": "e963f2a0a1e428616854a079afbced96",
+      "title": "Tata Steel-APL Apollo deal under Sebi scrutiny? What Chairman Tuhin Kanta Pandey said on minority shareholders",
+      "description": "Sebi Chairman Tuhin Kanta Pandey said protecting minority shareholders is a priority as the regulator examines Tata Steel’s proposed transaction with APL Apollo. Investors and proxy advisers have questioned the deal’s structure, warning it could shift costs to minority shareholders. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Steel_Stocks_Rising_Tata_Steel_and_APL_Apollo_1795_1795788042742_q9k5_1795788042937_kQrN_7b8d2c68-04be-4057-bcaf-4822b2a0a61c_iMdK.png",
+      "fullArticleLink": "https://www.livemint.com/market/tata-steel-apl-apollo-deal-under-sebi-scrutiny-what-chairman-tuhin-kanta-pandey-said-on-minority-shareholders-11795787306824.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T20:40:28.485999Z"
+    },
+    {
+      "id": "3a4cf6ea1f86131dedae515cb6225ad9",
+      "title": "Sebi to recast rulebook to fund India's growth: Tuhin Kanta Pandey",
+      "description": "Sebi aims to reduce the time taken to onboard FPIs to just five business days, down from months now, says its chairman Tuhin Kanta Pandey. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/INDIA-REGULATION-IPO-0_1765521059293_1765521067099_1795797933400_a1Cy_5c80bd21-7e26-40d9-b24c-c57c77a96870_8AmW.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/sebi-to-recast-rulebook-to-fund-india-growth-tuhin-kanta-pandey-11795784087961.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-27T20:40:28.485805Z"
+    },
+    {
+      "id": "ce5e4d5a1df39832eb1c0591a8b7157d",
+      "title": "OPEC+ set to keep oil production targets steady: Report",
+      "description": "OPEC+ is expected to maintain its production targets for Q1 2027, despite complexities arising from conflicting member production estimates and the ongoing Iran conflict. As the group reassesses its capacity data, some members voice their concerns over the initial findings. Analysts foresee a potential global oil surplus next year, increasing pressure on OPEC+, further complicated by recent exits of nations.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136232084,imgsize-67000.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/commodities/opec-set-to-keep-oil-production-targets-steady-report/articleshow/136232084.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-27T20:40:27.223057Z"
+    },
+    {
       "id": "9cf8bd5fe6ba9e9e56b72a629dc06af3",
       "title": "Nifty IT index flags breakout from 3 important chart patterns; details here",
       "description": "PL Capital and Emkay highlight that the Nifty IT has witnessed a breakout from a descending trendline, an inverted head-and-shoulders and a Golden Crossover on the daily charts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14874,206 +15058,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-19T03:13:39.708261Z"
-    },
-    {
-      "id": "ae3f6a2216d4c742bac874420c6cdce0",
-      "title": "Mcap of nine of top-10 most valued firms surges by ₹3.65 trn, TCS shines",
-      "description": "The combined market valuation of nine of the top-10 most valued firms surged by Rs 3.65 lakh crore last week, with TCS, Bharti Airtel and Infosys emerging as the biggest winners, amid a bullish trend in equities. Last week, the BSE benchmark Sensex surged 2,256.94 points, or 3.11 per cent, and the NSE Nifty jumped 625.7 points, or 2.77 per.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261018/full-126101800187.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/mcap-of-nine-of-top-10-most-valued-firms-surges-by-3-65-trn-tcs-shines-126101800187_1.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:37.083489Z"
-    },
-    {
-      "id": "5faf676dd599fe38ab0106f895fd1726",
-      "title": "Indian Bank raises FY27 growth guidance, plans 100 branches; CEO sees recoveries exceeding target",
-      "description": "Indian Bank has raised its FY27 growth guidance after reporting strong loan and deposit growth, improving asset quality and robust profitability, managing director and chief executive officer Binod Kumar said.&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/IMG-20261018-WA0022_1792317921199_7cAt_1792317925285_jnMC_db14de12-8fa2-400b-a996-dcc023abca87_mdFM.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/indian-bank-raises-fy27-growth-guidance-plans-100-branches-ceo-sees-recoveries-exceeding-target-11792303881199.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-18T15:22:36.404761Z"
-    },
-    {
-      "id": "ffb7af1b4e02322ea58859a50a8f9deb",
-      "title": "PNB CEO Ashok Chandra sees profit momentum continuing after strong Q2, eyes ₹6,000 crore quarterly profit milestone",
-      "description": "The bank has maintained consistency in operating profit, net profit and other key parameters over the past four quarters, and expects the trend to continue, Chandra said. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/PNB_1792329875443_R0bc_1792329891290_hlFA_23cb937a-4954-4033-9757-750cc11515ab_q4K9.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/pnb-ceo-ashok-chandra-sees-profit-momentum-continuing-after-strong-q2-eyes-6-000-crore-quarterly-profit-milestone-11792328382796.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-18T15:22:36.404515Z"
-    },
-    {
-      "id": "d9499affc50ae28562d7dd76ae70f2f1",
-      "title": "Reliance Jio IPO: LIC, leading MFs, AMCs and global investors eye issue, say reports | Check latest GMP price today",
-      "description": "Jio Platforms’ proposed ₹30,188-crore IPO has reportedly drawn nearly ₹2.5 lakh crore in commitments from global and domestic institutional investors. The issue is scheduled to open on 21 October, with proceeds intended partly to repay borrowings at Reliance Jio Infocomm. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Reliance_Jio_IPO_Market_Surge_1792300938917_a3Rv_1792300943207_j0Wb_697bc948-ec63-4b97-abae-619fb39b5c95_OEHa.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/reliance-jio-ipo-lic-leading-mfs-amcs-and-global-investors-eye-issue-say-reports-check-latest-gmp-price-today-11792299184449.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:35.844211Z"
-    },
-    {
-      "id": "73b848a2f0ca9f099583462425898c15",
-      "title": "Top 3 stocks to buy tomorrow: Mphasis, HAL, Indian Hotel by market expert; check stop-loss, target price for Mon, 19 Oct",
-      "description": "Nifty 50 and Sensex posted their strongest weekly gains in six months, supported by IT stocks and better-than-expected earnings. Motilal Oswal’s Chandan Taparia recommended Mphasis, HAL and Indian Hotels, with Nifty support at 23,000 and resistance near 23,250–23,350. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Chandan_Taparia_1788834234050_af1895d2-d413-4eaa-9_1792302422468_qtfx_1792302422762_A3aK_c85cb62a-e682-4264-b5e9-748df0fb9b4a_5iDR.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-tomorrow-mphasis-hal-indian-hotel-by-market-expert-check-stop-loss-target-price-for-monday-19-11792301288633.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-18T15:22:35.844171Z"
-    },
-    {
-      "id": "0d7226116473aef63344c4a5a222ee6b",
-      "title": "‘Rarest of rare’ bets on Reliance ahead of Jio Platforms’ biggest-ever IPO",
-      "description": "While nature of &nbsp;the &nbsp;bets ,seldom &nbsp;seen on RIL counter, &nbsp;is unkown , analysts believe clients could be expecting a &nbsp;bounce from fresh lows hit recently by the stock&nbsp;. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/INDIA-GUJARAT-SUMMIT-9_1705051231945_1792314740725_35Vq_9d71b37a-bc3d-4bba-8462-0c40b1243b87_bICF.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/rarest-of-rare-bets-on-reliance-ahead-of-jio-platforms-biggest-ever-ipo-11792294102396.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:35.844019Z"
-    },
-    {
-      "id": "005aef5cbacdaf6e9f1e4062591b3be6",
-      "title": "Cyient DLM shares crash 12% despite Q2 profit growth: 3 reasons, brokerages set targets; should you buy?",
-      "description": "Cyient DLM shares fell 12.24% after Q2 FY27 results showed revenue up 26.5% and normalised profit up 25.8%, but EBITDA margins narrowed to 8.7%. A record order book supported growth prospects, while margin pressure, investment costs and divided brokerage views weighed on sentiment. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Cyient_DLM_Market_Dip_Buy_or_Sell_1792315947048_QSIL_1792315964363_FoYp_c22bfe9c-ce99-4e47-81aa-d01b6d16ce61_KbVW.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/cyient-dlm-shares-crash-12-despite-q2-profit-growth-3-reasons-brokerages-set-targets-should-you-buy-11792312714575.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-18T15:22:35.843982Z"
-    },
-    {
-      "id": "05e4cd89b4448c3fd38b5975b4a4b907",
-      "title": "Adani Group stocks Q2 results 2026 date this week: Adani Green, Adani Energy, Adani Gas, Adani Power schedule, returns",
-      "description": "Adani Green Energy, Adani Energy Solutions, Adani Total Gas and Adani Power are scheduled to announce Q2FY27 results this week. Their boards will review quarterly and half-yearly financials, followed by investor or analyst calls. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Adani_Group_Q2_Results_2026_1792317291916_rbqh_1792317302198_2WGa_f0bcc2a9-30fe-43b6-864d-85fb4d11dd81_jwxV.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/adani-group-stocks-q2-results-2026-date-this-week-adani-green-adani-energy-adani-gas-adani-power-schedule-returns-11792312936958.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:35.843953Z"
-    },
-    {
-      "id": "5ae056d0e8f05b5335bf07c53f832953",
-      "title": "Stocks to buy: Ganesh Dongre of Anand Rathi recommends Larsen and Toubro, Equitas, Bajaj Finance shares | Target, SL",
-      "description": "Stock market outlook: Hawkish US Fed, other global central banks including RBI, and the upward bias in US 10-year boond yields, may continue to dictate FIIs' trade patttern, says Ganesh Dongre of Anand Rathi. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Ganesh_Dongre_Anand_Rathi_Stocks_to_buy_today_1792316213100_XTUV_1792316213234_1clt_9248cf19-1655-4031-a54e-ecc2c882d0d2_zWvp.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-ganesh-dongre-of-anand-rathi-recommends-larsen-and-toubro-equitas-bajaj-finance-shares-target-sl-11792314410454.html",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-18T15:22:35.843924Z"
-    },
-    {
-      "id": "93d48b8241a686a98f2080c7def39d01",
-      "title": "Stock market this week with top 7 factors for Sensex, Nifty: Reliance Jio IPO, crude volatility, FII selling, Q2 results",
-      "description": "Indian markets posted their strongest weekly gains since April, with Nifty 50 and Sensex rising more than 2.4%. This week, investor sentiment may hinge on major company earnings, Jio Platforms’ IPO, volatile crude prices, foreign and domestic institutional flows, and a Dussehra trading holiday. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Dfsgg_1792326919756_Ztlf_1792326930921_K0TV_edd2c770-beb1-4f0c-9d49-23696a784708_3s2C.jpg",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/stock-market-this-week-jio-ipo-crude-oil-price-volatility-fii-selling-q2-results-among-7-factors-to-watch-check-ni-11792326615470.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:35.843749Z"
-    },
-    {
-      "id": "ed07101696d7f75b602c308a5f882a46",
-      "title": "Reliance Jio IPO buzz reaches crypto market! Bitget launches Jio pre-IPO futures ahead of launch - Details for investors",
-      "description": "Bitget has listed JIOUSDT, a 24/7 pre-IPO perpetual futures contract that lets traders speculate on Jio Platforms’ valuation without owning shares. The contract offers up to 20x leverage. Jio’s IPO is scheduled to open October 21, 2026, with a reported grey market premium of ₹250. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Jio_IPO_Fuels_Crypto_Market_Buzz_1792331852219_rW3r_1792331868179_o3LW_143edb71-df13-4f71-b66b-bfbf00664f13_ynTE.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/reliance-jio-ipo-buzz-reaches-crypto-market-bitget-launches-jio-pre-ipo-futures-ahead-of-public-issue-what-is-it-11792323354455.html",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:35.843673Z"
-    },
-    {
-      "id": "7a0e68bfe9ccbe8b5351bdfe5af684b7",
-      "title": "HDFC Bank PAT ticks up 5% amid pressure",
-      "description": "HDFC Bank reported a 4.7% rise in standalone net profit for the second quarter, while margin pressure weighed on core profitability. Net interest income rose 9.7% as loans and deposits grew. The lender is also set to welcome a new chief executive this month, ending prolonged succession uncertainty. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135023863,imgsize-116157.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-pat-ticks-up-5-amid-pressure/articleshow/135023863.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:35.106011Z"
-    },
-    {
-      "id": "6d92f055e07d858784b8a95fa4402c38",
-      "title": "ICICI Bank profit spurts 20% on NII; core profitability a tad lower on FCNR(B)",
-      "description": "ICICI Bank reported a 20% rise in second-quarter net profit, helped by an 18% increase in core net interest income. However, core profitability edged lower as FCNR(B) deposits weighed on margins. NIM fell to 4.18%, while treasury operations swung to a loss amid higher government bond yields. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135023892,imgsize-485255.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-profit-spurts-20-on-nii-core-profitability-a-tad-lower-on-fcnrb/articleshow/135023892.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:35.105984Z"
-    },
-    {
-      "id": "4f9ec8dc4d60e31db59a51669121db45",
-      "title": "DIIs increase stake in 8 midcap stocks in Q2FY27",
-      "description": "DIIs increased their holdings in several NSE midcap stocks during the September 2026 quarter. Swiggy, One97 Communications, Meesho, Cochin Shipyard, Lenskart Solutions, Piramal Finance, APL Apollo Tubes and SBI Cards and Payment Services saw DII shareholding rise by more than 200 basis points quarter-on-quarter, based on StockEdge’s shareholding scan. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135027017,imgsize-19844.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/diis-increase-stake-in-8-midcap-stocks-in-q2fy27/slideshow/135027062.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:35.105692Z"
-    },
-    {
-      "id": "82ac2aadcd3501858786f1582aae9b06",
-      "title": "Mega Jio Platforms IPO to lead Rs 31,663 crore offerings this week; 9 listings lined up",
-      "description": "India’s primary market is set for a busy week, led by Reliance Jio Platforms’ Rs 30,213 crore IPO and Paras Healthcare’s Rs 1,450 crore issue. Both IPOs open on October 21. Nine companies are also scheduled to list, including six on the mainboard and three on SME platforms. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135024121,imgsize-170156.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/mega-jio-platforms-ipo-to-lead-rs-31663-crore-offerings-this-week-9-listings-lined-up/articleshow/135024121.cms",
-      "type": "news",
-      "categories": [
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T15:22:34.508185Z"
     }
   ]
 }
