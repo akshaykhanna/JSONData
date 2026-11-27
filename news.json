@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "9cf8bd5fe6ba9e9e56b72a629dc06af3",
+      "title": "Nifty IT index flags breakout from 3 important chart patterns; details here",
+      "description": "PL Capital and Emkay highlight that the Nifty IT has witnessed a breakout from a descending trendline, an inverted head-and-shoulders and a Golden Crossover on the daily charts. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700177.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/nifty-it-index-flags-breakout-from-3-important-chart-patterns-details-here-126112700177_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-27T06:42:12.939540Z"
+    },
+    {
+      "id": "a379c5b2d2d3016bba3e60b4d509c670",
+      "title": "Sharp turnaround? 4 stocks turn YTD positive after 15%+ losses till October",
+      "description": "Max Health, UNO Minda, Deepak Fert, IDFC First Bank rallied up to 30% in Nov, turning YTD positive. Here's why Sudeep Shah of SBI Securities expects the bullish momentum to continue in these stocks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700306.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/sharp-turnaround-these-4-stocks-turn-ytd-positive-in-november-after-15-losses-till-october-2026-126112700306_1.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T06:42:12.939383Z"
+    },
+    {
+      "id": "700431107c8e44a92bcebc4b7a508c24",
+      "title": "Defence index surges 3%; BEML, Data Patterns, Solar, Paras soar up to 11%",
+      "description": "In the past three trading days, the Nifty India Defence index outperformed the market by soaring 5% against a 2% rise in the Nifty 50. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700305.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/defence-index-surges-3-beml-data-patterns-solar-paras-soar-up-to-11-126112700305_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-27T06:42:12.939352Z"
+    },
+    {
+      "id": "b6a824bf29bdd5daf7e9a57dc32208ce",
+      "title": "Proxy advisors urge Sebi intervention over related-party concerns in Tata Steel-APL Apollo deal",
+      "description": "Three proxy advisory firms warn Tata Steel and APL Apollo’s complex ₹28,000-crore deal may breach Sebi related-party rules. They urge scrutiny, arguing the linked transactions could benefit APL Apollo’s promoters while shifting debt to public shareholders. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/TATA-STEEL-RESULTS--0_1765786614129_1765786711607_1795709664672_scMV_f924d355-3795-4004-86f1-0fc013f8156f_RI3L.JPG",
+      "fullArticleLink": "https://www.livemint.com/companies/proxy-advisors-flag-related-party-concerns-in-tata-steel-apl-apollo-transaction-11795704764028.html",
+      "type": "news",
+      "categories": [
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T06:42:12.277133Z"
+    },
+    {
+      "id": "2e7b8391a28ece510409249698eafd16",
+      "title": "Japan Bank Shares Risk Further Unwind as Funding Cost Bites",
+      "description": "Japanese banking shares face increasing risk of an unwind as higher interest rates provide less of a boost to profits amid intensifying competition across the sector. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/japan-bank-shares-risk-further-unwind-as-funding-cost-bites-11795741729928.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-27T06:42:11.723010Z"
+    },
+    {
+      "id": "ac07d0cc1891940ae154ec003c60b7ec",
+      "title": "Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
+      "description": "Mahanadi Coalfields Ltd., a unit of state-owned Coal India Ltd., is set to start trading Friday after its initial public offering in the first listing since India’s market regulator barred publishing so-called gray-market prices for IPO shares. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "fullArticleLink": "https://www.livemint.com/market/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo-11795746565861.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-27T06:42:11.722917Z"
+    },
+    {
+      "id": "9b0d1fb9a5b37fc7e206dc639d90d548",
+      "title": "Tata Power: Opportunity or value trap as ambitious growth plans meet execution risks?",
+      "description": "Tata Power's ambitious FY30 expansion roadmap and steady earnings growth offer a long-term growth opportunity, but project execution and a sizeable arbitration dispute remain key risks for investors. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/INDIA-RENEWABLES-SUMMIT-13_1795694031572_gx6R_1795694043729_EMgu_e9282b7e-5135-4125-8a4e-811f3b47c44e_p2lj.JPG",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tata-power-opportunity-or-value-trap-as-ambitious-growth-plans-meet-execution-risks-11795692308967.html",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T06:42:11.722883Z"
+    },
+    {
+      "id": "5ce2b07b9b3dd738abc0e7fe510cb46d",
+      "title": "Why IT stocks are down today? TCS, Infosys, Wipro lead losses as Sensex, Nifty fall | Time to buy for returns ahead?",
+      "description": "TCS shares were among the top Nifty IT laggards in early trade on Friday. The stock declined 2.75% to ₹2,567.70 at 9:30 am, compared with its previous closing price. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/IT_stocks_today_2_179575710647_1795757128557_o1ET_1795757128698_ixrE_25a1ea21-5dff-47b7-8149-c9df264bfdf6_dEFZ.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/why-it-stocks-are-down-today-tcs-infosys-wipro-lead-losses-as-sensex-nifty-fall-time-to-buy-for-returns-ahead-11795755363384.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T06:42:11.722635Z"
+    },
+    {
+      "id": "bbc70bb568abd5360cc24164cffd42d6",
+      "title": "Banking stocks hit the accelerator! Nifty Bank index up 18% in 1 month; HDFC Bank, SBI, ICICI Bank- 9 best stocks to buy",
+      "description": "The Nifty Bank surged 17.71% through November 26, outpacing the Nifty 50 as all 14 constituents advanced. Improving earnings, credit growth and expectations of stronger margins supported the rally. Anand Rathi expects fundamentals to remain healthy and names preferred stocks. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Banking_Stocks_Hit_the_Accelerator_1795760892369_HwHY_1795760900797_j7PX_fc810cb4-ebfa-40cc-b3b4-50a61b24eb75_kvh4.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/banking-stocks-hit-the-accelerator-nifty-bank-index-up-18-in-1-month-hdfc-bank-sbi-icici-bank-9-best-stocks-to-buy-11795758901361.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Earnings",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T06:42:11.722478Z"
+    },
+    {
+      "id": "cdcac227d13b5b17f098723ffeae3b0f",
+      "title": "Railway stock Jupiter Wagons shares fall 7.5% after 29% surge in 2 days post Woojin JV: Should you buy the multibagger?",
+      "description": "Jupiter Wagons shares fell 7.5% on Friday as investors booked profits after a 29% rally in 2 sessions, sparked by its joint venture with South Korea’s Woojin Industrial Systems. Jupiter Wagons will own 80% of the venture, which plans to manufacture metro coaches and railway technologies in India. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Jupiter_Wagons_Stock_Slide_Graphic_1795761371429_SLeY_1795761376417_epF8_39666515-3f78-46aa-9fef-c99b8a3f6694_hKk6.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/railway-stock-jupiter-wagons-shares-fall-7-5-after-29-surge-in-2-days-post-woojin-jv-should-you-buy-the-multibagger-11795760304111.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-27T06:42:11.722381Z"
+    },
+    {
+      "id": "a8469abdcd9c70062c96093c04f6da12",
+      "title": "NSE among 6 stocks hitting 52-week highs; stock rallies up to 35% in a month",
+      "description": "Six BSE 100 stocks, including NSE, DLF and Prestige Estates, hit fresh 52-week highs on Thursday. NSE led monthly gains, surging 35%, followed by Prestige Estates at 32%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136191931,imgsize-11832.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nse-among-6-stocks-hitting-52-week-highs-stock-rallies-up-to-35-in-a-month/slideshow/136192775.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-27T06:42:11.099096Z"
+    },
+    {
+      "id": "bc4c2f90184fd63d5f2ff2bf937043e5",
+      "title": "SC asks HDFC Bank, three others to ok staff prosecution",
+      "description": "The Supreme Court has ordered HDFC Bank, ICICI Bank, Sammaan Capital, and PNB Housing Finance to grant prosecution sanctions. This order pertains to allegations concerning fraudulent subvention schemes involving real estate developers and financial institutions. Homebuyers were subjected to loan recovery proceedings, even when builders failed to meet their financial obligations. The banks must comply within a week or their.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136206787,imgsize-50692.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/sc-asks-hdfc-bank-three-others-to-ok-staff-prosecution/articleshow/136206787.cms",
+      "type": "news",
+      "categories": [
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T06:42:11.099058Z"
+    },
+    {
+      "id": "c519d0366fe8bcc9ca70e1752b12374c",
+      "title": "HDFC Bank, SBI, 8 other stocks JPMorgan is bullish on as markets gear up to enter 2027. See full list",
+      "description": "As we step into 2027, Indian equities show promise, buoyed by favorable economic indicators. JPMorgan has rated ten stocks as Overweight, signaling significant growth potential in contenders like HDFC Bank, SBI, and Bajaj Finance. However, market experts advise a cautious and selective investment strategy given the prevailing uncertainties, emphasizing the importance of thorough analysis for informed financial decisions.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136208602,imgsize-61188.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-sbi-8-other-stocks-jpmorgan-is-bullish-on-as-markets-gear-up-to-enter-2027-see-full-list/slideshow/136208713.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-27T06:42:11.098814Z"
+    },
+    {
+      "id": "0e67ddb90ec92bf63bb1c7a2159eef9e",
+      "title": "Why is SanDisk stock falling despite surging profits?",
+      "description": "SanDisk shares tumble amid fading AI optimism, declining NAND price forecasts and semiconductor sector weakness. Despite strong earnings and data centre demand, investors fear potential memory-chip oversupply and weakening future profitability. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136179203,imgsize-340675.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-sandisk-stock-falling-despite-surging-profits/slideshow/136179318.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-27T06:42:10.089164Z"
+    },
+    {
+      "id": "53f7aa856dae639adf41cf8c498cccdd",
+      "title": "Nvidia stock plunges 35% from record high: Is it a buying opportunity?",
+      "description": "Nvidia has lost over $2 trillion in market value as shares plunged 35% from record highs amid concerns about the sustainability of AI investments. Despite the correction, strong hyperscaler demand supports growth projections, with revenue expected to rise 75% in 2027. Valuation, regulatory scrutiny and spending risks remain key concerns. This key financial update highlights evolving market dynamics, strategic corporate.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136209272,imgsize-3414304.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-plunges-35-from-record-high-is-it-a-buying-opportunity/slideshow/136209377.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-27T06:42:10.088381Z"
+    },
+    {
       "id": "794259ef14bd4710dc98793e73554801",
       "title": "Crystal Crop Protection lists at 3% premium after 17-times IPO subscription",
       "description": "The stock listed at ₹278 on the NSE, a 2.21 per cent premium to its issue price of ₹272. On the BSE, it opened at ₹280, marking a gain of 2.94 per cent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
@@ -14883,199 +15074,6 @@
         "Corporate"
       ],
       "pubDate": "2026-10-18T15:22:34.508185Z"
-    },
-    {
-      "id": "9e8364d33a3797453a70b4913321139c",
-      "title": "TIPS Music zooms 10% to hit 52-wk high after Q2 nos, ₹6.50/share dividend",
-      "description": "For the July-September quarter, TIPS Music reported a 23 per cent Y-o-Y increase in the profit after tax (PAT) at ₹65.5 crore. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261016/full-126101600665.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/tips-music-zooms-10-to-hit-52-wk-high-after-q2-nos-6-50-share-dividend-126101600665_1.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-18T02:59:44.226234Z"
-    },
-    {
-      "id": "6d003a6d9d93b0bdf950eabb1d014eaf",
-      "title": "HDFC Bank CEO-designate Bagchi to meet customers, regulators before taking over",
-      "description": "Anup Bagchi, who is set to take over the reins of HDFC Bank on 27 October, said he had been at the bank for a few days and knows many of the teams. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/17/1600x900/logo/HDB-FINANCIALSERVICES-IPO--0_1733848469052_1792246216673_Qpw6_7010976e-05e3-43dd-ac34-08706daec8d4_PL0F.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/company-results/hdfc-bank-ceo-designate-bagchi-to-meet-customers-regulators-before-taking-over-11792245445270.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T02:59:43.636983Z"
-    },
-    {
-      "id": "74425194f94008ac764566184ece5fc1",
-      "title": "Axis Bank’s rising costs, FCNR inflows squeeze Q2 margins",
-      "description": "Axis Bank’s Q2FY27 net profit rose 38% year-on-year to ₹7,003 crore, supported by lower provisions and strong loan growth. The lender expects credit demand to remain robust and sees potential to monetize digital payments through Freecharge. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/17/1600x900/logo/AXIS-BANK-CEO--1_1792252280865_Dtgo_1792252292320_p6cX_a7ab2275-7744-4bc4-b5d5-21ffd033ae78_Kitd.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/company-results/axis-bank-s-rising-costs-fcnr-inflows-squeeze-q2-margins-11792250295486.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-18T02:59:43.636836Z"
-    },
-    {
-      "id": "f974630f47f17a4713230051bbeb8c31",
-      "title": "Nifty soars 2.8% this week: What lies ahead for Dalal Street? - Experts decode 5 triggers, key levels for next week",
-      "description": "Indian equities rebounded this week, with the Nifty 2.77%, supported by IT shares and domestic institutional buying. Next week, investors will watch earnings breadth, foreign flows, global rates, crude prices and technical resistance, while experts recommend selective, staggered investing. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/17/1600x900/logo/Nifty_Soars__Bullish_Dalal_Street_Outlook_17922358_1792235873885_pl9s_1792235874058_1ZIj_6a0d9649-421e-47ee-895d-665a5189ae43_JkgJ.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/nifty-soars-2-8-this-week-what-lies-ahead-for-dalal-street-experts-decode-5-triggers-key-levels-for-next-week-11792231234654.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-18T02:59:42.943069Z"
-    },
-    {
-      "id": "218b45117fa4c588fcd78dae29daf14e",
-      "title": "Dividend rush next week! Infosys, Nippon, Sagility, Cyient among 11 firms in focus for reward, Q2 results | List",
-      "description": "Infosys and Colgate-Palmolive (India) are among the companies in focus next week as they announce quarterly results. Their boards may also consider dividends. Another company is scheduled to review its September-quarter results and announce an interim dividend for FY27. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/17/1600x900/logo/Dividend_Rush_Next_Week_1792254631925_mWbv_1792254646784_aND6_4e54836c-e9f8-43ec-99bb-ce99430dd97a_ueCM.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/dividend-rush-next-week-infosys-nippon-sagility-cyient-among-11-firms-in-focus-for-reward-q2-results-list-11792253097036.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T02:59:42.942940Z"
-    },
-    {
-      "id": "b582159406ee044782f32ceb0d1efd9f",
-      "title": "Tata Steel declares Q2 results 2026 date: EBITDA may decline QoQ; share price target, stop-loss and outlook in focus",
-      "description": "Tata Steel Q2 results 2026: Nuvama report says company's EBITDA per tonne may decline on sequential basis. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/17/1600x900/logo/Tata_Steel_Share_Q2_Results_2026_Date_Stock_to_buy_1792258166580_955m_1792258166724_JI66_0e6b6912-3131-4d35-8bd1-32abe8007675_0lCX.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/tata-steel-declares-q2-results-2026-date-ebitda-may-decline-qoq-share-price-target-stop-loss-and-outlook-in-focus-11792257156748.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T02:59:42.942871Z"
-    },
-    {
-      "id": "de2d568b73278bdb80925f67bc392552",
-      "title": "New CAS rules decoded: What Sebi’s revised framework means for stock market traders",
-      "description": "Sebi has revised the Closing Auction Session (CAS) framework after receiving more than 20,000 comments from stakeholders. The updated rules introduce a 10-minute closing auction, restore the VWAP method for F&O expiry settlement prices and clarify order transfers. Most changes will take effect on December 7, 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134983183,imgsize-2061280.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/new-cas-rules-decoded-what-sebis-revised-framework-means-for-stock-market-traders/articleshow/134983183.cms",
-      "type": "news",
-      "categories": [
-        "Indian Finance"
-      ],
-      "pubDate": "2026-10-18T02:59:42.305042Z"
-    },
-    {
-      "id": "52fed1540b5d21dea5202351072ca462",
-      "title": "Why are markets rising today? Sensex settles 400 pts higher, Nifty gains for 2nd day. 4 factors behind the surge",
-      "description": "On Friday, benchmark indices Sensex and Nifty extended their gains for a second consecutive session. IT stocks, which rose significantly, contributed to the market rally alongside gains in auto, metal, and PSU banking stocks. Additionally, US bond yields fell, enhancing the appeal of Indian equities for foreign investors. Meanwhile, oil prices eased despite ongoing tensions, leading to expectations of reduced.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134983166,imgsize-218222.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/why-are-markets-rising-today-sensex-soars-700-pts-from-days-low-nifty-nears-23150-4-factors-fuelling-the-surge/articleshow/134983166.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-18T02:59:42.304999Z"
-    },
-    {
-      "id": "eaab7febc8e186938e3f53aac3db5c90",
-      "title": "Market wrap: Tech Mahindra, TCS, InterGlobe, BSE top gainers and losers on Nifty and Sensex on Friday",
-      "description": "Indian equities extended gains as strong IT earnings lifted sentiment, with the Nifty rising 149 points to 23,146 and Sensex gaining 413 points. Tech Mahindra led advances, while broader markets slipped. Analysts flagged 23,000 as crucial for further upside. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-134992216,imgsize-255918.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tech-mahindra-tcs-interglobe-bse-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134992216.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T02:59:42.304495Z"
-    },
-    {
-      "id": "50cd2fa8a76eb2dc9ac5b8e468c7fb00",
-      "title": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
-      "description": "The Indian IT sector experienced an impressive surge, achieving its highest weekly increase in 18 years, driven by unexpectedly strong quarterly results from companies like HCLTech. The Nifty IT index jumped 11.7%, amidst falling semiconductor stock prices in Asia. Furthermore, the rupee showed notable strength, closing below the 95-mark for the first time in 38 days, reflecting the effective measures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135007166,imgsize-2207501.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-18T02:59:42.304351Z"
-    },
-    {
-      "id": "497d324ded1cd18ae9be3064f3fa2733",
-      "title": "8 small, midcap stocks with upside potential of up to 50%. How many are in your portfolio?",
-      "description": "PL Capital remains cautious after the Nifty’s eight-week losing streak, warning against expectations of a V-shaped recovery. Despite market uncertainty, the brokerage favours eight small and midcap stocks, including CESC, Amber Enterprises and Healthcare Global, citing potential upside of 13-50%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135009633,imgsize-57922.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/8-small-midcap-stocks-with-upside-potential-of-up-to-50-how-many-are-in-your-portfolio/slideshow/135009761.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-18T02:59:42.304163Z"
-    },
-    {
-      "id": "d4238dfaca5c37241418ab3df13836fb",
-      "title": "10 smallcap stocks surge up to 65% in 3 months despite market weakness",
-      "description": "Despite a nearly 4% decline in the Nifty 50 over three months, several Nifty Smallcap 250 stocks have rallied sharply. Cupid led with 66% gains, followed by Sterlite Technologies and Welspun Corp, highlighting pockets of resilience amid market volatility. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135010752,imgsize-18310.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/10-smallcap-stocks-surge-up-to-65-in-3-months-despite-market-weakness/slideshow/135010857.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-18T02:59:42.304023Z"
-    },
-    {
-      "id": "5f360cccf4d9f22937aeacb5f15b81f8",
-      "title": "Nifty reclaims 200 WMA; eyes further gains as key resistance shapes next move",
-      "description": "Indian equity markets rebounded 2.78%, with the Nifty reclaiming its crucial 200-week moving average. However, weak momentum indicators and overhead resistance warrant caution. Banking, metal, media, pharma and IT stocks show relative strength. Investors should monitor key support levels, prioritise fundamentally strong stocks and maintain disciplined risk management strategies. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135011480,imgsize-2522325.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-reclaims-200-wma-eyes-further-gains-as-key-resistance-shapes-next-move/articleshow/135011480.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking"
-      ],
-      "pubDate": "2026-10-18T02:59:42.303973Z"
-    },
-    {
-      "id": "6a801e52e44be7e70b8549c92515a67d",
-      "title": "Jio’s $3.2 billion IPO tests Ambani appeal with young Indians",
-      "description": "Reliance Industries Ltd. is gearing up to introduce Jio Platforms Ltd., anticipated to be the largest IPO in India. Slated for October 21, 2023, the IPO aims to attract around $3.2 billion. With shifting investor perspectives, particularly among the younger demographic who favor immediate profits over long-term investments, Jio's valuation is being closely examined alongside rivals like Bharti Airtel.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135006812,imgsize-3263564.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-3-2-billion-ipo-tests-ambani-appeal-with-young-indians/articleshow/135006812.cms",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-18T02:59:41.755387Z"
-    },
-    {
-      "id": "71ba068a31a83ee8ee78723f3bd0e449",
-      "title": "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
-      "description": "Reserve drain Forex reserves fall to $726 b on Oct 9 from $785.7 b on Sept 4, with latest reporting week alone showing a depletion of $8.58 b. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135007403,imgsize-121644.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
-      "type": "news",
-      "categories": [
-        "Banking"
-      ],
-      "pubDate": "2026-10-18T02:59:41.755053Z"
     }
   ]
 }
