@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "a018c742cea9761980fc13102b33911b",
+      "title": "Zydus Life shares dip 3% on USFDA's CRL to new drug; MOFSL stays 'neutral'",
+      "description": "MOFSL analysts said they expect Zydus Lifesciences' earnings to compound at 6 per cent over FY26-28, with a decline in FY27 to be followed by a healthy recovery in FY28. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700189.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/zydus-life-share-price-dips-3-on-usfda-s-crl-to-new-drug-mofsl-stays-neutral-126112700189_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-28T06:16:10.644878Z"
+    },
+    {
+      "id": "d45f46a68e424fd50c4cbef43bfdb77c",
+      "title": "HEG Ltd shares list at 25% premium after graphite business demerger",
+      "description": "HEG Ltd shares debuted on the NSE at ₹587 on Friday, commanding a 25.36 per cent premium over the pre-listing value of ₹468.25, following the demerger of its graphite electrode business. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700210.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/heg-ltd-shares-lists-at-25-premium-after-graphite-business-demerger-126112700210_1.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "IPO"
+      ],
+      "pubDate": "2026-11-28T06:16:10.644759Z"
+    },
+    {
+      "id": "0ffa7e644a051d54acd68c945fa628f3",
+      "title": "MCX market cap hits ₹1 trillion; stock rallies 11% in two days, up 77% YTD",
+      "description": "MCX stock price hit a new high of ₹3,939.85 on Friday, more than doubling from its 52-week low of ₹1,948.67 touched on December 11, 2025. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700430.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/mcx-market-cap-hits-1-trillion-stock-rallies-11-in-two-days-up-77-ytd-126112700430_1.html",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-28T06:16:10.644432Z"
+    },
+    {
+      "id": "208c1502e2062d802aeb95c2da5d3e5e",
+      "title": "Jefferies sees telecom tariff hike in April next year; Airtel top pick",
+      "description": "Jefferies said Airtel reported a 10 per cent Y-o-Y increase in its revenue in Q2, ahead of the sector, driven by 7 per cent ARPU growth and 3 per cent subscriber growth. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261127/full-126112700512.jpg",
+      "fullArticleLink": "https://www.business-standard.com/markets/news/jefferies-sees-telecom-tariff-hike-in-april-next-year-airtel-top-pick-126112700512_1.html",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-28T06:16:10.644344Z"
+    },
+    {
+      "id": "2511c072a05d8c06716c5dae36118f7b",
+      "title": "How Kotak took on Wall Street giants to dominate India's equity capital markets",
+      "description": "In fiscal 2026, Kotak Mahindra Capital Co managed 22 IPOs and seven QIPs that together raised ₹1.76 trillion. The same year, the investment bank led several marquee transactions. These include Tata Capital's ₹15,512-crore IPO, the largest for an NBFC in India's capital market's history. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/V_Jayasankar_1795797080224_R62E_179579708968_1795803645542_SihN_1795803645714_SwIo_827c5380-f32f-4111-b87b-672cca18cd5c_TkBn.jpg",
+      "fullArticleLink": "https://www.livemint.com/companies/kotak-investment-banking-carves-out-ecm-top-spot-as-ipo-underwriting-competition-intensifies-11795609285380.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "IPO",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-28T06:16:10.059851Z"
+    },
+    {
+      "id": "ea913d424532d97766e417bfe122766b",
+      "title": "Pulse of the Street: Profit booking snaps four-week rally; markets brace consolidation?",
+      "description": "Indian equities succumbed to profit booking after a nearly 13% November rally, while global technology stocks rebounded and metals remained under pressure. Investors will now look to GDP data for cues on growth and foreign flows. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/3-0-64268220-bse--3--0_1679804518242_1795796816129_0681_de5326e3-3b40-4a27-915a-7e3eba222a6c_tGVB.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-bse-sensex-nse-nifty-shares-indian-equities-technology-ai-11795785437907.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Earnings"
+      ],
+      "pubDate": "2026-11-28T06:16:09.493140Z"
+    },
+    {
+      "id": "244938febc9dc5e2ef4896016ed14819",
+      "title": "Upcoming IPO: Swara Baby Products’ public offering date, price band, fundraising and other key things to know",
+      "description": "The company plans to use the net proceeds from the fresh issue for several purposes, including establishing a new manufacturing facility in Madhya Pradesh and repaying or prepaying its outstanding borrowings. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/ipos_1795801625710_6uCh_1795801647134_UwGh_d83622d6-813a-4dc0-ad19-491f77b84510_aMFZ.jpg",
+      "fullArticleLink": "https://www.livemint.com/market/ipo/upcoming-ipo-swara-baby-products-public-offering-date-price-band-fundraising-and-other-key-things-to-know-11795801446389.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-28T06:16:09.493046Z"
+    },
+    {
+      "id": "256b19c89fb9e6a19c46ff154f83870f",
+      "title": "Why is RBI moving gold back to India? What Russia's frozen reserves and 1991 crisis reveal",
+      "description": "The RBI's latest half-yearly report shows that its domestic gold holdings rose to 740.13 metric tonnes at the end of September 2026, compared with 680.05 metric tonnes at the end of March 2026. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/27/1600x900/logo/Untitled_design_-_2026-11-27T225249.975_1795800178308_qjkS_1795800188872_2kvZ_03b8fce4-278f-4ba3-a3e1-0ad67b2c7f8b_hFLi.png",
+      "fullArticleLink": "https://www.livemint.com/market/commodities/why-is-rbi-moving-gold-back-to-india-what-russias-frozen-reserves-and-1991-crisis-reveal-11795799747181.html",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-11-28T06:16:09.493001Z"
+    },
+    {
+      "id": "e54f3ee2448adaecf1d2c750a93c44a3",
+      "title": "Best 3 stocks to buy: Manappuram Finance, BEL, SBI Life by Sumeet Bagadia | Targets, stoploss, Nifty, Bank Nifty outlook",
+      "description": "Stock market prediction: Despite the latest correction, the broader technical bias remains bullish, says Sumeet Bagadia of Choice Broking. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/28/1600x900/logo/Sumeet_Bagadia_stock_recommendations_today_1795833549071_bDTU_1795833549208_0jdO_adc42e74-16bf-48bd-b580-617ce7a5c15d_2baa.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/best-3-stocks-to-buy-manappuram-finance-bel-sbi-life-by-sumeet-bagadia-targets-stoploss-nifty-bank-nifty-outlook-11795833212780.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Banking",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-28T06:16:09.492723Z"
+    },
+    {
+      "id": "76cfb93ffbf9191a4358178d2de41f29",
+      "title": "Upcoming stock split, bonus issue record dates next week, Nov 30-Dec 4: Tech Mahindra, Indus Finance, Interarch, Beeyu",
+      "description": "Investors will track several corporate actions from November 30 to December 4: Tech Mahindra’s 1:1 bonus issue, Indus Finance’s 5:9 bonus issue, Interarch Building Solutions’ 1:5 stock split and Beeyu Overseas’ capital reduction. No stocks are scheduled to turn ex-dividend. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/28/1600x900/logo/Next_Week_Stock_Market_Highlights_1795838902699_IWFx_1795838907987_257O_874285e4-7391-4381-b7ab-591af60ae92a_7w1B.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/upcoming-stock-split-bonus-issue-record-dates-next-week-nov-30-dec-4-tech-mahindra-indus-finance-interarch-beeyu-11795837936736.html",
+      "type": "news",
+      "categories": [
+        "IPO"
+      ],
+      "pubDate": "2026-11-28T06:16:09.492666Z"
+    },
+    {
+      "id": "f52a004437bbce7b63819e532f19d0f0",
+      "title": "Suzlon Energy shares: Down 36% in 6 months! Will it rebound after winning wind repowering project from Tata Group?",
+      "description": "Suzlon Energy share price has slipped from around ₹57 to ₹36.38 per share on the NSE in six months, logging 36% dip in this period. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/28/1600x900/logo/Suzlon_Energy_share_price_Stocks_to_buy_Today_1795841493776_0Q6K_1795841493893_S7QT_c162cb79-c6f7-4838-be8b-219c3a7dad8f_JG7w.png",
+      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-down-36-in-6-months-will-it-rebound-after-winning-wind-repowering-project-from-tata-group-11795841310470.html",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex",
+        "Corporate"
+      ],
+      "pubDate": "2026-11-28T06:16:09.492479Z"
+    },
+    {
+      "id": "171e6532de57523bda1b7be6f4b80212",
+      "title": "Blackstone sells 1.55% stake in IGI for Rs 280 crore to meet public shareholding norms",
+      "description": "Blackstone completed the sale of a 1.5 percent stake in International Gemological Institute through block deals. The transaction involved selling over 67.16 lakh shares at an average of Rs 417 each. As a result, Blackstone's holding decreased from 76.55 percent to 75 percent. The stake sale was necessary to comply with minimum public shareholding requirements under Sebi regulations. Following.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136228297,imgsize-163536.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/blackstone-sells-1-55-stake-in-igi-for-rs-280-crore-to-meet-public-shareholding-norms/articleshow/136228297.cms",
+      "type": "news",
+      "categories": [
+        "Indian Finance"
+      ],
+      "pubDate": "2026-11-28T06:16:08.892598Z"
+    },
+    {
+      "id": "28de1668f9ec44c798c5c96901f6cf6e",
+      "title": "Microcap winners: Greaves Cotton, Thomas Cook among 10 stocks with gains of up to 50%",
+      "description": "Ten microcap stocks, led by Greaves Cotton, Thomas Cook India and Tanla Platforms, gained up to 50.21% over two months, outperforming the Nifty Microcap 250's broader decline. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136238790,imgsize-6510.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/microcap-winners-greaves-cotton-thomas-cook-among-10-stocks-with-gains-of-up-to-50/slideshow/136238905.cms",
+      "type": "news",
+      "categories": [
+        "Nifty & Sensex"
+      ],
+      "pubDate": "2026-11-28T06:16:08.892521Z"
+    },
+    {
+      "id": "3f4f12c3839877ca6f6e828d4e174e5f",
+      "title": "India bonds slump as oil spike adds to RBI hike bets",
+      "description": "Indian government bonds experienced a decline this week, largely influenced by rising oil prices and US Treasury yields. The benchmark bond yield reached its highest point in a week at 7.2650% on Friday. Analysts are anticipating a potential increase in interest rates from the Reserve Bank of India in their upcoming policy decision. A surge in oil prices raises inflation.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136221243,imgsize-54618.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/articleshow/136221243.cms",
+      "type": "news",
+      "categories": [
+        "Banking"
+      ],
+      "pubDate": "2026-11-28T06:16:08.318406Z"
+    },
+    {
+      "id": "1d6c48cef7b57531806b3733aff78a38",
+      "title": "Copper sweeps higher as China offers stock market support",
+      "description": "Copper prices experienced a notable increase after China's cabinet announced its support for the stock market, which positively impacted global equities. This rise follows a significant drop in copper prices earlier this month. Moreover, China's industrial profits recorded their highest growth in five months during October. The Yangshan premium for copper reflects a robust demand for imports, even.",
+      "imageUrl": "https://img.etimg.com/photo/msid-136232015,imgsize-191264.cms",
+      "fullArticleLink": "https://economictimes.indiatimes.com/markets/commodities/copper-sweeps-higher-as-china-offers-stock-market-support/articleshow/136232015.cms",
+      "type": "news",
+      "categories": [
+        "Earnings"
+      ],
+      "pubDate": "2026-11-28T06:16:08.318057Z"
+    },
+    {
       "id": "6cd4a4601b8c20d4008d776a6463e806",
       "title": "Sebi takes minority shareholders' rights seriously: Chairman Tuhin Pandey",
       "description": "Sebi Chairman Tuhin Kanta Pandey on Friday said the market regulator takes minority shareholders' interests very seriously and supports the role of proxy advisory firms in flagging governance concerns. Investor protection remains one of Sebi's key priorities, Pandey said. When asked about the Tata Steel-APL Apollo Tubes proposed deal, he said proxy advisory firms have every right to raise issues.",
@@ -14864,200 +15052,6 @@
         "Earnings"
       ],
       "pubDate": "2026-10-19T18:19:31.241215Z"
-    },
-    {
-      "id": "7a70dd677f8e7388285de0ae987dec68",
-      "title": "Stocks to watch: HDFC Bank, ICICI Bank, Bajaj Fin, DLF, OMCs, NTPC & more",
-      "description": "Stocks to watch: HDFC Bank, ICICI Bank, YES Bank, Axis Bank, Bajaj Finance, DLF, OMCs, NTPC, Bajaj Auto, Oberoi Realty, and more stocks will be in focus today. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261019/full-126101900059.jpg",
-      "fullArticleLink": "https://www.business-standard.com/markets/news/stocks-to-watch-hdfc-bank-icici-bank-bajaj-fin-dlf-omcs-ntpc-more-126101900059_1.html",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-19T03:13:42.698880Z"
-    },
-    {
-      "id": "932e66ad893bc9a06cb67d557cdb6ec1",
-      "title": "Tata Trusts to build 40-50 hospitals, focus on measurable impact: Noel Tata",
-      "description": "Noel Tata said that it is no longer enough to ask how much the Trusts have contributed. Philanthropy, he noted, must move beyond merely counting the people reached or amounts spent. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/TATA-INDIA-DISPUTE--EXPLAINER--0_1792295449835_4qAL_1792295663415_gETj_09f74b96-a00b-4e05-947d-2564ee9a4a33_HS2m.JPG",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-trusts-to-build-40-50-hospitals-focus-on-measurable-impact-noel-tata-11792295305604.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-19T03:13:41.741544Z"
-    },
-    {
-      "id": "ec2ce5814d60558d9fef1d7a86c9f03d",
-      "title": "Adani proposes to nearly double Mangaluru airport user fee by FY31",
-      "description": "Under the proposal, domestic departure fees will rise from ₹735 to ₹1,440 and international from ₹1,120 to ₹2,210 by FY31 as Adani Airport seeks to fund a ₹4,200-crore expansion plan. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts closely.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/2-0-1168628953-airport2-0_1679679182574_1792305249133_a8Nc_1694eba9-cfe1-4c32-bf6e-6ff5c011becc_Mm2z.jpg",
-      "fullArticleLink": "https://www.livemint.com/companies/news/adani-proposes-to-nearly-double-mangaluru-airport-user-fee-by-fy31-11792295769907.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-19T03:13:41.741508Z"
-    },
-    {
-      "id": "bb18dd6d0ae93812cc90cae302719ff1",
-      "title": "Tata Trusts’ ₹1,556 crore spending in FY26: Rural development, education and cancer care lead",
-      "description": "Tata Trusts disbursed ₹1,556.31 crore in the year to March 2026, with rural development receiving the largest share. Chairman Noel Tata said the group is working toward a network of 40 to 50 not-for-profit general hospitals, where paying patients would help fund care for those unable to afford it. This key financial update highlights evolving market dynamics, strategic corporate disclosures.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/tata_1792338334627_fwPu_1792338334766_kvhI_49ad2a55-180c-4ee1-9745-19989ebd8038_XSmD.png",
-      "fullArticleLink": "https://www.livemint.com/companies/news/tata-trusts-1-556-crore-spending-in-fy26-rural-development-education-and-cancer-care-lead-11792336033498.html",
-      "type": "news",
-      "categories": [
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-19T03:13:41.741198Z"
-    },
-    {
-      "id": "ce605fba2ea2e53f8612e63daa37171a",
-      "title": "Snabbit vs Urban Company Financials compared: Aayush Agarwal, Abhiraj Singh Bhal and battle over scale, losses, funding",
-      "description": "Snabbit and Urban Co’s InstaHelp business reported rapid growth in Q2 FY27, with about 6.2–6.4 million jobs or orders each. Both platforms remain loss-making, though they reported lower losses per job or order. Competition, expansion costs and pricing pressure continue to challenge profitability. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Snabbit_Urban_Company_Founder_Faceoff_179230858268_1792308592443_64Ro_1792308592808_gfHM_0fba7c5a-4183-4f58-a8b8-595d8d84bc99_lTQ3.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/snabbit-vs-urban-company-financials-compared-aayush-agarwal-abhiraj-singh-bhal-and-battle-over-scale-losses-funding-11792305330837.html",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-19T03:13:41.120104Z"
-    },
-    {
-      "id": "2208f5d8de6fc19f75e9e0779c8b964f",
-      "title": "Vaishali Parekh recommends 3 stocks to buy today: Coforge, Lalithaa Jewellery, Titan; target, stop-loss, market outlook",
-      "description": "Stock market today: Vaishali Parekkh believes Dalal Street bias has improved, but the Nifty 50 index would have the important 50-EMA level in the 23,300 zone, which needs to be decisively breached to establish positive conviction. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Vaishali_Parekh_stock_recommendations_for_today_1792344374898_ycSA_1792344375015_iqfb_a0131fc9-f3ac-4b79-a02b-40b1499647d2_VuuD.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/vaishali-parekh-recommends-3-stocks-to-buy-today-coforge-lalithaa-jewellery-titan-target-stop-loss-market-outlook-11792342947926.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex"
-      ],
-      "pubDate": "2026-10-19T03:13:41.119845Z"
-    },
-    {
-      "id": "ed592740ba7a4be028b124ded7ace26f",
-      "title": "Dividend record date: Last chance to buy today to qualify, Elecon, ICICI Prudential AMC, MRPL - Who pays max amount?",
-      "description": "Elecon Engineering, ICICI Prudential AMC and MRPL set October 21 as the record date for their dividends. With Tuesday a market holiday and India following T+1 settlement, Monday, October 19, is the last day to buy shares and qualify. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Dividend_Record_Date_Countdown_1792336866063_njYd_1792336878651_9fAx_1b0ffd17-8b4a-4045-9fb2-8a41fa6645ae_P7mE.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/dividend-record-date-last-chance-to-buy-today-to-qualify-elecon-icici-prudential-amc-mrpl-who-pays-max-amount-11792336666965.html",
-      "type": "news",
-      "categories": [
-        "Corporate"
-      ],
-      "pubDate": "2026-10-19T03:13:41.119814Z"
-    },
-    {
-      "id": "c648e32509fe3ce0c9e4ab162718deef",
-      "title": "Q2 results 2026 today Oct 19 Monday: Hindustan Zinc, IREDA, L&T Tech, Union Bank among 35 firms to announce earnings",
-      "description": "Indian benchmarks posted a second straight week of gains, with the Nifty and Sensex rising after a sharp recovery. Investors will watch quarterly earnings from 35 companies on October 19, including Bajaj Finance, Hindustan Zinc, UltraTech Cement and IREDA, as markets are expected to remain volatile. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Q2_Results_2026_Today_1792339065465_YhvS_1792339073512_k2vh_53f81888-357e-45e3-b8ea-0f7570d34a4a_6pjC.png",
-      "fullArticleLink": "https://www.livemint.com/market/stock-market-news/q2-results-today-hindustan-zinc-ireda-l-t-tech-union-bank-bajaj-finance-among-35-companies-to-announce-earnings-11792333351897.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-19T03:13:41.119788Z"
-    },
-    {
-      "id": "b9c334bb2a7c049e01cdf2eb29cff969",
-      "title": "Jio Platforms IPO GMP today: Reliance-backed ₹30,213 cr issue - Listing gains expectations for Oct 28 NSE, BSE debut",
-      "description": "Jio Platforms’ ₹30,213 crore IPO is scheduled to open October 21 and close October 23. Its grey market premium was reported at ₹245– ₹249, suggesting a potential listing price of ₹1,368 and gains of about 22.25%. This key financial update highlights evolving market dynamics, strategic corporate disclosures, and broader economic sentiment as investors track earnings, regulatory developments, and sector shifts.",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/Jio_IPO_GMP_Today_Graphic_1792340573271_oFH6_1792340582267_Udxk_ad21205e-7a5b-40a1-8c58-5ca011302b81_hm3Y.png",
-      "fullArticleLink": "https://www.livemint.com/market/ipo/jio-platforms-ipo-gmp-today-reliance-backed-rs-30-213-cr-issue-listing-gains-expectations-for-oct-28-nse-bse-debut-11792340409791.html",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-19T03:13:41.119536Z"
-    },
-    {
-      "id": "f50cbb65d613ea9dcec650ceaa880e0c",
-      "title": "Axis Bank Q2 profit up 38% on loan growth",
-      "description": "Axis Bank has showcased impressive results with a 38% surge in net profit for the quarter ending in September. This significant growth stems from strong loan demand and enhanced asset quality. The bank's net interest income increased by 11.8% year-on-year, totaling 15,371 crore, while overall advances rose by 23% compared to the previous year. The stability in the bank's net.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135023818,imgsize-53900.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-profit-up-38-on-loan-growth/articleshow/135023818.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-19T03:13:40.371688Z"
-    },
-    {
-      "id": "4a29efb97b228d2e5f278cf6b7870883",
-      "title": "Ixigo Q2 profit jumps to 63 cr; revenue up 13%",
-      "description": "Ixigo's financial report reveals a net profit of 63.42 crore for the July-September period, indicating robust performance. The company enjoyed a 13% increase in operational revenue, totaling 320.96 crore. Their hotel segment excelled with a Gross Bookings Value surpassing 100 crores, reflecting a remarkable 159% year-on-year growth and driving significant revenue increase, largely from its loyal user base utilizing various.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135023827,imgsize-.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/ixigo-q2-profit-jumps-to-63-cr-revenue-up-13/articleshow/135023827.cms",
-      "type": "news",
-      "categories": [
-        "Earnings"
-      ],
-      "pubDate": "2026-10-19T03:13:40.371661Z"
-    },
-    {
-      "id": "aefb7846f31ff2f850e7cc72f4eb445c",
-      "title": "FMCG firms grapple with input cost inflation in Q2, brace for margin pressure in H2",
-      "description": "FMCG companies are experiencing increased margin pressure as input costs continue to rise. Rising inflation is affecting profitability, forcing firms to consider price hikes after the festive season. Companies are currently absorbing some costs to maintain consumer demand in urban and rural markets. The expectations for the second half of FY27 remain cautious amidst fluctuating commodity prices. Consumer purchasing behavior.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135037464,imgsize-170972.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/fmcg-firms-grapple-with-input-cost-inflation-in-q2-brace-for-margin-pressure-in-h2/articleshow/135037464.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-19T03:13:40.371496Z"
-    },
-    {
-      "id": "0201eee88e37e7c0bc89e3c8448406e5",
-      "title": "Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings",
-      "description": "Bajaj Finance is projecting a remarkable 29% increase in net profit for the July-September quarter, driven by robust loan demand and a boost in interest income. With a significant rise in assets under management, the demand for its lending products appears strong. Yet, analysts caution about potential pressure on lending margins owing to escalating borrowing costs.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135026829,imgsize-266902.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-preview-profit-may-jump-29-nii-24-as-strong-loan-growth-lifts-earnings/articleshow/135026829.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings"
-      ],
-      "pubDate": "2026-10-19T03:13:40.371436Z"
-    },
-    {
-      "id": "56fb6cd76459745414e4310b89acb934",
-      "title": "Anup Bagchi backs 'exceptional' team as he connects the dots at HDFC Bank",
-      "description": "Anup Bagchi is set to take charge as MD and CEO of HDFC Bank starting October 27. He is currently familiarizing himself with the bank's balance sheet and profitability structure. Bagchi aims to engage with regulators, customers, and stakeholders to gather insights before implementing changes. His focus is on understanding the organization's operations rather than rushing into strategic alterations.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135037338,imgsize-129884.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/stocks/news/anup-bagchi-backs-exceptional-team-as-he-connects-the-dots-at-hdfc-bank/articleshow/135037338.cms",
-      "type": "news",
-      "categories": [
-        "Banking",
-        "Earnings",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-19T03:13:40.371320Z"
-    },
-    {
-      "id": "0300a6a129c5e66a843adb907b081dbf",
-      "title": "RIL nears technical breakout amid Jio IPO buzz: Anand James shares the outlook",
-      "description": "Reliance Industries shares are showing early signs of a technical turnaround as investor attention remains focused on the planned Jio Platforms IPO. The stock has moved above its 10-day simple moving average for consecutive sessions for the first time since early September, while a broadening-wedge pattern is nearing an upside breakout. However, the recovery faces a key test near ₹1,220.",
-      "imageUrl": "https://img.etimg.com/photo/msid-135037937,imgsize-37394.cms",
-      "fullArticleLink": "https://economictimes.indiatimes.com/markets/expert-view/ril-nears-technical-breakout-amid-jio-ipo-buzz-anand-james-shares-the-outlook/articleshow/135037937.cms",
-      "type": "news",
-      "categories": [
-        "Nifty & Sensex",
-        "IPO",
-        "Corporate"
-      ],
-      "pubDate": "2026-10-19T03:13:39.708261Z"
     }
   ]
 }
